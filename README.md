@@ -66,7 +66,11 @@ KDSH_2026_TrackA/
 
 4.  **View Dashboard**:
     ```bash
-    streamlit run app.py
+    # Run using Python module (Recommended)
+    python -m streamlit run app.py
+    
+    # Or strict path on Windows:
+    .\.venv\Scripts\python.exe -m streamlit run app.py
     ```
     *Access at http://localhost:8501*
 
@@ -75,10 +79,11 @@ KDSH_2026_TrackA/
 docker-compose up --build
 ```
 
-**Windows**:
+**Windows (Automated)**:
 ```cmd
 run_demo.bat
 ```
+*Runs Inference -> Generates CSV -> Opens Dashboard*
 
 **Linux/Mac**:
 ```bash
