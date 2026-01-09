@@ -1,4 +1,78 @@
 {
-  "story_id": 126,
-  "dossier": []
+  "story_id": "126",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "126",
+      "claim_id": "126_C0",
+      "claim_text": "His sister was burned as a witch for spurning a nobleman; the injustice fed a lifelong hatred of institutional rot.",
+      "excerpt_text": "is not a large sum, however,\u201d replied\nMonte Cristo, with a tone so sweet and gentle, that it went to\nMaximilian\u2019s heart like the voice of a father; \u201cbut they will not be\ncontent with that. Your brother-in-law is a barrister? a doctor?\u201d\n\n\u201cHe was a merchant, monsieur, and had succeeded to the business of my\npoor father. M. Morrel, at his death, left 500,000 francs, which were\ndivided between my sister and myself, for we were his only children.\nHer husband, who, when he married her, had no other patrimony than his\nnoble probity, his first-rate ability, and his spotless reputation,\nwished to possess as much as his wife. He labored and toiled until he\nhad amassed 250,000 francs; six years sufficed to achieve this object.\nOh, I assure you, sir, it was a touching spectacle to see these young\ncreatures, destined by their talents for higher stations, toiling\ntogether, and through their unwillingness to change any of the customs\nof their paternal house, taking six years to accomplish what less\ns",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "126",
+      "claim_id": "126_C0",
+      "claim_text": "His sister was burned as a witch for spurning a nobleman; the injustice fed a lifelong hatred of institutional rot.",
+      "excerpt_text": "d to any of them, I will\nventure to offer him a suite of apartments in a charming hotel, in the\nPompadour style, that my sister has inhabited for a year, in the Rue\nMeslay.\u201d\n\n\u201cYou have a sister?\u201d asked the count.\n\n\u201cYes, monsieur, a most excellent sister.\u201d\n\n\u201cMarried?\u201d\n\n\u201cNearly nine years.\u201d\n\n\u201cHappy?\u201d asked the count again.\n\n\u201cAs happy as it is permitted to a human creature to be,\u201d replied\nMaximilian. \u201cShe married the man she loved, who remained faithful to us\nin our fallen fortunes\u2014Emmanuel Herbaut.\u201d\n\nMonte Cristo smiled imperceptibly.\n\n\u201cI live there during my leave of absence,\u201d continued Maximilian; \u201cand I\nshall be, together with my brother-in-law Emmanuel, at the disposition\nof the Count, whenever he thinks fit to honor us.\u201d\n\n\u201cOne minute,\u201d cried Albert, without giving Monte Cristo the time to\nreply. \u201cTake care, you are going to immure a traveller, Sinbad the\nSailor, a man who comes to see Paris; you are going to make a patriarch\nof him.\u201d\n\n20255m\n\n\n\n\u201cOh, no,\u201d said Morrel; \u201cmy sister is f",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "126",
+      "claim_id": "126_C0",
+      "claim_text": "His sister was burned as a witch for spurning a nobleman; the injustice fed a lifelong hatred of institutional rot.",
+      "excerpt_text": " the step which M. de Villefort had taken. Standing well\nat court, whether the king regnant was of the older or younger branch,\nwhether the government was doctrinaire liberal, or conservative; looked\nupon by all as a man of talent, since those who have never experienced\na political check are generally so regarded; hated by many, but warmly\nsupported by others, without being really liked by anybody, M. de\nVillefort held a high position in the magistracy, and maintained his\neminence like a Harlay or a Mol\u00e9. His drawing-room, under the\nregenerating influence of a young wife and a daughter by his first\nmarriage, scarcely eighteen, was still one of the well-regulated Paris\nsalons where the worship of traditional customs and the observance of\nrigid etiquette were carefully maintained. A freezing politeness, a\nstrict fidelity to government principles, a profound contempt for\ntheories and theorists, a deep-seated hatred of ideality,\u2014these were\nthe elements of private and public life displayed ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "126",
+      "claim_id": "126_C0",
+      "claim_text": "His sister was burned as a witch for spurning a nobleman; the injustice fed a lifelong hatred of institutional rot.",
+      "excerpt_text": "the\nguillotine, the other elevates the people to a level with the throne.\nObserve,\u201d said Villefort, smiling, \u201cI do not mean to deny that both\nthese men were revolutionary scoundrels, and that the 9th Thermidor and\nthe 4th of April, in the year 1814, were lucky days for France, worthy\nof being gratefully remembered by every friend to monarchy and civil\norder; and that explains how it comes to pass that, fallen, as I trust\nhe is forever, Napoleon has still retained a train of parasitical\nsatellites. Still, marquise, it has been so with other\nusurpers\u2014Cromwell, for instance, who was not half so bad as Napoleon,\nhad his partisans and advocates.\u201d\n\n\u201cDo you know, Villefort, that you are talking in a most dreadfully\nrevolutionary strain? But I excuse it, it is impossible to expect the\nson of a Girondin to be free from a small spice of the old leaven.\u201d A\ndeep crimson suffused the countenance of Villefort.\n\n\u201c\u2019Tis true, madame,\u201d answered he, \u201cthat my father was a Girondin, but\nhe was not among th",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "126",
+      "claim_id": "126_C0",
+      "claim_text": "His sister was burned as a witch for spurning a nobleman; the injustice fed a lifelong hatred of institutional rot.",
+      "excerpt_text": "ploited with marvellous skill, and which he would not have\nresigned but to be made deputy, and thus to replace neutrality by\nopposition.\n\nOrdinarily M. de Villefort made and returned very few visits. His wife\nvisited for him, and this was the received thing in the world, where\nthe weighty and multifarious occupations of the magistrate were\naccepted as an excuse for what was really only calculated pride, a\nmanifestation of professed superiority\u2014in fact, the application of the\naxiom, _Pretend to think well of yourself, and the world will think\nwell of you_, an axiom a hundred times more useful in society nowadays\nthan that of the Greeks, \u201cKnow thyself,\u201d a knowledge for which, in our\ndays, we have substituted the less difficult and more advantageous\nscience of _knowing others_.\n\nTo his friends M. de Villefort was a powerful protector; to his\nenemies, he was a silent, but bitter opponent; for those who were\nneither the one nor the other, he was a statue of the law-made man. He\nhad a haught",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "126",
+      "claim_id": "126_C0",
+      "claim_text": "His sister was burned as a witch for spurning a nobleman; the injustice fed a lifelong hatred of institutional rot.",
+      "excerpt_text": "say nothing?\u201d asked the abb\u00e9.\n\n\u201cWhy, what good would it do?\u201d asked Caderousse. \u201cIf the poor lad were\nliving, and came to me and begged that I would candidly tell which were\nhis true and which his false friends, why, perhaps, I should not\nhesitate. But you tell me he is no more, and therefore can have nothing\nto do with hatred or revenge, so let all such feeling be buried with\nhim.\u201d\n\n\u201cYou prefer, then,\u201d said the abb\u00e9, \u201cthat I should bestow on men you say\nare false and treacherous, the reward intended for faithful\nfriendship?\u201d\n\n\u201cThat is true enough,\u201d returned Caderousse. \u201cYou say truly, the gift of\npoor Edmond was not meant for such traitors as Fernand and Danglars;\nbesides, what would it be to them? no more than a drop of water in the\nocean.\u201d\n\n\u201cRemember,\u201d chimed in La Carconte, \u201cthose two could crush you at a\nsingle blow!\u201d\n\n\u201cHow so?\u201d inquired the abb\u00e9. \u201cAre these persons, then, so rich and\npowerful?\u201d\n\n\u201cDo you not know their history?\u201d\n\n\u201cI do not. Pray relate it to me!\u201d\n\nCaderousse seemed",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "126",
+      "claim_id": "126_C0",
+      "claim_text": "His sister was burned as a witch for spurning a nobleman; the injustice fed a lifelong hatred of institutional rot.",
+      "excerpt_text": "c\u00e9d\u00e8s, who must believe him dead. Then his eyes\nlighted up with hatred as he thought of the three men who had caused\nhim so long and wretched a captivity. He renewed against Danglars,\nFernand, and Villefort the oath of implacable vengeance he had made in\nhis dungeon.\n\nThis oath was no longer a vain menace; for the fastest sailor in the\nMediterranean would have been unable to overtake the little tartan,\nthat with every stitch of canvas set was flying before the wind to\nLeghorn.\n\n\n\n Chapter 22. The Smugglers\n\nDant\u00e8s had not been a day on board before he had a very clear idea of\nthe men with whom his lot had been cast. Without having been in the\nschool of the Abb\u00e9 Faria, the worthy master of _La Jeune Am\u00e9lie_ (the\nname of the Genoese tartan) knew a smattering of all the tongues spoken\non the shores of that large lake called the Mediterranean, from the\nArabic to the Proven\u00e7al, and this, while it spared him interpreters,\npersons always troublesome and frequently indiscreet, gave him great\nf",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "126",
+      "claim_id": "126_C0",
+      "claim_text": "His sister was burned as a witch for spurning a nobleman; the injustice fed a lifelong hatred of institutional rot.",
+      "excerpt_text": " soon relinquished\nthis for the less hazardous pursuits of the farmer, in which he had\nbeen successful beyond his highest anticipations. His agricultural\nknowledge was a great aid to him. He economized, and bought new lands\nwith the profits of the first. His family flourished, as well as his\nfarm. The Irish peasant had become a landed proprietor, and, although\nhis establishment was only two years old, he owned at that moment five\nhundred acres of well-cultivated land and five hundred head of cattle,\nwas his own master, and as independent as one can be even in the freest\ncountry in the world.\n\nHis guests congratulated him sincerely when his story was finished. He\ndoubtless expected a similar confidence, but did not urge it. Glenarvan\nhad an immediate interest in speaking of the Duncan, of his own\npresence at Cape Bernouilli, and of the search that they had pursued so\nperseveringly. But, like a man who considers the main object in view,\nhe first questioned his host concerning the shipwre",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "126",
+      "claim_id": "126_C0",
+      "claim_text": "His sister was burned as a witch for spurning a nobleman; the injustice fed a lifelong hatred of institutional rot.",
+      "excerpt_text": " have not. Besides, his\npresenting you the cup under the name of Lord Ruthven\u2014\u2014\u201d\n\n\u201cOh, but that is dreadful! Why, the man must owe me a fearful grudge.\u201d\n\n\u201cDoes his action appear like that of an enemy?\u201d\n\n\u201cNo; certainly not.\u201d\n\n\u201cWell, then\u2014\u2014\u201d\n\n\u201cAnd so he is in Paris?\u201d\n\n\u201cYes.\u201d\n\n\u201cAnd what effect does he produce?\u201d\n\n\u201cWhy,\u201d said Albert, \u201che was talked about for a week; then the\ncoronation of the queen of England took place, followed by the theft of\nMademoiselle Mars\u2019s diamonds; and so people talked of something else.\u201d\n\n\u201cMy good fellow,\u201d said Ch\u00e2teau-Renaud, \u201cthe count is your friend and\nyou treat him accordingly. Do not believe what Albert is telling you,\ncountess; so far from the sensation excited in the Parisian circles by\nthe appearance of the Count of Monte Cristo having abated, I take upon\nmyself to declare that it is as strong as ever. His first astounding\nact upon coming amongst us was to present a pair of horses, worth\n32,000 francs, to Madame Danglars; his second, the almost miraculou",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

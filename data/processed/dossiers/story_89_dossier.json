@@ -1,4 +1,62 @@
 {
-  "story_id": 89,
-  "dossier": []
+  "story_id": "89",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "89",
+      "claim_id": "89_C0",
+      "claim_text": "**Turning Point**: Arguing for procedural justice at Louis XVI\u2019s trial (1793) he was driven from the inner circle, an experience that later anchored his insistence on legal formalism.",
+      "excerpt_text": "e the interests of their party. One paragraph spoke of\nthe return of Bonaparte and promised another letter and further\ndetails, on the arrival of the _Pharaon_ belonging to the shipbuilder\nMorrel, of Marseilles, whose captain was entirely devoted to the\nemperor. During all this time, the general, on whom they thought to\nhave relied as on a brother, manifested evidently signs of discontent\nand repugnance. When the reading was finished, he remained silent, with\nknitted brows.\n\n\u201c\u2018\u201cWell,\u201d asked the president, \u201cwhat do you say to this letter,\ngeneral?\u201d\n\n\u201c\u2018\u201cI say that it is too soon after declaring myself for Louis XVIII. to\nbreak my vow in behalf of the ex-emperor.\u201d This answer was too clear to\npermit of any mistake as to his sentiments. \u201cGeneral,\u201d said the\npresident, \u201cwe acknowledge no King Louis XVIII., or an ex-emperor, but\nhis majesty the emperor and king, driven from France, which is his\nkingdom, by violence and treason.\u201d\n\n\u201c\u2018\u201cExcuse me, gentlemen,\u201d said the general; \u201cyou may not acknow",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "89",
+      "claim_id": "89_C0",
+      "claim_text": "**Turning Point**: Arguing for procedural justice at Louis XVI\u2019s trial (1793) he was driven from the inner circle, an experience that later anchored his insistence on legal formalism.",
+      "excerpt_text": "e, and suddenly raised her from her\ndespair.\n\nIt was no time to hesitate. Her resolution was immediately taken. Even\nif she should learn that her father's dead body had been found on a\ndesert coast, or in the hull of a shipwrecked vessel, it was better\nthan this continual doubt, this eternal torment of uncertainty. She\ntold her brother all; and the same day the two children took the Perth\nRailroad, and at evening arrived at Malcolm Castle, where Mary, after\nso many harassing thoughts, began to hope.\n\nSuch was the sorrowful story that the young girl related to Lady\nGlenarvan, in an artless manner, without thinking that through all\nthose long years of trial she had behaved herself like an heroic\ndaughter. But Lady Helena thought of this, and several times, without\nhiding her tears, she clasped in her arms the two children of Captain\nGrant.\n\nAs for Robert, it seemed as if he heard this story for the first time:\nfor he opened his eyes in astonishment, as he listened to his sister;\ncomprehe",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "89",
+      "claim_id": "89_C0",
+      "claim_text": "**Turning Point**: Arguing for procedural justice at Louis XVI\u2019s trial (1793) he was driven from the inner circle, an experience that later anchored his insistence on legal formalism.",
+      "excerpt_text": " he entered the empty dungeon, closed the\nentrance, and slipped into the sack which had contained the dead body.\nDid you ever hear of such an idea?\u201d\n\nMonte Cristo closed his eyes, and seemed again to experience all the\nsensations he had felt when the coarse canvas, yet moist with the cold\ndews of death, had touched his face.\n\nThe jailer continued:\n\n\u201cNow this was his project. He fancied that they buried the dead at the\nCh\u00e2teau d\u2019If, and imagining they would not expend much labor on the\ngrave of a prisoner, he calculated on raising the earth with his\nshoulders, but unfortunately their arrangements at the Ch\u00e2teau\nfrustrated his projects. They never buried the dead; they merely\nattached a heavy cannon-ball to the feet, and then threw them into the\nsea. This is what was done. The young man was thrown from the top of\nthe rock; the corpse was found on the bed next day, and the whole truth\nwas guessed, for the men who performed the office then mentioned what\nthey had not dared to speak of befo",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "89",
+      "claim_id": "89_C0",
+      "claim_text": "**Turning Point**: Arguing for procedural justice at Louis XVI\u2019s trial (1793) he was driven from the inner circle, an experience that later anchored his insistence on legal formalism.",
+      "excerpt_text": "e on the left. He understood that they\nhad described a circle, and were bringing him back to Rome.\n\n\u201cOh, unfortunate!\u201d he cried, \u201cthey must have obtained my arrest.\u201d\n\nThe carriage continued to roll on with frightful speed. An hour of\nterror elapsed, for every spot they passed showed that they were on the\nroad back. At length he saw a dark mass, against which it seemed as if\nthe carriage was about to dash; but the vehicle turned to one side,\nleaving the barrier behind and Danglars saw that it was one of the\nramparts encircling Rome.\n\n50243m\n\n\n\n\u201c_Mon dieu!_\u201d cried Danglars, \u201cwe are not returning to Rome; then it is\nnot justice which is pursuing me! Gracious heavens; another idea\npresents itself\u2014what if they should be\u2014\u2014\u201d\n\nHis hair stood on end. He remembered those interesting stories, so\nlittle believed in Paris, respecting Roman bandits; he remembered the\nadventures that Albert de Morcerf had related when it was intended that\nhe should marry Mademoiselle Eug\u00e9nie. \u201cThey are robbers, perha",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "89",
+      "claim_id": "89_C0",
+      "claim_text": "**Turning Point**: Arguing for procedural justice at Louis XVI\u2019s trial (1793) he was driven from the inner circle, an experience that later anchored his insistence on legal formalism.",
+      "excerpt_text": "k of Monte Cristo\nreddened by the burning sun, was seen against the azure sky. Dant\u00e8s\nordered the helmsman to put down his helm, in order to leave La Pianosa\nto starboard, as he knew that he should shorten his course by two or\nthree knots. About five o\u2019clock in the evening the island was distinct,\nand everything on it was plainly perceptible, owing to that clearness\nof the atmosphere peculiar to the light which the rays of the sun cast\nat its setting.\n\nEdmond gazed very earnestly at the mass of rocks which gave out all the\nvariety of twilight colors, from the brightest pink to the deepest\nblue; and from time to time his cheeks flushed, his brow darkened, and\na mist passed over his eyes. Never did a gamester, whose whole fortune\nis staked on one cast of the die, experience the anguish which Edmond\nfelt in his paroxysms of hope.\n\nNight came, and at ten o\u2019clock they anchored. _La Jeune Am\u00e9lie_ was\nfirst at the rendezvous. In spite of his usual command over himself,\nDant\u00e8s could not restra",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "89",
+      "claim_id": "89_C0",
+      "claim_text": "**Turning Point**: Arguing for procedural justice at Louis XVI\u2019s trial (1793) he was driven from the inner circle, an experience that later anchored his insistence on legal formalism.",
+      "excerpt_text": "nd that of M. Franz d\u2019\u00c9pinay. M. d\u2019\u00c9pinay must say\nthat he is shocked and astonished that M. de Villefort, who appeared to\nbe aware of all the circumstances detailed this morning, should not\nhave anticipated him in this announcement.\u201d\n\n\nNo one who had seen the magistrate at this moment, so thoroughly\nunnerved by the recent inauspicious combination of circumstances, would\nhave supposed for an instant that he had anticipated the annoyance;\nalthough it certainly never had occurred to him that his father would\ncarry candor, or rather rudeness, so far as to relate such a history.\nAnd in justice to Villefort, it must be understood that M. Noirtier,\nwho never cared for the opinion of his son on any subject, had always\nomitted to explain the affair to Villefort, so that he had all his life\nentertained the belief that General de Quesnel, or the Baron d\u2019\u00c9pinay,\nas he was alternately styled, according as the speaker wished to\nidentify him by his own family name, or by the title which had been\ncon",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "89",
+      "claim_id": "89_C0",
+      "claim_text": "**Turning Point**: Arguing for procedural justice at Louis XVI\u2019s trial (1793) he was driven from the inner circle, an experience that later anchored his insistence on legal formalism.",
+      "excerpt_text": "rejoiced,\u201d said Andrea.\n\n\u201cBut,\u201d said Danglars thoughtfully, \u201chow is it that your patron, M. de\nMonte Cristo, did not make his proposal for you?\u201d\n\nAndrea blushed imperceptibly.\n\n\u201cI have just left the count, sir,\u201d said he; \u201che is, doubtless, a\ndelightful man but inconceivably peculiar in his ideas. He esteems me\nhighly. He even told me he had not the slightest doubt that my father\nwould give me the capital instead of the interest of my property. He\nhas promised to use his influence to obtain it for me; but he also\ndeclared that he never had taken on himself the responsibility of\nmaking proposals for another, and he never would. I must, however, do\nhim the justice to add that he assured me if ever he had regretted the\nrepugnance he felt to such a step it was on this occasion, because he\nthought the projected union would be a happy and suitable one. Besides,\nif he will do nothing officially, he will answer any questions you\npropose to him. And now,\u201d continued he, with one of his most charm",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

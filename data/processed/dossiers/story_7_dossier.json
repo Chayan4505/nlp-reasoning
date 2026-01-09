@@ -1,5 +1,62 @@
 {
-  "story_id": 7,
+  "story_id": "7",
   "prediction": 0,
-  "dossier": []
+  "dossier": [
+    {
+      "story_id": "7",
+      "claim_id": "7_C0",
+      "claim_text": "Leading a scientific party he insisted on travelling light, leaving the team short of supplies; he watched three members die of malaria and thereafter kept a bulging backpack wherever he went.",
+      "excerpt_text": "r\u2019s?\u201d\n\nFranz silently assented; and the following afternoon, at half-past five\no\u2019clock, the young men parted. Albert de Morcerf to return to Paris,\nand Franz d\u2019\u00c9pinay to pass a fortnight at Venice.\n\nBut, ere he entered his travelling carriage, Albert, fearing that his\nexpected guest might forget the engagement he had entered into, placed\nin the care of a waiter at the hotel a card to be delivered to the\nCount of Monte Cristo, on which, beneath the name of Viscount Albert de\nMorcerf, he had written in pencil:\n\n\u201c27, _Rue du Helder, on the_ 21_st May, half-past ten_ A.M.\u201d\n\n\n\n Chapter 39. The Guests\n\nIn the house in the Rue du Helder, where Albert had invited the Count\nof Monte Cristo, everything was being prepared on the morning of the\n21st of May to do honor to the occasion. Albert de Morcerf inhabited a\npavilion situated at the corner of a large court, and directly opposite\nanother building, in which were the servants\u2019 apartments. Two windows\nonly of the pavilion faced the street; three",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "7",
+      "claim_id": "7_C0",
+      "claim_text": "Leading a scientific party he insisted on travelling light, leaving the team short of supplies; he watched three members die of malaria and thereafter kept a bulging backpack wherever he went.",
+      "excerpt_text": " a sailor\nwho knows what a vessel is worth.\"\n\n\"Thanks, Ayrton,\" replied Glenarvan; \"and now remain on board, and it\nwill be your own fault if the ship is not all you can desire.\"\n\n\"I will think of it, my lord,\" said the quartermaster, modestly.\n\nMr. Olbinett now approached, and informed Lord Glenarvan that dinner\nwas ready; and they all adjourned to the saloon.\n\n\"That Ayrton is an intelligent man,\" said Paganel to the major.\n\n\"Too intelligent!\" growled MacNabb, who, without any apparent reason,\ndisliked the looks and manners of the quartermaster.\n\nDuring dinner, Ayrton gave some interesting information concerning\nAustralia, with which he was perfectly familiar. He inquired the number\nof sailors that Glenarvan intended to take with him in his expedition.\nWhen he learned that only two, Wilson and Mulready, were to accompany\nthem, he seemed astonished. He advised Glenarvan to form his party of\nthe best seamen of the Duncan. He even insisted upon this point, which\nmust have removed all sus",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "7",
+      "claim_id": "7_C0",
+      "claim_text": "Leading a scientific party he insisted on travelling light, leaving the team short of supplies; he watched three members die of malaria and thereafter kept a bulging backpack wherever he went.",
+      "excerpt_text": "t?\u201d said Caderousse. \u201cPromise me\nthat, and I will die with that hope.\u201d\n\n\u201cI will say,\u201d continued the count, \u201cthat he followed and watched you\nthe whole time, and when he saw you leave the house, ran to the angle\nof the wall to conceal himself.\u201d\n\n\u201cDid you see all that?\u201d\n\n\u201cRemember my words: \u2018If you return home safely, I shall believe God has\nforgiven you, and I will forgive you also.\u2019\u201d\n\n\u201cAnd you did not warn me!\u201d cried Caderousse, raising himself on his\nelbows. \u201cYou knew I should be killed on leaving this house, and did not\nwarn me!\u201d\n\n40168m\n\n\n\n\u201cNo; for I saw God\u2019s justice placed in the hands of Benedetto, and\nshould have thought it sacrilege to oppose the designs of Providence.\u201d\n\n\u201cGod\u2019s justice! Speak not of it, reverend sir. If God were just, you\nknow how many would be punished who now escape.\u201d\n\n\u201cPatience,\u201d said the abb\u00e9, in a tone which made the dying man shudder;\n\u201chave patience!\u201d\n\nCaderousse looked at him with amazement.\n\n\u201cBesides,\u201d said the abb\u00e9, \u201cGod is merciful to all, as he has b",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "7",
+      "claim_id": "7_C0",
+      "claim_text": "Leading a scientific party he insisted on travelling light, leaving the team short of supplies; he watched three members die of malaria and thereafter kept a bulging backpack wherever he went.",
+      "excerpt_text": "m the\nscaffold and seized him.\n\n\u201cWhat is going on?\u201d asked Franz of the count; for, as all the talk was\nin the Roman dialect, he had not perfectly understood it.\n\n\u201cDo you not see?\u201d returned the count, \u201cthat this human creature who is\nabout to die is furious that his fellow-sufferer does not perish with\nhim? and, were he able, he would rather tear him to pieces with his\nteeth and nails than let him enjoy the life he himself is about to be\ndeprived of. Oh, man, man\u2014race of crocodiles,\u201d cried the count,\nextending his clenched hands towards the crowd, \u201chow well do I\nrecognize you there, and that at all times you are worthy of\nyourselves!\u201d\n\nMeanwhile Andrea and the two executioners were struggling on the\nground, and he kept exclaiming, \u201cHe ought to die!\u2014he shall die!\u2014I will\nnot die alone!\u201d\n\n\u201cLook, look,\u201d cried the count, seizing the young men\u2019s hands; \u201clook,\nfor on my soul it is curious. Here is a man who had resigned himself to\nhis fate, who was going to the scaffold to die\u2014like a coward, i",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "7",
+      "claim_id": "7_C0",
+      "claim_text": "Leading a scientific party he insisted on travelling light, leaving the team short of supplies; he watched three members die of malaria and thereafter kept a bulging backpack wherever he went.",
+      "excerpt_text": "determined to make for them. But how could he find his\nway in the darkness of the night?\n\nAt this moment he saw the light of Planier, gleaming in front of him\nlike a star. By leaving this light on the right, he kept the Island of\nTiboulen a little on the left; by turning to the left, therefore, he\nwould find it. But, as we have said, it was at least a league from the\nCh\u00e2teau d\u2019If to this island. Often in prison Faria had said to him,\nwhen he saw him idle and inactive:\n\n\u201cDant\u00e8s, you must not give way to this listlessness; you will be\ndrowned if you seek to escape, and your strength has not been properly\nexercised and prepared for exertion.\u201d\n\nThese words rang in Dant\u00e8s\u2019 ears, even beneath the waves; he hastened\nto cleave his way through them to see if he had not lost his strength.\nHe found with pleasure that his captivity had taken away nothing of his\npower, and that he was still master of that element on whose bosom he\nhad so often sported as a boy.\n\nFear, that relentless pursuer, clogg",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "7",
+      "claim_id": "7_C0",
+      "claim_text": "Leading a scientific party he insisted on travelling light, leaving the team short of supplies; he watched three members die of malaria and thereafter kept a bulging backpack wherever he went.",
+      "excerpt_text": "ereabouts\nof his travelling companion. Franz replied that he had left him at the\nmoment they were about to extinguish the _moccoli_, and that he had\nlost sight of him in the Via Macello.\n\n\u201cThen he has not returned?\u201d said the duke.\n\n\u201cI waited for him until this hour,\u201d replied Franz.\n\n\u201cAnd do you know whither he went?\u201d\n\n\u201cNo, not precisely; however, I think it was something very like a\nrendezvous.\u201d\n\n\u201c_Diavolo!_\u201d said the duke, \u201cthis is a bad day, or rather a bad night,\nto be out late; is it not, countess?\u201d\n\nThese words were addressed to the Countess G\u2014\u2014, who had just arrived,\nand was leaning on the arm of Signor Torlonia, the duke\u2019s brother.\n\n\u201cI think, on the contrary, that it is a charming night,\u201d replied the\ncountess, \u201cand those who are here will complain of but one thing, that\nof its too rapid flight.\u201d\n\n\u201cI am not speaking,\u201d said the duke with a smile, \u201cof the persons who\nare here; the men run no other danger than that of falling in love with\nyou, and the women of falling ill of jealous",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "7",
+      "claim_id": "7_C0",
+      "claim_text": "Leading a scientific party he insisted on travelling light, leaving the team short of supplies; he watched three members die of malaria and thereafter kept a bulging backpack wherever he went.",
+      "excerpt_text": "n, and\nthe fever had diminished. But the sailor's first care, on recovering\nmemory and speech was to ask for Lord Glenarvan, or, in his absence,\nthe major MacNabb, seeing him so feeble, would have forbidden all\nconversation; but Mulready insisted with such energy that he was forced\nto yield. The interview had already lasted some time, and they were\nonly waiting for the major's report.\n\nSoon the curtains of the cart moved, and he appeared. He joined his\nfriends at the foot of a gum-tree. His face, usually so calm, betokened\na serious anxiety. When his eyes encountered Lady Helena and the young\ngirl, they expressed a deep sadness. Glenarvan questioned him, and\nlearned what the sailor had related.\n\nOn leaving the encampment, Mulready had followed one of the paths\nindicated by Paganel. He hastened, as much at least as the darkness of\nthe night permitted him. According to his estimate, he had traveled a\ndistance of about two miles, when several men--five, he thought--sprang\nto his horse's h",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

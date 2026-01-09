@@ -1,4 +1,70 @@
 {
-  "story_id": 100,
-  "dossier": []
+  "story_id": "100",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "100",
+      "claim_id": "100_C0",
+      "claim_text": "Growing up in Paris he devoured Voltaire and Rousseau, burning with enthusiasm for liberty and equality.",
+      "excerpt_text": "ign towards Paris and at twilight; found himself\nopposite his house in the Champs-\u00c9lys\u00e9es. All was dark; one solitary,\nfeeble light was burning in the porter\u2019s lodge, about forty paces\ndistant from the house, as Baptistin had said.\n\nMonte Cristo leaned against a tree, and with that scrutinizing glance\nwhich was so rarely deceived, looked up and down the avenue, examined\nthe passers-by, and carefully looked down the neighboring streets, to\nsee that no one was concealed. Ten minutes passed thus, and he was\nconvinced that no one was watching him. He hastened to the side-door\nwith Ali, entered hurriedly, and by the servants\u2019 staircase, of which\nhe had the key, gained his bedroom without opening or disarranging a\nsingle curtain, without even the porter having the slightest suspicion\nthat the house, which he supposed empty, contained its chief occupant.\n\nArrived in his bedroom, the count motioned to Ali to stop; then he\npassed into the dressing-room, which he examined. Everything appeared\nas",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "100",
+      "claim_id": "100_C0",
+      "claim_text": "Growing up in Paris he devoured Voltaire and Rousseau, burning with enthusiasm for liberty and equality.",
+      "excerpt_text": "rs eagerly listened to, and fully credited, all the additional\ncircumstances detailed by Debray. This posing at the piano and over the\nalbum was only a little ruse adopted by way of precaution. A most\ngracious welcome and unusual smile were bestowed on M. Danglars; the\ncount, in return for his gentlemanly bow, received a formal though\ngraceful courtesy, while Lucien exchanged with the count a sort of\ndistant recognition, and with Danglars a free and easy nod.\n\n\u201cBaroness,\u201d said Danglars, \u201cgive me leave to present to you the Count\nof Monte Cristo, who has been most warmly recommended to me by my\ncorrespondents at Rome. I need but mention one fact to make all the\nladies in Paris court his notice, and that is, that he has come to take\nup his abode in Paris for a year, during which brief period he proposes\nto spend six millions of money. That means balls, dinners, and lawn\nparties without end, in all of which I trust the count will remember\nus, as he may depend upon it we shall him, in our ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "100",
+      "claim_id": "100_C0",
+      "claim_text": "Growing up in Paris he devoured Voltaire and Rousseau, burning with enthusiasm for liberty and equality.",
+      "excerpt_text": "steem at a moment when his honor was so\npowerfully attacked.\n\n\u201cAt this moment one of the door-keepers brought in a letter for the\npresident. \u2018You are at liberty to speak, M. de Morcerf,\u2019 said the\npresident, as he unsealed the letter; and the count began his defence,\nI assure you, Albert, in a most eloquent and skilful manner. He\nproduced documents proving that the Vizier of Yanina had up to the last\nmoment honored him with his entire confidence, since he had interested\nhim with a negotiation of life and death with the emperor. He produced\nthe ring, his mark of authority, with which Ali Pasha generally sealed\nhis letters, and which the latter had given him, that he might, on his\nreturn at any hour of the day or night, gain access to the presence,\neven in the harem. Unfortunately, the negotiation failed, and when he\nreturned to defend his benefactor, he was dead. \u2018But,\u2019 said the count,\n\u2018so great was Ali Pasha\u2019s confidence, that on his death-bed he resigned\nhis favorite mistress and her d",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "100",
+      "claim_id": "100_C0",
+      "claim_text": "Growing up in Paris he devoured Voltaire and Rousseau, burning with enthusiasm for liberty and equality.",
+      "excerpt_text": "ount of Monte Cristo is an intimate\nacquaintance of Lord Wilmore, a rich foreigner, who is sometimes seen\nin Paris and who is there at this moment; he is also known to the Abb\u00e9\nBusoni, a Sicilian priest, of high repute in the East, where he has\ndone much good.\u201d\n\nM. de Villefort replied by ordering the strictest inquiries to be made\nrespecting these two persons; his orders were executed, and the\nfollowing evening he received these details:\n\n\u201cThe abb\u00e9, who was in Paris only for a month, inhabited a small\ntwo-storied house behind Saint-Sulpice; there were two rooms on each\nfloor and he was the only tenant. The two lower rooms consisted of a\ndining-room, with a table, chairs, and side-board of walnut, and a\nwainscoted parlor, without ornaments, carpet, or timepiece. It was\nevident that the abb\u00e9 limited himself to objects of strict necessity.\nHe preferred to use the sitting-room upstairs, which was more library\nthan parlor, and was furnished with theological books and parchments,\nin which h",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "100",
+      "claim_id": "100_C0",
+      "claim_text": "Growing up in Paris he devoured Voltaire and Rousseau, burning with enthusiasm for liberty and equality.",
+      "excerpt_text": " called for me at seven o\u2019clock, and, before anyone\nhad arrived, asked one of the door-keepers to place me in a box. I was\nconcealed by a column, and might witness the whole of the terrible\nscene which was about to take place. At eight o\u2019clock all were in their\nplaces, and M. de Morcerf entered at the last stroke. He held some\npapers in his hand; his countenance was calm, and his step firm, and he\nwas dressed with great care in his military uniform, which was buttoned\ncompletely up to the chin. His presence produced a good effect. The\ncommittee was made up of Liberals, several of whom came forward to\nshake hands with him.\u201d\n\nAlbert felt his heart bursting at these particulars, but gratitude\nmingled with his sorrow: he would gladly have embraced those who had\ngiven his father this proof of esteem at a moment when his honor was so\npowerfully attacked.\n\n\u201cAt this moment one of the door-keepers brought in a letter for the\npresident. \u2018You are at liberty to speak, M. de Morcerf,\u2019 said the\npres",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "100",
+      "claim_id": "100_C0",
+      "claim_text": "Growing up in Paris he devoured Voltaire and Rousseau, burning with enthusiasm for liberty and equality.",
+      "excerpt_text": "uch a\ncontemptible possession as the utmost happiness. Oh, no!\u201d exclaimed\nEdmond, \u201cthat will not be. The wise, unerring Faria could not be\nmistaken in this one thing. Besides, it were better to die than to\ncontinue to lead this low and wretched life.\u201d\n\nThus Dant\u00e8s, who but three months before had no desire but liberty had\nnow not liberty enough, and panted for wealth. The cause was not in\nDant\u00e8s, but in Providence, who, while limiting the power of man, has\nfilled him with boundless desires.\n\nMeanwhile, by a cleft between two walls of rock, following a path worn\nby a torrent, and which, in all human probability, human foot had never\nbefore trod, Dant\u00e8s approached the spot where he supposed the grottos\nmust have existed. Keeping along the shore, and examining the smallest\nobject with serious attention, he thought he could trace, on certain\nrocks, marks made by the hand of man.\n\nTime, which encrusts all physical substances with its mossy mantle, as\nit invests all things of the mind with f",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "100",
+      "claim_id": "100_C0",
+      "claim_text": "Growing up in Paris he devoured Voltaire and Rousseau, burning with enthusiasm for liberty and equality.",
+      "excerpt_text": "say nothing?\u201d asked the abb\u00e9.\n\n\u201cWhy, what good would it do?\u201d asked Caderousse. \u201cIf the poor lad were\nliving, and came to me and begged that I would candidly tell which were\nhis true and which his false friends, why, perhaps, I should not\nhesitate. But you tell me he is no more, and therefore can have nothing\nto do with hatred or revenge, so let all such feeling be buried with\nhim.\u201d\n\n\u201cYou prefer, then,\u201d said the abb\u00e9, \u201cthat I should bestow on men you say\nare false and treacherous, the reward intended for faithful\nfriendship?\u201d\n\n\u201cThat is true enough,\u201d returned Caderousse. \u201cYou say truly, the gift of\npoor Edmond was not meant for such traitors as Fernand and Danglars;\nbesides, what would it be to them? no more than a drop of water in the\nocean.\u201d\n\n\u201cRemember,\u201d chimed in La Carconte, \u201cthose two could crush you at a\nsingle blow!\u201d\n\n\u201cHow so?\u201d inquired the abb\u00e9. \u201cAre these persons, then, so rich and\npowerful?\u201d\n\n\u201cDo you not know their history?\u201d\n\n\u201cI do not. Pray relate it to me!\u201d\n\nCaderousse seemed",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "100",
+      "claim_id": "100_C0",
+      "claim_text": "Growing up in Paris he devoured Voltaire and Rousseau, burning with enthusiasm for liberty and equality.",
+      "excerpt_text": "ou only\nacquired this information today, the 3rd of March! Well, sir, what you\ntell me is impossible. You must have received a false report, or you\nhave gone mad.\u201d\n\n\u201cAlas, sire, it is but too true!\u201d Louis made a gesture of indescribable\nanger and alarm, and then drew himself up as if this sudden blow had\nstruck him at the same moment in heart and countenance.\n\n\u201cIn France!\u201d he cried, \u201cthe usurper in France! Then they did not watch\nover this man. Who knows? they were, perhaps, in league with him.\u201d\n\n\u201cOh, sire,\u201d exclaimed the Duc de Blacas, \u201cM. Dandr\u00e9 is not a man to be\naccused of treason! Sire, we have all been blind, and the minister of\npolice has shared the general blindness, that is all.\u201d\n\n\u201cBut\u2014\u2014\u201d said Villefort, and then suddenly checking himself, he was\nsilent; then he continued, \u201cYour pardon, sire,\u201d he said, bowing, \u201cmy\nzeal carried me away. Will your majesty deign to excuse me?\u201d\n\n\u201cSpeak, sir, speak boldly,\u201d replied Louis. \u201cYou alone forewarned us of\nthe evil; now try and aid us wit",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

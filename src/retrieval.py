@@ -52,6 +52,12 @@ def retrieve_evidence(claim: dict, story_id: str, k: int = RETRIEVAL_K):
         from rank_bm25 import BM25Okapi
         import numpy as np
         
+        if not unique_results:
+            return []
+            
+        # Convert to list and sort by score (descending)
+        sorted_results = sorted(unique_results.values(), key=lambda x: x.get("score", 0), reverse=True)
+
         semantic_chunks = sorted_results[:k*2] # Get more candidates for reranking
         if not semantic_chunks:
             return []

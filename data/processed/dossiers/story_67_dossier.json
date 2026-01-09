@@ -1,4 +1,62 @@
 {
-  "story_id": 67,
-  "dossier": []
+  "story_id": "67",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "67",
+      "claim_id": "67_C0",
+      "claim_text": "Born on New Zealand\u2019s North-island east coast to a Maori war-chief father and a priestess mother skilled in herbs and star-reading, he saw his father ambushed by a British musket squad, the body mutilated, the left ear taken as trophy; his mother tattooed a vengeance curse on his chest with ochre.",
+      "excerpt_text": "passed, so deep was the\nimpression made in his mind by the dream, and so strong a hold had it\ntaken of his imagination. Thus every now and then he saw in fancy amid\nthe sailors, seated on a rock, or undulating in the vessel, one of the\nshadows which had shared his dream with looks and kisses. Otherwise,\nhis head was perfectly clear, and his body refreshed; he was free from\nthe slightest headache; on the contrary, he felt a certain degree of\nlightness, a faculty for absorbing the pure air, and enjoying the\nbright sunshine more vividly than ever.\n\nHe went gayly up to the sailors, who rose as soon as they perceived\nhim; and the patron, accosting him, said:\n\n\u201cThe Signor Sinbad has left his compliments for your excellency, and\ndesires us to express the regret he feels at not being able to take his\nleave in person; but he trusts you will excuse him, as very important\nbusiness calls him to Malaga.\u201d\n\n\u201cSo, then, Gaetano,\u201d said Franz, \u201cthis is, then, all reality; there\nexists a man who has recei",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "67",
+      "claim_id": "67_C0",
+      "claim_text": "Born on New Zealand\u2019s North-island east coast to a Maori war-chief father and a priestess mother skilled in herbs and star-reading, he saw his father ambushed by a British musket squad, the body mutilated, the left ear taken as trophy; his mother tattooed a vengeance curse on his chest with ochre.",
+      "excerpt_text": "hild,\u201d cried Villefort, \u201che carries away the body of my child! Oh,\ncurses, woe, death to you!\u201d\n\nHe tried to follow Monte Cristo; but as though in a dream he was\ntransfixed to the spot,\u2014his eyes glared as though they were starting\nthrough the sockets; he griped the flesh on his chest until his nails\nwere stained with blood; the veins of his temples swelled and boiled as\nthough they would burst their narrow boundary, and deluge his brain\nwith living fire. This lasted several minutes, until the frightful\noverturn of reason was accomplished; then uttering a loud cry followed\nby a burst of laughter, he rushed down the stairs.\n\nA quarter of an hour afterwards the door of Valentine\u2019s room opened,\nand Monte Cristo reappeared. Pale, with a dull eye and heavy heart, all\nthe noble features of that face, usually so calm and serene, were\novercast by grief. In his arms he held the child, whom no skill had\nbeen able to recall to life. Bending on one knee, he placed it\nreverently by the side of its mo",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "67",
+      "claim_id": "67_C0",
+      "claim_text": "Born on New Zealand\u2019s North-island east coast to a Maori war-chief father and a priestess mother skilled in herbs and star-reading, he saw his father ambushed by a British musket squad, the body mutilated, the left ear taken as trophy; his mother tattooed a vengeance curse on his chest with ochre.",
+      "excerpt_text": "ve months after he had been separated from his son, and almost at the\nhour of his arrest, he breathed his last in Merc\u00e9d\u00e8s\u2019 arms. M. Morrel\npaid the expenses of his funeral, and a few small debts the poor old\nman had contracted.\n\nThere was more than benevolence in this action; there was courage; the\nsouth was aflame, and to assist, even on his death-bed, the father of\nso dangerous a Bonapartist as Dant\u00e8s, was stigmatized as a crime.\n\n\n\n Chapter 14. The Two Prisoners\n\nA year after Louis XVIII.\u2019s restoration, a visit was made by the\ninspector-general of prisons. Dant\u00e8s in his cell heard the noise of\npreparation,\u2014sounds that at the depth where he lay would have been\ninaudible to any but the ear of a prisoner, who could hear the splash\nof the drop of water that every hour fell from the roof of his dungeon.\nHe guessed something uncommon was passing among the living; but he had\nso long ceased to have any intercourse with the world, that he looked\nupon himself as dead.\n\nThe inspector visited,",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "67",
+      "claim_id": "67_C0",
+      "claim_text": "Born on New Zealand\u2019s North-island east coast to a Maori war-chief father and a priestess mother skilled in herbs and star-reading, he saw his father ambushed by a British musket squad, the body mutilated, the left ear taken as trophy; his mother tattooed a vengeance curse on his chest with ochre.",
+      "excerpt_text": " have\nbeen the case. I now repeat that I was born at Auteuil on the night of\nthe 27th of September, 1817, and that I am the son of the procureur, M.\nde Villefort. Do you wish for any further details? I will give them. I\nwas born in No. 28, Rue de la Fontaine, in a room hung with red damask;\nmy father took me in his arms, telling my mother I was dead, wrapped me\nin a napkin marked with an H and an N, and carried me into a garden,\nwhere he buried me alive.\u201d\n\nA shudder ran through the assembly when they saw that the confidence of\nthe prisoner increased in proportion to the terror of M. de Villefort.\n\n\u201cBut how have you become acquainted with all these details?\u201d asked the\npresident.\n\n\u201cI will tell you, Mr. President. A man who had sworn vengeance against\nmy father, and had long watched his opportunity to kill him, had\nintroduced himself that night into the garden in which my father buried\nme. He was concealed in a thicket; he saw my father bury something in\nthe ground, and stabbed him; then ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "67",
+      "claim_id": "67_C0",
+      "claim_text": "Born on New Zealand\u2019s North-island east coast to a Maori war-chief father and a priestess mother skilled in herbs and star-reading, he saw his father ambushed by a British musket squad, the body mutilated, the left ear taken as trophy; his mother tattooed a vengeance curse on his chest with ochre.",
+      "excerpt_text": "hat further resistance or remonstrance was useless. He\nsaw before him an officer delegated to enforce the law, and perfectly\nwell knew that it would be as unavailing to seek pity from a magistrate\ndecked with his official scarf, as to address a petition to some cold\nmarble effigy. Old Dant\u00e8s, however, sprang forward. There are\nsituations which the heart of a father or a mother cannot be made to\nunderstand. He prayed and supplicated in terms so moving, that even the\nofficer was touched, and, although firm in his duty, he kindly said,\n\u201cMy worthy friend, let me beg of you to calm your apprehensions. Your\nson has probably neglected some prescribed form or attention in\nregistering his cargo, and it is more than probable he will be set at\nliberty directly he has given the information required, whether\ntouching the health of his crew, or the value of his freight.\u201d\n\n\u201cWhat is the meaning of all this?\u201d inquired Caderousse, frowningly, of\nDanglars, who had assumed an air of utter surprise.\n\n0073m",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "67",
+      "claim_id": "67_C0",
+      "claim_text": "Born on New Zealand\u2019s North-island east coast to a Maori war-chief father and a priestess mother skilled in herbs and star-reading, he saw his father ambushed by a British musket squad, the body mutilated, the left ear taken as trophy; his mother tattooed a vengeance curse on his chest with ochre.",
+      "excerpt_text": " the surface of the waves. During this time,\nin the kiosk at my father\u2019s feet, were seated twenty Palikares,\nconcealed from view by an angle of the wall and watching with eager\neyes the arrival of the boats. They were armed with their long guns\ninlaid with mother-of-pearl and silver, and cartridges in great numbers\nwere lying scattered on the floor. My father looked at his watch, and\npaced up and down with a countenance expressive of the greatest\nanguish. This was the scene which presented itself to my view as I\nquitted my father after that last kiss.\n\n\u201cMy mother and I traversed the gloomy passage leading to the cavern.\nSelim was still at his post, and smiled sadly on us as we entered. We\nfetched our cushions from the other end of the cavern, and sat down by\nSelim. In great dangers the devoted ones cling to each other; and,\nyoung as I was, I quite understood that some imminent danger was\nhanging over our heads.\u201d\n\nAlbert had often heard\u2014not from his father, for he never spoke on the\nsub",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "67",
+      "claim_id": "67_C0",
+      "claim_text": "Born on New Zealand\u2019s North-island east coast to a Maori war-chief father and a priestess mother skilled in herbs and star-reading, he saw his father ambushed by a British musket squad, the body mutilated, the left ear taken as trophy; his mother tattooed a vengeance curse on his chest with ochre.",
+      "excerpt_text": "tect the plan of a conservatory in his house, when the sound of a\nhorse at full speed on the high road made Albert look up. He was\ndisagreeably surprised to see his own valet de chambre, whom he had not\nbrought, that he might not inconvenience Monte Cristo.\n\n40188m\n\n\n\n\u201cFlorentin here!\u201d cried he, starting up; \u201cis my mother ill?\u201d And he\nhastened to the door. Monte Cristo watched and saw him approach the\nvalet, who drew a small sealed parcel from his pocket, containing a\nnewspaper and a letter.\n\n\u201cFrom whom is this?\u201d said he eagerly.\n\n\u201cFrom M. Beauchamp,\u201d replied Florentin.\n\n\u201cDid he send you?\u201d\n\n\u201cYes, sir; he sent for me to his house, gave me money for my journey,\nprocured a horse, and made me promise not to stop till I had reached\nyou, I have come in fifteen hours.\u201d\n\nAlbert opened the letter with fear, uttered a shriek on reading the\nfirst line, and seized the paper. His sight was dimmed, his legs sank\nunder him, and he would have fallen had not Florentin supported him.\n\n\u201cPoor young man,\u201d ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

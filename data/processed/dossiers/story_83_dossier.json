@@ -1,4 +1,54 @@
 {
-  "story_id": 83,
-  "dossier": []
+  "story_id": "83",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "83",
+      "claim_id": "83_C0",
+      "claim_text": "At eighteen, on the run in Tasmania, he met the escaped convict Ayrton hiding in the bush; the two fugitives pooled their languages and survival skills, raided together for ransom and forged a brotherhood laced with mutual wariness.",
+      "excerpt_text": "e. What the count said was true\u2014the most curious\nspectacle in life is that of death.\n\nAnd yet, instead of the silence and the solemnity demanded by the\noccasion, laughter and jests arose from the crowd. It was evident that\nthe execution was, in the eyes of the people, only the commencement of\nthe Carnival.\n\nSuddenly the tumult ceased, as if by magic, and the doors of the church\nopened. A brotherhood of penitents, clothed from head to foot in robes\nof gray sackcloth, with holes for the eyes, and holding in their hands\nlighted tapers, appeared first; the chief marched at the head.\n\n20169m\n\n\n\nBehind the penitents came a man of vast stature and proportions. He was\nnaked, with the exception of cloth drawers at the left side of which\nhung a large knife in a sheath, and he bore on his right shoulder a\nheavy iron sledge-hammer.\n\nThis man was the executioner.\n\nHe had, moreover, sandals bound on his feet by cords.\n\nBehind the executioner came, in the order in which they were to die,\nfirst Peppin",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "83",
+      "claim_id": "83_C0",
+      "claim_text": "At eighteen, on the run in Tasmania, he met the escaped convict Ayrton hiding in the bush; the two fugitives pooled their languages and survival skills, raided together for ransom and forged a brotherhood laced with mutual wariness.",
+      "excerpt_text": ", and their companions, he thanked\nthem in a voice broken by emotion. While on their way to the yacht, his\nchildren had briefly told him the story of the Duncan.\n\n[Illustration: A man was standing on the beach between two others. His\nform was tall and stout.]\n\nHow great a debt of gratitude did he feel that he owed this noble woman\nand her companions! From Lord Glenarvan down to the lowest sailor,\nhad not all struggled and suffered for him? Harry Grant expressed\nthe feelings of thankfulness that overflowed his heart with so much\nsimplicity and nobleness, and his manly countenance was illumined by so\npure and sincere a sentiment, that all felt themselves repaid for the\ntrials they had undergone. Even the imperturbable major's eye was wet\nwith a tear that he could not repress. As for Paganel, he wept like a\nchild who does not think of hiding his emotion.\n\nCaptain Grant could not cease gazing at his daughter. He found her\nbeautiful and charming, and told her so again and again, appealing\nt",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "83",
+      "claim_id": "83_C0",
+      "claim_text": "At eighteen, on the run in Tasmania, he met the escaped convict Ayrton hiding in the bush; the two fugitives pooled their languages and survival skills, raided together for ransom and forged a brotherhood laced with mutual wariness.",
+      "excerpt_text": "hen the police have vainly tried to lay hands on him?\u201d\n\n\u201cWhy, you see, he has a good understanding with the shepherds in the\nplains, the fishermen of the Tiber, and the smugglers of the coast.\nThey seek for him in the mountains, and he is on the waters; they\nfollow him on the waters, and he is on the open sea; then they pursue\nhim, and he has suddenly taken refuge in the islands, at Giglio,\nGiannutri, or Monte Cristo; and when they hunt for him there, he\nreappears suddenly at Albano, Tivoli, or La Riccia.\u201d\n\n\u201cAnd how does he behave towards travellers?\u201d\n\n\u201cAlas! his plan is very simple. It depends on the distance he may be\nfrom the city, whether he gives eight hours, twelve hours, or a day\nwherein to pay their ransom; and when that time has elapsed he allows\nanother hour\u2019s grace. At the sixtieth minute of this hour, if the money\nis not forthcoming, he blows out the prisoner\u2019s brains with a\npistol-shot, or plants his dagger in his heart, and that settles the\naccount.\u201d\n\n\u201cWell, Albert,\u201d inqu",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "83",
+      "claim_id": "83_C0",
+      "claim_text": "At eighteen, on the run in Tasmania, he met the escaped convict Ayrton hiding in the bush; the two fugitives pooled their languages and survival skills, raided together for ransom and forged a brotherhood laced with mutual wariness.",
+      "excerpt_text": "and that\nI was to wait for you on the eastern coast of the island. Moreover,\non leaving Melbourne, I kept my destination secret, and the crew did\nnot know it till we were out at sea and the shores of Australia had\ndisappeared from sight. But then an incident occurred that perplexed me\nvery much.\"\n\n\"What do you mean, Tom?\" inquired Glenarvan.\n\n\"I mean,\" he replied, \"that when the quartermaster, Ayrton, learned,\nthe day after our departure, the Duncan's destination----\"\n\n\"Ayrton!\" cried Glenarvan. \"Is he on board?\"\n\n\"Yes, my lord.\"\n\n\"Ayrton here!\" repeated Glenarvan, glancing at Captain Mangles.\n\n\"Wonderful indeed!\" said the young captain.\n\nIn an instant, with the swiftness of lightning, Ayrton's conduct, his\nlong-contrived treachery, Glenarvan's wound, the attack upon Mulready,\ntheir sufferings in the marshes of the Snowy, all the wretch's deeds,\nflashed upon the minds of the two men. And now, by a strange fatality,\nthe convict was in their power.\n\n\"Where is he?\" asked Glenarvan quickly",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "83",
+      "claim_id": "83_C0",
+      "claim_text": "At eighteen, on the run in Tasmania, he met the escaped convict Ayrton hiding in the bush; the two fugitives pooled their languages and survival skills, raided together for ransom and forged a brotherhood laced with mutual wariness.",
+      "excerpt_text": "ings in the marshes of the Snowy, all the wretch's deeds,\nflashed upon the minds of the two men. And now, by a strange fatality,\nthe convict was in their power.\n\n\"Where is he?\" asked Glenarvan quickly.\n\n\"In a cabin in the forecastle,\" replied Tom Austin, \"closely guarded.\"\n\n\"Why this confinement?\"\n\n[Sidenote: AN UNOFFICIAL TRIBUNAL.]\n\n\"Because, when Ayrton saw that the yacht was sailing for New Zealand,\nhe flew into a passion; because he attempted to force me to change the\nship's course; because he threatened me; and, finally, because he urged\nmy men to a mutiny. I saw that he was a dangerous person, and was\ncompelled, therefore, to take precautions against him.\"\n\n\"And since that time?\"\n\n\"Since that time he has been in his cabin, without offering to come\nout.\"\n\n\"Good!\"\n\nAt this moment Glenarvan and Captain Mangles were summoned to the\nsaloon. Breakfast, which they so much needed, was ready. They took\nseats at the table, but did not speak of Ayrton.\n\nHowever, when the meal was ended, an",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "83",
+      "claim_id": "83_C0",
+      "claim_text": "At eighteen, on the run in Tasmania, he met the escaped convict Ayrton hiding in the bush; the two fugitives pooled their languages and survival skills, raided together for ransom and forged a brotherhood laced with mutual wariness.",
+      "excerpt_text": "ndered to Ben Joyce's accomplices.\"\n\nAt these words the lips of the quartermaster slightly trembled. A quick\nblush colored his hard features,--not the sign of remorse, but the\nshame of defeat. He was prisoner on this yacht that he had meant to\ncommand as master, and his fate was soon to be decided.\n\nHowever, he made no reply. Glenarvan waited patiently, but Ayrton still\npersisted in maintaining an obstinate silence.\n\n\"Speak, Ayrton; what have you to say?\" continued Glenarvan.\n\nThe convict hesitated, and the lines of his forehead were strongly\ncontracted. At last he said, in a calm voice:\n\n\"I have nothing to say, my lord. I was foolish enough to let myself be\ntaken. Do what you please.\"\n\n[Sidenote: A DUMB PRISONER.]\n\nHaving given his answer, the quartermaster turned his eyes toward\nthe coast that extended along the west, and affected a profound\nindifference for all that was passing around him. You would have\nthought, to look at him, that he was a stranger to this serious affair.\n\nBut Gl",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

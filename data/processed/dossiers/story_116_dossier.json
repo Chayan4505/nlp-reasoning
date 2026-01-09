@@ -1,4 +1,78 @@
 {
-  "story_id": 116,
-  "dossier": []
+  "story_id": "116",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "116",
+      "claim_id": "116_C0",
+      "claim_text": "In Lisbon he backed constitutionalist Prince Pedro, was branded a Jacobin plotter out to poison King John VI and fled conservatives\u2019 pursuit.",
+      "excerpt_text": "e did not\nappear to recognize him. It was evident he had his orders.\n\n\u201cMonsieur Bertuccio,\u201d said the count, \u201cyou have procured me windows\nlooking on the Piazza del Popolo, as I ordered you yesterday.\u201d\n\n\u201cYes, excellency,\u201d returned the steward; \u201cbut it was very late.\u201d\n\n\u201cDid I not tell you I wished for one?\u201d replied the count, frowning.\n\n\u201cAnd your excellency has one, which was let to Prince Lobanieff; but I\nwas obliged to pay a hundred\u2014\u2014\u201d\n\n\u201cThat will do\u2014that will do, Monsieur Bertuccio; spare these gentlemen\nall such domestic arrangements. You have the window, that is\nsufficient. Give orders to the coachman; and be in readiness on the\nstairs to conduct us to it.\u201d\n\nThe steward bowed, and was about to quit the room.\n\n\u201cAh!\u201d continued the count, \u201cbe good enough to ask Pastrini if he has\nreceived the _tavoletta_, and if he can send us an account of the\nexecution.\u201d\n\n\u201cThere is no need to do that,\u201d said Franz, taking out his tablets; \u201cfor\nI saw the account, and copied it down.\u201d\n\n\u201cVery well, you c",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "116",
+      "claim_id": "116_C0",
+      "claim_text": "In Lisbon he backed constitutionalist Prince Pedro, was branded a Jacobin plotter out to poison King John VI and fled conservatives\u2019 pursuit.",
+      "excerpt_text": "something of that kind.\u201d\n\n\u201cMy father has been a Jacobin more than anything else,\u201d said Villefort,\ncarried by his emotion beyond the bounds of prudence; \u201cand the\nsenator\u2019s robe, which Napoleon cast on his shoulders, only served to\ndisguise the old man without in any degree changing him. When my father\nconspired, it was not for the emperor, it was against the Bourbons; for\nM. Noirtier possessed this peculiarity, he never projected any Utopian\nschemes which could never be realized, but strove for possibilities,\nand he applied to the realization of these possibilities the terrible\ntheories of The Mountain,\u2014theories that never shrank from any means\nthat were deemed necessary to bring about the desired result.\u201d\n\n\u201cWell,\u201d said Monte Cristo, \u201cit is just as I thought; it was politics\nwhich brought Noirtier and M. d\u2019\u00c9pinay into personal contact. Although\nGeneral d\u2019\u00c9pinay served under Napoleon, did he not still retain\nroyalist sentiments? And was he not the person who was assassinated one\nevening ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "116",
+      "claim_id": "116_C0",
+      "claim_text": "In Lisbon he backed constitutionalist Prince Pedro, was branded a Jacobin plotter out to poison King John VI and fled conservatives\u2019 pursuit.",
+      "excerpt_text": "i; the former\nfound guilty of the murder of a venerable and exemplary priest, named\nDon C\u00e9sar Torlini, canon of the church of St. John Lateran; and the\nlatter convicted of being an accomplice of the atrocious and sanguinary\nbandit, Luigi Vampa, and his band. The first-named malefactor will be\n_mazzolato_, the second culprit _decapitato_.\n\n\u201c\u2018The prayers of all good Christians are entreated for these\nunfortunate men, that it may please God to awaken them to a sense of\ntheir guilt, and to grant them a hearty and sincere repentance for\ntheir crimes.\u2019\u201d\n\nThis was precisely what Franz had heard the evening before in the ruins\nof the Colosseum. No part of the programme differed,\u2014the names of the\ncondemned persons, their crimes, and mode of punishment, all agreed\nwith his previous information. In all probability, therefore, the\nTransteverin was no other than the bandit Luigi Vampa himself, and the\nman shrouded in the mantle the same he had known as \u201cSinbad the\nSailor,\u201d but who, no doubt, was st",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "116",
+      "claim_id": "116_C0",
+      "claim_text": "In Lisbon he backed constitutionalist Prince Pedro, was branded a Jacobin plotter out to poison King John VI and fled conservatives\u2019 pursuit.",
+      "excerpt_text": "an Arab.\u201d\n\n\u201cAnd you really believe the result would be still more sure with us\nthan in the East, and in the midst of our fogs and rains a man would\nhabituate himself more easily than in a warm latitude to this\nprogressive absorption of poison?\u201d\n\n\u201cCertainly; it being at the same time perfectly understood that he\nshould have been duly fortified against the poison to which he had not\nbeen accustomed.\u201d\n\n\u201cYes, I understand that; and how would you habituate yourself, for\ninstance, or rather, how did you habituate yourself to it?\u201d\n\n\u201cOh, very easily. Suppose you knew beforehand the poison that would be\nmade use of against you; suppose the poison was, for instance,\nbrucine\u2014\u2014\u201d\n\n\u201cBrucine is extracted from the false angostura8 is it not?\u201d inquired\nMadame de Villefort.\n\n\u201cPrecisely, madame,\u201d replied Monte Cristo; \u201cbut I perceive I have not\nmuch to teach you. Allow me to compliment you on your knowledge; such\nlearning is very rare among ladies.\u201d\n\n\u201cOh, I am aware of that,\u201d said Madame de Villefort; \u201cb",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "116",
+      "claim_id": "116_C0",
+      "claim_text": "In Lisbon he backed constitutionalist Prince Pedro, was branded a Jacobin plotter out to poison King John VI and fled conservatives\u2019 pursuit.",
+      "excerpt_text": " but he was afraid that the\ngovernor would change his mind, and order the dead body to be removed\nearlier. In that case his last hope would have been destroyed.\n\nNow his plans were fully made, and this is what he intended to do. If\nwhile he was being carried out the grave-diggers should discover that\nthey were bearing a live instead of a dead body, Dant\u00e8s did not intend\nto give them time to recognize him, but with a sudden cut of the knife,\nhe meant to open the sack from top to bottom, and, profiting by their\nalarm, escape; if they tried to catch him, he would use his knife to\nbetter purpose.\n\n0263m\n\n\n\nIf they took him to the cemetery and laid him in a grave, he would\nallow himself to be covered with earth, and then, as it was night, the\ngrave-diggers could scarcely have turned their backs before he would\nhave worked his way through the yielding soil and escaped. He hoped\nthat the weight of earth would not be so great that he could not\novercome it. If he was detected in this and the ea",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "116",
+      "claim_id": "116_C0",
+      "claim_text": "In Lisbon he backed constitutionalist Prince Pedro, was branded a Jacobin plotter out to poison King John VI and fled conservatives\u2019 pursuit.",
+      "excerpt_text": "mistry because, having\ndetermined to live in eastern climates I have been desirous of\nfollowing the example of King Mithridates.\u201d\n\n\u201c_Mithridates, rex Ponticus_,\u201d said the young scamp, as he tore some\nbeautiful portraits out of a splendid album, \u201cthe individual who took\ncream in his cup of poison every morning at breakfast.\u201d\n\n\u201cEdward, you naughty boy,\u201d exclaimed Madame de Villefort, snatching the\nmutilated book from the urchin\u2019s grasp, \u201cyou are positively past\nbearing; you really disturb the conversation; go, leave us, and join\nyour sister Valentine in dear grandpapa Noirtier\u2019s room.\u201d\n\n\u201cThe album,\u201d said Edward sulkily.\n\n\u201cWhat do you mean?\u2014the album!\u201d\n\n\u201cI want the album.\u201d\n\n\u201cHow dare you tear out the drawings?\u201d\n\n\u201cOh, it amuses me.\u201d\n\n\u201cGo\u2014go at once.\u201d\n\n\u201cI won\u2019t go unless you give me the album,\u201d said the boy, seating\nhimself doggedly in an armchair, according to his habit of never giving\nway.\n\n\u201cTake it, then, and pray disturb us no longer,\u201d said Madame de\nVillefort, giving the album to Edwar",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "116",
+      "claim_id": "116_C0",
+      "claim_text": "In Lisbon he backed constitutionalist Prince Pedro, was branded a Jacobin plotter out to poison King John VI and fled conservatives\u2019 pursuit.",
+      "excerpt_text": "eturned, bearing a black dress and a three-cornered\nhat. Meanwhile Monte Cristo had rapidly taken off his greatcoat,\nwaistcoat, and shirt, and one might distinguish by the glimmering\nthrough the open panel that he wore a pliant tunic of steel mail, of\nwhich the last in France, where daggers are no longer dreaded, was worn\nby King Louis XVI., who feared the dagger at his breast, and whose head\nwas cleft with a hatchet. The tunic soon disappeared under a long\ncassock, as did his hair under a priest\u2019s wig; the three-cornered hat\nover this effectually transformed the count into an abb\u00e9.\n\nThe man, hearing nothing more, stood erect, and while Monte Cristo was\ncompleting his disguise had advanced straight to the secretaire, whose\nlock was beginning to crack under his nightingale.\n\n\u201cTry again,\u201d whispered the count, who depended on the secret spring,\nwhich was unknown to the picklock, clever as he might be\u2014\u201ctry again,\nyou have a few minutes\u2019 work there.\u201d\n\nAnd he advanced to the window. The man ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "116",
+      "claim_id": "116_C0",
+      "claim_text": "In Lisbon he backed constitutionalist Prince Pedro, was branded a Jacobin plotter out to poison King John VI and fled conservatives\u2019 pursuit.",
+      "excerpt_text": ",\nwhich I can never forget:\u2014\n\n\u201c\u2018The great wars of Romagna had ended; C\u00e6sar Borgia, who had completed\nhis conquest, had need of money to purchase all Italy. The pope had\nalso need of money to bring matters to an end with Louis XII. King of\nFrance, who was formidable still in spite of his recent reverses; and\nit was necessary, therefore, to have recourse to some profitable\nscheme, which was a matter of great difficulty in the impoverished\ncondition of exhausted Italy. His holiness had an idea. He determined\nto make two cardinals.\u2019\n\n\u201cBy choosing two of the greatest personages of Rome, especially rich\nmen\u2014_this_ was the return the Holy Father looked for. In the first\nplace, he could sell the great appointments and splendid offices which\nthe cardinals already held; and then he had the two hats to sell\nbesides. There was a third point in view, which will appear hereafter.\n\n\u201cThe pope and C\u00e6sar Borgia first found the two future cardinals; they\nwere Giovanni Rospigliosi, who held four of the hi",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "116",
+      "claim_id": "116_C0",
+      "claim_text": "In Lisbon he backed constitutionalist Prince Pedro, was branded a Jacobin plotter out to poison King John VI and fled conservatives\u2019 pursuit.",
+      "excerpt_text": "\nhim than that he should humiliate the prefect.\n\n\u201cSire,\u2014\u2014\u201d stammered the baron.\n\n\u201cWell, what is it?\u201d asked Louis XVIII. The minister of police, giving\nway to an impulse of despair, was about to throw himself at the feet of\nLouis XVIII., who retreated a step and frowned.\n\n\u201cWill you speak?\u201d he said.\n\n\u201cOh, sire, what a dreadful misfortune! I am, indeed, to be pitied. I\ncan never forgive myself!\u201d\n\n\u201cMonsieur,\u201d said Louis XVIII., \u201cI command you to speak.\u201d\n\n\u201cWell, sire, the usurper left Elba on the 26th February, and landed on\nthe 1st of March.\u201d\n\n\u201cAnd where? In Italy?\u201d asked the king eagerly.\n\n\u201cIn France, sire,\u2014at a small port, near Antibes, in the Gulf of Juan.\u201d\n\n\u201cThe usurper landed in France, near Antibes, in the Gulf of Juan, two\nhundred and fifty leagues from Paris, on the 1st of March, and you only\nacquired this information today, the 3rd of March! Well, sir, what you\ntell me is impossible. You must have received a false report, or you\nhave gone mad.\u201d\n\n\u201cAlas, sire, it is but too true!\u201d L",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

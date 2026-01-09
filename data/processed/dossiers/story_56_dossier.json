@@ -1,5 +1,70 @@
 {
-  "story_id": 56,
-  "prediction": 0,
-  "dossier": []
+  "story_id": "56",
+  "prediction": 1,
+  "dossier": [
+    {
+      "story_id": "56",
+      "claim_id": "56_C0",
+      "claim_text": "After predicting an earthquake and saving the entire party he declined payment, asking only that the credit go to \u201cthe spirit of the plains.\u201d",
+      "excerpt_text": "her need of you; you may go.\u201d\n\n\u201cBut,\u201d observed the honest notary, \u201cthe count is, I think, mistaken; it\nis only fifty thousand francs, everything included.\u201d\n\n\u201cAnd your fee?\u201d\n\n\u201cIs included in this sum.\u201d\n\n\u201cBut have you not come from Auteuil here?\u201d\n\n\u201cYes, certainly.\u201d\n\n\u201cWell, then, it is but fair that you should be paid for your loss of\ntime and trouble,\u201d said the count; and he made a gesture of polite\ndismissal.\n\nThe notary left the room backwards, and bowing down to the ground; it\nwas the first time he had ever met a similar client.\n\n\u201cSee this gentleman out,\u201d said the count to Bertuccio. And the steward\nfollowed the notary out of the room.\n\nScarcely was the count alone, when he drew from his pocket a book\nclosed with a lock, and opened it with a key which he wore round his\nneck, and which never left him. After having sought for a few minutes,\nhe stopped at a leaf which had several notes, and compared them with\nthe deed of sale, which lay on the table, and recalling his\n_souvenirs_\u2014\n\n\u201c\u2018Aut",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "56",
+      "claim_id": "56_C0",
+      "claim_text": "After predicting an earthquake and saving the entire party he declined payment, asking only that the credit go to \u201cthe spirit of the plains.\u201d",
+      "excerpt_text": "rom a want of affection; on\nthe contrary, from a firm conviction. Like the rats that one by one\nforsake the doomed ship even before the vessel weighs anchor, so all\nthe numerous clerks had by degrees deserted the office and the\nwarehouse. Cocles had seen them go without thinking of inquiring the\ncause of their departure. Everything was as we have said, a question of\narithmetic to Cocles, and during twenty years he had always seen all\npayments made with such exactitude, that it seemed as impossible to him\nthat the house should stop payment, as it would to a miller that the\nriver that had so long turned his mill should cease to flow.\n\nNothing had as yet occurred to shake Cocles\u2019 belief; the last month\u2019s\npayment had been made with the most scrupulous exactitude; Cocles had\ndetected an overbalance of fourteen sous in his cash, and the same\nevening he had brought them to M. Morrel, who, with a melancholy smile,\nthrew them into an almost empty drawer, saying:\n\n\u201cThanks, Cocles; you are the pe",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "56",
+      "claim_id": "56_C0",
+      "claim_text": "After predicting an earthquake and saving the entire party he declined payment, asking only that the credit go to \u201cthe spirit of the plains.\u201d",
+      "excerpt_text": "the\nChamps-\u00c9lys\u00e9es is his own property, and certainly it was very decently\nkept up. But,\u201d pursued Danglars with one of his sinister smiles, \u201can\norder for unlimited credit calls for something like caution on the part\nof the banker to whom that order is given. I am very anxious to see\nthis man. I suspect a hoax is intended, but the instigators of it\nlittle knew whom they had to deal with. \u2018They laugh best who laugh\nlast!\u2019\u201d\n\nHaving delivered himself of this pompous address, uttered with a degree\nof energy that left the baron almost out of breath, he bowed to the\nassembled party and withdrew to his drawing-room, whose sumptuous\nfurnishings of white and gold had caused a great sensation in the\nChauss\u00e9e d\u2019Antin. It was to this apartment he had desired his guest to\nbe shown, with the purpose of overwhelming him at the sight of so much\nluxury. He found the count standing before some copies of Albano and\nFattore that had been passed off to the banker as originals; but which,\nmere copies as they",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "56",
+      "claim_id": "56_C0",
+      "claim_text": "After predicting an earthquake and saving the entire party he declined payment, asking only that the credit go to \u201cthe spirit of the plains.\u201d",
+      "excerpt_text": "the\nperfect indifference you manifested as to the turn events might take.\u201d\n\n\u201cUpon my word,\u201d said Albert, \u201cI deserve no credit for what I could not\nhelp, namely, a determination to take everything as I found it, and to\nlet those bandits see, that although men get into troublesome scrapes\nall over the world, there is no nation but the French that can smile\neven in the face of grim Death himself. All that, however, has nothing\nto do with my obligations to you, and I now come to ask you whether, in\nmy own person, my family, or connections, I can in any way serve you?\nMy father, the Comte de Morcerf, although of Spanish origin, possesses\nconsiderable influence, both at the court of France and Madrid, and I\nunhesitatingly place the best services of myself, and all to whom my\nlife is dear, at your disposal.\u201d\n\n\u201cMonsieur de Morcerf,\u201d replied the count, \u201cyour offer, far from\nsurprising me, is precisely what I expected from you, and I accept it\nin the same spirit of hearty sincerity with which it",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "56",
+      "claim_id": "56_C0",
+      "claim_text": "After predicting an earthquake and saving the entire party he declined payment, asking only that the credit go to \u201cthe spirit of the plains.\u201d",
+      "excerpt_text": "ht be, he received unanimous\ncongratulations; and as the past was now known, they returned to the\npresent.\n\nTheir situation was still exceedingly critical. The natives, if they\ndid not venture to climb the mountain, expected that hunger and thirst\nwould force their prisoners to surrender. It was only a matter of time,\nand the savages had great patience. Glenarvan did not disregard the\ndifficulties of his position, but waited for the favorable issue which\nProvidence seemed to promise.\n\nAnd first he wished to examine this improvised fortress; not to defend\nit, for an attack was not to be feared, but that he might find a way of\nescaping. The major and the captain, Robert, Paganel, and himself, took\nthe exact bearings of the mountain. They observed the direction of the\npaths, their branches and declivities. A ridge a mile in length united\nthe Maunganamu to the Wahiti range, and then declined to the plain. Its\nnarrow and winding summit presented the only practicable route, in case\nescape sh",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "56",
+      "claim_id": "56_C0",
+      "claim_text": "After predicting an earthquake and saving the entire party he declined payment, asking only that the credit go to \u201cthe spirit of the plains.\u201d",
+      "excerpt_text": "t by Merc\u00e9d\u00e8s, sent it to Danglars, with\nan intimation that he should probably do himself the honor of joining\nthe baroness and her daughter during the evening, in the event of their\naccepting the box in question. The ladies received the offer with too\nmuch pleasure to dream of a refusal. To no class of persons is the\npresentation of a gratuitous opera-box more acceptable than to the\nwealthy millionaire, who still hugs economy while boasting of carrying\na king\u2019s ransom in his waistcoat pocket.\n\nDanglars had, however, protested against showing himself in a\nministerial box, declaring that his political principles, and his\nparliamentary position as member of the opposition party would not\npermit him so to commit himself; the baroness had, therefore,\ndespatched a note to Lucien Debray, bidding him call for them, it being\nwholly impossible for her to go alone with Eug\u00e9nie to the opera.\n\nThere is no gainsaying the fact that a very unfavorable construction\nwould have been put upon the circums",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "56",
+      "claim_id": "56_C0",
+      "claim_text": "After predicting an earthquake and saving the entire party he declined payment, asking only that the credit go to \u201cthe spirit of the plains.\u201d",
+      "excerpt_text": " Duncan, Captain Mangles, his brave crew, and Harry Grant who\nwas, perhaps, not far distant.\n\nAs for Paganel, he did not leave the Indian. He became Thalcave's\nshadow, and could not remain quiet in the presence of a real\nPatagonian, in comparison with whom he would have passed for a dwarf.\nHe overwhelmed the grave Indian with Spanish phrases, to which the\nlatter quietly listened. The geographer studied this time without a\nbook, and was often heard repeating words aloud.\n\n\"If I do not get the accent,\" said he to the major, \"you must not be\nangry with me. Who would have thought that one day a Patagonian would\nteach me Spanish!\"\n\n\n\n\nCHAPTER XVI.\n\nNEWS OF THE LOST CAPTAIN.\n\n\nAt eight o'clock the next morning Thalcave gave the signal for\ndeparture. The slope was gradual, and the travelers had only to descend\na gentle declivity to the sea.\n\nWhen the Patagonian declined the horse that Glenarvan offered him, the\nlatter thought that he preferred to go on foot, according to the custom\nof certain",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "56",
+      "claim_id": "56_C0",
+      "claim_text": "After predicting an earthquake and saving the entire party he declined payment, asking only that the credit go to \u201cthe spirit of the plains.\u201d",
+      "excerpt_text": "nly to descend\na gentle declivity to the sea.\n\nWhen the Patagonian declined the horse that Glenarvan offered him, the\nlatter thought that he preferred to go on foot, according to the custom\nof certain guides; and indeed, his long legs ought to have made walking\neasy. But he was mistaken.\n\nAt the moment of departure Thalcave whistled in a peculiar manner.\nImmediately a magnificent Argentine horse, of superb form, issued from\na small wood near by, and approached at the call of his master. The\nanimal was perfectly beautiful. His brown color indicated a sound,\nspirited and courageous beast. He had a small and elegantly poised\nhead, widely opening nostrils, a fiery eye, large hams, swelling\nwithers, broad breast, long pasterns, in short, all the qualities that\nconstitute strength and suppleness. The major, like a perfect horseman,\nadmired unreservedly this specimen of the horses of the plains. This\nbeautiful creature was called Thaouka, which means \"bird\" in the\nPatagonian language, and he ",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

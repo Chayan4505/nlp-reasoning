@@ -1,4 +1,86 @@
 {
-  "story_id": 113,
-  "dossier": []
+  "story_id": "113",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "113",
+      "claim_id": "113_C0",
+      "claim_text": "Born in Parma to a theological family\u2014his father studied ancient manuscripts, his mother wrote poetry in several tongues.",
+      "excerpt_text": "ntry?\nDid I advise your father to sell the castle of Yanina\u2014to betray\u2014\u2014\u201d\n\n\u201cSilence!\u201d said Albert, with a thundering voice. \u201cNo; it is not you who\nhave directly made this exposure and brought this sorrow on us, but you\nhypocritically provoked it.\u201d\n\n\u201cI?\u201d\n\n\u201cYes; you! How came it known?\u201d\n\n\u201cI suppose you read it in the paper in the account from Yanina?\u201d\n\n\u201cWho wrote to Yanina?\u201d\n\n\u201cTo Yanina?\u201d\n\n\u201cYes. Who wrote for particulars concerning my father?\u201d\n\n\u201cI imagine anyone may write to Yanina.\u201d\n\n\u201cBut one person only wrote!\u201d\n\n\u201cOne only?\u201d\n\n\u201cYes; and that was you!\u201d\n\n\u201cI, doubtless, wrote. It appears to me that when about to marry your\ndaughter to a young man, it is right to make some inquiries respecting\nhis family; it is not only a right, but a duty.\u201d\n\n\u201cYou wrote, sir, knowing what answer you would receive.\u201d\n\n\u201cI, indeed? I assure you,\u201d cried Danglars, with a confidence and\nsecurity proceeding less from fear than from the interest he really\nfelt for the young man, \u201cI solemnly declare to you, that I shou",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "113",
+      "claim_id": "113_C0",
+      "claim_text": "Born in Parma to a theological family\u2014his father studied ancient manuscripts, his mother wrote poetry in several tongues.",
+      "excerpt_text": "utter a complaint, or say one harsh\nword. He embraced his weeping wife and daughter, pressed Emmanuel\u2019s\nhand with friendly warmth, and then going to his private room on the\nsecond floor had sent for Cocles.\n\n\u201cThen,\u201d said the two women to Emmanuel, \u201cwe are indeed ruined.\u201d\n\nIt was agreed in a brief council held among them, that Julie should\nwrite to her brother, who was in garrison at N\u00eemes, to come to them as\nspeedily as possible. The poor women felt instinctively that they\nrequired all their strength to support the blow that impended. Besides,\nMaximilian Morrel, though hardly two-and-twenty, had great influence\nover his father.\n\nHe was a strong-minded, upright young man. At the time when he decided\non his profession his father had no desire to choose for him, but had\nconsulted young Maximilian\u2019s taste. He had at once declared for a\nmilitary life, and had in consequence studied hard, passed brilliantly\nthrough the Polytechnic School, and left it as sub-lieutenant of the\n53rd of the line",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "113",
+      "claim_id": "113_C0",
+      "claim_text": "Born in Parma to a theological family\u2014his father studied ancient manuscripts, his mother wrote poetry in several tongues.",
+      "excerpt_text": "\u00e9 limited himself to objects of strict necessity.\nHe preferred to use the sitting-room upstairs, which was more library\nthan parlor, and was furnished with theological books and parchments,\nin which he delighted to bury himself for months at a time, according\nto his valet de chambre. His valet looked at the visitors through a\nsort of wicket; and if their faces were unknown to him or displeased\nhim, he replied that the abb\u00e9 was not in Paris, an answer which\nsatisfied most persons, because the abb\u00e9 was known to be a great\ntraveller. Besides, whether at home or not, whether in Paris or Cairo,\nthe abb\u00e9 always left something to give away, which the valet\ndistributed through this wicket in his master\u2019s name. The other room\nnear the library was a bedroom. A bed without curtains, four armchairs,\nand a couch, covered with yellow Utrecht velvet, composed, with a\n_prie-Dieu_, all its furniture.\n\n\u201cLord Wilmore resided in Rue Fontaine-Saint-Georges. He was one of\nthose English tourists who consume ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "113",
+      "claim_id": "113_C0",
+      "claim_text": "Born in Parma to a theological family\u2014his father studied ancient manuscripts, his mother wrote poetry in several tongues.",
+      "excerpt_text": "\n\n\u201cBy no means. He is a perfect nobleman, very polite, modest, and\nagreeable, such as may be found constantly in Italy, descendants of\nvery ancient families. I have met him several times at Florence,\nBologna and Lucca, and he has now communicated to me the fact of his\narrival in Paris. The acquaintances one makes in travelling have a sort\nof claim on one; they everywhere expect to receive the same attention\nwhich you once paid them by chance, as though the civilities of a\npassing hour were likely to awaken any lasting interest in favor of the\nman in whose society you may happen to be thrown in the course of your\njourney. This good Major Cavalcanti is come to take a second view of\nParis, which he only saw in passing through in the time of the Empire,\nwhen he was on his way to Moscow. I shall give him a good dinner, he\nwill confide his son to my care, I will promise to watch over him, I\nshall let him follow in whatever path his folly may lead him, and then\nI shall have done my part.\u201d\n\n\u201cC",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "113",
+      "claim_id": "113_C0",
+      "claim_text": "Born in Parma to a theological family\u2014his father studied ancient manuscripts, his mother wrote poetry in several tongues.",
+      "excerpt_text": "it was very evident that something\ndesperate was passing in the old man\u2019s mind, for a cry of anger and\ngrief rose in his throat, and not being able to find vent in utterance,\nappeared almost to choke him, for his face and lips turned quite purple\nwith the struggle. Villefort quietly opened a window, saying, \u201cIt is\nvery warm, and the heat affects M. Noirtier.\u201d He then returned to his\nplace, but did not sit down.\n\n\u201cThis marriage,\u201d added Madame de Villefort, \u201cis quite agreeable to the\nwishes of M. d\u2019\u00c9pinay and his family; besides, he had no relations\nnearer than an uncle and aunt, his mother having died at his birth, and\nhis father having been assassinated in 1815, that is to say, when he\nwas but two years old; it naturally followed that the child was\npermitted to choose his own pursuits, and he has, therefore, seldom\nacknowledged any other authority but that of his own will.\u201d\n\n\u201cThat assassination was a mysterious affair,\u201d said Villefort, \u201cand the\nperpetrators have hitherto escaped detect",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "113",
+      "claim_id": "113_C0",
+      "claim_text": "Born in Parma to a theological family\u2014his father studied ancient manuscripts, his mother wrote poetry in several tongues.",
+      "excerpt_text": "istin.\u201d\n\n\u201cThen to admit no one except Major Bartolomeo Cavalcanti and his son.\u201d\n\n\u201cYou hear\u2014Major Bartolomeo Cavalcanti\u2014a man who ranks amongst the most\nancient nobility of Italy, whose name Dante has celebrated in the tenth\ncanto of _The Inferno_, you remember it, do you not? Then there is his\nson, Andrea, a charming young man, about your own age, viscount,\nbearing the same title as yourself, and who is making his entry into\nthe Parisian world, aided by his father\u2019s millions. The major will\nbring his son with him this evening, the _contino_, as we say in Italy;\nhe confides him to my care. If he proves himself worthy of it, I will\ndo what I can to advance his interests. You will assist me in the work,\nwill you not?\u201d\n\n\u201cMost undoubtedly. This Major Cavalcanti is an old friend of yours,\nthen?\u201d\n\n\u201cBy no means. He is a perfect nobleman, very polite, modest, and\nagreeable, such as may be found constantly in Italy, descendants of\nvery ancient families. I have met him several times at Florence,\n",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "113",
+      "claim_id": "113_C0",
+      "claim_text": "Born in Parma to a theological family\u2014his father studied ancient manuscripts, his mother wrote poetry in several tongues.",
+      "excerpt_text": "hat further resistance or remonstrance was useless. He\nsaw before him an officer delegated to enforce the law, and perfectly\nwell knew that it would be as unavailing to seek pity from a magistrate\ndecked with his official scarf, as to address a petition to some cold\nmarble effigy. Old Dant\u00e8s, however, sprang forward. There are\nsituations which the heart of a father or a mother cannot be made to\nunderstand. He prayed and supplicated in terms so moving, that even the\nofficer was touched, and, although firm in his duty, he kindly said,\n\u201cMy worthy friend, let me beg of you to calm your apprehensions. Your\nson has probably neglected some prescribed form or attention in\nregistering his cargo, and it is more than probable he will be set at\nliberty directly he has given the information required, whether\ntouching the health of his crew, or the value of his freight.\u201d\n\n\u201cWhat is the meaning of all this?\u201d inquired Caderousse, frowningly, of\nDanglars, who had assumed an air of utter surprise.\n\n0073m",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "113",
+      "claim_id": "113_C0",
+      "claim_text": "Born in Parma to a theological family\u2014his father studied ancient manuscripts, his mother wrote poetry in several tongues.",
+      "excerpt_text": " a single emerald and closed by a\ngolden lid which unscrewed and gave passage to a small greenish colored\npellet about the size of a pea. This ball had an acrid and penetrating\nodor. There were four or five more in the emerald, which would contain\nabout a dozen. The casket passed around the table, but it was more to\nexamine the admirable emerald than to see the pills that it passed from\nhand to hand.\n\n\u201cAnd is it your cook who prepares these pills?\u201d asked Beauchamp.\n\n\u201cOh, no, monsieur,\u201d replied Monte Cristo; \u201cI do not thus betray my\nenjoyments to the vulgar. I am a tolerable chemist, and prepare my\npills myself.\u201d\n\n\u201cThis is a magnificent emerald, and the largest I have ever seen,\u201d said\nCh\u00e2teau-Renaud, \u201calthough my mother has some remarkable family jewels.\u201d\n\n\u201cI had three similar ones,\u201d returned Monte Cristo. \u201cI gave one to the\nSultan, who mounted it in his sabre; another to our holy father the\nPope, who had it set in his tiara, opposite to one nearly as large,\nthough not so fine, given by",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "113",
+      "claim_id": "113_C0",
+      "claim_text": "Born in Parma to a theological family\u2014his father studied ancient manuscripts, his mother wrote poetry in several tongues.",
+      "excerpt_text": "bert; \u201cnor even ancient Greek, my dear count; never\nhad Homer or Plato a more unworthy scholar than myself.\u201d\n\n\u201cThen,\u201d said Hayd\u00e9e, proving by her remark that she had quite\nunderstood Monte Cristo\u2019s question and Albert\u2019s answer, \u201cthen I will\nspeak either in French or Italian, if my lord so wills it.\u201d\n\nMonte Cristo reflected one instant. \u201cYou will speak in Italian,\u201d said\nhe.\n\nThen, turning towards Albert,\u2014\u201cIt is a pity you do not understand\neither ancient or modern Greek, both of which Hayd\u00e9e speaks so\nfluently; the poor child will be obliged to talk to you in Italian,\nwhich will give you but a very false idea of her powers of\nconversation.\u201d\n\nThe count made a sign to Hayd\u00e9e to address his visitor. \u201cSir,\u201d she said\nto Morcerf, \u201cyou are most welcome as the friend of my lord and master.\u201d\nThis was said in excellent Tuscan, and with that soft Roman accent\nwhich makes the language of Dante as sonorous as that of Homer. Then,\nturning to Ali, she directed him to bring coffee and pipes, and when h",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "113",
+      "claim_id": "113_C0",
+      "claim_text": "Born in Parma to a theological family\u2014his father studied ancient manuscripts, his mother wrote poetry in several tongues.",
+      "excerpt_text": " on its base. Dant\u00e8s\nredoubled his efforts; he seemed like one of the ancient Titans, who\nuprooted the mountains to hurl against the father of the gods. The rock\nyielded, rolled over, bounded from point to point, and finally\ndisappeared in the ocean.\n\nOn the spot it had occupied was a circular space, exposing an iron ring\nlet into a square flag-stone.\n\nDant\u00e8s uttered a cry of joy and surprise; never had a first attempt\nbeen crowned with more perfect success. He would fain have continued,\nbut his knees trembled, and his heart beat so violently, and his sight\nbecame so dim, that he was forced to pause.\n\nThis feeling lasted but for a moment. Edmond inserted his lever in the\nring and exerted all his strength; the flag-stone yielded, and\ndisclosed steps that descended until they were lost in the obscurity of\na subterraneous grotto.\n\nAnyone else would have rushed on with a cry of joy. Dant\u00e8s turned pale,\nhesitated, and reflected.\n\n\u201cCome,\u201d said he to himself, \u201cbe a man. I am accustomed to adv",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

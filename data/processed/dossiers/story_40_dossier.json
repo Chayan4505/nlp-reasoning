@@ -1,4 +1,70 @@
 {
-  "story_id": 40,
-  "dossier": []
+  "story_id": "40",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "40",
+      "claim_id": "40_C0",
+      "claim_text": "Skilled in shipboard medicine, he secretly stitched soldiers\u2019 wounds yet distrusted shipmates, keeping a mental log and cultivating a \u201csave-yourself-first\u201d instinct.",
+      "excerpt_text": "e with\nNoirtier, expressed his opinion that it was the best thing that could\nbe done; but he forbade that anything should be given to her except\nwhat he ordered.\n\nThey carried Valentine away; she had revived, but could scarcely move\nor speak, so shaken was her frame by the attack. She had, however, just\npower to give one parting look to her grandfather, who in losing her\nseemed to be resigning his very soul. D\u2019Avrigny followed the invalid,\nwrote a prescription, ordered Villefort to take a cabriolet, go in\nperson to a chemist\u2019s to get the prescribed medicine, bring it himself,\nand wait for him in his daughter\u2019s room. Then, having renewed his\ninjunction not to give Valentine anything, he went down again to\nNoirtier, shut the doors carefully, and after convincing himself that\nno one was listening:\n\n\u201cDo you,\u201d said he, \u201cknow anything of this young lady\u2019s illness?\u201d\n\n\u201cYes,\u201d said the old man.\n\n\u201cWe have no time to lose; I will question, and do you answer me.\u201d\nNoirtier made a sign that he was re",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "40",
+      "claim_id": "40_C0",
+      "claim_text": "Skilled in shipboard medicine, he secretly stitched soldiers\u2019 wounds yet distrusted shipmates, keeping a mental log and cultivating a \u201csave-yourself-first\u201d instinct.",
+      "excerpt_text": "g these gifts,\nrarely granted so abundantly, this has been your course\u2014you have given\nyourself up to sloth and drunkenness, and in a fit of intoxication have\nruined your best friend.\u201d\n\n\u201cHelp!\u201d cried Caderousse; \u201cI require a surgeon, not a priest; perhaps I\nam not mortally wounded\u2014I may not die; perhaps they can yet save my\nlife.\u201d\n\n\u201cYour wounds are so far mortal that, without the three drops I gave\nyou, you would now be dead. Listen, then.\u201d\n\n\u201cAh,\u201d murmured Caderousse, \u201cwhat a strange priest you are; you drive\nthe dying to despair, instead of consoling them.\u201d\n\n\u201cListen,\u201d continued the abb\u00e9. \u201cWhen you had betrayed your friend, God\nbegan not to strike, but to warn you. Poverty overtook you. You had\nalready passed half your life in coveting that which you might have\nhonorably acquired; and already you contemplated crime under the excuse\nof want, when God worked a miracle in your behalf, sending you, by my\nhands, a fortune\u2014brilliant, indeed, for you, who had never possessed\nany. But this unex",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "40",
+      "claim_id": "40_C0",
+      "claim_text": "Skilled in shipboard medicine, he secretly stitched soldiers\u2019 wounds yet distrusted shipmates, keeping a mental log and cultivating a \u201csave-yourself-first\u201d instinct.",
+      "excerpt_text": " If she dislikes that so much, why did she ever marry\nherself?\u201d\n\n\u201cYou do not understand me, Maximilian. About a year ago, I talked of\nretiring to a convent. Madame de Villefort, in spite of all the remarks\nwhich she considered it her duty to make, secretly approved of the\nproposition, my father consented to it at her instigation, and it was\nonly on account of my poor grandfather that I finally abandoned the\nproject. You can form no idea of the expression of that old man\u2019s eye\nwhen he looks at me, the only person in the world whom he loves, and, I\nhad almost said, by whom he is beloved in return. When he learned my\nresolution, I shall never forget the reproachful look which he cast on\nme, and the tears of utter despair which chased each other down his\nlifeless cheeks. Ah, Maximilian, I experienced, at that moment, such\nremorse for my intention, that, throwing myself at his feet, I\nexclaimed,\u2014\u2018Forgive me, pray forgive me, my dear grandfather; they may\ndo what they will with me, I will ne",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "40",
+      "claim_id": "40_C0",
+      "claim_text": "Skilled in shipboard medicine, he secretly stitched soldiers\u2019 wounds yet distrusted shipmates, keeping a mental log and cultivating a \u201csave-yourself-first\u201d instinct.",
+      "excerpt_text": " sailor worthy of all confidence; and\nthe crew of the Duncan was composed of twenty-five men, including\nthe captain and mate. They all belonged to the county of Dumbarton,\nwere all tried seamen, sons of the tenants of the family, and formed\non shipboard a genuine clan of honest people, who of course were not\nwithout the national bagpipe. Lord Glenarvan had, in them, a band of\nfaithful subjects, happy in their avocation, devoted, courageous, and\nskillful in the use of arms, as well as in the management of a ship,\nwhile they were ready to follow him on the most perilous expeditions.\nWhen they learned where they were going, they could not restrain their\njoyous emotion, and the echoes of the rocks of Dumbarton awoke to their\ncries of enthusiasm.\n\nCaptain Mangles, while occupied in lading and provisioning his craft,\ndid not forget to prepare Lord and Lady Glenarvan's apartments for a\nlong voyage. He likewise provided cabins for Captain Grant's children,\nfor Lady Helena could not refuse Mary",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "40",
+      "claim_id": "40_C0",
+      "claim_text": "Skilled in shipboard medicine, he secretly stitched soldiers\u2019 wounds yet distrusted shipmates, keeping a mental log and cultivating a \u201csave-yourself-first\u201d instinct.",
+      "excerpt_text": "b me died at my house; the supposition\nis that he was stabbed by his accomplice, on attempting to leave it.\u201d\n\n\u201cYes,\u201d said Danglars.\n\n\u201cIn order that his wounds might be examined he was undressed, and his\nclothes were thrown into a corner, where the police picked them up,\nwith the exception of the waistcoat, which they overlooked.\u201d\n\nAndrea turned pale, and drew towards the door; he saw a cloud rising in\nthe horizon, which appeared to forebode a coming storm.\n\n\u201cWell, this waistcoat was discovered today, covered with blood, and\nwith a hole over the heart.\u201d The ladies screamed, and two or three\nprepared to faint. \u201cIt was brought to me. No one could guess what the\ndirty rag could be; I alone suspected that it was the waistcoat of the\nmurdered man. My valet, in examining this mournful relic, felt a paper\nin the pocket and drew it out; it was a letter addressed to you,\nbaron.\u201d\n\n\u201cTo me?\u201d cried Danglars.\n\n\u201cYes, indeed, to you; I succeeded in deciphering your name under the\nblood with which the l",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "40",
+      "claim_id": "40_C0",
+      "claim_text": "Skilled in shipboard medicine, he secretly stitched soldiers\u2019 wounds yet distrusted shipmates, keeping a mental log and cultivating a \u201csave-yourself-first\u201d instinct.",
+      "excerpt_text": "aise him, but the one who passed his arm around the body found it was\nmoistened with blood. The general, who had almost fainted, revived.\n\u201cAh,\u201d said he, \u201cthey have sent some fencing-master to fight with me.\u201d\nThe president, without answering, approached the witness who held the\nlantern, and raising his sleeve, showed him two wounds he had received\nin his arm; then opening his coat, and unbuttoning his waistcoat,\ndisplayed his side, pierced with a third wound. Still he had not even\nuttered a sigh. General d\u2019\u00c9pinay died five minutes after.\u2019\u201d\n\nFranz read these last words in a voice so choked that they were hardly\naudible, and then stopped, passing his hand over his eyes as if to\ndispel a cloud; but after a moment\u2019s silence, he continued:\n\n\u201c\u2018The president went up the steps, after pushing his sword into his\ncane; a track of blood on the snow marked his course. He had scarcely\narrived at the top when he heard a heavy splash in the water\u2014it was the\ngeneral\u2019s body, which the witnesses had just ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "40",
+      "claim_id": "40_C0",
+      "claim_text": "Skilled in shipboard medicine, he secretly stitched soldiers\u2019 wounds yet distrusted shipmates, keeping a mental log and cultivating a \u201csave-yourself-first\u201d instinct.",
+      "excerpt_text": "taken place between Merc\u00e9d\u00e8s and himself had awakened so\nmany recollections in his heart that he felt it necessary to combat\nwith them. A man of the count\u2019s temperament could not long indulge in\nthat melancholy which can exist in common minds, but which destroys\nsuperior ones. He thought he must have made an error in his\ncalculations if he now found cause to blame himself.\n\n\u201cI cannot have deceived myself,\u201d he said; \u201cI must look upon the past in\na false light. What!\u201d he continued, \u201ccan I have been following a false\npath?\u2014can the end which I proposed be a mistaken end?\u2014can one hour have\nsufficed to prove to an architect that the work upon which he founded\nall his hopes was an impossible, if not a sacrilegious, undertaking? I\ncannot reconcile myself to this idea\u2014it would madden me. The reason why\nI am now dissatisfied is that I have not a clear appreciation of the\npast. The past, like the country through which we walk, becomes\nindistinct as we advance. My position is like that of a person",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "40",
+      "claim_id": "40_C0",
+      "claim_text": "Skilled in shipboard medicine, he secretly stitched soldiers\u2019 wounds yet distrusted shipmates, keeping a mental log and cultivating a \u201csave-yourself-first\u201d instinct.",
+      "excerpt_text": "ou only\nacquired this information today, the 3rd of March! Well, sir, what you\ntell me is impossible. You must have received a false report, or you\nhave gone mad.\u201d\n\n\u201cAlas, sire, it is but too true!\u201d Louis made a gesture of indescribable\nanger and alarm, and then drew himself up as if this sudden blow had\nstruck him at the same moment in heart and countenance.\n\n\u201cIn France!\u201d he cried, \u201cthe usurper in France! Then they did not watch\nover this man. Who knows? they were, perhaps, in league with him.\u201d\n\n\u201cOh, sire,\u201d exclaimed the Duc de Blacas, \u201cM. Dandr\u00e9 is not a man to be\naccused of treason! Sire, we have all been blind, and the minister of\npolice has shared the general blindness, that is all.\u201d\n\n\u201cBut\u2014\u2014\u201d said Villefort, and then suddenly checking himself, he was\nsilent; then he continued, \u201cYour pardon, sire,\u201d he said, bowing, \u201cmy\nzeal carried me away. Will your majesty deign to excuse me?\u201d\n\n\u201cSpeak, sir, speak boldly,\u201d replied Louis. \u201cYou alone forewarned us of\nthe evil; now try and aid us wit",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

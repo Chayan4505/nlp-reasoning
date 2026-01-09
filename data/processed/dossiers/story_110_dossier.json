@@ -1,5 +1,62 @@
 {
-  "story_id": 110,
-  "prediction": 1,
-  "dossier": []
+  "story_id": "110",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "110",
+      "claim_id": "110_C0",
+      "claim_text": "He kept a locked study full of revolutionary pamphlets and private letters, rereading them alone while he weighed his past.",
+      "excerpt_text": "ted of a roast pheasant garnished with Corsican\nblackbirds; a boar\u2019s ham with jelly, a quarter of a kid with tartar\nsauce, a glorious turbot, and a gigantic lobster. Between these large\ndishes were smaller ones containing various dainties. The dishes were\nof silver, and the plates of Japanese china.\n\nFranz rubbed his eyes in order to assure himself that this was not a\ndream. Ali alone was present to wait at table, and acquitted himself so\nadmirably, that the guest complimented his host thereupon.\n\n\u201cYes,\u201d replied he, while he did the honors of the supper with much ease\nand grace\u2014\u201cyes, he is a poor devil who is much devoted to me, and does\nall he can to prove it. He remembers that I saved his life, and as he\nhas a regard for his head, he feels some gratitude towards me for\nhaving kept it on his shoulders.\u201d\n\nAli approached his master, took his hand, and kissed it.\n\n\u201cWould it be impertinent, Signor Sinbad,\u201d said Franz, \u201cto ask you the\nparticulars of this kindness?\u201d\n\n20081m\n\n\n\n\u201cOh, they are",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "110",
+      "claim_id": "110_C0",
+      "claim_text": "He kept a locked study full of revolutionary pamphlets and private letters, rereading them alone while he weighed his past.",
+      "excerpt_text": "joining\nthe new government; and that while the Citizen Noirtier was a Girondin,\nthe Count Noirtier became a senator.\u201d\n\n\u201cDear mother,\u201d interposed Ren\u00e9e, \u201cyou know very well it was agreed that\nall these disagreeable reminiscences should forever be laid aside.\u201d\n\n\u201cSuffer me, also, madame,\u201d replied Villefort, \u201cto add my earnest\nrequest to Mademoiselle de Saint-M\u00e9ran\u2019s, that you will kindly allow\nthe veil of oblivion to cover and conceal the past. What avails\nrecrimination over matters wholly past recall? For my own part, I have\nlaid aside even the name of my father, and altogether disown his\npolitical principles. He was\u2014nay, probably may still be\u2014a Bonapartist,\nand is called Noirtier; I, on the contrary, am a staunch royalist, and\nstyle myself de Villefort. Let what may remain of revolutionary sap\nexhaust itself and die away with the old trunk, and condescend only to\nregard the young shoot which has started up at a distance from the\nparent tree, without having the power, any more than the w",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "110",
+      "claim_id": "110_C0",
+      "claim_text": "He kept a locked study full of revolutionary pamphlets and private letters, rereading them alone while he weighed his past.",
+      "excerpt_text": "as. They must be patient, and travel on\nswiftly and continuously.\n\n[Illustration: By means of a ford, they crossed the Rio Tubal, the\nmountains visible in the distance.]\n\nThey advanced in the same order as before, which Robert with difficulty\nkept, for his eagerness led him to press forward, to the great\nannoyance of his animal. Nothing but a command from Glenarvan would\nkeep the young boy at his place in the line. The country now became\nmore uneven; and several hillocks indicated that they were approaching\nthe mountains.\n\nPaganel still continued his study of Spanish.\n\n\"What a language it is!\" exclaimed he; \"so full and sonorous!\"\n\n\"But you are making progress, of course?\" replied Glenarvan.\n\n\"Certainly, my dear lord. Ah! if there were only no accent! But, alas!\nthere is one!\"\n\nIn studying this language, Paganel did not, however, neglect his\ngeographical observations. In these, indeed, he was astonishingly\nclever, and could not have found his superior. When Glenarvan\nquestioned the cat",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "110",
+      "claim_id": "110_C0",
+      "claim_text": "He kept a locked study full of revolutionary pamphlets and private letters, rereading them alone while he weighed his past.",
+      "excerpt_text": "t to work.\n\nWhen the operation was concluded, and Edmond felt that his chin was\ncompletely smooth, and his hair reduced to its usual length, he asked\nfor a looking-glass. He was now, as we have said, three-and-thirty\nyears of age, and his fourteen years\u2019 imprisonment had produced a great\ntransformation in his appearance.\n\nDant\u00e8s had entered the Ch\u00e2teau d\u2019If with the round, open, smiling face\nof a young and happy man, with whom the early paths of life have been\nsmooth, and who anticipates a future corresponding with his past. This\nwas now all changed. The oval face was lengthened, his smiling mouth\nhad assumed the firm and marked lines which betoken resolution; his\neyebrows were arched beneath a brow furrowed with thought; his eyes\nwere full of melancholy, and from their depths occasionally sparkled\ngloomy fires of misanthropy and hatred; his complexion, so long kept\nfrom the sun, had now that pale color which produces, when the features\nare encircled with black hair, the aristocratic b",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "110",
+      "claim_id": "110_C0",
+      "claim_text": "He kept a locked study full of revolutionary pamphlets and private letters, rereading them alone while he weighed his past.",
+      "excerpt_text": "steem at a moment when his honor was so\npowerfully attacked.\n\n\u201cAt this moment one of the door-keepers brought in a letter for the\npresident. \u2018You are at liberty to speak, M. de Morcerf,\u2019 said the\npresident, as he unsealed the letter; and the count began his defence,\nI assure you, Albert, in a most eloquent and skilful manner. He\nproduced documents proving that the Vizier of Yanina had up to the last\nmoment honored him with his entire confidence, since he had interested\nhim with a negotiation of life and death with the emperor. He produced\nthe ring, his mark of authority, with which Ali Pasha generally sealed\nhis letters, and which the latter had given him, that he might, on his\nreturn at any hour of the day or night, gain access to the presence,\neven in the harem. Unfortunately, the negotiation failed, and when he\nreturned to defend his benefactor, he was dead. \u2018But,\u2019 said the count,\n\u2018so great was Ali Pasha\u2019s confidence, that on his death-bed he resigned\nhis favorite mistress and her d",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "110",
+      "claim_id": "110_C0",
+      "claim_text": "He kept a locked study full of revolutionary pamphlets and private letters, rereading them alone while he weighed his past.",
+      "excerpt_text": "i Banchi, Rome; give me a draft for 4,998 louis on these\ngentlemen, and our banker shall take it.\u201d\n\nDanglars thought it as well to comply with a good grace, so he took the\npen, ink, and paper Peppino offered him, wrote the draft, and signed\nit.\n\n\u201cHere,\u201d he said, \u201chere is a draft at sight.\u201d\n\n\u201cAnd here is your fowl.\u201d\n\nDanglars sighed while he carved the fowl; it appeared very thin for the\nprice it had cost. As for Peppino, he examined the paper attentively,\nput it into his pocket, and continued eating his peas.\n\n\n\n Chapter 116. The Pardon\n\nThe next day Danglars was again hungry; certainly the air of that\ndungeon was very provocative of appetite. The prisoner expected that he\nwould be at no expense that day, for like an economical man he had\nconcealed half of his fowl and a piece of the bread in the corner of\nhis cell. But he had no sooner eaten than he felt thirsty; he had\nforgotten that. He struggled against his thirst till his tongue clave\nto the roof of his mouth; then, no longer able",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "110",
+      "claim_id": "110_C0",
+      "claim_text": "He kept a locked study full of revolutionary pamphlets and private letters, rereading them alone while he weighed his past.",
+      "excerpt_text": "apid motions of the fish, as it plunged and rose again with surprising\nagility. Captain Mangles gave his orders, and the sailors threw over\nthe starboard ratling a stout rope, to which was fastened a hook baited\nwith a thick piece of pork.\n\n[Sidenote: THE LAST MOUTHFUL.]\n\nThe shark, although still at a distance of fifty yards, scented the\nbait offered to his voracity. He rapidly approached the yacht. You\ncould see his fins, gray at their extremity and black at their base,\nbeat the waves with violence, while his \"caudal appendage\" kept him\nin a rigorously straight line. As he advanced, his great glaring eyes\nseemed inflamed with eagerness, and his yawning jaws, when he turned,\ndisclosed a quadruple row of teeth. His head was large, and shaped like\na double-headed hammer. Captain Mangles was right. It was a very large\nspecimen of the most rapacious family of sharks,--the \"balance fish\" of\nthe English and the \"jew-fish\" of the Proven\u00e7als.\n\n[Illustration]\n\nAll on board of the Duncan follow",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

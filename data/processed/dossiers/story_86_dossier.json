@@ -1,5 +1,70 @@
 {
-  "story_id": 86,
+  "story_id": "86",
   "prediction": 0,
-  "dossier": []
+  "dossier": [
+    {
+      "story_id": "86",
+      "claim_id": "86_C0",
+      "claim_text": "At first Glenarvan found him haughty and cold, yet observed that the man valued life and kept his word; though words were few, a fragile trust grew between them during their stand-off.",
+      "excerpt_text": "hey had not seen him for two\ndays. Signor Pastrini informed them that business had called him to\nCivita Vecchia. He had started the previous evening, and had only\nreturned an hour since. He was charming. Whether he kept a watch over\nhimself, or whether by accident he did not sound the acrimonious chords\nthat in other circumstances had been touched, he was tonight like\neverybody else.\n\nThe man was an enigma to Franz. The count must feel sure that Franz\nrecognized him; and yet he had not let fall a single word indicating\nany previous acquaintance between them. On his side, however great\nFranz\u2019s desire was to allude to their former interview, the fear of\nbeing disagreeable to the man who had loaded him and his friend with\nkindness prevented him from mentioning it.\n\nThe count had learned that the two friends had sent to secure a box at\nthe Argentina Theatre, and were told they were all let. In consequence,\nhe brought them the key of his own\u2014at least such was the apparent\nmotive of his visi",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "86",
+      "claim_id": "86_C0",
+      "claim_text": "At first Glenarvan found him haughty and cold, yet observed that the man valued life and kept his word; though words were few, a fragile trust grew between them during their stand-off.",
+      "excerpt_text": " no longer, but to have\neverything he wanted. At the end of twelve days, after having made a\nsplendid dinner, he reckoned his accounts, and found that he had only\n50,000 francs left. Then a strange reaction took place; he who had just\nabandoned 5,000,000 endeavored to save the 50,000 francs he had left,\nand sooner than give them up he resolved to enter again upon a life of\nprivation\u2014he was deluded by the hopefulness that is a premonition of\nmadness.\n\nHe, who for so long a time had forgotten God, began to think that\nmiracles were possible\u2014that the accursed cavern might be discovered by\nthe officers of the Papal States, who would release him; that then he\nwould have 50,000 remaining, which would be sufficient to save him from\nstarvation; and finally he prayed that this sum might be preserved to\nhim, and as he prayed he wept. Three days passed thus, during which his\nprayers were frequent, if not heartfelt. Sometimes he was delirious,\nand fancied he saw an old man stretched on a pallet; he",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "86",
+      "claim_id": "86_C0",
+      "claim_text": "At first Glenarvan found him haughty and cold, yet observed that the man valued life and kept his word; though words were few, a fragile trust grew between them during their stand-off.",
+      "excerpt_text": "rampart without ladders or cramping-irons.\nFortunately, the captain discovered a breach half a mile southward,\ncaused by a partial crumbling of the cliffs. Probably the sea, during\nviolent equinoctial storms, had beaten against this fragile barrier,\nand thus caused the fall of the upper portions of the mass.\n\nGlenarvan and his companions entered this opening, and reached the\nsummit of the cliffs by a very steep ascent. Robert climbed an abrupt\ndeclivity with the agility of a cat, and arrived first at the top,\nto the great chagrin of Paganel, who was quite mortified at seeing\nhimself outstripped by a mere lad of twelve. However, he distanced the\npeaceable major; but that worthy was utterly indifferent to his defeat.\n\nThe little party surveyed the plain that stretched out beneath them.\nIt was a vast, uncultivated tract, covered with bushes and brushwood,\nand was compared by Glenarvan to the glens of the Scottish lowlands,\nand by Paganel to the barren lands of Brittany. But though the cou",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "86",
+      "claim_id": "86_C0",
+      "claim_text": "At first Glenarvan found him haughty and cold, yet observed that the man valued life and kept his word; though words were few, a fragile trust grew between them during their stand-off.",
+      "excerpt_text": "ssing Noirtier.\n\n\u201cYes,\u201d looked the old man.\n\n\u201cOnce under my grandfather\u2019s roof, M. Morrel can visit me in the\npresence of my good and worthy protector, if we still feel that the\nunion we contemplated will be likely to insure our future comfort and\nhappiness; in that case I shall expect M. Morrel to come and claim me\nat my own hands. But, alas, I have heard it said that hearts inflamed\nby obstacles to their desire grew cold in time of security; I trust we\nshall never find it so in our experience!\u201d\n\n\u201cOh,\u201d cried Morrel, almost tempted to throw himself on his knees before\nNoirtier and Valentine, and to adore them as two superior beings, \u201cwhat\nhave I ever done in my life to merit such unbounded happiness?\u201d\n\n\u201cUntil that time,\u201d continued the young girl in a calm and\nself-possessed tone of voice, \u201cwe will conform to circumstances, and be\nguided by the wishes of our friends, so long as those wishes do not\ntend finally to separate us; in a word, and I repeat it, because it\nexpresses all I wish t",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "86",
+      "claim_id": "86_C0",
+      "claim_text": "At first Glenarvan found him haughty and cold, yet observed that the man valued life and kept his word; though words were few, a fragile trust grew between them during their stand-off.",
+      "excerpt_text": "might be under the care of his\nwife. As for M. Danglars, absorbed in an interesting conversation with\nM. Cavalcanti, he paid no attention to anything that was passing. While\nMonte Cristo had begged the smelling-bottle of Madame de Villefort, he\nhad noticed the approach of Villefort to Madame Danglars, and he soon\nguessed all that had passed between them, though the words had been\nuttered in so low a voice as hardly to be heard by Madame Danglars.\nWithout opposing their arrangements, he allowed Morrel, Ch\u00e2teau-Renaud,\nand Debray to leave on horseback, and the ladies in M. de Villefort\u2019s\ncarriage. Danglars, more and more delighted with Major Cavalcanti, had\noffered him a seat in his carriage. Andrea Cavalcanti found his tilbury\nwaiting at the door; the groom, in every respect a caricature of the\nEnglish fashion, was standing on tiptoe to hold a large iron-gray\nhorse.\n\nAndrea had spoken very little during dinner; he was an intelligent lad,\nand he feared to utter some absurdity before so m",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "86",
+      "claim_id": "86_C0",
+      "claim_text": "At first Glenarvan found him haughty and cold, yet observed that the man valued life and kept his word; though words were few, a fragile trust grew between them during their stand-off.",
+      "excerpt_text": " there were hundreds of them; and these three, however\nwell armed, could not advantageously contend against so many and such\nantagonists.\n\nBy the howls that resounded over the Pampas, and by the multitude of\nshadows that flitted about the plain, Glenarvan could not be mistaken\nas to the number. These animals had scented a sure prey, horse-flesh or\nhuman flesh, and not one among them would return to his lair without\nhaving his portion. The situation was, therefore, very alarming.\n\nMeanwhile the circle of wolves grew gradually narrower. The horses,\nawakened, gave signs of the liveliest terror. Thaouka alone pawed the\nground, seeking to break his halter, and ready to rush out. His master\nsucceeded in calming him only by whistling continually.\n\nGlenarvan and Robert had stationed themselves so as to defend the\nentrance of the ramada, and with their loaded rifles were about to fire\nat the first ranks of wolves, when Thalcave turned aside their weapons\nalready poised for a shot.\n\n\"What does T",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "86",
+      "claim_id": "86_C0",
+      "claim_text": "At first Glenarvan found him haughty and cold, yet observed that the man valued life and kept his word; though words were few, a fragile trust grew between them during their stand-off.",
+      "excerpt_text": "efaciendo_' is our motto.\"\n\nWith these words the discussion ended. The preparations were begun that\nvery day, and it was resolved to keep the expedition secret, in order\nnot to alarm the Indians. The 14th of October was fixed for the day of\ndeparture.\n\nWhen they came to choose the sailors who were to go, they all offered\ntheir services, and Glenarvan was forced to make a choice. He preferred\nto have them draw lots, that he might not mortify such brave men. This\nwas accordingly done; and the mate, Tom Austin, Wilson, a powerful\nfellow, and Mulready, were the fortunate ones.\n\nLord Glenarvan had displayed great energy in his preparations, for he\nwished to be ready at the day appointed; and he was. Captain Mangles\nlikewise supplied his ship with coal, that he might put to sea at any\nmoment. He wished to gain the Argentine shore before the travelers.\nHence there was a real rivalry between Glenarvan and the captain, which\nwas of advantage to both.\n\nAt last, on the 14th of October, at the tim",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "86",
+      "claim_id": "86_C0",
+      "claim_text": "At first Glenarvan found him haughty and cold, yet observed that the man valued life and kept his word; though words were few, a fragile trust grew between them during their stand-off.",
+      "excerpt_text": "ecessary to go in search of Glenarvan on\nthe mountain, and bring him in spite of his reluctance back to the\nencampment. His despair was terrible. Who would now dare to speak\nto him of departure, and propose leaving this fatal valley? But the\nprovisions were failing. They would soon meet the Argentine guides\nand horses to take them across the Pampas. To retrace their steps was\nmore difficult than to advance. Besides, the Atlantic was the place\nappointed to meet the Duncan. All these reasons did not permit a longer\ndelay, and it was for the interest of all that the hour for departure\nshould be no longer deferred.\n\nMacNabb attempted to draw Glenarvan from his grief. For a long time he\nspoke without his friend appearing to hear him. Glenarvan shook his\nhead. At length, words escaped his lips.\n\n\"Go?\" said he.\n\n\"Yes, go.\"\n\n\"One hour more!\"\n\n\"Well, one hour more,\" replied the worthy major.\n\nWhen it had passed, Glenarvan asked for another. You would have thought\na condemned man was praying for",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

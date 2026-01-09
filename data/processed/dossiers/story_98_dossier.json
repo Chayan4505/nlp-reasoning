@@ -1,4 +1,62 @@
 {
-  "story_id": 98,
-  "dossier": []
+  "story_id": "98",
+  "prediction": 1,
+  "dossier": [
+    {
+      "story_id": "98",
+      "claim_id": "98_C0",
+      "claim_text": "Hidden Waterloo-era diplomatic letters in his study ensured that political foes dared not silence him, explaining how he could still shield Valentine after losing the power of speech.",
+      "excerpt_text": "e with\nNoirtier, expressed his opinion that it was the best thing that could\nbe done; but he forbade that anything should be given to her except\nwhat he ordered.\n\nThey carried Valentine away; she had revived, but could scarcely move\nor speak, so shaken was her frame by the attack. She had, however, just\npower to give one parting look to her grandfather, who in losing her\nseemed to be resigning his very soul. D\u2019Avrigny followed the invalid,\nwrote a prescription, ordered Villefort to take a cabriolet, go in\nperson to a chemist\u2019s to get the prescribed medicine, bring it himself,\nand wait for him in his daughter\u2019s room. Then, having renewed his\ninjunction not to give Valentine anything, he went down again to\nNoirtier, shut the doors carefully, and after convincing himself that\nno one was listening:\n\n\u201cDo you,\u201d said he, \u201cknow anything of this young lady\u2019s illness?\u201d\n\n\u201cYes,\u201d said the old man.\n\n\u201cWe have no time to lose; I will question, and do you answer me.\u201d\nNoirtier made a sign that he was re",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "98",
+      "claim_id": "98_C0",
+      "claim_text": "Hidden Waterloo-era diplomatic letters in his study ensured that political foes dared not silence him, explaining how he could still shield Valentine after losing the power of speech.",
+      "excerpt_text": "len by Correggio\u2014was raised and\nturned towards him. Valentine perceived him without betraying the least\nsurprise. A heart overwhelmed with one great grief is insensible to\nminor emotions. Morrel held out his hand to her. Valentine, as her only\napology for not having met him, pointed to the corpse under the sheet,\nand began to sob again.\n\nNeither dared for some time to speak in that room. They hesitated to\nbreak the silence which death seemed to impose; at length Valentine\nventured.\n\n\u201cMy friend,\u201d said she, \u201chow came you here? Alas, I would say you are\nwelcome, had not death opened the way for you into this house.\u201d\n\n\u201cValentine,\u201d said Morrel with a trembling voice, \u201cI had waited since\nhalf-past eight, and did not see you come; I became uneasy, leaped the\nwall, found my way through the garden, when voices conversing about the\nfatal event\u2014\u2014\u201d\n\n\u201cWhat voices?\u201d asked Valentine. Morrel shuddered as he thought of the\nconversation of the doctor and M. de Villefort, and he thought he could\nsee thro",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "98",
+      "claim_id": "98_C0",
+      "claim_text": "Hidden Waterloo-era diplomatic letters in his study ensured that political foes dared not silence him, explaining how he could still shield Valentine after losing the power of speech.",
+      "excerpt_text": "oirtier to receive news of Valentine,\nand, extraordinary as it seemed, each day found him less uneasy.\nCertainly, though Valentine still labored under dreadful nervous\nexcitement, she was better; and moreover, Monte Cristo had told him\nwhen, half distracted, he had rushed to the count\u2019s house, that if she\nwere not dead in two hours she would be saved. Now four days had\nelapsed, and Valentine still lived.\n\nThe nervous excitement of which we speak pursued Valentine even in her\nsleep, or rather in that state of somnolence which succeeded her waking\nhours; it was then, in the silence of night, in the dim light shed from\nthe alabaster lamp on the chimney-piece, that she saw the shadows pass\nand repass which hover over the bed of sickness, and fan the fever with\ntheir trembling wings. First she fancied she saw her stepmother\nthreatening her, then Morrel stretched his arms towards her; sometimes\nmere strangers, like the Count of Monte Cristo came to visit her; even\nthe very furniture, in thes",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "98",
+      "claim_id": "98_C0",
+      "claim_text": "Hidden Waterloo-era diplomatic letters in his study ensured that political foes dared not silence him, explaining how he could still shield Valentine after losing the power of speech.",
+      "excerpt_text": "eakfast somewhere.\u201d\n\n\u201cBut if I am not hungry?\u201d said the young man.\n\n\u201cOh,\u201d said the count, \u201cI only know two things which destroy the\nappetite,\u2014grief\u2014and as I am happy to see you very cheerful, it is not\nthat\u2014and love. Now after what you told me this morning of your heart, I\nmay believe\u2014\u2014\u201d\n\n\u201cWell, count,\u201d replied Morrel gayly, \u201cI will not dispute it.\u201d\n\n\u201cBut you will not make me your confidant, Maximilian?\u201d said the count,\nin a tone which showed how gladly he would have been admitted to the\nsecret.\n\n\u201cI showed you this morning that I had a heart, did I not, count?\u201d Monte\nCristo only answered by extending his hand to the young man. \u201cWell,\u201d\ncontinued the latter, \u201csince that heart is no longer with you in the\nBois de Vincennes, it is elsewhere, and I must go and find it.\u201d\n\n\u201cGo,\u201d said the count deliberately; \u201cgo, dear friend, but promise me if\nyou meet with any obstacle to remember that I have some power in this\nworld, that I am happy to use that power in the behalf of those I love,\nand that I",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "98",
+      "claim_id": "98_C0",
+      "claim_text": "Hidden Waterloo-era diplomatic letters in his study ensured that political foes dared not silence him, explaining how he could still shield Valentine after losing the power of speech.",
+      "excerpt_text": ",\u2014a grain of sand, a straw, or a\nbreath of air that annoyed him, led to paroxysms of fury. Then the\nletter that Villefort had showed to him recurred to his mind, and every\nline gleamed forth in fiery letters on the wall like the _mene, mene,\ntekel upharsin_ of Belshazzar. He told himself that it was the enmity\nof man, and not the vengeance of Heaven, that had thus plunged him into\nthe deepest misery. He consigned his unknown persecutors to the most\nhorrible tortures he could imagine, and found them all insufficient,\nbecause after torture came death, and after death, if not repose, at\nleast the boon of unconsciousness.\n\nBy dint of constantly dwelling on the idea that tranquillity was death,\nand if punishment were the end in view other tortures than death must\nbe invented, he began to reflect on suicide. Unhappy he, who, on the\nbrink of misfortune, broods over ideas like these!\n\nBefore him is a dead sea that stretches in azure calm before the eye;\nbut he who unwarily ventures within its ",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "98",
+      "claim_id": "98_C0",
+      "claim_text": "Hidden Waterloo-era diplomatic letters in his study ensured that political foes dared not silence him, explaining how he could still shield Valentine after losing the power of speech.",
+      "excerpt_text": ". But I do not see the\nCount of Monte Cristo here.\u201d\n\n\u201cHe is worn out,\u201d said Debray; \u201cbesides, he could not well appear in\npublic, since he has been the dupe of the Cavalcanti, who, it appears,\npresented themselves to him with false letters of credit, and cheated\nhim out of 100,000 francs upon the hypothesis of this principality.\u201d\n\n\u201cBy the way, M. de Ch\u00e2teau-Renaud,\u201d asked Beauchamp, \u201chow is Morrel?\u201d\n\n\u201c_Ma foi_, I have called three times without once seeing him. Still,\nhis sister did not seem uneasy, and told me that though she had not\nseen him for two or three days, she was sure he was well.\u201d\n\n\u201cAh, now I think of it, the Count of Monte Cristo cannot appear in the\nhall,\u201d said Beauchamp.\n\n\u201cWhy not?\u201d\n\n\u201cBecause he is an actor in the drama.\u201d\n\n\u201cHas he assassinated anyone, then?\u201d\n\n\u201cNo, on the contrary, they wished to assassinate him. You know that it\nwas in leaving his house that M. de Caderousse was murdered by his\nfriend Benedetto. You know that the famous waistcoat was found in his\nhouse, ",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "98",
+      "claim_id": "98_C0",
+      "claim_text": "Hidden Waterloo-era diplomatic letters in his study ensured that political foes dared not silence him, explaining how he could still shield Valentine after losing the power of speech.",
+      "excerpt_text": "ve said, been with his master for\nfive-and-twenty years, therefore he knew all his habits, and it was\nseldom that Noirtier found it necessary to ask for anything, so prompt\nwas he in administering to all the necessities of the invalid.\n\nVillefort did not need the help of either Valentine or the domestic in\norder to carry on with his father the strange conversation which he was\nabout to begin. As we have said, he perfectly understood the old man\u2019s\nvocabulary, and if he did not use it more often, it was only\nindifference and _ennui_ which prevented him from so doing. He\ntherefore allowed Valentine to go into the garden, sent away Barrois,\nand after having seated himself at his father\u2019s right hand, while\nMadame de Villefort placed herself on the left, he addressed him thus:\n\n\u201cI trust you will not be displeased, sir, that Valentine has not come\nwith us, or that I dismissed Barrois, for our conference will be one\nwhich could not with propriety be carried on in the presence of either.\nMadame",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

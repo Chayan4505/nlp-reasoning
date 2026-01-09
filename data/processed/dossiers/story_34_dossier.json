@@ -1,4 +1,70 @@
 {
-  "story_id": 34,
-  "dossier": []
+  "story_id": "34",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "34",
+      "claim_id": "34_C0",
+      "claim_text": "He found ship\u2019s papers that mentioned an illicit Australian land deal by a British peer and planned to trade the information for a pardon.",
+      "excerpt_text": "6m\n\n\n\nShe pointed to each letter of the alphabet. At the letter S the old man\nstopped her. She opened, and found the word \u201csecret.\u201d\n\n\u201cAh! is there a secret spring?\u201d said Valentine.\n\n\u201cYes,\u201d said Noirtier.\n\n\u201cAnd who knows it?\u201d Noirtier looked at the door where the servant had\ngone out.\n\n\u201cBarrois?\u201d said she.\n\n\u201cYes.\u201d\n\n\u201cShall I call him?\u201d\n\n\u201cYes.\u201d\n\nValentine went to the door, and called Barrois. Villefort\u2019s impatience\nduring this scene made the perspiration roll from his forehead, and\nFranz was stupefied. The old servant came.\n\n\u201cBarrois,\u201d said Valentine, \u201cmy grandfather has told me to open that\ndrawer in the secretaire, but there is a secret spring in it, which you\nknow\u2014will you open it?\u201d\n\nBarrois looked at the old man. \u201cObey,\u201d said Noirtier\u2019s intelligent eye.\nBarrois touched a spring, the false bottom came out, and they saw a\nbundle of papers tied with a black string.\n\n\u201cIs that what you wish for?\u201d said Barrois.\n\n\u201cYes.\u201d\n\n\u201cShall I give these papers to M. de Villefort?\u201d\n\n\u201cNo.\u201d\n\n\u201cTo Mademoisell",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "34",
+      "claim_id": "34_C0",
+      "claim_text": "He found ship\u2019s papers that mentioned an illicit Australian land deal by a British peer and planned to trade the information for a pardon.",
+      "excerpt_text": "the\nChamps-\u00c9lys\u00e9es is his own property, and certainly it was very decently\nkept up. But,\u201d pursued Danglars with one of his sinister smiles, \u201can\norder for unlimited credit calls for something like caution on the part\nof the banker to whom that order is given. I am very anxious to see\nthis man. I suspect a hoax is intended, but the instigators of it\nlittle knew whom they had to deal with. \u2018They laugh best who laugh\nlast!\u2019\u201d\n\nHaving delivered himself of this pompous address, uttered with a degree\nof energy that left the baron almost out of breath, he bowed to the\nassembled party and withdrew to his drawing-room, whose sumptuous\nfurnishings of white and gold had caused a great sensation in the\nChauss\u00e9e d\u2019Antin. It was to this apartment he had desired his guest to\nbe shown, with the purpose of overwhelming him at the sight of so much\nluxury. He found the count standing before some copies of Albano and\nFattore that had been passed off to the banker as originals; but which,\nmere copies as they",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "34",
+      "claim_id": "34_C0",
+      "claim_text": "He found ship\u2019s papers that mentioned an illicit Australian land deal by a British peer and planned to trade the information for a pardon.",
+      "excerpt_text": "to\ndenounce these wretched criminals who are unworthy of the honor\nbestowed on them.\u201d\n\nBeauchamp was thunderstruck.\n\n\u201cWho, then, has so correctly informed you?\u201d asked he; \u201cfor my paper,\nwhich gave the first information on the subject, has been obliged to\nstop for want of proof; and yet we are more interested than you in\nexposing M. de Morcerf, as he is a peer of France, and we are of the\nopposition.\u201d\n\n\u201cOh, that is very simple; we have not sought to scandalize. This news\nwas brought to us. A man arrived yesterday from Yanina, bringing a\nformidable array of documents; and when we hesitated to publish the\naccusatory article, he told us it should be inserted in some other\npaper.\u201d\n\nBeauchamp understood that nothing remained but to submit, and left the\noffice to despatch a courier to Morcerf. But he had been unable to send\nto Albert the following particulars, as the events had transpired after\nthe messenger\u2019s departure; namely, that the same day a great agitation\nwas manifest in the House of",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "34",
+      "claim_id": "34_C0",
+      "claim_text": "He found ship\u2019s papers that mentioned an illicit Australian land deal by a British peer and planned to trade the information for a pardon.",
+      "excerpt_text": "hat could he say that had not been repeated\na hundred times already? Glenarvan was, therefore, about to open the\nconversation on a new topic, to profit by the information received from\nAyrton, when the major, addressing him, said:\n\n\"You were quartermaster of the Britannia?\"\n\n\"Yes,\" replied Ayrton.\n\nBut perceiving that a certain feeling of distrust, a doubt, however\nslight, had suggested this inquiry, he added,--\n\n\"I saved my contract from the wreck.\"\n\nHe immediately left the room in search of this authoritative document.\nDuring his absence, which lasted but a few moments, Mr. O'Moore said:\n\n\"My lord, I will answer for it that Ayrton is an honest man. During the\ntwo months that he has been in my employ, I have had no fault to find\nwith him. I knew the story of his shipwreck and captivity. He is a true\nman, and worthy of your entire confidence.\"\n\nGlenarvan was about to answer that he had never doubted Ayrton's\nhonesty, when the latter returned and presented his contract. It was a\npaper s",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "34",
+      "claim_id": "34_C0",
+      "claim_text": "He found ship\u2019s papers that mentioned an illicit Australian land deal by a British peer and planned to trade the information for a pardon.",
+      "excerpt_text": "Spada was\nsingularly circumstantial, and Dant\u00e8s repeated it to himself, from one\nend to the other, for he had not forgotten a word.\n\n0285m\n\n\n\nEvening came, and Edmond saw the island tinged with the shades of\ntwilight, and then disappear in the darkness from all eyes but his own,\nfor he, with vision accustomed to the gloom of a prison, continued to\nbehold it last of all, for he remained alone upon deck. The next morn\nbroke off the coast of Aleria; all day they coasted, and in the evening\nsaw fires lighted on land; the position of these was no doubt a signal\nfor landing, for a ship\u2019s lantern was hung up at the mast-head instead\nof the streamer, and they came to within a gunshot of the shore. Dant\u00e8s\nnoticed that the captain of _La Jeune Am\u00e9lie_ had, as he neared the\nland, mounted two small culverins, which, without making much noise,\ncan throw a four ounce ball a thousand paces or so.\n\nBut on this occasion the precaution was superfluous, and everything\nproceeded with the utmost smoothness",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "34",
+      "claim_id": "34_C0",
+      "claim_text": "He found ship\u2019s papers that mentioned an illicit Australian land deal by a British peer and planned to trade the information for a pardon.",
+      "excerpt_text": "es; when I am dead, place a pistol\nin my right hand, and leave me without burial.\" His forebodings were\nrealized, and the next morning he died. King, in despair, went in\nsearch of some Australian tribe, for now Wills had begun to sink,\nand he shortly afterwards died also. At length the sole survivor was\nrescued by an expedition sent out in search of Burke; and thus the sad\ntale was told of this Australian tragedy.\n\n[Illustration: \"When I am dead, place a pistol in my right hand, and\nleave me without burial.\" His forebodings were realized, and the next\nmorning he died.]\n\nThe narrative concerning Stuart was a less melancholy one, though the\ntrials endured on his expedition were likewise great. Aided by the\nparliament of South Australia, he likewise proceeded northward,\nin the year 1862, about seven degrees to the west of the line taken\nby Burke. He found his route to be a more accessible and easy one\nthan the other, and was rewarded for his toil when, on the 24th of\nJuly, he beheld the w",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "34",
+      "claim_id": "34_C0",
+      "claim_text": "He found ship\u2019s papers that mentioned an illicit Australian land deal by a British peer and planned to trade the information for a pardon.",
+      "excerpt_text": " injuries cannot yet have been repaired. I think,\ntherefore, that it would be better to wait.\"\n\n\"Well,\" replied Ayrton, without further remark.\n\nThe next day the little party, armed and ready for any emergency, left\nSeymour, and half an hour after re-entered the forest of eucalyptuses,\nwhich appeared again towards the east. Glenarvan would have preferred\nto travel in the open country, for a plain is less favorable to sudden\nattacks and ambuscades than a thick wood. But they had no alternative;\nand the cart kept on all day between the tall, monotonous trees, and at\nevening encamped on the borders of the district of Murray.\n\nThey were now setting foot on one of the least frequented portions of\nthe Australian continent, a vast uninhabited region stretching away to\nthe Australian Alps. At some future day its forests will be leveled,\nand the home of the colonist will stand where now all is desolation;\nbut at present it is a desert. In this region is situated the so-styled\n\"reserve for the b",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "34",
+      "claim_id": "34_C0",
+      "claim_text": "He found ship\u2019s papers that mentioned an illicit Australian land deal by a British peer and planned to trade the information for a pardon.",
+      "excerpt_text": "n these Australian Alps----?\" asked Lady Helena.\n\n\"Are miniature mountains,\" continued Paganel. \"You will cross them\nwithout noticing it.\"\n\nThe next day, in spite of the assurances of the confident geographer,\nthe little party found great difficulty in crossing the mountains. They\nwere forced to advance at a venture, and descend into deep and narrow\ngorges that, for aught they knew, might end in a wall of rock. Ayrton\nwould doubtless have been eventually nonplused had they not, after an\nhour's climbing, caught sight of a tavern on one of the paths of the\nmountain.\n\n\"Well!\" said Paganel, as they reached the hostelry, \"the proprietor of\nthis inn cannot make a great fortune in such a place. Of what use can\nhe be?\"\n\n\"To give us the information we need for our journey,\" replied\nGlenarvan. \"Let us go in.\"\n\nGlenarvan, followed by Ayrton, entered the tavern. The landlord of\n\"Bush Inn\" was a coarse man, of forbidding appearance, who had to\nconsider himself as the principal customer for the gin,",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

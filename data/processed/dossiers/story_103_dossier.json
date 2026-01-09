@@ -1,5 +1,54 @@
 {
-  "story_id": 103,
-  "prediction": 1,
-  "dossier": []
+  "story_id": "103",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "103",
+      "claim_id": "103_C0",
+      "claim_text": "As Napoleon climbed toward dictatorship Noirtier distanced himself from former comrades and grew wary of power\u2019s corruption.",
+      "excerpt_text": "rampart without ladders or cramping-irons.\nFortunately, the captain discovered a breach half a mile southward,\ncaused by a partial crumbling of the cliffs. Probably the sea, during\nviolent equinoctial storms, had beaten against this fragile barrier,\nand thus caused the fall of the upper portions of the mass.\n\nGlenarvan and his companions entered this opening, and reached the\nsummit of the cliffs by a very steep ascent. Robert climbed an abrupt\ndeclivity with the agility of a cat, and arrived first at the top,\nto the great chagrin of Paganel, who was quite mortified at seeing\nhimself outstripped by a mere lad of twelve. However, he distanced the\npeaceable major; but that worthy was utterly indifferent to his defeat.\n\nThe little party surveyed the plain that stretched out beneath them.\nIt was a vast, uncultivated tract, covered with bushes and brushwood,\nand was compared by Glenarvan to the glens of the Scottish lowlands,\nand by Paganel to the barren lands of Brittany. But though the cou",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "103",
+      "claim_id": "103_C0",
+      "claim_text": "As Napoleon climbed toward dictatorship Noirtier distanced himself from former comrades and grew wary of power\u2019s corruption.",
+      "excerpt_text": "ned grandeur of the Colosseum. And the more he thought, the more\nentire was his conviction, that the person who wore the mantle was no\nother than his former host and entertainer, \u201cSinbad the Sailor.\u201d\n\n20139m\n\n\n\nUnder any other circumstances, Franz would have found it impossible to\nresist his extreme curiosity to know more of so singular a personage,\nand with that intent have sought to renew their short acquaintance; but\nin the present instance, the confidential nature of the conversation he\nhad overheard made him, with propriety, judge that his appearance at\nsuch a time would be anything but agreeable. As we have seen,\ntherefore, he permitted his former host to retire without attempting a\nrecognition, but fully promising himself a rich indemnity for his\npresent forbearance should chance afford him another opportunity.\n\nIn vain did Franz endeavor to forget the many perplexing thoughts which\nassailed him; in vain did he court the refreshment of sleep. Slumber\nrefused to visit his eyelids",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "103",
+      "claim_id": "103_C0",
+      "claim_text": "As Napoleon climbed toward dictatorship Noirtier distanced himself from former comrades and grew wary of power\u2019s corruption.",
+      "excerpt_text": "l, and reaching the forest, he would, under\npretence of making studies in painting, test the hospitality of some\npeasants, procure himself the dress of a woodcutter and a hatchet,\ncasting off the lion\u2019s skin to assume that of the woodman; then, with\nhis hands covered with dirt, his hair darkened by means of a leaden\ncomb, his complexion embrowned with a preparation for which one of his\nold comrades had given him the recipe, he intended, by following the\nwooded districts, to reach the nearest frontier, walking by night and\nsleeping in the day in the forests and quarries, and only entering\ninhabited regions to buy a loaf from time to time.\n\nOnce past the frontier, Andrea proposed making money of his diamonds;\nand by uniting the proceeds to ten bank-notes he always carried about\nwith him in case of accident, he would then find himself possessor of\nabout 50,000 livres, which he philosophically considered as no very\ndeplorable condition after all. Moreover, he reckoned much on the\ninterest ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "103",
+      "claim_id": "103_C0",
+      "claim_text": "As Napoleon climbed toward dictatorship Noirtier distanced himself from former comrades and grew wary of power\u2019s corruption.",
+      "excerpt_text": "something of that kind.\u201d\n\n\u201cMy father has been a Jacobin more than anything else,\u201d said Villefort,\ncarried by his emotion beyond the bounds of prudence; \u201cand the\nsenator\u2019s robe, which Napoleon cast on his shoulders, only served to\ndisguise the old man without in any degree changing him. When my father\nconspired, it was not for the emperor, it was against the Bourbons; for\nM. Noirtier possessed this peculiarity, he never projected any Utopian\nschemes which could never be realized, but strove for possibilities,\nand he applied to the realization of these possibilities the terrible\ntheories of The Mountain,\u2014theories that never shrank from any means\nthat were deemed necessary to bring about the desired result.\u201d\n\n\u201cWell,\u201d said Monte Cristo, \u201cit is just as I thought; it was politics\nwhich brought Noirtier and M. d\u2019\u00c9pinay into personal contact. Although\nGeneral d\u2019\u00c9pinay served under Napoleon, did he not still retain\nroyalist sentiments? And was he not the person who was assassinated one\nevening ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "103",
+      "claim_id": "103_C0",
+      "claim_text": "As Napoleon climbed toward dictatorship Noirtier distanced himself from former comrades and grew wary of power\u2019s corruption.",
+      "excerpt_text": "y clear,\nowing to the constant presence of M. Noirtier, who caused himself to be\ncarried to his granddaughter\u2019s room, and watched her with his paternal\ntenderness; Villefort also, on his return from the law courts,\nfrequently passed an hour or two with his father and child.\n\nAt six o\u2019clock Villefort retired to his study, at eight M. d\u2019Avrigny\nhimself arrived, bringing the night draught prepared for the young\ngirl, and then M. Noirtier was carried away. A nurse of the doctor\u2019s\nchoice succeeded them, and never left till about ten or eleven o\u2019clock,\nwhen Valentine was asleep. As she went downstairs she gave the keys of\nValentine\u2019s room to M. de Villefort, so that no one could reach the\nsick-room excepting through that of Madame de Villefort and little\nEdward.\n\nEvery morning Morrel called on Noirtier to receive news of Valentine,\nand, extraordinary as it seemed, each day found him less uneasy.\nCertainly, though Valentine still labored under dreadful nervous\nexcitement, she was better; and ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "103",
+      "claim_id": "103_C0",
+      "claim_text": "As Napoleon climbed toward dictatorship Noirtier distanced himself from former comrades and grew wary of power\u2019s corruption.",
+      "excerpt_text": "daughter, Mademoiselle de\nVillefort; it is she who has nursed and tended him for six years, and\nhas, by her devoted attention, fully secured the affection, I had\nalmost said the gratitude, of her grandfather, and it is but just that\nshe should reap the fruit of her devotion.\u201d\n\nThe eye of Noirtier clearly showed by its expression that he was not\ndeceived by the false assent given by Madame de Villefort\u2019s words and\nmanner to the motives which she supposed him to entertain.\n\n\u201cIs it, then, to Mademoiselle Valentine de Villefort that you leave\nthese 900,000 francs?\u201d demanded the notary, thinking he had only to\ninsert this clause, but waiting first for the assent of Noirtier, which\nit was necessary should be given before all the witnesses of this\nsingular scene.\n\nValentine, when her name was made the subject of discussion, had\nstepped back, to escape unpleasant observation; her eyes were cast\ndown, and she was crying. The old man looked at her for an instant with\nan expression of the deepest",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

@@ -1,4 +1,70 @@
 {
-  "story_id": 76,
-  "dossier": []
+  "story_id": "76",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "76",
+      "claim_id": "76_C0",
+      "claim_text": "He carried a European pocket-watch taken from the French mate, its inner lid holding a lock of Julia\u2019s hair, which explained both his grasp of mechanical time and his disgust for Christian objects.",
+      "excerpt_text": "Andrea, as calmly as possible; \u201cthen I\nbecame a thief, and lately have become an assassin.\u201d\n\nA murmur, or rather storm, of indignation burst from all parts of the\nassembly. The judges themselves appeared to be stupefied, and the jury\nmanifested tokens of disgust for a cynicism so unexpected in a man of\nfashion. M. de Villefort pressed his hand upon his brow, which, at\nfirst pale, had become red and burning; then he suddenly arose and\nlooked around as though he had lost his senses\u2014he wanted air.\n\n50183m\n\n\n\n\u201cAre you looking for anything, Mr. Procureur?\u201d asked Benedetto, with\nhis most ingratiating smile.\n\nM. de Villefort answered nothing, but sat, or rather threw himself down\nagain upon his chair.\n\n\u201cAnd now, prisoner, will you consent to tell your name?\u201d said the\npresident. \u201cThe brutal affectation with which you have enumerated and\nclassified your crimes calls for a severe reprimand on the part of the\ncourt, both in the name of morality, and for the respect due to\nhumanity. You appear to ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "76",
+      "claim_id": "76_C0",
+      "claim_text": "He carried a European pocket-watch taken from the French mate, its inner lid holding a lock of Julia\u2019s hair, which explained both his grasp of mechanical time and his disgust for Christian objects.",
+      "excerpt_text": "field of wheat, by its superior strength forcing every ear to yield\nobeisance. As for me, it made me tremble. This voice was that of my\nfather. He came last, clothed in his splendid robes and holding in his\nhand the carbine which your emperor presented him. He was leaning on\nthe shoulder of his favorite Selim, and he drove us all before him, as\na shepherd would his straggling flock. My father,\u201d said Hayd\u00e9e, raising\nher head, \u201cwas that illustrious man known in Europe under the name of\nAli Tepelini, pasha of Yanina, and before whom Turkey trembled.\u201d\n\nAlbert, without knowing why, started on hearing these words pronounced\nwith such a haughty and dignified accent; it appeared to him as if\nthere was something supernaturally gloomy and terrible in the\nexpression which gleamed from the brilliant eyes of Hayd\u00e9e at this\nmoment; she appeared like a Pythoness evoking a spectre, as she\nrecalled to his mind the remembrance of the fearful death of this man,\nto the news of which all Europe had listene",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "76",
+      "claim_id": "76_C0",
+      "claim_text": "He carried a European pocket-watch taken from the French mate, its inner lid holding a lock of Julia\u2019s hair, which explained both his grasp of mechanical time and his disgust for Christian objects.",
+      "excerpt_text": "his small staff was quite equal to all the\nrequirements, for a canal between Beaucaire and Aiguemortes had\nrevolutionized transportation by substituting boats for the cart and\nthe stagecoach. And, as though to add to the daily misery which this\nprosperous canal inflicted on the unfortunate innkeeper, whose utter\nruin it was fast accomplishing, it was situated between the Rh\u00f4ne from\nwhich it had its source and the post-road it had depleted, not a\nhundred steps from the inn, of which we have given a brief but faithful\ndescription.\n\nThe innkeeper himself was a man of from forty to fifty-five years of\nage, tall, strong, and bony, a perfect specimen of the natives of those\nsouthern latitudes; he had dark, sparkling, and deep-set eyes, hooked\nnose, and teeth white as those of a carnivorous animal; his hair, like\nhis beard, which he wore under his chin, was thick and curly, and in\nspite of his age but slightly interspersed with a few silvery threads.\nHis naturally dark complexion had assumed ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "76",
+      "claim_id": "76_C0",
+      "claim_text": "He carried a European pocket-watch taken from the French mate, its inner lid holding a lock of Julia\u2019s hair, which explained both his grasp of mechanical time and his disgust for Christian objects.",
+      "excerpt_text": "he had finished his\nrecital, \"let us think of the present. Let us return to the subject of\nCaptain Grant.\"\n\nWhen breakfast was over, the party repaired to Lady Helena's\nstate-room, and, taking seats around a table loaded with maps and\ncharts, resumed the conversation. Glenarvan explained that the\nshipwreck had not taken place on the shores either of the Pacific or\nthe Atlantic, and that, consequently, the document had been wrongly\ninterpreted so far as Patagonia was concerned; that Paganel, by a\nsudden inspiration, had discovered the mistake and proved that they had\nbeen following a false trail. The geographer was accordingly asked to\nexplain the French document, which he did to the satisfaction of every\none. When he had finished his demonstration, Glenarvan announced that\nthe Duncan would immediately set sail for Australia.\n\nThe major, however, before the order was given, asked permission to\nmake a single remark.\n\n\"Speak, major,\" said Glenarvan.\n\n\"My object,\" said MacNabb, \"is not to ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "76",
+      "claim_id": "76_C0",
+      "claim_text": "He carried a European pocket-watch taken from the French mate, its inner lid holding a lock of Julia\u2019s hair, which explained both his grasp of mechanical time and his disgust for Christian objects.",
+      "excerpt_text": "raph in a\nnewspaper may exasperate one. Read that,\u201d said he, \u201cwhen I am gone,\nthat you may not be witness of my anger.\u201d\n\nWhile the count picked up the paper he put spurs to his horse, which\nleaped in astonishment at such an unusual stimulus, and shot away with\nthe rapidity of an arrow. The count watched him with a feeling of\ncompassion, and when he had completely disappeared, read as follows:\n\n\u201cThe French officer in the service of Ali Pasha of Yanina alluded to\nthree weeks since in _l\u2019Impartial_, who not only surrendered the castle\nof Yanina, but sold his benefactor to the Turks, styled himself truly\nat that time Fernand, as our esteemed contemporary states; but he has\nsince added to his Christian name a title of nobility and a family\nname. He now calls himself the Count of Morcerf, and ranks among the\npeers.\u201d\n\nThus the terrible secret, which Beauchamp had so generously destroyed,\nappeared again like an armed phantom; and another paper, deriving its\ninformation from some malicious sour",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "76",
+      "claim_id": "76_C0",
+      "claim_text": "He carried a European pocket-watch taken from the French mate, its inner lid holding a lock of Julia\u2019s hair, which explained both his grasp of mechanical time and his disgust for Christian objects.",
+      "excerpt_text": "s country the average number of children in a family\nexceeds nine. But what surprised him exceedingly was to see these\nlittle soldiers practicing the French tactics, and to hear the orders\nof the corporal given in his own native language.\n\n\"This is singular,\" said he.\n\nBut Glenarvan had not come to see boys drill, still less to occupy\nhimself with their nationality or relationship. He did not, therefore,\ngive Paganel time to express further astonishment, but besought him\nto ask for the commander of the fortress. Paganel did so, and one of\nthe soldiers proceeded towards a small building which served as the\nbarracks.\n\nA few moments after, the commander appeared in person. He was a man\nof fifty, robust, with a military air, thick whiskers, prominent\ncheek-bones, gray hair, and commanding look, so far as one could judge\nthrough the clouds of smoke that issued from his short pipe.\n\nThalcave, addressing him, introduced Lord Glenarvan and his companions.\nWhile he spoke, the commander kept scr",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "76",
+      "claim_id": "76_C0",
+      "claim_text": "He carried a European pocket-watch taken from the French mate, its inner lid holding a lock of Julia\u2019s hair, which explained both his grasp of mechanical time and his disgust for Christian objects.",
+      "excerpt_text": "tion.\n\nBut Paganel had not finished his inquiries. Where was this prisoner?\nWhat was he doing? When had Thalcave heard of him? All these questions\nthronged his mind at once. He did not have to wait long for answers,\nbut learnt that the European was a slave of one of the Indian tribes\nthat scour the plains.\n\n\"But where was he last?\" asked Paganel.\n\n\"With the cazique Calfoucoura,\" answered Thalcave.\n\n\"On the line we have been following?\"\n\n\"Yes.\"\n\n\"And who is this cazique?\"\n\n\"The chief of the Poyuches Indians; a man with two tongues and two\nhearts.\"\n\n[Sidenote: A SCIENTIFIC BATH.]\n\n\"That is to say, false in word and in deed,\" said Paganel, after\ntranslating to his companions this beautiful metaphor of the Indian\nlanguage. \"And can we rescue our friend?\" he added.\n\n\"Perhaps so, if your friend is still in the hands of the Indians.\"\n\n\"And when did you hear of him?\"\n\n\"A long time ago, and, since then, the sun has brought back two summers\nto the sky.\"\n\nGlenarvan's joy could not be described. T",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "76",
+      "claim_id": "76_C0",
+      "claim_text": "He carried a European pocket-watch taken from the French mate, its inner lid holding a lock of Julia\u2019s hair, which explained both his grasp of mechanical time and his disgust for Christian objects.",
+      "excerpt_text": "de an officer.\u201d\n\n\u201cCome,\u201d said Monte Cristo, \u201cthis cross seems to me to be wisely\nawarded. I suppose, had he found another additional vertebra, they\nwould have made him a commander.\u201d\n\n\u201cVery likely,\u201d said Albert.\n\n\u201cAnd who can that person be who has taken it into his head to wrap\nhimself up in a blue coat embroidered with green?\u201d\n\n\u201cOh, that coat is not his own idea; it is the Republic\u2019s, which deputed\nDavid12 to devise a uniform for the Academicians.\u201d\n\n\u201cIndeed?\u201d said Monte Cristo; \u201cso this gentleman is an Academician?\u201d\n\n\u201cWithin the last week he has been made one of the learned assembly.\u201d\n\n\u201cAnd what is his especial talent?\u201d\n\n\u201cHis talent? I believe he thrusts pins through the heads of rabbits, he\nmakes fowls eat madder, and punches the spinal marrow out of dogs with\nwhalebone.\u201d\n\n\u201cAnd he is made a member of the Academy of Sciences for this?\u201d\n\n\u201cNo; of the French Academy.\u201d\n\n\u201cBut what has the French Academy to do with all this?\u201d\n\n\u201cI was going to tell you. It seems\u2014\u2014\u201d\n\n\u201cThat his experiments hav",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

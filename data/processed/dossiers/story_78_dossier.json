@@ -1,5 +1,126 @@
 {
-  "story_id": 78,
-  "prediction": 1,
-  "dossier": []
+  "story_id": "78",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "78",
+      "claim_id": "78_C0",
+      "claim_text": "His father guarded the island\u2019s paramount chief; his mother, a princess from a neighbouring island, came in marriage to seal an alliance.",
+      "excerpt_text": "emperor, from the French lord, the Count of Monte Cristo, an emerald\nvalued at eight hundred thousand francs; as the ransom of a young\nChristian slave of eleven years of age, named Hayd\u00e9e, the acknowledged\ndaughter of the late lord Ali Tepelini, pasha of Yanina, and of\nVasiliki, his favorite; she having been sold to me seven years\npreviously, with her mother, who had died on arriving at\nConstantinople, by a French colonel in the service of the Vizier Ali\nTepelini, named Fernand Mondego. The above-mentioned purchase was made\non his highness\u2019s account, whose mandate I had, for the sum of four\nhundred thousand francs.\n\n\u201c\u2018Given at Constantinople, by authority of his highness, in the year\n1247 of the Hegira.\n\n\u201c\u2018Signed, El-Kobbir.\u2019\n\n\u201c\u2018That this record should have all due authority, it shall bear the\nimperial seal, which the vendor is bound to have affixed to it.\u2019\n\n\u201cNear the merchant\u2019s signature there was, indeed, the seal of the\nsublime emperor. A dreadful silence followed the reading of thi",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "78",
+      "claim_id": "78_C0",
+      "claim_text": "His father guarded the island\u2019s paramount chief; his mother, a princess from a neighbouring island, came in marriage to seal an alliance.",
+      "excerpt_text": " called for me at seven o\u2019clock, and, before anyone\nhad arrived, asked one of the door-keepers to place me in a box. I was\nconcealed by a column, and might witness the whole of the terrible\nscene which was about to take place. At eight o\u2019clock all were in their\nplaces, and M. de Morcerf entered at the last stroke. He held some\npapers in his hand; his countenance was calm, and his step firm, and he\nwas dressed with great care in his military uniform, which was buttoned\ncompletely up to the chin. His presence produced a good effect. The\ncommittee was made up of Liberals, several of whom came forward to\nshake hands with him.\u201d\n\nAlbert felt his heart bursting at these particulars, but gratitude\nmingled with his sorrow: he would gladly have embraced those who had\ngiven his father this proof of esteem at a moment when his honor was so\npowerfully attacked.\n\n\u201cAt this moment one of the door-keepers brought in a letter for the\npresident. \u2018You are at liberty to speak, M. de Morcerf,\u2019 said the\npres",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "78",
+      "claim_id": "78_C0",
+      "claim_text": "His father guarded the island\u2019s paramount chief; his mother, a princess from a neighbouring island, came in marriage to seal an alliance.",
+      "excerpt_text": " to carry it off.\n\nThe day came at length, and was almost as feverish as the night had\nbeen, but it brought reason to the aid of imagination, and Dant\u00e8s was\nthen enabled to arrange a plan which had hitherto been vague and\nunsettled in his brain. Night came, and with it the preparation for\ndeparture, and these preparations served to conceal Dant\u00e8s\u2019 agitation.\nHe had by degrees assumed such authority over his companions that he\nwas almost like a commander on board; and as his orders were always\nclear, distinct, and easy of execution, his comrades obeyed him with\ncelerity and pleasure.\n\nThe old patron did not interfere, for he too had recognized the\nsuperiority of Dant\u00e8s over the crew and himself. He saw in the young\nman his natural successor, and regretted that he had not a daughter,\nthat he might have bound Edmond to him by a more secure alliance. At\nseven o\u2019clock in the evening all was ready, and at ten minutes past\nseven they doubled the lighthouse just as the beacon was kindled. The\n",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "78",
+      "claim_id": "78_C0",
+      "claim_text": "His father guarded the island\u2019s paramount chief; his mother, a princess from a neighbouring island, came in marriage to seal an alliance.",
+      "excerpt_text": "drea, that the season of your youth was\nrather a stormy one. Ah,\u201d said the count, watching Andrea\u2019s\ncountenance, \u201cI do not demand any confession from you; it is precisely\nto avoid that necessity that your father was sent for from Lucca. You\nshall soon see him. He is a little stiff and pompous in his manner, and\nhe is disfigured by his uniform; but when it becomes known that he has\nbeen for eighteen years in the Austrian service, all that will be\npardoned. We are not generally very severe with the Austrians. In\nshort, you will find your father a very presentable person, I assure\nyou.\u201d\n\n\u201cAh, sir, you have given me confidence; it is so long since we were\nseparated, that I have not the least remembrance of him, and, besides,\nyou know that in the eyes of the world a large fortune covers all\ndefects.\u201d\n\n\u201cHe is a millionaire\u2014his income is 500,000 francs.\u201d\n\n\u201cThen,\u201d said the young man, with anxiety, \u201cI shall be sure to be placed\nin an agreeable position.\u201d\n\n\u201cOne of the most agreeable possible, my",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "78",
+      "claim_id": "78_C0",
+      "claim_text": "His father guarded the island\u2019s paramount chief; his mother, a princess from a neighbouring island, came in marriage to seal an alliance.",
+      "excerpt_text": " was born to treasures in comparison with which\nthose recorded in the _Thousand and One Nights_ would seem but\npoverty.\u201d\n\n\u201cShe must be a princess then.\u201d\n\n\u201cYou are right; and she is one of the greatest in her country too.\u201d\n\n\u201cI thought so. But how did it happen that such a great princess became\na slave?\u201d\n\n\u201cHow was it that Dionysius the Tyrant became a schoolmaster? The\nfortune of war, my dear viscount,\u2014the caprice of fortune; that is the\nway in which these things are to be accounted for.\u201d\n\n\u201cAnd is her name a secret?\u201d\n\n\u201cAs regards the generality of mankind it is; but not for you, my dear\nviscount, who are one of my most intimate friends, and on whose silence\nI feel I may rely, if I consider it necessary to enjoin it\u2014may I not do\nso?\u201d\n\n\u201cCertainly; on my word of honor.\u201d\n\n\u201cYou know the history of the Pasha of Yanina, do you not?\u201d\n\n\u201cOf Ali Tepelini?13 Oh, yes; it was in his service that my father made\nhis fortune.\u201d\n\n\u201cTrue, I had forgotten that.\u201d\n\n40062m\n\n\n\n\u201cWell, what is Hayd\u00e9e to Ali Tepelin",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "78",
+      "claim_id": "78_C0",
+      "claim_text": "His father guarded the island\u2019s paramount chief; his mother, a princess from a neighbouring island, came in marriage to seal an alliance.",
+      "excerpt_text": " smelling-bottle, taken from its\nshagreen case, and exclaimed in a tone of uneasiness, as he entered:\n\n\u201cMy dear mother, have you been ill during my absence?\u201d\n\n\u201cNo, no, Albert, but you know these roses, tuberoses, and\norange-flowers throw out at first, before one is used to them, such\nviolent perfumes.\u201d\n\n\u201cThen, my dear mother,\u201d said Albert, putting his hand to the bell,\n\u201cthey must be taken into the antechamber. You are really ill, and just\nnow were so pale as you came into the room\u2014\u2014\u201d\n\n\u201cWas I pale, Albert?\u201d\n\n\u201cYes; a pallor that suits you admirably, mother, but which did not the\nless alarm my father and myself.\u201d\n\n\u201cDid your father speak of it?\u201d inquired Merc\u00e9d\u00e8s eagerly.\n\n\u201cNo, madame; but do you not remember that he spoke of the fact to you?\u201d\n\n20269m\n\n\n\n\u201cYes, I do remember,\u201d replied the countess.\n\nA servant entered, summoned by Albert\u2019s ring of the bell.\n\n\u201cTake these flowers into the anteroom or dressing-room,\u201d said the\nviscount; \u201cthey make the countess ill.\u201d\n\nThe footman obeyed his order",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "78",
+      "claim_id": "78_C0",
+      "claim_text": "His father guarded the island\u2019s paramount chief; his mother, a princess from a neighbouring island, came in marriage to seal an alliance.",
+      "excerpt_text": "unsophisticated natures,\ndelighted in whatever addressed itself to the eye or ear.\n\n30099m\n\n\n\nThe third act passed off as usual. Mesdemoiselles Noblet, Julia, and\nLeroux executed the customary pirouettes; Robert duly challenged the\nPrince of Granada; and the royal father of the princess Isabella,\ntaking his daughter by the hand, swept round the stage with majestic\nstrides, the better to display the rich folds of his velvet robe and\nmantle. After which the curtain again fell, and the spectators poured\nforth from the theatre into the lobbies and salon.\n\nThe count left his box, and a moment later was saluting the Baronne\nDanglars, who could not restrain a cry of mingled pleasure and\nsurprise.\n\n\u201cYou are welcome, count!\u201d she exclaimed, as he entered. \u201cI have been\nmost anxious to see you, that I might repeat orally the thanks writing\ncan so ill express.\u201d\n\n\u201cSurely so trifling a circumstance cannot deserve a place in your\nremembrance. Believe me, madame, I had entirely forgotten it.\u201d\n\n\u201cBut it ",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "78",
+      "claim_id": "78_C1",
+      "claim_text": "At five he saw her assassinated in inter-tribal strife; to stop further unrest his father ordered the murderer\u2019s entire clan executed, and the child never forgot the sound of flesh stripped from bone.",
+      "excerpt_text": "\nIt was just five o\u2019clock in the morning when a slight noise like a\nstifled sigh reached his ear. He turned his head, looked around him,\nand saw no one; but the sound was repeated distinctly enough to\nconvince him of its reality.\n\nHe arose, and quietly opening the door of the drawing-room, saw Hayd\u00e9e,\nwho had fallen on a chair, with her arms hanging down and her beautiful\nhead thrown back. She had been standing at the door, to prevent his\ngoing out without seeing her, until sleep, which the young cannot\nresist, had overpowered her frame, wearied as she was with watching.\nThe noise of the door did not awaken her, and Monte Cristo gazed at her\nwith affectionate regret.\n\n\u201cShe remembered that she had a son,\u201d said he; \u201cand I forgot I had a\ndaughter.\u201d Then, shaking his head sorrowfully, \u201cPoor Hayd\u00e9e,\u201d said he;\n\u201cshe wished to see me, to speak to me; she has feared or guessed\nsomething. Oh, I cannot go without taking leave of her; I cannot die\nwithout confiding her to someone.\u201d\n\nHe quietly reg",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "78",
+      "claim_id": "78_C1",
+      "claim_text": "At five he saw her assassinated in inter-tribal strife; to stop further unrest his father ordered the murderer\u2019s entire clan executed, and the child never forgot the sound of flesh stripped from bone.",
+      "excerpt_text": " out of all the bottles.\n\n\u201cTouch nothing, my little friend,\u201d cried the count eagerly; \u201csome of\nthose liquids are not only dangerous to taste, but even to inhale.\u201d\n\nMadame de Villefort became very pale, and, seizing her son\u2019s arm, drew\nhim anxiously toward her; but, once satisfied of his safety, she also\ncast a brief but expressive glance on the casket, which was not lost\nupon the count. At this moment Ali entered. At sight of him Madame de\nVillefort uttered an expression of pleasure, and, holding the child\nstill closer towards her, she said:\n\n\u201cEdward, dearest, do you see that good man? He has shown very great\ncourage and resolution, for he exposed his own life to stop the horses\nthat were running away with us, and would certainly have dashed the\ncarriage to pieces. Thank him, then, my child, in your very best\nmanner; for, had he not come to our aid, neither you nor I would have\nbeen alive to speak our thanks.\u201d\n\nThe child stuck out his lips and turned away his head in a disdainful\nmanne",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "78",
+      "claim_id": "78_C1",
+      "claim_text": "At five he saw her assassinated in inter-tribal strife; to stop further unrest his father ordered the murderer\u2019s entire clan executed, and the child never forgot the sound of flesh stripped from bone.",
+      "excerpt_text": "something of that kind.\u201d\n\n\u201cMy father has been a Jacobin more than anything else,\u201d said Villefort,\ncarried by his emotion beyond the bounds of prudence; \u201cand the\nsenator\u2019s robe, which Napoleon cast on his shoulders, only served to\ndisguise the old man without in any degree changing him. When my father\nconspired, it was not for the emperor, it was against the Bourbons; for\nM. Noirtier possessed this peculiarity, he never projected any Utopian\nschemes which could never be realized, but strove for possibilities,\nand he applied to the realization of these possibilities the terrible\ntheories of The Mountain,\u2014theories that never shrank from any means\nthat were deemed necessary to bring about the desired result.\u201d\n\n\u201cWell,\u201d said Monte Cristo, \u201cit is just as I thought; it was politics\nwhich brought Noirtier and M. d\u2019\u00c9pinay into personal contact. Although\nGeneral d\u2019\u00c9pinay served under Napoleon, did he not still retain\nroyalist sentiments? And was he not the person who was assassinated one\nevening ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "78",
+      "claim_id": "78_C1",
+      "claim_text": "At five he saw her assassinated in inter-tribal strife; to stop further unrest his father ordered the murderer\u2019s entire clan executed, and the child never forgot the sound of flesh stripped from bone.",
+      "excerpt_text": "erposed Madame de Villefort, on whom the authoritative style\nadopted by the count made a deep impression, \u201cnay, but consider that to\npreserve my life he has risked his own.\u201d\n\n\u201cHis life, madame, belongs not to him; it is mine, in return for my\nhaving myself saved him from death.\u201d\n\nMadame de Villefort made no further reply; her mind was utterly\nabsorbed in the contemplation of the person who, from the first instant\nshe saw him, had made so powerful an impression on her.\n\nDuring the evident preoccupation of Madame de Villefort, Monte Cristo\nscrutinized the features and appearance of the boy she kept folded in\nher arms, lavishing on him the most tender endearments. The child was\nsmall for his age, and unnaturally pale. A mass of straight black hair,\ndefying all attempts to train or curl it, fell over his projecting\nforehead, and hung down to his shoulders, giving increased vivacity to\neyes already sparkling with a youthful love of mischief and fondness\nfor every forbidden enjoyment. His mo",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "78",
+      "claim_id": "78_C1",
+      "claim_text": "At five he saw her assassinated in inter-tribal strife; to stop further unrest his father ordered the murderer\u2019s entire clan executed, and the child never forgot the sound of flesh stripped from bone.",
+      "excerpt_text": "e valet bowed and retired, and Albert returned to his inventory. As\nhe was finishing this work, the sound of horses prancing in the yard,\nand the wheels of a carriage shaking his window, attracted his\nattention. He approached the window, and saw his father get into it,\nand drive away. The door was scarcely closed when Albert bent his steps\nto his mother\u2019s room; and, no one being there to announce him, he\nadvanced to her bedchamber, and distressed by what he saw and guessed,\nstopped for one moment at the door.\n\nAs if the same idea had animated these two beings, Merc\u00e9d\u00e8s was doing\nthe same in her apartments that he had just done in his. Everything was\nin order,\u2014laces, dresses, jewels, linen, money, all were arranged in\nthe drawers, and the countess was carefully collecting the keys. Albert\nsaw all these preparations and understood them, and exclaiming, \u201cMy\nmother!\u201d he threw his arms around her neck.\n\nThe artist who could have depicted the expression of these two\ncountenances would certai",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "78",
+      "claim_id": "78_C1",
+      "claim_text": "At five he saw her assassinated in inter-tribal strife; to stop further unrest his father ordered the murderer\u2019s entire clan executed, and the child never forgot the sound of flesh stripped from bone.",
+      "excerpt_text": "it was very evident that something\ndesperate was passing in the old man\u2019s mind, for a cry of anger and\ngrief rose in his throat, and not being able to find vent in utterance,\nappeared almost to choke him, for his face and lips turned quite purple\nwith the struggle. Villefort quietly opened a window, saying, \u201cIt is\nvery warm, and the heat affects M. Noirtier.\u201d He then returned to his\nplace, but did not sit down.\n\n\u201cThis marriage,\u201d added Madame de Villefort, \u201cis quite agreeable to the\nwishes of M. d\u2019\u00c9pinay and his family; besides, he had no relations\nnearer than an uncle and aunt, his mother having died at his birth, and\nhis father having been assassinated in 1815, that is to say, when he\nwas but two years old; it naturally followed that the child was\npermitted to choose his own pursuits, and he has, therefore, seldom\nacknowledged any other authority but that of his own will.\u201d\n\n\u201cThat assassination was a mysterious affair,\u201d said Villefort, \u201cand the\nperpetrators have hitherto escaped detect",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "78",
+      "claim_id": "78_C1",
+      "claim_text": "At five he saw her assassinated in inter-tribal strife; to stop further unrest his father ordered the murderer\u2019s entire clan executed, and the child never forgot the sound of flesh stripped from bone.",
+      "excerpt_text": "ed that to avert the maternal storm\ngathering over his head, he must inspire Madame Danglars with the\nterror he felt.\n\n\u201cYou understand, then, that if it were so,\u201d said he, rising in his\nturn, and approaching the baroness, to speak to her in a lower tone,\n\u201cwe are lost. This child lives, and someone knows it lives\u2014someone is\nin possession of our secret; and since Monte Cristo speaks before us of\na child disinterred, when that child could not be found, it is he who\nis in possession of our secret.\u201d\n\n\u201cJust God, avenging God!\u201d murmured Madame Danglars.\n\nVillefort\u2019s only answer was a stifled groan.\n\n\u201cBut the child\u2014the child, sir?\u201d repeated the agitated mother.\n\n\u201cHow I have searched for him,\u201d replied Villefort, wringing his hands;\n\u201chow I have called him in my long sleepless nights; how I have longed\nfor royal wealth to purchase a million of secrets from a million of\nmen, and to find mine among them! At last, one day, when for the\nhundredth time I took up my spade, I asked myself again and agai",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "78",
+      "claim_id": "78_C1",
+      "claim_text": "At five he saw her assassinated in inter-tribal strife; to stop further unrest his father ordered the murderer\u2019s entire clan executed, and the child never forgot the sound of flesh stripped from bone.",
+      "excerpt_text": "t\nexcitement frightened her so much that she opened her mouth to scream,\nbut the sound died in her throat.\n\n\u201cHow has this terrible past been recalled?\u201d cried Villefort; \u201chow is it\nthat it has escaped from the depths of the tomb and the recesses of our\nhearts, where it was buried, to visit us now, like a phantom, whitening\nour cheeks and flushing our brows with shame?\u201d\n\n\u201cAlas,\u201d said Hermine, \u201cdoubtless it is chance.\u201d\n\n\u201cChance?\u201d replied Villefort; \u201cNo, no, madame, there is no such thing as\nchance.\u201d\n\n\u201cOh, yes; has not a fatal chance revealed all this? Was it not by\nchance the Count of Monte Cristo bought that house? Was it not by\nchance he caused the earth to be dug up? Is it not by chance that the\nunfortunate child was disinterred under the trees?\u2014that poor innocent\noffspring of mine, which I never even kissed, but for whom I wept many,\nmany tears. Ah, my heart clung to the count when he mentioned the dear\nspoil found beneath the flowers.\u201d\n\n\u201cWell, no, madame,\u2014this is the terrible news I ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

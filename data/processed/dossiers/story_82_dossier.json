@@ -1,5 +1,62 @@
 {
-  "story_id": 82,
+  "story_id": "82",
   "prediction": 0,
-  "dossier": []
+  "dossier": [
+    {
+      "story_id": "82",
+      "claim_id": "82_C0",
+      "claim_text": "Captured at sixteen, he gnawed fish-bones to stay alive during months of imprisonment; on escape he inspired fellow captives by chewing burnt bone ash, then sneaked into a British merchant\u2019s cabin, stole torn pages of an English dictionary and pieced together enough words for rough conversation.",
+      "excerpt_text": "dous clap of thunder, accompanied by\na flash of lightning so vivid, that it quite eclipsed the light of the\nlamp.\n\n20307m\n\n\n\n\u201c\u2018See here,\u2019 exclaimed Caderousse. \u2018You cannot think of going out in\nsuch weather as this.\u2019\n\n\u201c\u2018Oh, I am not afraid of thunder,\u2019 said the jeweller.\n\n\u201c\u2018And then there are robbers,\u2019 said La Carconte. \u2018The road is never\nvery safe during fair time.\u2019\n\n\u201c\u2018Oh, as to the robbers,\u2019 said Joannes, \u2018here is something for them,\u2019\nand he drew from his pocket a pair of small pistols, loaded to the\nmuzzle. \u2018Here,\u2019 said he, \u2018are dogs who bark and bite at the same time,\nthey are for the two first who shall have a longing for your diamond,\nFriend Caderousse.\u2019\n\n\u201cCaderousse and his wife again interchanged a meaning look. It seemed\nas though they were both inspired at the same time with some horrible\nthought. \u2018Well, then, a good journey to you,\u2019 said Caderousse.\n\n\u201c\u2018Thanks,\u2019 replied the jeweller. He then took his cane, which he had\nplaced against an old cupboard, and went out. At the mome",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "82",
+      "claim_id": "82_C0",
+      "claim_text": "Captured at sixteen, he gnawed fish-bones to stay alive during months of imprisonment; on escape he inspired fellow captives by chewing burnt bone ash, then sneaked into a British merchant\u2019s cabin, stole torn pages of an English dictionary and pieced together enough words for rough conversation.",
+      "excerpt_text": "d\u00e8s burst into a flood of tears, and wrung her hands in agony; but\nthe thought, which she had always repelled before when it was suggested\nto her by another, came now in full force upon her mind; and then, too,\nold Dant\u00e8s incessantly said to her, \u2018Our Edmond is dead; if he were\nnot, he would return to us.\u2019\n\n\u201cThe old man died, as I have told you; had he lived, Merc\u00e9d\u00e8s,\nperchance, had not become the wife of another, for he would have been\nthere to reproach her infidelity. Fernand saw this, and when he learned\nof the old man\u2019s death he returned. He was now a lieutenant. At his\nfirst coming he had not said a word of love to Merc\u00e9d\u00e8s; at the second\nhe reminded her that he loved her.\n\n\u201cMerc\u00e9d\u00e8s begged for six months more in which to await and mourn for\nEdmond.\u201d\n\n\u201cSo that,\u201d said the abb\u00e9, with a bitter smile, \u201cthat makes eighteen\nmonths in all. What more could the most devoted lover desire?\u201d Then he\nmurmured the words of the English poet, \u201c\u2018Frailty, thy name is woman.\u2019\u201d\n\n\u201cSix months afterwar",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "82",
+      "claim_id": "82_C0",
+      "claim_text": "Captured at sixteen, he gnawed fish-bones to stay alive during months of imprisonment; on escape he inspired fellow captives by chewing burnt bone ash, then sneaked into a British merchant\u2019s cabin, stole torn pages of an English dictionary and pieced together enough words for rough conversation.",
+      "excerpt_text": "said Luigi\nproudly. \u2018Go into the grotto and dress yourself.\u2019\n\n\u201cAt these words he drew away the stone, and showed Teresa the grotto,\nlighted up by two wax lights, which burnt on each side of a splendid\nmirror; on a rustic table, made by Luigi, were spread out the pearl\nnecklace and the diamond pins, and on a chair at the side was laid the\nrest of the costume.\n\n\u201cTeresa uttered a cry of joy, and, without inquiring whence this attire\ncame, or even thanking Luigi, darted into the grotto, transformed into\na dressing-room.\n\n\u201cLuigi pushed the stone behind her, for on the crest of a small\nadjacent hill which cut off the view toward Palestrina, he saw a\ntraveller on horseback, stopping a moment, as if uncertain of his road,\nand thus presenting against the blue sky that perfect outline which is\npeculiar to distant objects in southern climes. When he saw Luigi, he\nput his horse into a gallop and advanced toward him.\n\n\u201cLuigi was not mistaken. The traveller, who was going from Palestrina\nto Tivoli, ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "82",
+      "claim_id": "82_C0",
+      "claim_text": "Captured at sixteen, he gnawed fish-bones to stay alive during months of imprisonment; on escape he inspired fellow captives by chewing burnt bone ash, then sneaked into a British merchant\u2019s cabin, stole torn pages of an English dictionary and pieced together enough words for rough conversation.",
+      "excerpt_text": "oing. The\ncaptain thought about three miles an hour.\n\n\"Then,\" replied the geographer, \"if we do not travel during the night,\nour voyage to the lake will last about four days.\"\n\n\"But whereabouts are the English garrisons?\" asked Glenarvan.\n\n\"It is difficult to say,\" replied Paganel. \"At all events, the war\nmust have reached the province of Taranaki, and probably the troops\nare collected beyond the mountains, on the side of the lake where the\nhabitations of the savages are concentrated.\"\n\n\"God grant it!\" said Lady Helena.\n\nGlenarvan cast a sorrowful glance at his young wife and Mary Grant,\nexposed to the mercy of these fierce natives, and captives in a wild\ncountry, far from all human assistance. But he saw that he was watched\nby Kai-Koumou, and, not wishing to show that one of the captives was\nhis wife, he prudently kept his thoughts to himself, and gazed at the\nbanks of the river with apparent indifference.\n\n[Sidenote: ACCESSIONS, AND PROGRESS.]\n\nThe sun was just sinking below the hori",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "82",
+      "claim_id": "82_C0",
+      "claim_text": "Captured at sixteen, he gnawed fish-bones to stay alive during months of imprisonment; on escape he inspired fellow captives by chewing burnt bone ash, then sneaked into a British merchant\u2019s cabin, stole torn pages of an English dictionary and pieced together enough words for rough conversation.",
+      "excerpt_text": " looking-glass had\nassured him, during his stay at Leghorn, that he ran no risk of\nrecognition; moreover, he had now the means of adopting any disguise he\nthought proper. One fine morning, then, his yacht, followed by the\nlittle fishing-boat, boldly entered the port of Marseilles, and\nanchored exactly opposite the spot from whence, on the\nnever-to-be-forgotten night of his departure for the Ch\u00e2teau d\u2019If, he\nhad been put on board the boat destined to convey him thither.\n\n0315m\n\n\n\nStill Dant\u00e8s could not view without a shudder the approach of a\ngendarme who accompanied the officers deputed to demand his bill of\nhealth ere the yacht was permitted to hold communication with the\nshore; but with that perfect self-possession he had acquired during his\nacquaintance with Faria, Dant\u00e8s coolly presented an English passport he\nhad obtained from Leghorn, and as this gave him a standing which a\nFrench passport would not have afforded, he was informed that there\nexisted no obstacle to his immediate de",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "82",
+      "claim_id": "82_C0",
+      "claim_text": "Captured at sixteen, he gnawed fish-bones to stay alive during months of imprisonment; on escape he inspired fellow captives by chewing burnt bone ash, then sneaked into a British merchant\u2019s cabin, stole torn pages of an English dictionary and pieced together enough words for rough conversation.",
+      "excerpt_text": "not long in learning, by the aid of a few English words which\nthe natives used, that, being driven back by the British troops, they\nwere returning, vanquished and weakened, to the regions of the upper\nWaikato. Their chief, after an obstinate resistance, in which he lost\nhis principal warriors, was now on his way to rouse again the river\ntribes. He was called Kai-Koumou, a terrible name, which signified\nin the native language \"he who eats the limbs of his enemy.\" He was\nbrave and bold, but his cruelty equaled his bravery. No pity could be\nexpected from him. His name was well known to the English soldiers, and\na price had been set upon his head by the governor of New Zealand.\n\nThis terrible catastrophe had come upon Glenarvan just as he was\nabout reaching the long-desired harbor of Auckland, whence he would\nhave returned to his native country. Yet, looking at his calm and\npassionless countenance, you could not have divined the depth of his\nanguish, for in his present critical situation h",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "82",
+      "claim_id": "82_C0",
+      "claim_text": "Captured at sixteen, he gnawed fish-bones to stay alive during months of imprisonment; on escape he inspired fellow captives by chewing burnt bone ash, then sneaked into a British merchant\u2019s cabin, stole torn pages of an English dictionary and pieced together enough words for rough conversation.",
+      "excerpt_text": "he palisade. The learned geographer, profiting by the\ncircumstance, would have made use of the language which he had studied\nso conscientiously; but, to his great astonishment, he could not make\nhimself understood by the natives.\n\n\"The accent is what I need,\" said he.\n\n\"Let us go to the Custom-house,\" replied Glenarvan.\n\nThere they were informed by means of several English words, accompanied\nby expressive gestures, that the British consul resided at Concepcion.\nIt was only an hour's journey. Glenarvan easily found two good horses,\nand, a short time after, Paganel and he entered the walls of this great\ncity, which was built by the enterprising genius of Valdivia, the\nvaliant companion of Pizarro.\n\nHow greatly it had declined from its ancient splendor! Often pillaged\nby the natives, burnt in 1819, desolate, ruined, its walls still\nblackened with the flames of devastation, eclipsed by Talcahuana, it\nnow scarcely numbered eight thousand souls. Under the feet of its\nidle inhabitants the str",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

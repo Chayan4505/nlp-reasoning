@@ -1,5 +1,70 @@
 {
-  "story_id": 52,
-  "prediction": 1,
-  "dossier": []
+  "story_id": "52",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "52",
+      "claim_id": "52_C0",
+      "claim_text": "On the Patagonian frontier he trapped a wary black stallion named Thaouka and spent three months taming it with ancient Tehuelche methods.",
+      "excerpt_text": "ay.\n\n\u201cI think not,\u201d replied Ch\u00e2teau-Renaud.\n\n\u201cMajor Bartolomeo Cavalcanti and Count Andrea Cavalcanti,\u201d announced\nBaptistin.\n\nA black satin stock, fresh from the maker\u2019s hands, gray moustaches, a\nbold eye, a major\u2019s uniform, ornamented with three medals and five\ncrosses\u2014in fact, the thorough bearing of an old soldier\u2014such was the\nappearance of Major Bartolomeo Cavalcanti, that tender father with whom\nwe are already acquainted. Close to him, dressed in entirely new\nclothes, advanced smilingly Count Andrea Cavalcanti, the dutiful son,\nwhom we also know. The three young people were talking together. On the\nentrance of the new-comers, their eyes glanced from father to son, and\nthen, naturally enough, rested on the latter, whom they began\ncriticising.\n\n\u201cCavalcanti!\u201d said Debray.\n\n\u201cA fine name,\u201d said Morrel.\n\n\u201cYes,\u201d said Ch\u00e2teau-Renaud, \u201cthese Italians are well named and badly\ndressed.\u201d\n\n\u201cYou are fastidious, Ch\u00e2teau-Renaud,\u201d replied Debray; \u201cthose clothes\nare well cut and quite new.\u201d\n\n\u201cThat ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "52",
+      "claim_id": "52_C0",
+      "claim_text": "On the Patagonian frontier he trapped a wary black stallion named Thaouka and spent three months taming it with ancient Tehuelche methods.",
+      "excerpt_text": " tortured my heart, for every\nword you have uttered proved that there was no hope for me. Oh, count,\nI shall sleep calmly, deliciously in the arms of death.\u201d\n\nMorrel uttered these words with an energy which made the count shudder.\n\n\u201cMy friend,\u201d continued Morrel, \u201cyou named the fifth of October as the\nend of the period of waiting,\u2014today is the fifth of October,\u201d he took\nout his watch, \u201cit is now nine o\u2019clock,\u2014I have yet three hours to\nlive.\u201d\n\n\u201cBe it so,\u201d said the count, \u201ccome.\u201d Morrel mechanically followed the\ncount, and they had entered the grotto before he perceived it. He felt\na carpet under his feet, a door opened, perfumes surrounded him, and a\nbrilliant light dazzled his eyes. Morrel hesitated to advance; he\ndreaded the enervating effect of all that he saw. Monte Cristo drew him\nin gently.\n\n\u201cWhy should we not spend the last three hours remaining to us of life,\nlike those ancient Romans, who when condemned by Nero, their emperor\nand heir, sat down at a table covered with flowers, a",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "52",
+      "claim_id": "52_C0",
+      "claim_text": "On the Patagonian frontier he trapped a wary black stallion named Thaouka and spent three months taming it with ancient Tehuelche methods.",
+      "excerpt_text": "prehended\nhim. The Patagonian must have used excellent arguments, for, after\n\"discussing\" some time, Thaouka yielded, and obeyed his master's\ncommands.\n\n[Sidenote: GAINED AT LAST.]\n\nBut, if Thaouka understood Thalcave, Thalcave had none the less\nunderstood Thaouka. The intelligent animal, through his superior\ninstincts, had perceived a moisture in the air. He inhaled it eagerly,\nand kept moving his tongue, as if it were steeped in a grateful liquid.\nThe Patagonian could not be deceived; water was not far distant.\n\nHe therefore encouraged his companions by explaining the impatience of\nhis horse, which the others were not long in understanding. They made a\nfinal effort, and galloped after the Indian.\n\nAbout three o'clock a bright line appeared in a hollow of the plain. It\ntrembled under the rays of the sun.\n\n\"Water!\" cried Glenarvan.\n\n\"Water, yes, water!\" cried Robert.\n\nThey had no more need to urge their horses. The poor beasts, feeling\ntheir strength renewed, rushed forward with an irr",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "52",
+      "claim_id": "52_C0",
+      "claim_text": "On the Patagonian frontier he trapped a wary black stallion named Thaouka and spent three months taming it with ancient Tehuelche methods.",
+      "excerpt_text": "eart has ever experienced\nsuch an emotion.\n\nThey therefore kept on, and by use of whip and spur the horses were\ninduced to continue their journey, but they could not quicken their\npace. Thalcave might easily have gone ahead, for in a few hours Thaouka\ncould have carried him to the banks of the stream. He doubtless thought\nof it, but probably did not like to leave his two companions alone in\nthe midst of this desert, and, that he might not outstrip them, he\nforced Thaouka to lessen his speed. It was not, however, without much\nresistance, prancing and neighing, that Thalcave's horse consented to\nkeep pace with the others. It was not so much the strength as the voice\nof his master which restrained him; the Indian actually talked to his\nhorse; and the animal, if he did not answer, at least comprehended\nhim. The Patagonian must have used excellent arguments, for, after\n\"discussing\" some time, Thaouka yielded, and obeyed his master's\ncommands.\n\n[Sidenote: GAINED AT LAST.]\n\nBut, if Thaouka un",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "52",
+      "claim_id": "52_C0",
+      "claim_text": "On the Patagonian frontier he trapped a wary black stallion named Thaouka and spent three months taming it with ancient Tehuelche methods.",
+      "excerpt_text": "ell, only do not give me false information as you did the other\nday.\u201d\n\n\u201cWhat do you mean?\u2014of whom do you speak? Was it the Englishman who\ncarried off 3,000 crowns from here the other day?\u201d\n\n50237m\n\n\n\n\u201cNo; he really had 3,000 crowns, and we found them. I mean the Russian\nprince, who you said had 30,000 livres, and we only found 22,000.\u201d\n\n\u201cYou must have searched badly.\u201d\n\n\u201cLuigi Vampa himself searched.\u201d\n\n\u201cIn that case he must either have paid his debts\u2014\u2014\u201d\n\n\u201cA Russian do that?\u201d\n\n\u201cOr spent the money?\u201d\n\n\u201cPossibly, after all.\u201d\n\n\u201cCertainly. But you must let me make my observations, or the Frenchman\nwill transact his business without my knowing the sum.\u201d\n\nPeppino nodded, and taking a rosary from his pocket began to mutter a\nfew prayers while the clerk disappeared through the same door by which\nDanglars and the attendant had gone out. At the expiration of ten\nminutes the clerk returned with a beaming countenance.\n\n\u201cWell?\u201d asked Peppino of his friend.\n\n\u201cJoy, joy\u2014the sum is large!\u201d\n\n\u201cFive or six m",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "52",
+      "claim_id": "52_C0",
+      "claim_text": "On the Patagonian frontier he trapped a wary black stallion named Thaouka and spent three months taming it with ancient Tehuelche methods.",
+      "excerpt_text": " the count.\n\n\u201cEdmond,\u201d said she, and her eyes were wet with tears while looking at\nhim to whom she spoke, \u201chow noble it is of you, how great the action\nyou have just performed, how sublime to have taken pity on a poor woman\nwho appealed to you with every chance against her, Alas, I am grown old\nwith grief more than with years, and cannot now remind my Edmond by a\nsmile, or by a look, of that Merc\u00e9d\u00e8s whom he once spent so many hours\nin contemplating. Ah, believe me, Edmond, as I told you, I too have\nsuffered much; I repeat, it is melancholy to pass one\u2019s life without\nhaving one joy to recall, without preserving a single hope; but that\nproves that all is not yet over. No, it is not finished; I feel it by\nwhat remains in my heart. Oh, I repeat it, Edmond; what you have just\ndone is beautiful\u2014it is grand; it is sublime.\u201d\n\n\u201cDo you say so now, Merc\u00e9d\u00e8s?\u2014then what would you say if you knew the\nextent of the sacrifice I make to you? Suppose that the Supreme Being,\nafter having created the wor",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "52",
+      "claim_id": "52_C0",
+      "claim_text": "On the Patagonian frontier he trapped a wary black stallion named Thaouka and spent three months taming it with ancient Tehuelche methods.",
+      "excerpt_text": "r very naturally thought of looking around him. Fifty paces from\nthe stream, a man of lofty stature was standing, motionless, on one\nof the first ledges of the mountain. A long gun lay at his feet. This\nindividual, who had so suddenly appeared, had broad shoulders, and\nlong hair tied with leathern thongs. His height exceeded six feet, and\nhis bronzed face was red between his eyes and mouth, black below his\neyelids, and white on his forehead. After the manner of the Patagonians\nof the frontiers, the native wore a splendid cloak, decorated with\nred arabesques, made of the skin of a guanaco, its silky fur turned\noutward, and sewed with ostrich-tendons. Under his cloak a tippet of\nfox-skin encircled his neck and terminated in a point in front. At his\ngirdle hung a little bag containing the colors with which he painted\nhis face. His leggings were of ox-hide, and fastened to the ankle with\nstraps regularly crossed.\n\nThe figure of this Patagonian was fine, and his face denoted real\nintelligen",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "52",
+      "claim_id": "52_C0",
+      "claim_text": "On the Patagonian frontier he trapped a wary black stallion named Thaouka and spent three months taming it with ancient Tehuelche methods.",
+      "excerpt_text": "n which\ncuriosity destroys all diplomacy, \u201cyou look uncommonly like a rejected\nlover;\u201d and he burst into a hoarse laugh.\n\n\u201cBah!\u201d said Danglars, \u201ca lad of his make was not born to be unhappy in\nlove. You are laughing at him, Caderousse.\u201d\n\n\u201cNo,\u201d he replied, \u201conly hark how he sighs! Come, come, Fernand,\u201d said\nCaderousse, \u201chold up your head, and answer us. It\u2019s not polite not to\nreply to friends who ask news of your health.\u201d\n\n\u201cMy health is well enough,\u201d said Fernand, clenching his hands without\nraising his head.\n\n\u201cAh, you see, Danglars,\u201d said Caderousse, winking at his friend, \u201cthis\nis how it is; Fernand, whom you see here, is a good and brave Catalan,\none of the best fishermen in Marseilles, and he is in love with a very\nfine girl, named Merc\u00e9d\u00e8s; but it appears, unfortunately, that the fine\ngirl is in love with the mate of the _Pharaon_; and as the _Pharaon_\narrived today\u2014why, you understand!\u201d\n\n\u201cNo; I do not understand,\u201d said Danglars.\n\n\u201cPoor Fernand has been dismissed,\u201d continued Cadero",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

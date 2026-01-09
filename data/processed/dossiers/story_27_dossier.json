@@ -1,5 +1,70 @@
 {
-  "story_id": 27,
-  "prediction": 1,
-  "dossier": []
+  "story_id": "27",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "27",
+      "claim_id": "27_C0",
+      "claim_text": "At twelve he ran away to the docks, worked as a porter and lost hearing in his left ear after a beating for secretly poring over a captain\u2019s charts.",
+      "excerpt_text": "n to Valentine, and took her in his\narms.\n\n\u201cA physician, a physician,\u2014M. d\u2019Avrigny!\u201d cried Villefort; \u201cor rather I\nwill go for him myself.\u201d\n\nHe flew from the apartment, and Morrel at the same moment darted out at\nthe other door. He had been struck to the heart by a frightful\nrecollection\u2014the conversation he had heard between the doctor and\nVillefort the night of Madame de Saint-M\u00e9ran\u2019s death, recurred to him;\nthese symptoms, to a less alarming extent, were the same which had\npreceded the death of Barrois. At the same time Monte Cristo\u2019s voice\nseemed to resound in his ear with the words he had heard only two hours\nbefore, \u201cWhatever you want, Morrel, come to me; I have great power.\u201d\n\nMore rapidly than thought, he darted down the Rue Matignon, and thence\nto the Avenue des Champs-\u00c9lys\u00e9es.\n\nMeanwhile M. de Villefort arrived in a hired cabriolet at M.\nd\u2019Avrigny\u2019s door. He rang so violently that the porter was alarmed.\nVillefort ran upstairs without saying a word. The porter knew him, and\nlet",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "27",
+      "claim_id": "27_C0",
+      "claim_text": "At twelve he ran away to the docks, worked as a porter and lost hearing in his left ear after a beating for secretly poring over a captain\u2019s charts.",
+      "excerpt_text": " silk; sky-blue velvet\nbreeches, fastened above the knee with diamond buckles; garters of\ndeerskin, worked with a thousand arabesques, and a hat whereon hung\nribbons of all colors; two watches hung from his girdle, and a splendid\nponiard was in his belt.\n\n\u201cTeresa uttered a cry of admiration. Vampa in this attire resembled a\npainting by L\u00e9opold Robert or Schnetz. He had assumed the entire\ncostume of Cucumetto. The young man saw the effect produced on his\nbetrothed, and a smile of pride passed over his lips.\n\n\u201c\u2018Now,\u2019 he said to Teresa, \u2018are you ready to share my fortune, whatever\nit may be?\u2019\n\n\u201c\u2018Oh, yes!\u2019 exclaimed the young girl enthusiastically.\n\n\u201c\u2018And follow me wherever I go?\u2019\n\n\u201c\u2018To the world\u2019s end.\u2019\n\n\u201c\u2018Then take my arm, and let us on; we have no time to lose.\u2019\n\n\u201cThe young girl did so without questioning her lover as to where he was\nconducting her, for he appeared to her at this moment as handsome,\nproud, and powerful as a god. They went towards the forest, and soon\nentered it.\n\n\u201cWe ne",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "27",
+      "claim_id": "27_C0",
+      "claim_text": "At twelve he ran away to the docks, worked as a porter and lost hearing in his left ear after a beating for secretly poring over a captain\u2019s charts.",
+      "excerpt_text": "ly, and none of the banks would give him credit.\nFortunately, Morrel had some funds coming in on which he could rely;\nand, as they reached him, he found himself in a condition to meet his\nengagements when the end of July came.\n\nThe agent of Thomson & French had not been again seen at Marseilles;\nthe day after, or two days after his visit to Morrel, he had\ndisappeared; and as in that city he had had no intercourse but with the\nmayor, the inspector of prisons, and M. Morrel, his departure left no\ntrace except in the memories of these three persons. As to the sailors\nof the _Pharaon_, they must have found snug berths elsewhere, for they\nalso had disappeared.\n\nCaptain Gaumard, recovered from his illness, had returned from Palma.\nHe delayed presenting himself at Morrel\u2019s, but the owner, hearing of\nhis arrival, went to see him. The worthy shipowner knew, from Penelon\u2019s\nrecital, of the captain\u2019s brave conduct during the storm, and tried to\nconsole him. He brought him also the amount of his wa",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "27",
+      "claim_id": "27_C0",
+      "claim_text": "At twelve he ran away to the docks, worked as a porter and lost hearing in his left ear after a beating for secretly poring over a captain\u2019s charts.",
+      "excerpt_text": "\u00e8s, who was watching the\nanchoring of his vessel, \u201cit seems to me that a sailor needs not be so\nold as you say, Danglars, to understand his business, for our friend\nEdmond seems to understand it thoroughly, and not to require\ninstruction from anyone.\u201d\n\n\u201cYes,\u201d said Danglars, darting at Edmond a look gleaming with hate.\n\u201cYes, he is young, and youth is invariably self-confident. Scarcely was\nthe captain\u2019s breath out of his body when he assumed the command\nwithout consulting anyone, and he caused us to lose a day and a half at\nthe Island of Elba, instead of making for Marseilles direct.\u201d\n\n0025m\n\n\n\n\u201cAs to taking command of the vessel,\u201d replied Morrel, \u201cthat was his\nduty as captain\u2019s mate; as to losing a day and a half off the Island of\nElba, he was wrong, unless the vessel needed repairs.\u201d\n\n\u201cThe vessel was in as good condition as I am, and as, I hope you are,\nM. Morrel, and this day and a half was lost from pure whim, for the\npleasure of going ashore, and nothing else.\u201d\n\n\u201cDant\u00e8s,\u201d said the ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "27",
+      "claim_id": "27_C0",
+      "claim_text": "At twelve he ran away to the docks, worked as a porter and lost hearing in his left ear after a beating for secretly poring over a captain\u2019s charts.",
+      "excerpt_text": "Caderousse started and turned pale.\n\n\u201cFalse!\u201d he muttered. \u201cFalse! Why should that man give me a false\ndiamond?\u201d\n\n0349m\n\n\n\n\u201cTo get your secret without paying for it, you blockhead!\u201d\n\nCaderousse remained for a moment aghast under the weight of such an\nidea.\n\n\u201cOh!\u201d he said, taking up his hat, which he placed on the red\nhandkerchief tied round his head, \u201cwe will soon find out.\u201d\n\n\u201cIn what way?\u201d\n\n\u201cWhy, the fair is on at Beaucaire, there are always jewellers from\nParis there, and I will show it to them. Look after the house, wife,\nand I shall be back in two hours,\u201d and Caderousse left the house in\nhaste, and ran rapidly in the direction opposite to that which the\npriest had taken.\n\n\u201cFifty thousand francs!\u201d muttered La Carconte when left alone; \u201cit is a\nlarge sum of money, but it is not a fortune.\u201d\n\n\nVOLUME TWO\n\n20009m\n\n\n\n20011m\n\n\n\n20019m\n\n\n\n\n Chapter 28. The Prison Register\n\nThe day after that in which the scene we have just described had taken\nplace on the road between Bellegarde and Beauca",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "27",
+      "claim_id": "27_C0",
+      "claim_text": "At twelve he ran away to the docks, worked as a porter and lost hearing in his left ear after a beating for secretly poring over a captain\u2019s charts.",
+      "excerpt_text": ". At a sign from him\nthe captain had stopped Glenarvan.\n\nIn truth, one of the warriors, startled by some unaccustomed sound,\nhad risen and approached the prison. Standing two paces from the\nhut, he listened with lowered head. He remained in this attitude\nfor a moment, that seemed an hour, with ear intent and eye on the\nalert. Then, shaking his head as a man who is mistaken, he returned\nto his companions, took an armful of dead wood and threw it on the\nhalf-extinct fire, whose flames revived. His face, brightly illumined\nby the blaze, betrayed no more anxiety, and, after gazing at the first\nglimmers of dawn that tinged the horizon, he stretched himself beside\nthe fire to warm his cold limbs.\n\n\"All right!\" said Wilson.\n\nThe captain made a sign to Glenarvan to continue his descent. The\nlatter, accordingly, slid gently down the slope, and soon Lady Helena\nand he stood on the narrow path where Robert was waiting for them. The\nrope was shaken three times, and next Captain Mangles, followed b",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "27",
+      "claim_id": "27_C0",
+      "claim_text": "At twelve he ran away to the docks, worked as a porter and lost hearing in his left ear after a beating for secretly poring over a captain\u2019s charts.",
+      "excerpt_text": "oned himself on the bench outside the door of the hotel, after\nhaving whispered something in the ear of one of the descendants of\nMarius and the Gracchi whom we noticed at the beginning of the chapter,\nwho immediately ran down the road leading to the Capitol at his fullest\nspeed. Danglars was tired and sleepy; he therefore went to bed, placing\nhis pocketbook under his pillow. Peppino had a little spare time, so he\nhad a game of _morra_ with the facchini, lost three crowns, and then to\nconsole himself drank a bottle of Orvieto.\n\nThe next morning Danglars awoke late, though he went to bed so early;\nhe had not slept well for five or six nights, even if he had slept at\nall. He breakfasted heartily, and caring little, as he said, for the\nbeauties of the Eternal City, ordered post-horses at noon. But Danglars\nhad not reckoned upon the formalities of the police and the idleness of\nthe posting-master. The horses only arrived at two o\u2019clock, and the\n_cicerone_ did not bring the passport till th",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "27",
+      "claim_id": "27_C0",
+      "claim_text": "At twelve he ran away to the docks, worked as a porter and lost hearing in his left ear after a beating for secretly poring over a captain\u2019s charts.",
+      "excerpt_text": ".\n\n\u201cOf course you sent for a doctor?\u201d\n\n\u201cImmediately; but, as I have told you, it was too late.\u201d\n\n\u201cYes; but then he could tell of what complaint the poor marquis had\ndied.\u201d\n\n\u201cOh, yes, sir, he told me; it appears to have been an apoplectic\nstroke.\u201d\n\n\u201cAnd what did you do then?\u201d\n\n\u201cM. de Saint-M\u00e9ran had always expressed a desire, in case his death\nhappened during his absence from Paris, that his body might be brought\nto the family vault. I had him put into a leaden coffin, and I am\npreceding him by a few days.\u201d\n\n\u201cOh! my poor mother!\u201d said Villefort, \u201cto have such duties to perform\nat your age after such a blow!\u201d\n\n\u201cGod has supported me through all; and then, my dear marquis, he would\ncertainly have done everything for me that I performed for him. It is\ntrue that since I left him, I seem to have lost my senses. I cannot\ncry; at my age they say that we have no more tears,\u2014still I think that\nwhen one is in trouble one should have the power of weeping. Where is\nValentine, sir? It is on her accou",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

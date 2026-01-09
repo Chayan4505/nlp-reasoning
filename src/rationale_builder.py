@@ -4,29 +4,38 @@ import os
 from .config import DOSSIERS_DIR
 from .data_types import ClaimDecision
 
+
 def build_submission_rationale(dossier_entries, prediction):
-    """Generate Track A compliant rationale"""
+    """Generate Track A compliant rationale (Section 5 Structure)"""
     
-    if prediction == 1:
-        # Consistent: highlight supporting evidence
-        # We assume dossier_entries are dicts (DossierEntry)
-        support_entries = [e for e in dossier_entries if e.get("relation") == "SUPPORT"]
-        if support_entries:
-            key_support = support_entries[0]
-            # Truncate analysis to be concise
-            analysis = key_support.get("analysis", "")
-            return f"Backstory consistent. {analysis[:100]}..."
-        return "Backstory consistent with narrative constraints."
+    if not dossier_entries:
+        return "No sufficient evidence found to contradict/support."
+
+    # Select the most significant entry (High Confidence Contradiction or Strong Support)
+    # Priority: Contradiction > Support
     
-    else:
-        # Contradict: highlight key contradiction (REQUIRED format)
-        contradict_entries = [e for e in dossier_entries if e.get("relation") == "CONTRADICT"]
-        if contradict_entries:
-            # Heuristic: pick one with longest analysis or just first
-            key_contradict = contradict_entries[0] 
-            analysis = key_contradict.get("analysis", "")
-            return f"Backstory contradicts narrative. {analysis[:120]}"
-        return "Backstory contradicts established narrative constraints."
+    selected_entry = None
+    # Flexible matching for relation (str or int)
+    contradictions = [e for e in dossier_entries if str(e.get("relation")).upper() == "CONTRADICT"]
+    supports = [e for e in dossier_entries if str(e.get("relation")).upper() == "SUPPORT"]
+    
+    if prediction == 0 and contradictions:
+        selected_entry = contradictions[0]
+    elif prediction == 1 and supports:
+        selected_entry = supports[0]
+    elif dossier_entries:
+        selected_entry = dossier_entries[0]
+        
+    if selected_entry:
+        claim_text = selected_entry.get("claim_text", "")
+        excerpt = selected_entry.get("excerpt_text", "")[:150].replace("\n", " ") # Clean formatting
+        analysis = selected_entry.get("analysis", "")
+        
+        # Strict Format as per Section 5
+        return f"[Claim]: {claim_text} | [Evidence]: \"{excerpt}...\" | [Analysis]: {analysis}"
+        
+    return "Rationale classification ambiguous based on available evidence."
+
 
 def build_dossier(story_id: str, decisions: list[ClaimDecision], prediction: int = None):
     """

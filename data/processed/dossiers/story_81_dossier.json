@@ -1,5 +1,126 @@
 {
-  "story_id": 81,
-  "prediction": 1,
-  "dossier": []
+  "story_id": "81",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "81",
+      "claim_id": "81_C0",
+      "claim_text": "When he was fourteen a whaling crew coveted the island\u2019s spring and set fire to threaten the village; as squad leader he slipped aboard at night, smashed their launches and drove them off.",
+      "excerpt_text": "Porto-Vecchio. With it was effaced the last\ntrace of the preceding night; and then supper, Sinbad, hashish,\nstatues,\u2014all became a dream for Franz.\n\nThe boat sailed on all day and all night, and next morning, when the\nsun rose, they had lost sight of Monte Cristo.\n\nWhen Franz had once again set foot on shore, he forgot, for the moment\nat least, the events which had just passed, while he finished his\naffairs of pleasure at Florence, and then thought of nothing but how he\nshould rejoin his companion, who was awaiting him at Rome.\n\nHe set out, and on the Saturday evening reached the Place de la Douane\nby the mail-coach. An apartment, as we have said, had been retained\nbeforehand, and thus he had but to go to Signor Pastrini\u2019s hotel. But\nthis was not so easy a matter, for the streets were thronged with\npeople, and Rome was already a prey to that low and feverish murmur\nwhich precedes all great events; and at Rome there are four great\nevents in every year,\u2014the Carnival, Holy Week, Corpus Chr",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "81",
+      "claim_id": "81_C0",
+      "claim_text": "When he was fourteen a whaling crew coveted the island\u2019s spring and set fire to threaten the village; as squad leader he slipped aboard at night, smashed their launches and drove them off.",
+      "excerpt_text": "van. When heart and\nreason are at variance, the latter is the weaker power. The lord of\nMalcolm Castle seemed to see in the darkness all those whom he loved,\nhis dear Helena, Mary Grant, and the crew of the Duncan. He wandered\nalong the barren coast which the waves covered with phosphorescent\nbubbles. He looked, he listened, and even thought that he saw a fitful\nlight on the sea.\n\n\"I am not mistaken,\" he soliloquized; \"I saw a ship's light, the\nDuncan's. Ah! why cannot my eyes pierce the darkness?\"\n\n[Illustration: Glenarvan watched alone. He could not convince himself\nthat the Duncan was so near him; but as for supposing that she had not\narrived at her appointed rendezvous, it was impossible, for such a ship\nthere were no delays.]\n\nThen an idea occurred to him. Paganel called himself a nyctalops; he\ncould see in the night.\n\nThe geographer was sleeping like a mole in his bed, when a strong hand\ndragged him from his sandy couch.\n\n\"Who is that?\" cried he.\n\n\"I.\"\n\n\"Who?\"\n\n\"Glenarvan. Come, ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "81",
+      "claim_id": "81_C0",
+      "claim_text": "When he was fourteen a whaling crew coveted the island\u2019s spring and set fire to threaten the village; as squad leader he slipped aboard at night, smashed their launches and drove them off.",
+      "excerpt_text": "ks and straw, and having filled the\nchimney with them, set a light to it. The fire crackled, and the smoke\nascended like the dull vapor from a volcano; but still no prisoner fell\ndown, as they expected. The fact was, that Andrea, at war with society\never since his youth, was quite as deep as a gendarme, even though he\nwere advanced to the rank of brigadier, and quite prepared for the\nfire, he had climbed out on the roof and was crouching down against the\nchimney-pots.\n\n50049m\n\n\n\nAt one time he thought he was saved, for he heard the brigadier exclaim\nin a loud voice, to the two gendarmes, \u201cHe is not here!\u201d But venturing\nto peep, he perceived that the latter, instead of retiring, as might\nhave been reasonably expected upon this announcement, were watching\nwith increased attention.\n\nIt was now his turn to look about him; the H\u00f4tel de Ville, a massive\nsixteenth century building, was on his right; anyone could descend from\nthe openings in the tower, and examine every corner of the roof belo",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "81",
+      "claim_id": "81_C0",
+      "claim_text": "When he was fourteen a whaling crew coveted the island\u2019s spring and set fire to threaten the village; as squad leader he slipped aboard at night, smashed their launches and drove them off.",
+      "excerpt_text": "ity on him. He took\nCucumetto one side, while the young girl, seated at the foot of a huge\npine that stood in the centre of the forest, made a veil of her\npicturesque head-dress to hide her face from the lascivious gaze of the\nbandits. There he told the chief all\u2014his affection for the prisoner,\ntheir promises of mutual fidelity, and how every night, since he had\nbeen near, they had met in some neighboring ruins.\n\n20109m\n\n\n\n\u201cIt so happened that night that Cucumetto had sent Carlini to a\nvillage, so that he had been unable to go to the place of meeting.\nCucumetto had been there, however, by accident, as he said, and had\ncarried the maiden off. Carlini besought his chief to make an exception\nin Rita\u2019s favor, as her father was rich, and could pay a large ransom.\nCucumetto seemed to yield to his friend\u2019s entreaties, and bade him find\na shepherd to send to Rita\u2019s father at Frosinone.\n\n\u201cCarlini flew joyfully to Rita, telling her she was saved, and bidding\nher write to her father, to inform hi",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "81",
+      "claim_id": "81_C0",
+      "claim_text": "When he was fourteen a whaling crew coveted the island\u2019s spring and set fire to threaten the village; as squad leader he slipped aboard at night, smashed their launches and drove them off.",
+      "excerpt_text": " might have bound Edmond to him by a more secure alliance. At\nseven o\u2019clock in the evening all was ready, and at ten minutes past\nseven they doubled the lighthouse just as the beacon was kindled. The\nsea was calm, and, with a fresh breeze from the south-east, they sailed\nbeneath a bright blue sky, in which God also lighted up in turn his\nbeacon lights, each of which is a world. Dant\u00e8s told them that all\nhands might turn in, and he would take the helm. When the Maltese (for\nso they called Dant\u00e8s) had said this, it was sufficient, and all went\nto their bunks contentedly.\n\nThis frequently happened. Dant\u00e8s, cast from solitude into the world,\nfrequently experienced an imperious desire for solitude; and what\nsolitude is more complete, or more poetical, than that of a ship\nfloating in isolation on the sea during the obscurity of the night, in\nthe silence of immensity, and under the eye of Heaven?\n\nNow this solitude was peopled with his thoughts, the night lighted up\nby his illusions, and the ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "81",
+      "claim_id": "81_C0",
+      "claim_text": "When he was fourteen a whaling crew coveted the island\u2019s spring and set fire to threaten the village; as squad leader he slipped aboard at night, smashed their launches and drove them off.",
+      "excerpt_text": "pting to cross the glowing barrier.\n\n[Sidenote: A DYING HOPE.]\n\nBut at this moment the dying light of the fire showed him the aguaras\nadvancing in a dense body to assail the ramada. The d\u00e9nouement of the\nbloody drama was approaching. The fire gradually subsided, for want\nof fuel; the flames sank; the plain, before illumined, now relapsed\ninto shadow, and in the shadow reappeared the terrible eyes of the red\nwolves. A few moments more, and the whole drove would rush into the\ninclosure.\n\n[Illustration]\n\nThalcave discharged his carbine for the last time, stretched out one\nmore of their enemies, and, as his ammunition was exhausted, folded\nhis arms. His head sank upon his breast; he appeared to be questioning\nhimself. Was he searching for some bold, novel, or rash scheme for\nrepelling this furious herd? Glenarvan did not venture to ask him.\n\nAt this moment a change took place in the action of the wolves. They\nseemed to be retreating, and their howls, so deafening before, suddenly\nceased. A",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "81",
+      "claim_id": "81_C0",
+      "claim_text": "When he was fourteen a whaling crew coveted the island\u2019s spring and set fire to threaten the village; as squad leader he slipped aboard at night, smashed their launches and drove them off.",
+      "excerpt_text": "ds noon, descended in torrents of rain. Hence it was\nimpossible to start on their journey, and advisable to seek a shelter.\n\n[Illustration: While the fire served to dry their garments conversation\nbeguiled the hours, as they lay or stood at ease.]\n\nWilson discovered, fortunately, a cavern, hollowed out by the sea in\nthe basaltic rocks of the shore, and here the travelers took refuge\nwith their arms and provisions. There was an abundance of dry sea-weed,\nlately cast up by the waves. This formed a soft couch, of which they\navailed themselves. Several pieces of wood were piled up at the\nentrance and then kindled; and while the fire served to dry their\ngarments conversation beguiled the hours, as they lay or stood at ease.\n\n[Illustration: Louper, with difficulty, managed to support himself on\none of them.]\n\n[Sidenote: SEALS AND SIRENS.]\n\nPaganel, as usual, upon being appealed to, could tell them of the\nrise, extension, and consolidation of the British power upon the\nisland; he informed the",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "81",
+      "claim_id": "81_C0",
+      "claim_text": "When he was fourteen a whaling crew coveted the island\u2019s spring and set fire to threaten the village; as squad leader he slipped aboard at night, smashed their launches and drove them off.",
+      "excerpt_text": "ome inquiries into the cause of his\nsudden disappearance.\n\nM. de Villefort\u2019s communications on the subject were very limited and\nconcise; he told her, in fact, that an explanation had taken place\nbetween M. Noirtier, M. d\u2019\u00c9pinay, and himself, and that the marriage of\nValentine and Franz would consequently be broken off. This was an\nawkward and unpleasant thing to have to report to those who were\nwaiting. She therefore contented herself with saying that M. Noirtier\nhaving at the commencement of the discussion been attacked by a sort of\napoplectic fit, the affair would necessarily be deferred for some days\nlonger. This news, false as it was following so singularly in the train\nof the two similar misfortunes which had so recently occurred,\nevidently astonished the auditors, and they retired without a word.\n\nDuring this time Valentine, at once terrified and happy, after having\nembraced and thanked the feeble old man for thus breaking with a single\nblow the chain which she had been accustom",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "81",
+      "claim_id": "81_C1",
+      "claim_text": "A captured Spanish sailor, impressed by his ferocity, secretly taught him scraps of Spanish slang.",
+      "excerpt_text": " at Naples, or on the coast of Tuscany, or perhaps on the shores\nof France. Your majesty is well aware that the sovereign of the Island\nof Elba has maintained his relations with Italy and France?\u201d\n\n\u201cI am, sir,\u201d said the king, much agitated; \u201cand recently we have had\ninformation that the Bonapartist clubs have had meetings in the Rue\nSaint-Jacques. But proceed, I beg of you. How did you obtain these\ndetails?\u201d\n\n\u201cSire, they are the results of an examination which I have made of a\nman of Marseilles, whom I have watched for some time, and arrested on\nthe day of my departure. This person, a sailor, of turbulent character,\nand whom I suspected of Bonapartism, has been secretly to the Island of\nElba. There he saw the grand-marshal, who charged him with an oral\nmessage to a Bonapartist in Paris, whose name I could not extract from\nhim; but this mission was to prepare men\u2019s minds for a return (it is\nthe man who says this, sire)\u2014a return which will soon occur.\u201d\n\n\u201cAnd where is this man?\u201d\n\n\u201cIn pris",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "81",
+      "claim_id": "81_C1",
+      "claim_text": "A captured Spanish sailor, impressed by his ferocity, secretly taught him scraps of Spanish slang.",
+      "excerpt_text": " francs; but he rid\nhimself of all his Spanish shares. The same evening the following was\nread in _Le Messager_:\n\n\u201c[By telegraph.] The king, Don Carlos, has escaped the vigilance of his\nguardians at Bourges, and has returned to Spain by the Catalonian\nfrontier. Barcelona has risen in his favor.\u201d\n\nAll that evening nothing was spoken of but the foresight of Danglars,\nwho had sold his shares, and of the luck of the stock-jobber, who only\nlost five hundred thousand francs by such a blow. Those who had kept\ntheir shares, or bought those of Danglars, looked upon themselves as\nruined, and passed a very bad night. Next morning _Le Moniteur_\ncontained the following:\n\n\u201cIt was without any foundation that _Le Messager_ yesterday announced\nthe flight of Don Carlos and the revolt of Barcelona. The king (Don\nCarlos) has not left Bourges, and the peninsula is in the enjoyment of\nprofound peace. A telegraphic signal, improperly interpreted, owing to\nthe fog, was the cause of this error.\u201d\n\nThe funds ros",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "81",
+      "claim_id": "81_C1",
+      "claim_text": "A captured Spanish sailor, impressed by his ferocity, secretly taught him scraps of Spanish slang.",
+      "excerpt_text": "because that accusation had been written with the left hand;\nand I have noticed that\u2014\u2014\u201d\n\n\u201cWhat?\u201d\n\n\u201cThat while the writing of different persons done with the right hand\nvaries, that performed with the left hand is invariably uniform.\u201d\n\n\u201cYou have evidently seen and observed everything.\u201d\n\n\u201cLet us proceed.\u201d\n\n\u201cOh, yes, yes!\u201d\n\n\u201cNow as regards the second question.\u201d\n\n\u201cI am listening.\u201d\n\n\u201cWas there any person whose interest it was to prevent your marriage\nwith Merc\u00e9d\u00e8s?\u201d\n\n\u201cYes; a young man who loved her.\u201d\n\n\u201cAnd his name was\u2014\u2014\u201d\n\n\u201cFernand.\u201d\n\n\u201cThat is a Spanish name, I think?\u201d\n\n\u201cHe was a Catalan.\u201d\n\n\u201cYou imagine him capable of writing the letter?\u201d\n\n\u201cOh, no; he would more likely have got rid of me by sticking a knife\ninto me.\u201d\n\n\u201cThat is in strict accordance with the Spanish character; an\nassassination they will unhesitatingly commit, but an act of cowardice,\nnever.\u201d\n\n\u201cBesides,\u201d said Dant\u00e8s, \u201cthe various circumstances mentioned in the\nletter were wholly unknown to him.\u201d\n\n\u201cYou had never spoken of them ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "81",
+      "claim_id": "81_C1",
+      "claim_text": "A captured Spanish sailor, impressed by his ferocity, secretly taught him scraps of Spanish slang.",
+      "excerpt_text": "to reach the water-jug, and fainted in the midst of his\ndried herbs. Five minutes after the new telegram reached the minister,\nDebray had the horses put to his carriage, and drove to Danglars\u2019\nhouse.\n\n\u201cHas your husband any Spanish bonds?\u201d he asked of the baroness.\n\n\u201cI think so, indeed! He has six millions\u2019 worth.\u201d\n\n\u201cHe must sell them at whatever price.\u201d\n\n\u201cWhy?\u201d\n\n\u201cBecause Don Carlos has fled from Bourges, and has returned to Spain.\u201d\n\n30203m\n\n\n\n\u201cHow do you know?\u201d Debray shrugged his shoulders.\n\n\u201cThe idea of asking how I hear the news,\u201d he said.\n\nThe baroness did not wait for a repetition; she ran to her husband, who\nimmediately hastened to his agent, and ordered him to sell at any\nprice. When it was seen that Danglars sold, the Spanish funds fell\ndirectly. Danglars lost five hundred thousand francs; but he rid\nhimself of all his Spanish shares. The same evening the following was\nread in _Le Messager_:\n\n\u201c[By telegraph.] The king, Don Carlos, has escaped the vigilance of his\nguardians at B",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "81",
+      "claim_id": "81_C1",
+      "claim_text": "A captured Spanish sailor, impressed by his ferocity, secretly taught him scraps of Spanish slang.",
+      "excerpt_text": ". Morrel\nhad thought of Danglars, who was now immensely rich, and had lain under\ngreat obligations to Morrel in former days, since to him it was owing\nthat Danglars entered the service of the Spanish banker, with whom he\nhad laid the foundations of his vast wealth. It was said at this moment\nthat Danglars was worth from six to eight millions of francs, and had\nunlimited credit. Danglars, then, without taking a crown from his\npocket, could save Morrel; he had but to pass his word for a loan, and\nMorrel was saved. Morrel had long thought of Danglars, but had kept\naway from some instinctive motive, and had delayed as long as possible\navailing himself of this last resource. And Morrel was right, for he\nreturned home crushed by the humiliation of a refusal.\n\nYet, on his arrival, Morrel did not utter a complaint, or say one harsh\nword. He embraced his weeping wife and daughter, pressed Emmanuel\u2019s\nhand with friendly warmth, and then going to his private room on the\nsecond floor had sent for C",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "81",
+      "claim_id": "81_C1",
+      "claim_text": "A captured Spanish sailor, impressed by his ferocity, secretly taught him scraps of Spanish slang.",
+      "excerpt_text": " was\na Portuguese! It is Portuguese that you have been studying for six\nweeks.\"\n\n\"Camo\u00ebns! Lusiad! Portuguese!\"\n\nPaganel could say no more. His eyes wandered, while a peal of Homeric\nlaughter rang in his ears.\n\nThe Patagonian did not wink; he waited patiently for the explanation of\nthis event, which was totally incomprehensible to him.\n\n\"Insensate! fool!\" cried Paganel, at last. \"What! is it so? Is it not\na mere joke? Have I done this? It is the confusion of languages, as at\nBabel. My friends! my friends! to start for India and arrive at Chili!\nto learn Spanish and speak Portuguese! this is too much, and, if it\ncontinues, I shall some day throw myself out of the window instead of\nmy cigar.\"\n\nTo hear Paganel take his blunder thus, to see his comical actions, it\nwas impossible to keep serious. Besides, he set the example himself.\n\n\"Laugh, my friends,\" said he, \"laugh with a will! you cannot laugh as\nmuch as I do at myself.\"\n\nAnd he uttered the most formidable peal of laughter that ever i",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "81",
+      "claim_id": "81_C1",
+      "claim_text": "A captured Spanish sailor, impressed by his ferocity, secretly taught him scraps of Spanish slang.",
+      "excerpt_text": "the company called the Southern. I bought two\nthirds of the shares of that company; as you had foreseen, the shares\ntrebled in value, and I picked up a million, from which 250,000 francs\nwere paid to you for pin-money. How have you spent this 250,000\nfrancs?\u2014it is no business of mine.\u201d\n\n\u201cWhen are you coming to the point?\u201d cried the baroness, shivering with\nanger and impatience.\n\n\u201cPatience, madame, I am coming to it.\u201d\n\n\u201cThat\u2019s fortunate.\u201d\n\n\u201cIn April you went to dine at the minister\u2019s. You heard a private\nconversation respecting Spanish affairs\u2014on the expulsion of Don Carlos.\nI bought some Spanish shares. The expulsion took place and I pocketed\n600,000 francs the day Charles V. repassed the Bidassoa. Of these\n600,000 francs you took 50,000 crowns. They were yours, you disposed of\nthem according to your fancy, and I asked no questions; but it is not\nthe less true that you have this year received 500,000 livres.\u201d\n\n\u201cWell, sir, and what then?\u201d\n\n\u201cAh, yes, it was just after this that you spoil",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

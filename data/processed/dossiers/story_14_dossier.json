@@ -1,4 +1,78 @@
 {
-  "story_id": 14,
-  "dossier": []
+  "story_id": "14",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "14",
+      "claim_id": "14_C0",
+      "claim_text": "Mutual recognition with Major McNabbs: both had lived among the Charr\u00faa and confirmed their identities by exchanging certain hand signs.",
+      "excerpt_text": "\nhorse had not proved good.\u201d\n\n\u201cIt is so good, that I have distanced M. de Ch\u00e2teau-Renaud, one of the\nbest riders in France, and M. Debray, who both mount the minister\u2019s\nArabians; and close on their heels are the horses of Madame Danglars,\nwho always go at six leagues an hour.\u201d\n\n\u201cThen they follow you?\u201d asked Monte Cristo.\n\n\u201cSee, they are here.\u201d And at the same minute a carriage with smoking\nhorses, accompanied by two mounted gentlemen, arrived at the gate,\nwhich opened before them. The carriage drove round, and stopped at the\nsteps, followed by the horsemen.\n\nThe instant Debray had touched the ground, he was at the carriage-door.\nHe offered his hand to the baroness, who, descending, took it with a\npeculiarity of manner imperceptible to everyone but Monte Cristo. But\nnothing escaped the count\u2019s notice, and he observed a little note,\npassed with the facility that indicates frequent practice, from the\nhand of Madame Danglars to that of the minister\u2019s secretary.\n\nAfter his wife the banker d",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "14",
+      "claim_id": "14_C0",
+      "claim_text": "Mutual recognition with Major McNabbs: both had lived among the Charr\u00faa and confirmed their identities by exchanging certain hand signs.",
+      "excerpt_text": "come across one, return for me.\u201d\nThe patron shook his head.\n\n\u201cListen, Captain Baldi; there\u2019s one way of settling this,\u201d said Jacopo.\n\u201cDo you go, and I will stay and take care of the wounded man.\u201d\n\n\u201cAnd give up your share of the venture,\u201d said Edmond, \u201cto remain with\nme?\u201d\n\n\u201cYes,\u201d said Jacopo, \u201cand without any hesitation.\u201d\n\n\u201cYou are a good fellow and a kind-hearted messmate,\u201d replied Edmond,\n\u201cand heaven will recompense you for your generous intentions; but I do\nnot wish anyone to stay with me. A day or two of rest will set me up,\nand I hope I shall find among the rocks certain herbs most excellent\nfor bruises.\u201d\n\nA peculiar smile passed over Dant\u00e8s\u2019 lips; he squeezed Jacopo\u2019s hand\nwarmly, but nothing could shake his determination to remain\u2014and remain\nalone.\n\nThe smugglers left with Edmond what he had requested and set sail, but\nnot without turning about several times, and each time making signs of\na cordial farewell, to which Edmond replied with his hand only, as if\nhe could not move the ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "14",
+      "claim_id": "14_C0",
+      "claim_text": "Mutual recognition with Major McNabbs: both had lived among the Charr\u00faa and confirmed their identities by exchanging certain hand signs.",
+      "excerpt_text": "ut danger. However, that day, at\nleast, the Duncan did not appear, and the sixth night since their\ndeparture from Twofold Bay arrived without Captain Mangles's fears\nbeing realized.\n\nBut that night was destined to be one of terror. Darkness set in almost\ninstantaneously towards evening; the sky was very threatening. Even\nWill Halley, whose sense of danger was superior to the brutishness of\nintoxication, was startled by these warning signs. He left his cabin,\nrubbing his eyes and shaking his great red head. Then he drew a long\nbreath, and examined the masts. The wind was fresh, and was blowing\nstrong towards the New Zealand coast.\n\nCaptain Halley summoned his men, with many oaths, and ordered them to\nreef the top-sails. Captain Mangles approved in silence. He had given\nup remonstrating with this coarse seaman; but neither he nor Glenarvan\nleft the deck.\n\nTwo hours passed. The sea grew more tempestuous, and the vessel\nreceived such severe shocks that it seemed as if her keel were grating",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "14",
+      "claim_id": "14_C0",
+      "claim_text": "Mutual recognition with Major McNabbs: both had lived among the Charr\u00faa and confirmed their identities by exchanging certain hand signs.",
+      "excerpt_text": "an Arab.\u201d\n\n\u201cAnd you really believe the result would be still more sure with us\nthan in the East, and in the midst of our fogs and rains a man would\nhabituate himself more easily than in a warm latitude to this\nprogressive absorption of poison?\u201d\n\n\u201cCertainly; it being at the same time perfectly understood that he\nshould have been duly fortified against the poison to which he had not\nbeen accustomed.\u201d\n\n\u201cYes, I understand that; and how would you habituate yourself, for\ninstance, or rather, how did you habituate yourself to it?\u201d\n\n\u201cOh, very easily. Suppose you knew beforehand the poison that would be\nmade use of against you; suppose the poison was, for instance,\nbrucine\u2014\u2014\u201d\n\n\u201cBrucine is extracted from the false angostura8 is it not?\u201d inquired\nMadame de Villefort.\n\n\u201cPrecisely, madame,\u201d replied Monte Cristo; \u201cbut I perceive I have not\nmuch to teach you. Allow me to compliment you on your knowledge; such\nlearning is very rare among ladies.\u201d\n\n\u201cOh, I am aware of that,\u201d said Madame de Villefort; \u201cb",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "14",
+      "claim_id": "14_C0",
+      "claim_text": "Mutual recognition with Major McNabbs: both had lived among the Charr\u00faa and confirmed their identities by exchanging certain hand signs.",
+      "excerpt_text": "ce you have been in\nParis, you have become quite nervous, and apparently out of your\nelement; you no longer seem to understand me.\u201d\n\n\u201cBut surely your excellency will be so good as to inform me whom you\nare expecting to receive?\u201d\n\n\u201cI do not yet know myself, neither is it necessary that you should do\nso. \u2018Lucullus dines with Lucullus,\u2019 that is quite sufficient.\u201d\n\nBertuccio bowed, and left the room.\n\n\n\n Chapter 55. Major Cavalcanti\n\nBoth the count and Baptistin had told the truth when they announced to\nMorcerf the proposed visit of the major, which had served Monte Cristo\nas a pretext for declining Albert\u2019s invitation. Seven o\u2019clock had just\nstruck, and M. Bertuccio, according to the command which had been given\nhim, had two hours before left for Auteuil, when a cab stopped at the\ndoor, and after depositing its occupant at the gate, immediately\nhurried away, as if ashamed of its employment. The visitor was about\nfifty-two years of age, dressed in one of the green surtouts,\nornamented with",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "14",
+      "claim_id": "14_C0",
+      "claim_text": "Mutual recognition with Major McNabbs: both had lived among the Charr\u00faa and confirmed their identities by exchanging certain hand signs.",
+      "excerpt_text": "e, and made the captain\nproud of his son and daughter. He learned the exploits of the young\nhero, and how the boy had already repaid part of his obligation to Lord\nGlenarvan at the peril of his life. Captain Mangles' language to Mary\nand concerning her was so truly loving, that Harry Grant, who had been\nalready informed on this point by Lady Helena, placed the hand of his\ndaughter in that of the noble young captain, and, turning towards Lord\nand Lady Glenarvan, said:\n\n\"My lord and lady, join with me to bless our children!\"\n\nIt was not long before Glenarvan related Ayrton's story to the captain,\nwho confirmed the quartermaster's declaration in regard to his having\nbeen abandoned on the Australian coast.\n\n\"He is a shrewd and courageous man,\" added he; \"but his passions have\nruined him. May meditation and repentance lead him to better feelings!\"\n\nBut before Ayrton was transferred to Tabor Island, Harry Grant wished\nto show his new friends the bounds of his habitation. He invited them\nto v",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "14",
+      "claim_id": "14_C0",
+      "claim_text": "Mutual recognition with Major McNabbs: both had lived among the Charr\u00faa and confirmed their identities by exchanging certain hand signs.",
+      "excerpt_text": "n balcony extended the entire length of the house. And although\nthe entertainment was fixed for twelve o\u2019clock, an hour previous to\nthat time the balcony was filled with impatient and expectant guests,\nconsisting of the favored part of the crew of the _Pharaon_, and other\npersonal friends of the bridegroom, the whole of whom had arrayed\nthemselves in their choicest costumes, in order to do greater honor to\nthe occasion.\n\nVarious rumors were afloat to the effect that the owners of the\n_Pharaon_ had promised to attend the nuptial feast; but all seemed\nunanimous in doubting that an act of such rare and exceeding\ncondescension could possibly be intended.\n\nDanglars, however, who now made his appearance, accompanied by\nCaderousse, effectually confirmed the report, stating that he had\nrecently conversed with M. Morrel, who had himself assured him of his\nintention to dine at La R\u00e9serve.\n\nIn fact, a moment later M. Morrel appeared and was saluted with an\nenthusiastic burst of applause from the ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "14",
+      "claim_id": "14_C0",
+      "claim_text": "Mutual recognition with Major McNabbs: both had lived among the Charr\u00faa and confirmed their identities by exchanging certain hand signs.",
+      "excerpt_text": "nfant.\u201d\n\n30225m\n\n\n\nMonte Cristo felt the arm of Madame Danglars stiffen, while that of\nVillefort trembled.\n\n\u201cA newly born infant,\u201d repeated Debray; \u201cthis affair becomes serious!\u201d\n\n\u201cWell,\u201d said Ch\u00e2teau-Renaud, \u201cI was not wrong just now then, when I\nsaid that houses had souls and faces like men, and that their exteriors\ncarried the impress of their characters. This house was gloomy because\nit was remorseful: it was remorseful because it concealed a crime.\u201d\n\n\u201cWho said it was a crime?\u201d asked Villefort, with a last effort.\n\n\u201cHow? is it not a crime to bury a living child in a garden?\u201d cried\nMonte Cristo. \u201cAnd pray what do you call such an action?\u201d\n\n\u201cBut who said it was buried alive?\u201d\n\n\u201cWhy bury it there if it were dead? This garden has never been a\ncemetery.\u201d\n\n\u201cWhat is done to infanticides in this country?\u201d asked Major Cavalcanti\ninnocently.\n\n\u201cOh, their heads are soon cut off,\u201d said Danglars.\n\n\u201cAh, indeed?\u201d said Cavalcanti.\n\n\u201cI think so; am I not right, M. de Villefort?\u201d asked Monte Cristo.\n",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "14",
+      "claim_id": "14_C0",
+      "claim_text": "Mutual recognition with Major McNabbs: both had lived among the Charr\u00faa and confirmed their identities by exchanging certain hand signs.",
+      "excerpt_text": "d I inquired where the asylum was; the box confirmed my\nstatement, the linen proved that the infant belonged to wealthy\nparents, the blood with which I was covered might have proceeded from\nthe child as well as from anyone else. No objection was raised, but\nthey pointed out the asylum, which was situated at the upper end of the\nRue d\u2019Enfer, and after having taken the precaution of cutting the linen\nin two pieces, so that one of the two letters which marked it was on\nthe piece wrapped around the child, while the other remained in my\npossession, I rang the bell, and fled with all speed. A fortnight after\nI was at Rogliano, and I said to Assunta:\n\n\u201c\u2018Console thyself, sister; Israel is dead, but he is avenged.\u2019\n\n\u201cShe demanded what I meant, and when I had told her all,\u2014\u2018Giovanni,\u2019\nsaid she, \u2018you should have brought this child with you; we would have\nreplaced the parents it has lost, have called it Benedetto, and then,\nin consequence of this good action, God would have blessed us.\u2019 In\nreply I",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

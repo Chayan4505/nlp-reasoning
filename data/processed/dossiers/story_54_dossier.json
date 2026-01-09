@@ -1,4 +1,142 @@
 {
-  "story_id": 54,
-  "dossier": []
+  "story_id": "54",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "54",
+      "claim_id": "54_C0",
+      "claim_text": "He briefly loved Chilean doctor Mariana, who wanted him to settle down but was refused; she died nursing cholera-stricken Indians.",
+      "excerpt_text": "seilles, when I was\ncoming back from Algiers,\u201d said Ch\u00e2teau-Renaud; \u201cshe looked like a\nwoman destined to live to be a hundred years old, from her apparent\nsound health and great activity of mind and body. How old was she?\u201d\n\n\u201cFranz assured me,\u201d replied Albert, \u201cthat she was sixty-six years old.\nBut she has not died of old age, but of grief; it appears that since\nthe death of the marquis, which affected her very deeply, she has not\ncompletely recovered her reason.\u201d\n\n\u201cBut of what disease, then, did she die?\u201d asked Debray.\n\n\u201cIt is said to have been a congestion of the brain, or apoplexy, which\nis the same thing, is it not?\u201d\n\n\u201cNearly.\u201d\n\n\u201cIt is difficult to believe that it was apoplexy,\u201d said Beauchamp.\n\u201cMadame de Saint-M\u00e9ran, whom I once saw, was short, of slender form,\nand of a much more nervous than sanguine temperament; grief could\nhardly produce apoplexy in such a constitution as that of Madame de\nSaint-M\u00e9ran.\u201d\n\n\u201cAt any rate,\u201d said Albert, \u201cwhatever disease or doctor may have killed\nher",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "54",
+      "claim_id": "54_C0",
+      "claim_text": "He briefly loved Chilean doctor Mariana, who wanted him to settle down but was refused; she died nursing cholera-stricken Indians.",
+      "excerpt_text": " the fragments with the same\nprecaution as before, and pushed his bed back against the wall. He then\ngave himself up to his happiness. He would no longer be alone. He was,\nperhaps, about to regain his liberty; at the worst, he would have a\ncompanion, and captivity that is shared is but half captivity. Plaints\nmade in common are almost prayers, and prayers where two or three are\ngathered together invoke the mercy of heaven.\n\nAll day Dant\u00e8s walked up and down his cell. He sat down occasionally on\nhis bed, pressing his hand on his heart. At the slightest noise he\nbounded towards the door. Once or twice the thought crossed his mind\nthat he might be separated from this unknown, whom he loved already;\nand then his mind was made up\u2014when the jailer moved his bed and stooped\nto examine the opening, he would kill him with his water jug. He would\nbe condemned to die, but he was about to die of grief and despair when\nthis miraculous noise recalled him to life.\n\nThe jailer came in the evening. Dant",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "54",
+      "claim_id": "54_C0",
+      "claim_text": "He briefly loved Chilean doctor Mariana, who wanted him to settle down but was refused; she died nursing cholera-stricken Indians.",
+      "excerpt_text": " then ran on to Merc\u00e9d\u00e8s. They both came immediately, M.\nMorrel bringing a doctor, and the doctor said it was inflammation of\nthe bowels, and ordered him a limited diet. I was there, too, and I\nnever shall forget the old man\u2019s smile at this prescription.\n\n\u201cFrom that time he received all who came; he had an excuse for not\neating any more; the doctor had put him on a diet.\u201d\n\nThe abb\u00e9 uttered a kind of groan.\n\n\u201cThe story interests you, does it not, sir?\u201d inquired Caderousse.\n\n\u201cYes,\u201d replied the abb\u00e9, \u201cit is very affecting.\u201d\n\n\u201cMerc\u00e9d\u00e8s came again, and she found him so altered that she was even\nmore anxious than before to have him taken to her own home. This was M.\nMorrel\u2019s wish also, who would fain have conveyed the old man against\nhis consent; but the old man resisted, and cried so that they were\nactually frightened. Merc\u00e9d\u00e8s remained, therefore, by his bedside, and\nM. Morrel went away, making a sign to the Catalan that he had left his\npurse on the chimney-piece; but, availing himself of ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "54",
+      "claim_id": "54_C0",
+      "claim_text": "He briefly loved Chilean doctor Mariana, who wanted him to settle down but was refused; she died nursing cholera-stricken Indians.",
+      "excerpt_text": "daughter, Mademoiselle de\nVillefort; it is she who has nursed and tended him for six years, and\nhas, by her devoted attention, fully secured the affection, I had\nalmost said the gratitude, of her grandfather, and it is but just that\nshe should reap the fruit of her devotion.\u201d\n\nThe eye of Noirtier clearly showed by its expression that he was not\ndeceived by the false assent given by Madame de Villefort\u2019s words and\nmanner to the motives which she supposed him to entertain.\n\n\u201cIs it, then, to Mademoiselle Valentine de Villefort that you leave\nthese 900,000 francs?\u201d demanded the notary, thinking he had only to\ninsert this clause, but waiting first for the assent of Noirtier, which\nit was necessary should be given before all the witnesses of this\nsingular scene.\n\nValentine, when her name was made the subject of discussion, had\nstepped back, to escape unpleasant observation; her eyes were cast\ndown, and she was crying. The old man looked at her for an instant with\nan expression of the deepest",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "54",
+      "claim_id": "54_C0",
+      "claim_text": "He briefly loved Chilean doctor Mariana, who wanted him to settle down but was refused; she died nursing cholera-stricken Indians.",
+      "excerpt_text": "us speakers, \u201cas he was a churchman,\nthey may go to some expense in his behalf.\u201d\n\n\u201cThey may give him the honors of the sack.\u201d\n\nEdmond did not lose a word, but comprehended very little of what was\nsaid. The voices soon ceased, and it seemed to him as if everyone had\nleft the cell. Still he dared not to enter, as they might have left\nsome turnkey to watch the dead. He remained, therefore, mute and\nmotionless, hardly venturing to breathe. At the end of an hour, he\nheard a faint noise, which increased. It was the governor who returned,\nfollowed by the doctor and other attendants. There was a moment\u2019s\nsilence,\u2014it was evident that the doctor was examining the dead body.\nThe inquiries soon commenced.\n\nThe doctor analyzed the symptoms of the malady to which the prisoner\nhad succumbed, and declared that he was dead. Questions and answers\nfollowed in a nonchalant manner that made Dant\u00e8s indignant, for he felt\nthat all the world should have for the poor abb\u00e9 a love and respect\nequal to his own.\n\n",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "54",
+      "claim_id": "54_C0",
+      "claim_text": "He briefly loved Chilean doctor Mariana, who wanted him to settle down but was refused; she died nursing cholera-stricken Indians.",
+      "excerpt_text": " the horses are dead.\"\n\n\"The poison is not far away.\"\n\n\"There is enough here to settle an entire troop of cavalry. This\ngastrolobium is a useful plant.\"\n\n\"Then they were silent,\" added MacNabb, \"and departed. I wanted to know\nmore: I followed them. The conversation soon began again. 'A cunning\nman, this Ben Joyce,' said the farrier; 'a famous quartermaster, with\nhis invented shipwreck. If his plan succeeds, it will be a stroke of\nfortune. Devilish Ayrton! Call him Ben Joyce, for he has well earned\nhis name.' These rascals then left the wood of gum-trees. I knew what\nI wished, and returned to the encampment with the certainty that all\nthe convicts in Australia are not reformed, in spite of Paganel's\narguments.\"\n\n\"Then,\" said Glenarvan, whose face was pale with anger, \"Ayrton has\nbrought us here to rob and assassinate us?\"\n\n\"Yes,\" replied the major.\n\n\"And, since leaving the Wimerra, his band has followed and watched us,\nwaiting for a favorable opportunity?\"\n\n[Sidenote: FROM DEPTH TO DEPT",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "54",
+      "claim_id": "54_C0",
+      "claim_text": "He briefly loved Chilean doctor Mariana, who wanted him to settle down but was refused; she died nursing cholera-stricken Indians.",
+      "excerpt_text": ", and their companions, he thanked\nthem in a voice broken by emotion. While on their way to the yacht, his\nchildren had briefly told him the story of the Duncan.\n\n[Illustration: A man was standing on the beach between two others. His\nform was tall and stout.]\n\nHow great a debt of gratitude did he feel that he owed this noble woman\nand her companions! From Lord Glenarvan down to the lowest sailor,\nhad not all struggled and suffered for him? Harry Grant expressed\nthe feelings of thankfulness that overflowed his heart with so much\nsimplicity and nobleness, and his manly countenance was illumined by so\npure and sincere a sentiment, that all felt themselves repaid for the\ntrials they had undergone. Even the imperturbable major's eye was wet\nwith a tear that he could not repress. As for Paganel, he wept like a\nchild who does not think of hiding his emotion.\n\nCaptain Grant could not cease gazing at his daughter. He found her\nbeautiful and charming, and told her so again and again, appealing\nt",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "54",
+      "claim_id": "54_C0",
+      "claim_text": "He briefly loved Chilean doctor Mariana, who wanted him to settle down but was refused; she died nursing cholera-stricken Indians.",
+      "excerpt_text": "ersed were plunged in the deepest\nobscurity.\n\nThe distance was short, and at the end of ten minutes his carriage, or\nrather the count\u2019s, stopped before the H\u00f4tel de Londres.\n\nDinner was waiting, but as Albert had told him that he should not\nreturn so soon, Franz sat down without him. Signor Pastrini, who had\nbeen accustomed to see them dine together, inquired into the cause of\nhis absence, but Franz merely replied that Albert had received on the\nprevious evening an invitation which he had accepted.\n\nThe sudden extinction of the _moccoletti_, the darkness which had\nreplaced the light, and the silence which had succeeded the turmoil,\nhad left in Franz\u2019s mind a certain depression which was not free from\nuneasiness. He therefore dined very silently, in spite of the officious\nattention of his host, who presented himself two or three times to\ninquire if he wanted anything.\n\nFranz resolved to wait for Albert as late as possible. He ordered the\ncarriage, therefore, for eleven o\u2019clock, desiring",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "54",
+      "claim_id": "54_C0",
+      "claim_text": "He briefly loved Chilean doctor Mariana, who wanted him to settle down but was refused; she died nursing cholera-stricken Indians.",
+      "excerpt_text": "eing able to take any active part in them.\nHowever, this is much, and calls for gratitude and Heaven has not taken\naway all my blessings when it leaves me your sympathy and kindness.\u201d\n\nAt these words there appeared in Noirtier\u2019s eye an expression of such\ndeep meaning that the young girl thought she could read these words\nthere: \u201cYou are mistaken; I can still do much for you.\u201d\n\n\u201cDo you think you can help me, dear grandpapa?\u201d said Valentine.\n\n\u201cYes.\u201d Noirtier raised his eyes, it was the sign agreed on between him\nand Valentine when he wanted anything.\n\n\u201cWhat is it you want, dear grandpapa?\u201d said Valentine, and she\nendeavored to recall to mind all the things which he would be likely to\nneed; and as the ideas presented themselves to her mind, she repeated\nthem aloud, then,\u2014finding that all her efforts elicited nothing but a\nconstant _\u201cNo,\u201d_\u2014she said, \u201cCome, since this plan does not answer, I\nwill have recourse to another.\u201d\n\nShe then recited all the letters of the alphabet from A down to N. ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "54",
+      "claim_id": "54_C1",
+      "claim_text": "When he burned her belongings he kept the brass compass she had given him.",
+      "excerpt_text": "daughter, Mademoiselle de\nVillefort; it is she who has nursed and tended him for six years, and\nhas, by her devoted attention, fully secured the affection, I had\nalmost said the gratitude, of her grandfather, and it is but just that\nshe should reap the fruit of her devotion.\u201d\n\nThe eye of Noirtier clearly showed by its expression that he was not\ndeceived by the false assent given by Madame de Villefort\u2019s words and\nmanner to the motives which she supposed him to entertain.\n\n\u201cIs it, then, to Mademoiselle Valentine de Villefort that you leave\nthese 900,000 francs?\u201d demanded the notary, thinking he had only to\ninsert this clause, but waiting first for the assent of Noirtier, which\nit was necessary should be given before all the witnesses of this\nsingular scene.\n\nValentine, when her name was made the subject of discussion, had\nstepped back, to escape unpleasant observation; her eyes were cast\ndown, and she was crying. The old man looked at her for an instant with\nan expression of the deepest",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "54",
+      "claim_id": "54_C1",
+      "claim_text": "When he burned her belongings he kept the brass compass she had given him.",
+      "excerpt_text": "ons and walked at once to the\nbarrier. The first glance which Maximilian directed towards her\nentirely reassured him, and the first words she spoke made his heart\nbound with delight.\n\n\u201cWe are saved!\u201d said Valentine.\n\n\u201cSaved?\u201d repeated Morrel, not being able to conceive such intense\nhappiness; \u201cby whom?\u201d\n\n\u201cBy my grandfather. Oh, Morrel, pray love him for all his goodness to\nus!\u201d\n\nMorrel swore to love him with all his soul; and at that moment he could\nsafely promise to do so, for he felt as though it were not enough to\nlove him merely as a friend or even as a father, he worshiped him as a\ngod.\n\n\u201cBut tell me, Valentine, how has it all been effected? What strange\nmeans has he used to compass this blessed end?\u201d\n\nValentine was on the point of relating all that had passed, but she\nsuddenly remembered that in doing so she must reveal a terrible secret\nwhich concerned others as well as her grandfather, and she said:\n\n\u201cAt some future time I will tell you all about it.\u201d\n\n\u201cBut when will that be?\u201d\n",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "54",
+      "claim_id": "54_C1",
+      "claim_text": "When he burned her belongings he kept the brass compass she had given him.",
+      "excerpt_text": "dered him a real companion of\nCaptain Grant when he heard him speak to the young girl of her father.\nAyrton knew Mary and Robert perfectly. He had seen them at Glasgow\non the departure of the Britannia. He remembered that they had been\npresent at the farewell dinner given on board to the friends of the\ncaptain. Sheriff MacIntyre was one of the guests. Robert--scarcely\nten years old--had been confided to the care of Dick Turner, the\nboatswain, but had escaped from him and climbed to the top-sail\nyard-arm.\n\n[Illustration: At last, exhausted and almost dead, he reached the\nhospitable dwelling of Mr. O'Moore, where his labor insured him a\ncomfortable livelihood.]\n\n\"It is true! it is true!\" cried Robert.\n\nThe quartermaster remembered, too, a thousand little circumstances\nto which he did not seem to attach so much importance as did Captain\nMangles. When he stopped, Mary said, in her sweet voice,--\n\n\"Mr. Ayrton, please tell us more about our father.\"\n\nAyrton acceded to the young girl's reques",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "54",
+      "claim_id": "54_C1",
+      "claim_text": "When he burned her belongings he kept the brass compass she had given him.",
+      "excerpt_text": "in the agonies of death. Vampa then rushed\ntowards Teresa; for at ten paces from the dying man her legs had failed\nher, and she had dropped on her knees, so that the young man feared\nthat the ball that had brought down his enemy, had also wounded his\nbetrothed.\n\n\u201cFortunately, she was unscathed, and it was fright alone that had\novercome Teresa. When Luigi had assured himself that she was safe and\nunharmed, he turned towards the wounded man. He had just expired, with\nclenched hands, his mouth in a spasm of agony, and his hair on end in\nthe sweat of death. His eyes remained open and menacing. Vampa\napproached the corpse, and recognized Cucumetto.\n\n\u201cFrom the day on which the bandit had been saved by the two young\npeasants, he had been enamoured of Teresa, and had sworn she should be\nhis. From that time he had watched them, and profiting by the moment\nwhen her lover had left her alone, had carried her off, and believed he\nat length had her in his power, when the ball, directed by the unerri",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "54",
+      "claim_id": "54_C1",
+      "claim_text": "When he burned her belongings he kept the brass compass she had given him.",
+      "excerpt_text": "ies her off, then the rest draw lots for her, and she is\nabandoned to their brutality until death relieves her sufferings. When\ntheir parents are sufficiently rich to pay a ransom, a messenger is\nsent to negotiate; the prisoner is hostage for the security of the\nmessenger; should the ransom be refused, the prisoner is irrevocably\nlost. The young girl\u2019s lover was in Cucumetto\u2019s troop; his name was\nCarlini. When she recognized her lover, the poor girl extended her arms\nto him, and believed herself safe; but Carlini felt his heart sink, for\nhe but too well knew the fate that awaited her. However, as he was a\nfavorite with Cucumetto, as he had for three years faithfully served\nhim, and as he had saved his life by shooting a dragoon who was about\nto cut him down, he hoped the chief would have pity on him. He took\nCucumetto one side, while the young girl, seated at the foot of a huge\npine that stood in the centre of the forest, made a veil of her\npicturesque head-dress to hide her face from ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "54",
+      "claim_id": "54_C1",
+      "claim_text": "When he burned her belongings he kept the brass compass she had given him.",
+      "excerpt_text": "nce of the\nyoung man, she understood by his silence and trembling voice that\nsomething strange was passing within him. She herself was not exempt\nfrom internal emotion, and without having done anything wrong, yet\nfully comprehended that Luigi was right in reproaching her. Why, she\ndid not know, but yet she did not the less feel that these reproaches\nwere merited.\n\n\u201cHowever, to Teresa\u2019s great astonishment, Luigi remained mute, and not\na word escaped his lips the rest of the evening. When the chill of the\nnight had driven away the guests from the gardens, and the gates of the\nvilla were closed on them for the _festa_ in-doors, he took Teresa\nquite away, and as he left her at her home, he said:\n\n\u201c\u2018Teresa, what were you thinking of as you danced opposite the young\nCountess of San-Felice?\u2019\n\n\u201c\u2018I thought,\u2019 replied the young girl, with all the frankness of her\nnature, \u2018that I would give half my life for a costume such as she\nwore.\u2019\n\n\u201c\u2018And what said your cavalier to you?\u2019\n\n\u201c\u2018He said it only dep",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "54",
+      "claim_id": "54_C1",
+      "claim_text": "When he burned her belongings he kept the brass compass she had given him.",
+      "excerpt_text": "van. When heart and\nreason are at variance, the latter is the weaker power. The lord of\nMalcolm Castle seemed to see in the darkness all those whom he loved,\nhis dear Helena, Mary Grant, and the crew of the Duncan. He wandered\nalong the barren coast which the waves covered with phosphorescent\nbubbles. He looked, he listened, and even thought that he saw a fitful\nlight on the sea.\n\n\"I am not mistaken,\" he soliloquized; \"I saw a ship's light, the\nDuncan's. Ah! why cannot my eyes pierce the darkness?\"\n\n[Illustration: Glenarvan watched alone. He could not convince himself\nthat the Duncan was so near him; but as for supposing that she had not\narrived at her appointed rendezvous, it was impossible, for such a ship\nthere were no delays.]\n\nThen an idea occurred to him. Paganel called himself a nyctalops; he\ncould see in the night.\n\nThe geographer was sleeping like a mole in his bed, when a strong hand\ndragged him from his sandy couch.\n\n\"Who is that?\" cried he.\n\n\"I.\"\n\n\"Who?\"\n\n\"Glenarvan. Come, ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "54",
+      "claim_id": "54_C1",
+      "claim_text": "When he burned her belongings he kept the brass compass she had given him.",
+      "excerpt_text": ". But I do not see the\nCount of Monte Cristo here.\u201d\n\n\u201cHe is worn out,\u201d said Debray; \u201cbesides, he could not well appear in\npublic, since he has been the dupe of the Cavalcanti, who, it appears,\npresented themselves to him with false letters of credit, and cheated\nhim out of 100,000 francs upon the hypothesis of this principality.\u201d\n\n\u201cBy the way, M. de Ch\u00e2teau-Renaud,\u201d asked Beauchamp, \u201chow is Morrel?\u201d\n\n\u201c_Ma foi_, I have called three times without once seeing him. Still,\nhis sister did not seem uneasy, and told me that though she had not\nseen him for two or three days, she was sure he was well.\u201d\n\n\u201cAh, now I think of it, the Count of Monte Cristo cannot appear in the\nhall,\u201d said Beauchamp.\n\n\u201cWhy not?\u201d\n\n\u201cBecause he is an actor in the drama.\u201d\n\n\u201cHas he assassinated anyone, then?\u201d\n\n\u201cNo, on the contrary, they wished to assassinate him. You know that it\nwas in leaving his house that M. de Caderousse was murdered by his\nfriend Benedetto. You know that the famous waistcoat was found in his\nhouse, ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

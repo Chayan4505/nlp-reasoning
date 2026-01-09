@@ -1,5 +1,70 @@
 {
-  "story_id": 121,
+  "story_id": "121",
   "prediction": 0,
-  "dossier": []
+  "dossier": [
+    {
+      "story_id": "121",
+      "claim_id": "121_C0",
+      "claim_text": "Aboard the prison transport he met Edmond Dant\u00e8s\u2019 father, heard tales of the merchant Pharaon and thus gained the first thread that later let him recognise the young sailor.",
+      "excerpt_text": "t of seeing her fortune increased to half a million at her\nfather\u2019s death. These considerations naturally gave Villefort a feeling\nof such complete felicity that his mind was fairly dazzled in its\ncontemplation.\n\nAt the door he met the commissary of police, who was waiting for him.\nThe sight of this officer recalled Villefort from the third heaven to\nearth; he composed his face, as we have before described, and said, \u201cI\nhave read the letter, sir, and you have acted rightly in arresting this\nman; now inform me what you have discovered concerning him and the\nconspiracy.\u201d\n\n\u201cWe know nothing as yet of the conspiracy, monsieur; all the papers\nfound have been sealed up and placed on your desk. The prisoner himself\nis named Edmond Dant\u00e8s, mate on board the three-master the _Pharaon_,\ntrading in cotton with Alexandria and Smyrna, and belonging to Morrel &\nSon, of Marseilles.\u201d\n\n\u201cBefore he entered the merchant service, had he ever served in the\nmarines?\u201d\n\n\u201cOh, no, monsieur, he is very young.\u201d\n\n\u201cH",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "121",
+      "claim_id": "121_C0",
+      "claim_text": "Aboard the prison transport he met Edmond Dant\u00e8s\u2019 father, heard tales of the merchant Pharaon and thus gained the first thread that later let him recognise the young sailor.",
+      "excerpt_text": "ouse,\u201d said the steward.\n\n\u201cAnd her son?\u201d\n\n\u201cFlorentin, his valet, thinks he is going to do the same.\u201d\n\n\u201cCome this way.\u201d Monte Cristo took Bertuccio into his study, wrote the\nletter we have seen, and gave it to the steward. \u201cGo,\u201d said he quickly.\n\u201cBut first, let Hayd\u00e9e be informed that I have returned.\u201d\n\n\u201cHere I am,\u201d said the young girl, who at the sound of the carriage had\nrun downstairs and whose face was radiant with joy at seeing the count\nreturn safely. Bertuccio left. Every transport of a daughter finding a\nfather, all the delight of a mistress seeing an adored lover, were felt\nby Hayd\u00e9e during the first moments of this meeting, which she had so\neagerly expected. Doubtless, although less evident, Monte Cristo\u2019s joy\nwas not less intense. Joy to hearts which have suffered long is like\nthe dew on the ground after a long drought; both the heart and the\nground absorb that beneficent moisture falling on them, and nothing is\noutwardly apparent.\n\nMonte Cristo was beginning to think, what h",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "121",
+      "claim_id": "121_C0",
+      "claim_text": "Aboard the prison transport he met Edmond Dant\u00e8s\u2019 father, heard tales of the merchant Pharaon and thus gained the first thread that later let him recognise the young sailor.",
+      "excerpt_text": "ut his hand, and encountered an obstacle and with another stroke knew\nthat he had gained the shore.\n\nBefore him rose a grotesque mass of rocks, that resembled nothing so\nmuch as a vast fire petrified at the moment of its most fervent\ncombustion. It was the Island of Tiboulen. Dant\u00e8s rose, advanced a few\nsteps, and, with a fervent prayer of gratitude, stretched himself on\nthe granite, which seemed to him softer than down. Then, in spite of\nthe wind and rain, he fell into the deep, sweet sleep of utter\nexhaustion. At the expiration of an hour Edmond was awakened by the\nroar of thunder. The tempest was let loose and beating the atmosphere\nwith its mighty wings; from time to time a flash of lightning stretched\nacross the heavens like a fiery serpent, lighting up the clouds that\nrolled on in vast chaotic waves.\n\nDant\u00e8s had not been deceived\u2014he had reached the first of the two\nislands, which was, in fact, Tiboulen. He knew that it was barren and\nwithout shelter; but when the sea became more ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "121",
+      "claim_id": "121_C0",
+      "claim_text": "Aboard the prison transport he met Edmond Dant\u00e8s\u2019 father, heard tales of the merchant Pharaon and thus gained the first thread that later let him recognise the young sailor.",
+      "excerpt_text": "lian\u2019s taste. He had at once declared for a\nmilitary life, and had in consequence studied hard, passed brilliantly\nthrough the Polytechnic School, and left it as sub-lieutenant of the\n53rd of the line. For a year he had held this rank, and expected\npromotion on the first vacancy. In his regiment Maximilian Morrel was\nnoted for his rigid observance, not only of the obligations imposed on\na soldier, but also of the duties of a man; and he thus gained the name\nof \u201cthe stoic.\u201d We need hardly say that many of those who gave him this\nepithet repeated it because they had heard it, and did not even know\nwhat it meant.\n\nThis was the young man whom his mother and sister called to their aid\nto sustain them under the serious trial which they felt they would soon\nhave to endure. They had not mistaken the gravity of this event, for\nthe moment after Morrel had entered his private office with Cocles,\nJulie saw the latter leave it pale, trembling, and his features\nbetraying the utmost consternation. Sh",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "121",
+      "claim_id": "121_C0",
+      "claim_text": "Aboard the prison transport he met Edmond Dant\u00e8s\u2019 father, heard tales of the merchant Pharaon and thus gained the first thread that later let him recognise the young sailor.",
+      "excerpt_text": "\n\u201cWell, sir,\u201d said the abb\u00e9, \u201cyou have spoken unreservedly; and thus to\naccuse yourself is to deserve pardon.\u201d\n\n\u201cUnfortunately, Edmond is dead, and has not pardoned me.\u201d\n\n\u201cHe did not know,\u201d said the abb\u00e9.\n\n\u201cBut he knows it all now,\u201d interrupted Caderousse; \u201cthey say the dead\nknow everything.\u201d\n\nThere was a brief silence; the abb\u00e9 rose and paced up and down\npensively, and then resumed his seat.\n\n\u201cYou have two or three times mentioned a M. Morrel,\u201d he said; \u201cwho was\nhe?\u201d\n\n\u201cThe owner of the _Pharaon_ and patron of Dant\u00e8s.\u201d\n\n\u201cAnd what part did he play in this sad drama?\u201d inquired the abb\u00e9.\n\n\u201cThe part of an honest man, full of courage and real regard. Twenty\ntimes he interceded for Edmond. When the emperor returned, he wrote,\nimplored, threatened, and so energetically, that on the second\nrestoration he was persecuted as a Bonapartist. Ten times, as I told\nyou, he came to see Dant\u00e8s\u2019 father, and offered to receive him in his\nown house; and the night or two before his death, as I have already\n",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "121",
+      "claim_id": "121_C0",
+      "claim_text": "Aboard the prison transport he met Edmond Dant\u00e8s\u2019 father, heard tales of the merchant Pharaon and thus gained the first thread that later let him recognise the young sailor.",
+      "excerpt_text": "hin a quarter of a league of you, in a dungeon in the Ch\u00e2teau d\u2019If.\nYou do not know that every day of those fourteen years I renewed the\nvow of vengeance which I had made the first day; and yet I was not\naware that you had married Fernand, my calumniator, and that my father\nhad died of hunger!\u201d\n\n\u201cCan it be?\u201d cried Merc\u00e9d\u00e8s, shuddering.\n\n\u201cThat is what I heard on leaving my prison fourteen years after I had\nentered it; and that is why, on account of the living Merc\u00e9d\u00e8s and my\ndeceased father, I have sworn to revenge myself on Fernand, and\u2014I have\nrevenged myself.\u201d\n\n\u201cAnd you are sure the unhappy Fernand did that?\u201d\n\n\u201cI am satisfied, madame, that he did what I have told you; besides,\nthat is not much more odious than that a Frenchman by adoption should\npass over to the English; that a Spaniard by birth should have fought\nagainst the Spaniards; that a stipendiary of Ali should have betrayed\nand murdered Ali. Compared with such things, what is the letter you\nhave just read?\u2014a lover\u2019s deception",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "121",
+      "claim_id": "121_C0",
+      "claim_text": "Aboard the prison transport he met Edmond Dant\u00e8s\u2019 father, heard tales of the merchant Pharaon and thus gained the first thread that later let him recognise the young sailor.",
+      "excerpt_text": "bearing value of various spots. Then, in addition to the usual\noperations of a banking establishment, it was here that the ore was\nstored, from hence that it was sent, under government escort and with\ngovernment guarantee, subject to a fixed, though moderate, charge,\nso that the transport to Melbourne, which at first was a dangerous\nand expensive \"middle passage,\" was now as easily and inexpensively\naccomplished as is the transmission of freight from London to Paris.\n\n[Illustration: In the streets, in connection with the strange\nsign-boards and announcements, the novel erections and purposes to\nwhich some of them were adapted, Paganel had a history and commentary\nfor every one.]\n\nOver the whole of this establishment they were conducted by the most\ncourteous and obliging of officials, and the services thus rendered\ncharmed the Frenchman, who was none the less loquacious, and was in\ntruth able even to enlighten his guides.\n\n[Illustration: Here was the mineralogical museum, in which might",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "121",
+      "claim_id": "121_C0",
+      "claim_text": "Aboard the prison transport he met Edmond Dant\u00e8s\u2019 father, heard tales of the merchant Pharaon and thus gained the first thread that later let him recognise the young sailor.",
+      "excerpt_text": "es of Mary and Robert Grant. It was,\nindeed, the man whom the children had so often described. Their hearts\nhad not deceived them. It was their father, it was Captain Grant!\n\nHe heard his daughter's cry, he opened his arms, and supported her\nfainting form.\n\n\n\n\nCHAPTER LIX.\n\nCAPTAIN GRANT'S STORY.\n\n\nJoy does not kill, for the long lost father and his recovered children\nwere soon rejoicing together and preparing to return to the yacht. But\nhow can we depict that scene, so little looked for by any? Words are\npowerless.\n\n[Sidenote: THE JOYS OF REUNION.]\n\nAs soon as he gained the deck, Harry Grant sank upon his knees. The\npious Scotchman, on touching what was to him the soil of his country,\nwished, first of all, to thank God for his deliverance. Then, turning\ntowards Lady Helena; Lord Glenarvan, and their companions, he thanked\nthem in a voice broken by emotion. While on their way to the yacht, his\nchildren had briefly told him the story of the Duncan.\n\n[Illustration: A man was standing on ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

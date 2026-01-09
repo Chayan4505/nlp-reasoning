@@ -1,5 +1,62 @@
 {
-  "story_id": 91,
-  "prediction": 1,
-  "dossier": []
+  "story_id": "91",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "91",
+      "claim_id": "91_C0",
+      "claim_text": "Working directly for Fouch\u00e9, he organised the assassination of royalist deputies while posing as a Ministry of Justice official; the arsenic phial still lies in a hidden drawer of his study desk.",
+      "excerpt_text": "t by Merc\u00e9d\u00e8s, sent it to Danglars, with\nan intimation that he should probably do himself the honor of joining\nthe baroness and her daughter during the evening, in the event of their\naccepting the box in question. The ladies received the offer with too\nmuch pleasure to dream of a refusal. To no class of persons is the\npresentation of a gratuitous opera-box more acceptable than to the\nwealthy millionaire, who still hugs economy while boasting of carrying\na king\u2019s ransom in his waistcoat pocket.\n\nDanglars had, however, protested against showing himself in a\nministerial box, declaring that his political principles, and his\nparliamentary position as member of the opposition party would not\npermit him so to commit himself; the baroness had, therefore,\ndespatched a note to Lucien Debray, bidding him call for them, it being\nwholly impossible for her to go alone with Eug\u00e9nie to the opera.\n\nThere is no gainsaying the fact that a very unfavorable construction\nwould have been put upon the circums",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "91",
+      "claim_id": "91_C0",
+      "claim_text": "Working directly for Fouch\u00e9, he organised the assassination of royalist deputies while posing as a Ministry of Justice official; the arsenic phial still lies in a hidden drawer of his study desk.",
+      "excerpt_text": "s be defined by the paradox of\nJean Jacques Rousseau,\u2014you remember,\u2014the mandarin who is killed five\nhundred leagues off by raising the tip of the finger. Man\u2019s whole life\npasses in doing these things, and his intellect is exhausted by\nreflecting on them. You will find very few persons who will go and\nbrutally thrust a knife in the heart of a fellow-creature, or will\nadminister to him, in order to remove him from the surface of the globe\non which we move with life and animation, that quantity of arsenic of\nwhich we just now talked. Such a thing is really out of rule\u2014eccentric\nor stupid. To attain such a point, the blood must be heated to\nthirty-six degrees, the pulse be, at least, at ninety, and the feelings\nexcited beyond the ordinary limit. But suppose one pass, as is\npermissible in philology, from the word itself to its softened synonym,\nthen, instead of committing an ignoble assassination you make an\n\u2018elimination;\u2019 you merely and simply remove from your path the\nindividual who is in",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "91",
+      "claim_id": "91_C0",
+      "claim_text": "Working directly for Fouch\u00e9, he organised the assassination of royalist deputies while posing as a Ministry of Justice official; the arsenic phial still lies in a hidden drawer of his study desk.",
+      "excerpt_text": "or nearly a quarter of an hour perfectly hidden by\nthe shadow of the vast column at whose base he had found a\nresting-place, and from whence his eyes followed the motions of Albert\nand his guides, who, holding torches in their hands, had emerged from a\nvomitorium at the opposite extremity of the Colosseum, and then again\ndisappeared down the steps conducting to the seats reserved for the\nVestal virgins, resembling, as they glided along, some restless shades\nfollowing the flickering glare of so many _ignes fatui_. All at once\nhis ear caught a sound resembling that of a stone rolling down the\nstaircase opposite the one by which he had himself ascended. There was\nnothing remarkable in the circumstance of a fragment of granite giving\nway and falling heavily below; but it seemed to him that the substance\nthat fell gave way beneath the pressure of a foot, and also that\nsomeone, who endeavored as much as possible to prevent his footsteps\nfrom being heard, was approaching the spot where he sat",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "91",
+      "claim_id": "91_C0",
+      "claim_text": "Working directly for Fouch\u00e9, he organised the assassination of royalist deputies while posing as a Ministry of Justice official; the arsenic phial still lies in a hidden drawer of his study desk.",
+      "excerpt_text": "g Merc\u00e9d\u00e8s to\nspare her son, the count at last exclaimed:\n\n\u201cFolly, folly, folly!\u2014to carry generosity so far as to put myself up as\na mark for that young man to aim at. He will never believe that my\ndeath was suicide; and yet it is important for the honor of my\nmemory,\u2014and this surely is not vanity, but a justifiable pride,\u2014it is\nimportant the world should know that I have consented, by my free will,\nto stop my arm, already raised to strike, and that with the arm which\nhas been so powerful against others I have struck myself. It must be;\nit shall be.\u201d\n\nSeizing a pen, he drew a paper from a secret drawer in his desk, and\nwrote at the bottom of the document (which was no other than his will,\nmade since his arrival in Paris) a sort of codicil, clearly explaining\nthe nature of his death.\n\n\u201cI do this, Oh, my God,\u201d said he, with his eyes raised to heaven, \u201cas\nmuch for thy honor as for mine. I have during ten years considered\nmyself the agent of thy vengeance, and other wretches, like Morcerf,",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "91",
+      "claim_id": "91_C0",
+      "claim_text": "Working directly for Fouch\u00e9, he organised the assassination of royalist deputies while posing as a Ministry of Justice official; the arsenic phial still lies in a hidden drawer of his study desk.",
+      "excerpt_text": "rs eagerly listened to, and fully credited, all the additional\ncircumstances detailed by Debray. This posing at the piano and over the\nalbum was only a little ruse adopted by way of precaution. A most\ngracious welcome and unusual smile were bestowed on M. Danglars; the\ncount, in return for his gentlemanly bow, received a formal though\ngraceful courtesy, while Lucien exchanged with the count a sort of\ndistant recognition, and with Danglars a free and easy nod.\n\n\u201cBaroness,\u201d said Danglars, \u201cgive me leave to present to you the Count\nof Monte Cristo, who has been most warmly recommended to me by my\ncorrespondents at Rome. I need but mention one fact to make all the\nladies in Paris court his notice, and that is, that he has come to take\nup his abode in Paris for a year, during which brief period he proposes\nto spend six millions of money. That means balls, dinners, and lawn\nparties without end, in all of which I trust the count will remember\nus, as he may depend upon it we shall him, in our ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "91",
+      "claim_id": "91_C0",
+      "claim_text": "Working directly for Fouch\u00e9, he organised the assassination of royalist deputies while posing as a Ministry of Justice official; the arsenic phial still lies in a hidden drawer of his study desk.",
+      "excerpt_text": "head, courage in the dark eye and bent brow, and\nfrankness in the thick lips that showed a set of pearly teeth.\nVillefort\u2019s first impression was favorable; but he had been so often\nwarned to mistrust first impulses, that he applied the maxim to the\nimpression, forgetting the difference between the two words. He\nstifled, therefore, the feelings of compassion that were rising,\ncomposed his features, and sat down, grim and sombre, at his desk. An\ninstant after Dant\u00e8s entered. He was pale, but calm and collected, and\nsaluting his judge with easy politeness, looked round for a seat, as if\nhe had been in M. Morrel\u2019s salon. It was then that he encountered for\nthe first time Villefort\u2019s look,\u2014that look peculiar to the magistrate,\nwho, while seeming to read the thoughts of others, betrays nothing of\nhis own.\n\n\u201cWho and what are you?\u201d demanded Villefort, turning over a pile of\npapers, containing information relative to the prisoner, that a police\nagent had given to him on his entry, and that, alr",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "91",
+      "claim_id": "91_C0",
+      "claim_text": "Working directly for Fouch\u00e9, he organised the assassination of royalist deputies while posing as a Ministry of Justice official; the arsenic phial still lies in a hidden drawer of his study desk.",
+      "excerpt_text": "t of seeing her fortune increased to half a million at her\nfather\u2019s death. These considerations naturally gave Villefort a feeling\nof such complete felicity that his mind was fairly dazzled in its\ncontemplation.\n\nAt the door he met the commissary of police, who was waiting for him.\nThe sight of this officer recalled Villefort from the third heaven to\nearth; he composed his face, as we have before described, and said, \u201cI\nhave read the letter, sir, and you have acted rightly in arresting this\nman; now inform me what you have discovered concerning him and the\nconspiracy.\u201d\n\n\u201cWe know nothing as yet of the conspiracy, monsieur; all the papers\nfound have been sealed up and placed on your desk. The prisoner himself\nis named Edmond Dant\u00e8s, mate on board the three-master the _Pharaon_,\ntrading in cotton with Alexandria and Smyrna, and belonging to Morrel &\nSon, of Marseilles.\u201d\n\n\u201cBefore he entered the merchant service, had he ever served in the\nmarines?\u201d\n\n\u201cOh, no, monsieur, he is very young.\u201d\n\n\u201cH",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

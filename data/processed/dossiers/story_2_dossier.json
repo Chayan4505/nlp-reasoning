@@ -1,5 +1,78 @@
 {
-  "story_id": 2,
+  "story_id": "2",
   "prediction": 1,
-  "dossier": []
+  "dossier": [
+    {
+      "story_id": "2",
+      "claim_id": "2_C0",
+      "claim_text": "Caught secretly studying Latin in the church school, he was made to stand as punishment, yet the episode let him befriend a Spanish-speaking caretaker and pick up basic Spanish while helping the man compose letters.",
+      "excerpt_text": "d trampled\nunder foot, he fell back, doubled up in one last convulsion, and became\nas rigid as a corpse.\n\nEdmond waited till life seemed extinct in the body of his friend, then,\ntaking up the knife, he with difficulty forced open the closely fixed\njaws, carefully administered the appointed number of drops, and\nanxiously awaited the result. An hour passed away and the old man gave\nno sign of returning animation. Dant\u00e8s began to fear he had delayed too\nlong ere he administered the remedy, and, thrusting his hands into his\nhair, continued gazing on the lifeless features of his friend. At\nlength a slight color tinged the livid cheeks, consciousness returned\nto the dull, open eyeballs, a faint sigh issued from the lips, and the\nsufferer made a feeble effort to move.\n\n\u201cHe is saved! he is saved!\u201d cried Dant\u00e8s in a paroxysm of delight.\n\nThe sick man was not yet able to speak, but he pointed with evident\nanxiety towards the door. Dant\u00e8s listened, and plainly distinguished\nthe approaching steps ",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "2",
+      "claim_id": "2_C0",
+      "claim_text": "Caught secretly studying Latin in the church school, he was made to stand as punishment, yet the episode let him befriend a Spanish-speaking caretaker and pick up basic Spanish while helping the man compose letters.",
+      "excerpt_text": "reight. Private misfortunes must\nnever be allowed to interfere with business.\u201d\n\n\u201cBe easy on that score, M. Morrel; but do you think we shall be\npermitted to see our poor Edmond?\u201d\n\n\u201cI will let you know that directly I have seen M. de Villefort, whom I\nshall endeavor to interest in Edmond\u2019s favor. I am aware he is a\nfurious royalist; but, in spite of that, and of his being king\u2019s\nattorney, he is a man like ourselves, and I fancy not a bad sort of\none.\u201d\n\n\u201cPerhaps not,\u201d replied Danglars; \u201cbut I hear that he is ambitious, and\nthat\u2019s rather against him.\u201d\n\n\u201cWell, well,\u201d returned M. Morrel, \u201cwe shall see. But now hasten on\nboard, I will join you there ere long.\u201d\n\nSo saying, the worthy shipowner quitted the two allies, and proceeded\nin the direction of the Palais de Justice.\n\n0081m\n\n\n\n\u201cYou see,\u201d said Danglars, addressing Caderousse, \u201cthe turn things have\ntaken. Do you still feel any desire to stand up in his defence?\u201d\n\n\u201cNot the slightest, but yet it seems to me a shocking thing that a mere\njoke",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "2",
+      "claim_id": "2_C0",
+      "claim_text": "Caught secretly studying Latin in the church school, he was made to stand as punishment, yet the episode let him befriend a Spanish-speaking caretaker and pick up basic Spanish while helping the man compose letters.",
+      "excerpt_text": "the salon? you will find good cigars on the centre table. I\nwill be with you directly.\u201d\n\nThe young men rose and returned into the salon, while the count, again\napologizing, left by another door. Albert, who was a great smoker, and\nwho had considered it no small sacrifice to be deprived of the cigars\nof the Caf\u00e9 de Paris, approached the table, and uttered a cry of joy at\nperceiving some veritable _puros_.\n\n\u201cWell,\u201d asked Franz, \u201cwhat think you of the Count of Monte Cristo?\u201d\n\n\u201cWhat do I think?\u201d said Albert, evidently surprised at such a question\nfrom his companion; \u201cI think he is a delightful fellow, who does the\nhonors of his table admirably; who has travelled much, read much, is,\nlike Brutus, of the Stoic school, and moreover,\u201d added he, sending a\nvolume of smoke up towards the ceiling, \u201cthat he has excellent cigars.\u201d\n\nSuch was Albert\u2019s opinion of the count, and as Franz well knew that\nAlbert professed never to form an opinion except upon long reflection,\nhe made no attempt to change it",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "2",
+      "claim_id": "2_C0",
+      "claim_text": "Caught secretly studying Latin in the church school, he was made to stand as punishment, yet the episode let him befriend a Spanish-speaking caretaker and pick up basic Spanish while helping the man compose letters.",
+      "excerpt_text": "hat part of the coast\nwithout meeting with any signs of shipwreck. A new exploration became,\ntherefore, useless, and it was decided that the city of Arauco should\nbe chosen as their point of departure. From this their course was to\nbe directed towards the east in a rigorously straight line. The little\nparty entered the city and took up their quarters in the open court of\na tavern, whose accommodations were still in a rudimentary state.\n\nWhile supper was preparing, Glenarvan, Paganel and the catapaz took a\nwalk among the thatch-roofed houses. Except a church and the remains\nof a convent of Franciscans, Arauco presented nothing interesting.\nGlenarvan attempted to make some inquiries, but failed, while Paganel\nwas in despair at not being able to make himself understood by the\ninhabitants. But, since they spoke Araucanian, his Spanish served him\nas little as Hebrew.\n\n[Sidenote: ONWARD, AND ONWARD STILL.]\n\nThe next day, the madrina at the head, and the peons in the rear, the\nlittle troop re",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "2",
+      "claim_id": "2_C0",
+      "claim_text": "Caught secretly studying Latin in the church school, he was made to stand as punishment, yet the episode let him befriend a Spanish-speaking caretaker and pick up basic Spanish while helping the man compose letters.",
+      "excerpt_text": " was\na Portuguese! It is Portuguese that you have been studying for six\nweeks.\"\n\n\"Camo\u00ebns! Lusiad! Portuguese!\"\n\nPaganel could say no more. His eyes wandered, while a peal of Homeric\nlaughter rang in his ears.\n\nThe Patagonian did not wink; he waited patiently for the explanation of\nthis event, which was totally incomprehensible to him.\n\n\"Insensate! fool!\" cried Paganel, at last. \"What! is it so? Is it not\na mere joke? Have I done this? It is the confusion of languages, as at\nBabel. My friends! my friends! to start for India and arrive at Chili!\nto learn Spanish and speak Portuguese! this is too much, and, if it\ncontinues, I shall some day throw myself out of the window instead of\nmy cigar.\"\n\nTo hear Paganel take his blunder thus, to see his comical actions, it\nwas impossible to keep serious. Besides, he set the example himself.\n\n\"Laugh, my friends,\" said he, \"laugh with a will! you cannot laugh as\nmuch as I do at myself.\"\n\nAnd he uttered the most formidable peal of laughter that ever i",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "2",
+      "claim_id": "2_C0",
+      "claim_text": "Caught secretly studying Latin in the church school, he was made to stand as punishment, yet the episode let him befriend a Spanish-speaking caretaker and pick up basic Spanish while helping the man compose letters.",
+      "excerpt_text": "o the Catalans.\u201d\n\n\u201cYou\u2019re wrong. Come with us to Marseilles\u2014come along.\u201d\n\n\u201cI will not.\u201d\n\n\u201cWhat do you mean? you will not? Well, just as you like, my prince;\nthere\u2019s liberty for all the world. Come along, Danglars, and let the\nyoung gentleman return to the Catalans if he chooses.\u201d\n\nDanglars took advantage of Caderousse\u2019s temper at the moment, to take\nhim off towards Marseilles by the Porte Saint-Victor, staggering as he\nwent.\n\nWhen they had advanced about twenty yards, Danglars looked back and saw\nFernand stoop, pick up the crumpled paper, and putting it into his\npocket then rush out of the arbor towards Pillon.\n\n\u201cWell,\u201d said Caderousse, \u201cwhy, what a lie he told! He said he was going\nto the Catalans, and he is going to the city. Hallo, Fernand! You are\ncoming, my boy!\u201d\n\n\u201cOh, you don\u2019t see straight,\u201d said Danglars; \u201che\u2019s gone right by the\nroad to the Vieilles Infirmeries.\u201d\n\n\u201cWell,\u201d said Caderousse, \u201cI should have sworn that he turned to the\nright\u2014how treacherous wine is!\u201d\n\n\u201cCome, come,\u201d ",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "2",
+      "claim_id": "2_C0",
+      "claim_text": "Caught secretly studying Latin in the church school, he was made to stand as punishment, yet the episode let him befriend a Spanish-speaking caretaker and pick up basic Spanish while helping the man compose letters.",
+      "excerpt_text": "i; the former\nfound guilty of the murder of a venerable and exemplary priest, named\nDon C\u00e9sar Torlini, canon of the church of St. John Lateran; and the\nlatter convicted of being an accomplice of the atrocious and sanguinary\nbandit, Luigi Vampa, and his band. The first-named malefactor will be\n_mazzolato_, the second culprit _decapitato_.\n\n\u201c\u2018The prayers of all good Christians are entreated for these\nunfortunate men, that it may please God to awaken them to a sense of\ntheir guilt, and to grant them a hearty and sincere repentance for\ntheir crimes.\u2019\u201d\n\nThis was precisely what Franz had heard the evening before in the ruins\nof the Colosseum. No part of the programme differed,\u2014the names of the\ncondemned persons, their crimes, and mode of punishment, all agreed\nwith his previous information. In all probability, therefore, the\nTransteverin was no other than the bandit Luigi Vampa himself, and the\nman shrouded in the mantle the same he had known as \u201cSinbad the\nSailor,\u201d but who, no doubt, was st",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "2",
+      "claim_id": "2_C0",
+      "claim_text": "Caught secretly studying Latin in the church school, he was made to stand as punishment, yet the episode let him befriend a Spanish-speaking caretaker and pick up basic Spanish while helping the man compose letters.",
+      "excerpt_text": "wn cause, it would be difficult to\nadopt a course that would forever prevent your falling under the power\nof the law. Hatred is blind, rage carries you away; and he who pours\nout vengeance runs the risk of tasting a bitter draught.\u201d\n\n\u201cYes, if he be poor and inexperienced, not if he be rich and skilful;\nbesides, the worst that could happen to him would be the punishment of\nwhich we have already spoken, and which the philanthropic French\nRevolution has substituted for being torn to pieces by horses or broken\non the wheel. What matters this punishment, as long as he is avenged?\nOn my word, I almost regret that in all probability this miserable\nPeppino will not be beheaded, as you might have had an opportunity then\nof seeing how short a time the punishment lasts, and whether it is\nworth even mentioning; but, really this is a most singular conversation\nfor the Carnival, gentlemen; how did it arise? Ah, I recollect, you\nasked for a place at my window; you shall have it; but let us first sit\n",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "2",
+      "claim_id": "2_C0",
+      "claim_text": "Caught secretly studying Latin in the church school, he was made to stand as punishment, yet the episode let him befriend a Spanish-speaking caretaker and pick up basic Spanish while helping the man compose letters.",
+      "excerpt_text": "because that accusation had been written with the left hand;\nand I have noticed that\u2014\u2014\u201d\n\n\u201cWhat?\u201d\n\n\u201cThat while the writing of different persons done with the right hand\nvaries, that performed with the left hand is invariably uniform.\u201d\n\n\u201cYou have evidently seen and observed everything.\u201d\n\n\u201cLet us proceed.\u201d\n\n\u201cOh, yes, yes!\u201d\n\n\u201cNow as regards the second question.\u201d\n\n\u201cI am listening.\u201d\n\n\u201cWas there any person whose interest it was to prevent your marriage\nwith Merc\u00e9d\u00e8s?\u201d\n\n\u201cYes; a young man who loved her.\u201d\n\n\u201cAnd his name was\u2014\u2014\u201d\n\n\u201cFernand.\u201d\n\n\u201cThat is a Spanish name, I think?\u201d\n\n\u201cHe was a Catalan.\u201d\n\n\u201cYou imagine him capable of writing the letter?\u201d\n\n\u201cOh, no; he would more likely have got rid of me by sticking a knife\ninto me.\u201d\n\n\u201cThat is in strict accordance with the Spanish character; an\nassassination they will unhesitatingly commit, but an act of cowardice,\nnever.\u201d\n\n\u201cBesides,\u201d said Dant\u00e8s, \u201cthe various circumstances mentioned in the\nletter were wholly unknown to him.\u201d\n\n\u201cYou had never spoken of them ",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

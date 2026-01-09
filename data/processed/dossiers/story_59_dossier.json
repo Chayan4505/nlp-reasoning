@@ -1,5 +1,70 @@
 {
-  "story_id": 59,
-  "prediction": 1,
-  "dossier": []
+  "story_id": "59",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "59",
+      "claim_id": "59_C0",
+      "claim_text": "Posing as a relay-station hand, he slipped captivity, returned to the mountains and stayed alive with rope-climbing and avalanche-reading skills.",
+      "excerpt_text": "ted of a roast pheasant garnished with Corsican\nblackbirds; a boar\u2019s ham with jelly, a quarter of a kid with tartar\nsauce, a glorious turbot, and a gigantic lobster. Between these large\ndishes were smaller ones containing various dainties. The dishes were\nof silver, and the plates of Japanese china.\n\nFranz rubbed his eyes in order to assure himself that this was not a\ndream. Ali alone was present to wait at table, and acquitted himself so\nadmirably, that the guest complimented his host thereupon.\n\n\u201cYes,\u201d replied he, while he did the honors of the supper with much ease\nand grace\u2014\u201cyes, he is a poor devil who is much devoted to me, and does\nall he can to prove it. He remembers that I saved his life, and as he\nhas a regard for his head, he feels some gratitude towards me for\nhaving kept it on his shoulders.\u201d\n\nAli approached his master, took his hand, and kissed it.\n\n\u201cWould it be impertinent, Signor Sinbad,\u201d said Franz, \u201cto ask you the\nparticulars of this kindness?\u201d\n\n20081m\n\n\n\n\u201cOh, they are",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "59",
+      "claim_id": "59_C0",
+      "claim_text": "Posing as a relay-station hand, he slipped captivity, returned to the mountains and stayed alive with rope-climbing and avalanche-reading skills.",
+      "excerpt_text": "ary in their appointed paths.\u201d\n\nThis last explanation was wholly lost upon Dant\u00e8s, who had always\nimagined, from seeing the sun rise from behind the mountains and set in\nthe Mediterranean, that it moved, and not the earth. A double movement\nof the globe he inhabited, and of which he could feel nothing, appeared\nto him perfectly impossible. Each word that fell from his companion\u2019s\nlips seemed fraught with the mysteries of science, as worthy of digging\nout as the gold and diamonds in the mines of Guzerat and Golconda,\nwhich he could just recollect having visited during a voyage made in\nhis earliest youth.\n\n\u201cCome,\u201d said he to the abb\u00e9, \u201cI am anxious to see your treasures.\u201d\n\nThe abb\u00e9 smiled, and, proceeding to the disused fireplace, raised, by\nthe help of his chisel, a long stone, which had doubtless been the\nhearth, beneath which was a cavity of considerable depth, serving as a\nsafe depository of the articles mentioned to Dant\u00e8s.\n\n0213m\n\n\n\n\u201cWhat do you wish to see first?\u201d asked the abb\u00e9.\n",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "59",
+      "claim_id": "59_C0",
+      "claim_text": "Posing as a relay-station hand, he slipped captivity, returned to the mountains and stayed alive with rope-climbing and avalanche-reading skills.",
+      "excerpt_text": "ll us all about it.\u201d\n\nAn old seaman, bronzed by the tropical sun, advanced, twirling the\nremains of a hat between his hands.\n\n\u201cGood-day, M. Morrel,\u201d said he, as if he had just quitted Marseilles\nthe previous evening, and had just returned from Aix or Toulon.\n\n\u201cGood-day, Penelon,\u201d returned Morrel, who could not refrain from\nsmiling through his tears, \u201cwhere is the captain?\u201d\n\n\u201cThe captain, M. Morrel,\u2014he has stayed behind sick at Palma; but please\nGod, it won\u2019t be much, and you will see him in a few days all alive and\nhearty.\u201d\n\n\u201cWell, now tell your story, Penelon.\u201d\n\n20039m\n\n\n\nPenelon rolled his quid in his cheek, placed his hand before his mouth,\nturned his head, and sent a long jet of tobacco-juice into the\nantechamber, advanced his foot, balanced himself, and began.\n\n\u201cYou see, M. Morrel,\u201d said he, \u201cwe were somewhere between Cape Blanc\nand Cape Boyador, sailing with a fair breeze, south-south-west after a\nweek\u2019s calm, when Captain Gaumard comes up to me\u2014I was at the helm I\nshould tell yo",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "59",
+      "claim_id": "59_C0",
+      "claim_text": "Posing as a relay-station hand, he slipped captivity, returned to the mountains and stayed alive with rope-climbing and avalanche-reading skills.",
+      "excerpt_text": "at she will, in all\nprobability, inherit the fortune of M. and Madame de Saint-M\u00e9ran, her\nmother\u2019s parents, who both love her tenderly.\u201d\n\n\u201cAnd who are fully as well worth loving and tending as M. Noirtier,\u201d\nsaid Madame de Villefort; \u201cbesides, they are to come to Paris in about\na month, and Valentine, after the affront she has received, need not\nconsider it necessary to continue to bury herself alive by being shut\nup with M. Noirtier.\u201d\n\nThe count listened with satisfaction to this tale of wounded self-love\nand defeated ambition.\n\n\u201cBut it seems to me,\u201d said Monte Cristo, \u201cand I must begin by asking\nyour pardon for what I am about to say, that if M. Noirtier disinherits\nMademoiselle de Villefort because she is going to marry a man whose\nfather he detested, he cannot have the same cause of complaint against\nthis dear Edward.\u201d\n\n\u201cTrue,\u201d said Madame de Villefort, with an intonation of voice which it\nis impossible to describe; \u201cis it not unjust\u2014shamefully unjust? Poor\nEdward is as much M. Noir",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "59",
+      "claim_id": "59_C0",
+      "claim_text": "Posing as a relay-station hand, he slipped captivity, returned to the mountains and stayed alive with rope-climbing and avalanche-reading skills.",
+      "excerpt_text": "h, it must have been the young man, certainly, for he was strong and\nindustrious, while the abb\u00e9 was aged and weak; besides, his mind was\ntoo vacillating to allow him to carry out an idea.\u201d\n\n\u201cBlind fools!\u201d murmured the count.\n\n\u201cHowever, be that as it may, the young man made a tunnel, how or by\nwhat means no one knows; but he made it, and there is the evidence yet\nremaining of his work. Do you see it?\u201d and the man held the torch to\nthe wall.\n\n50223m\n\n\n\n\u201cAh, yes; I see,\u201d said the count, in a voice hoarse from emotion.\n\n\u201cThe result was that the two men communicated with one another; how\nlong they did so, nobody knows. One day the old man fell ill and died.\nNow guess what the young one did?\u201d\n\n\u201cTell me.\u201d\n\n\u201cHe carried off the corpse, which he placed in his own bed with its\nface to the wall; then he entered the empty dungeon, closed the\nentrance, and slipped into the sack which had contained the dead body.\nDid you ever hear of such an idea?\u201d\n\nMonte Cristo closed his eyes, and seemed again to ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "59",
+      "claim_id": "59_C0",
+      "claim_text": "Posing as a relay-station hand, he slipped captivity, returned to the mountains and stayed alive with rope-climbing and avalanche-reading skills.",
+      "excerpt_text": "use, which he supposed empty, contained its chief occupant.\n\nArrived in his bedroom, the count motioned to Ali to stop; then he\npassed into the dressing-room, which he examined. Everything appeared\nas usual\u2014the precious secretaire in its place, and the key in the\nsecretaire. He double locked it, took the key, returned to the bedroom\ndoor, removed the double staple of the bolt, and went in. Meanwhile Ali\nhad procured the arms the count required\u2014namely, a short carbine and a\npair of double-barrelled pistols, with which as sure an aim might be\ntaken as with a single-barrelled one. Thus armed, the count held the\nlives of five men in his hands. It was about half-past nine.\n\nThe count and Ali ate in haste a crust of bread and drank a glass of\nSpanish wine; then Monte Cristo slipped aside one of the movable\npanels, which enabled him to see into the adjoining room. He had within\nhis reach his pistols and carbine, and Ali, standing near him, held one\nof the small Arabian hatchets, whose form ha",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "59",
+      "claim_id": "59_C0",
+      "claim_text": "Posing as a relay-station hand, he slipped captivity, returned to the mountains and stayed alive with rope-climbing and avalanche-reading skills.",
+      "excerpt_text": "and opened it.\n\n\u201c\u2018I believe the storm is over,\u2019 said he.\n\n\u201cBut as if to contradict his statement, at that instant a violent clap\nof thunder seemed to shake the house to its very foundation, while a\nsudden gust of wind, mingled with rain, extinguished the lamp he held\nin his hand.\n\n\u201cTrembling and awe-struck, Caderousse hastily shut the door and\nreturned to his guest, while La Carconte lighted a candle by the\nsmouldering ashes that glimmered on the hearth.\n\n\u201c\u2018You must be tired,\u2019 said she to the jeweller; \u2018I have spread a pair\nof white sheets on your bed; go up when you are ready, and sleep well.\u2019\n\n\u201cJoannes stayed for a while to see whether the storm seemed to abate in\nits fury, but a brief space of time sufficed to assure him that,\ninstead of diminishing, the violence of the rain and thunder\nmomentarily increased; resigning himself, therefore, to what seemed\ninevitable, he bade his host good-night, and mounted the stairs. He\npassed over my head and I heard the flooring creak beneath his\n",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "59",
+      "claim_id": "59_C0",
+      "claim_text": "Posing as a relay-station hand, he slipped captivity, returned to the mountains and stayed alive with rope-climbing and avalanche-reading skills.",
+      "excerpt_text": "say nothing?\u201d asked the abb\u00e9.\n\n\u201cWhy, what good would it do?\u201d asked Caderousse. \u201cIf the poor lad were\nliving, and came to me and begged that I would candidly tell which were\nhis true and which his false friends, why, perhaps, I should not\nhesitate. But you tell me he is no more, and therefore can have nothing\nto do with hatred or revenge, so let all such feeling be buried with\nhim.\u201d\n\n\u201cYou prefer, then,\u201d said the abb\u00e9, \u201cthat I should bestow on men you say\nare false and treacherous, the reward intended for faithful\nfriendship?\u201d\n\n\u201cThat is true enough,\u201d returned Caderousse. \u201cYou say truly, the gift of\npoor Edmond was not meant for such traitors as Fernand and Danglars;\nbesides, what would it be to them? no more than a drop of water in the\nocean.\u201d\n\n\u201cRemember,\u201d chimed in La Carconte, \u201cthose two could crush you at a\nsingle blow!\u201d\n\n\u201cHow so?\u201d inquired the abb\u00e9. \u201cAre these persons, then, so rich and\npowerful?\u201d\n\n\u201cDo you not know their history?\u201d\n\n\u201cI do not. Pray relate it to me!\u201d\n\nCaderousse seemed",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

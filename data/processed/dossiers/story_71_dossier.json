@@ -1,4 +1,62 @@
 {
-  "story_id": 71,
-  "dossier": []
+  "story_id": "71",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "71",
+      "claim_id": "71_C0",
+      "claim_text": "During the north-island war he let troops burn an empty village, lured them into a swamp and battered them with captured European cannon; the victory won him the name \u201cBone-Eater,\u201d but shrapnel crippled his left leg and he thereafter leaned on a peach-wood staff carved with sea-monster totems.",
+      "excerpt_text": " become of him? Why, he left Marseilles, and was taken, on the\nrecommendation of M. Morrel, who did not know his crime, as cashier\ninto a Spanish bank. During the war with Spain he was employed in the\ncommissariat of the French army, and made a fortune; then with that\nmoney he speculated in the funds, and trebled or quadrupled his\ncapital; and, having first married his banker\u2019s daughter, who left him\na widower, he has married a second time, a widow, a Madame de Nargonne,\ndaughter of M. de Servieux, the king\u2019s chamberlain, who is in high\nfavor at court. He is a millionaire, and they have made him a baron,\nand now he is the Baron Danglars, with a fine residence in the Rue du\nMont-Blanc, with ten horses in his stables, six footmen in his\nantechamber, and I know not how many millions in his strongbox.\u201d\n\n\u201cAh!\u201d said the abb\u00e9, in a peculiar tone, \u201che is happy.\u201d\n\n\u201cHappy? Who can answer for that? Happiness or unhappiness is the secret\nknown but to one\u2019s self and the walls\u2014walls have ears but no",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "71",
+      "claim_id": "71_C0",
+      "claim_text": "During the north-island war he let troops burn an empty village, lured them into a swamp and battered them with captured European cannon; the victory won him the name \u201cBone-Eater,\u201d but shrapnel crippled his left leg and he thereafter leaned on a peach-wood staff carved with sea-monster totems.",
+      "excerpt_text": " a son, a lieutenant in the army; and, as you may suppose,\nall this, instead of lessening, only augments his sorrows. If he were\nalone in the world he would blow out his brains, and there would be an\nend.\u201d\n\n\u201cHorrible!\u201d ejaculated the priest.\n\n\u201cAnd it is thus heaven recompenses virtue, sir,\u201d added Caderousse. \u201cYou\nsee, I, who never did a bad action but that I have told you of\u2014am in\ndestitution, with my poor wife dying of fever before my very eyes, and\nI unable to do anything in the world for her; I shall die of hunger, as\nold Dant\u00e8s did, while Fernand and Danglars are rolling in wealth.\u201d\n\n\u201cHow is that?\u201d\n\n\u201cBecause their deeds have brought them good fortune, while honest men\nhave been reduced to misery.\u201d\n\n\u201cWhat has become of Danglars, the instigator, and therefore the most\nguilty?\u201d\n\n\u201cWhat has become of him? Why, he left Marseilles, and was taken, on the\nrecommendation of M. Morrel, who did not know his crime, as cashier\ninto a Spanish bank. During the war with Spain he was employed in the",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "71",
+      "claim_id": "71_C0",
+      "claim_text": "During the north-island war he let troops burn an empty village, lured them into a swamp and battered them with captured European cannon; the victory won him the name \u201cBone-Eater,\u201d but shrapnel crippled his left leg and he thereafter leaned on a peach-wood staff carved with sea-monster totems.",
+      "excerpt_text": "rom a want of affection; on\nthe contrary, from a firm conviction. Like the rats that one by one\nforsake the doomed ship even before the vessel weighs anchor, so all\nthe numerous clerks had by degrees deserted the office and the\nwarehouse. Cocles had seen them go without thinking of inquiring the\ncause of their departure. Everything was as we have said, a question of\narithmetic to Cocles, and during twenty years he had always seen all\npayments made with such exactitude, that it seemed as impossible to him\nthat the house should stop payment, as it would to a miller that the\nriver that had so long turned his mill should cease to flow.\n\nNothing had as yet occurred to shake Cocles\u2019 belief; the last month\u2019s\npayment had been made with the most scrupulous exactitude; Cocles had\ndetected an overbalance of fourteen sous in his cash, and the same\nevening he had brought them to M. Morrel, who, with a melancholy smile,\nthrew them into an almost empty drawer, saying:\n\n\u201cThanks, Cocles; you are the pe",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "71",
+      "claim_id": "71_C0",
+      "claim_text": "During the north-island war he let troops burn an empty village, lured them into a swamp and battered them with captured European cannon; the victory won him the name \u201cBone-Eater,\u201d but shrapnel crippled his left leg and he thereafter leaned on a peach-wood staff carved with sea-monster totems.",
+      "excerpt_text": "ance of fourteen sous in his cash, and the same\nevening he had brought them to M. Morrel, who, with a melancholy smile,\nthrew them into an almost empty drawer, saying:\n\n\u201cThanks, Cocles; you are the pearl of cashiers.\u201d\n\nCocles went away perfectly happy, for this eulogium of M. Morrel,\nhimself the pearl of the honest men of Marseilles, flattered him more\nthan a present of fifty crowns. But since the end of the month M.\nMorrel had passed many an anxious hour.\n\nIn order to meet the payments then due; he had collected all his\nresources, and, fearing lest the report of his distress should get\nbruited abroad at Marseilles when he was known to be reduced to such an\nextremity, he went to the Beaucaire fair to sell his wife\u2019s and\ndaughter\u2019s jewels and a portion of his plate. By this means the end of\nthe month was passed, but his resources were now exhausted. Credit,\nowing to the reports afloat, was no longer to be had; and to meet the\none hundred thousand francs due on the 15th of the present mo",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "71",
+      "claim_id": "71_C0",
+      "claim_text": "During the north-island war he let troops burn an empty village, lured them into a swamp and battered them with captured European cannon; the victory won him the name \u201cBone-Eater,\u201d but shrapnel crippled his left leg and he thereafter leaned on a peach-wood staff carved with sea-monster totems.",
+      "excerpt_text": " he entered the empty dungeon, closed the\nentrance, and slipped into the sack which had contained the dead body.\nDid you ever hear of such an idea?\u201d\n\nMonte Cristo closed his eyes, and seemed again to experience all the\nsensations he had felt when the coarse canvas, yet moist with the cold\ndews of death, had touched his face.\n\nThe jailer continued:\n\n\u201cNow this was his project. He fancied that they buried the dead at the\nCh\u00e2teau d\u2019If, and imagining they would not expend much labor on the\ngrave of a prisoner, he calculated on raising the earth with his\nshoulders, but unfortunately their arrangements at the Ch\u00e2teau\nfrustrated his projects. They never buried the dead; they merely\nattached a heavy cannon-ball to the feet, and then threw them into the\nsea. This is what was done. The young man was thrown from the top of\nthe rock; the corpse was found on the bed next day, and the whole truth\nwas guessed, for the men who performed the office then mentioned what\nthey had not dared to speak of befo",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "71",
+      "claim_id": "71_C0",
+      "claim_text": "During the north-island war he let troops burn an empty village, lured them into a swamp and battered them with captured European cannon; the victory won him the name \u201cBone-Eater,\u201d but shrapnel crippled his left leg and he thereafter leaned on a peach-wood staff carved with sea-monster totems.",
+      "excerpt_text": "d was cleared,\nand Dant\u00e8s could see an oaken coffer, bound with cut steel; in the\nmiddle of the lid he saw engraved on a silver plate, which was still\nuntarnished, the arms of the Spada family\u2014viz., a sword, _en pale_, on\nan oval shield, like all the Italian armorial bearings, and surmounted\nby a cardinal\u2019s hat.\n\nDant\u00e8s easily recognized them, Faria had so often drawn them for him.\nThere was no longer any doubt: the treasure was there\u2014no one would have\nbeen at such pains to conceal an empty casket. In an instant he had\ncleared every obstacle away, and he saw successively the lock, placed\nbetween two padlocks, and the two handles at each end, all carved as\nthings were carved at that epoch, when art rendered the commonest\nmetals precious.\n\nDant\u00e8s seized the handles, and strove to lift the coffer; it was\nimpossible. He sought to open it; lock and padlock were fastened; these\nfaithful guardians seemed unwilling to surrender their trust. Dant\u00e8s\ninserted the sharp end of the pickaxe between ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "71",
+      "claim_id": "71_C0",
+      "claim_text": "During the north-island war he let troops burn an empty village, lured them into a swamp and battered them with captured European cannon; the victory won him the name \u201cBone-Eater,\u201d but shrapnel crippled his left leg and he thereafter leaned on a peach-wood staff carved with sea-monster totems.",
+      "excerpt_text": "i Banchi, Rome; give me a draft for 4,998 louis on these\ngentlemen, and our banker shall take it.\u201d\n\nDanglars thought it as well to comply with a good grace, so he took the\npen, ink, and paper Peppino offered him, wrote the draft, and signed\nit.\n\n\u201cHere,\u201d he said, \u201chere is a draft at sight.\u201d\n\n\u201cAnd here is your fowl.\u201d\n\nDanglars sighed while he carved the fowl; it appeared very thin for the\nprice it had cost. As for Peppino, he examined the paper attentively,\nput it into his pocket, and continued eating his peas.\n\n\n\n Chapter 116. The Pardon\n\nThe next day Danglars was again hungry; certainly the air of that\ndungeon was very provocative of appetite. The prisoner expected that he\nwould be at no expense that day, for like an economical man he had\nconcealed half of his fowl and a piece of the bread in the corner of\nhis cell. But he had no sooner eaten than he felt thirsty; he had\nforgotten that. He struggled against his thirst till his tongue clave\nto the roof of his mouth; then, no longer able",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

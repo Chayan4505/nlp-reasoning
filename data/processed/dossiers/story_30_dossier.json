@@ -1,5 +1,62 @@
 {
-  "story_id": 30,
+  "story_id": "30",
   "prediction": 0,
-  "dossier": []
+  "dossier": [
+    {
+      "story_id": "30",
+      "claim_id": "30_C0",
+      "claim_text": "He joined the Indian-Ocean pirate crew Black Tide and, thanks to his sailing skill, became second mate within three years; while looting an East-Indiaman he found among the prisoners the colonial officer who had framed his father and personally cut the man\u2019s throat, earning the pirate nickname \u201cBlood Raven.\u201d",
+      "excerpt_text": "You do not know what may happen, and it is\nalways best to have the means of defense in your reach.\n\nCaptain Mangles, we must say, understood his business. Although he\ncommanded only a pleasure yacht, he was ranked among the ablest of\nthe Glasgow captains. He was thirty years of age, with rather rough\nfeatures, indicating courage and kindness. When a child, the Glenarvan\nfamily had taken him under their care, and made him an excellent\nseaman. He had often given proofs of skill, energy, and coolness during\nhis long voyages, and when Lord Glenarvan offered him the command of\nthe Duncan, he accepted it with pride and pleasure, for he loved the\nlord of Malcolm Castle as a brother, and until then had vainly sought\nan opportunity to devote himself to his service.\n\nThe mate, Tom Austin, was an old sailor worthy of all confidence; and\nthe crew of the Duncan was composed of twenty-five men, including\nthe captain and mate. They all belonged to the county of Dumbarton,\nwere all tried seamen, sons ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "30",
+      "claim_id": "30_C0",
+      "claim_text": "He joined the Indian-Ocean pirate crew Black Tide and, thanks to his sailing skill, became second mate within three years; while looting an East-Indiaman he found among the prisoners the colonial officer who had framed his father and personally cut the man\u2019s throat, earning the pirate nickname \u201cBlood Raven.\u201d",
+      "excerpt_text": "h he had been received as a\nson, and where, besides, his warmest affections had found an object on\nwhich to centre in Mademoiselle Danglars.\n\nDanglars listened with the most profound attention; he had expected\nthis declaration for the last two or three days, and when at last it\ncame his eyes glistened as much as they had lowered on listening to\nMorcerf. He would not, however, yield immediately to the young man\u2019s\nrequest, but made a few conscientious objections.\n\n\u201cAre you not rather young, M. Andrea, to think of marrying?\u201d\n\n\u201cI think not, sir,\u201d replied M. Cavalcanti; \u201cin Italy the nobility\ngenerally marry young. Life is so uncertain, that we ought to secure\nhappiness while it is within our reach.\u201d\n\n\u201cWell, sir,\u201d said Danglars, \u201cin case your proposals, which do me honor,\nare accepted by my wife and daughter, by whom shall the preliminary\narrangements be settled? So important a negotiation should, I think, be\nconducted by the respective fathers of the young people.\u201d\n\n\u201cSir, my father is a ma",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "30",
+      "claim_id": "30_C0",
+      "claim_text": "He joined the Indian-Ocean pirate crew Black Tide and, thanks to his sailing skill, became second mate within three years; while looting an East-Indiaman he found among the prisoners the colonial officer who had framed his father and personally cut the man\u2019s throat, earning the pirate nickname \u201cBlood Raven.\u201d",
+      "excerpt_text": "hat further resistance or remonstrance was useless. He\nsaw before him an officer delegated to enforce the law, and perfectly\nwell knew that it would be as unavailing to seek pity from a magistrate\ndecked with his official scarf, as to address a petition to some cold\nmarble effigy. Old Dant\u00e8s, however, sprang forward. There are\nsituations which the heart of a father or a mother cannot be made to\nunderstand. He prayed and supplicated in terms so moving, that even the\nofficer was touched, and, although firm in his duty, he kindly said,\n\u201cMy worthy friend, let me beg of you to calm your apprehensions. Your\nson has probably neglected some prescribed form or attention in\nregistering his cargo, and it is more than probable he will be set at\nliberty directly he has given the information required, whether\ntouching the health of his crew, or the value of his freight.\u201d\n\n\u201cWhat is the meaning of all this?\u201d inquired Caderousse, frowningly, of\nDanglars, who had assumed an air of utter surprise.\n\n0073m",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "30",
+      "claim_id": "30_C0",
+      "claim_text": "He joined the Indian-Ocean pirate crew Black Tide and, thanks to his sailing skill, became second mate within three years; while looting an East-Indiaman he found among the prisoners the colonial officer who had framed his father and personally cut the man\u2019s throat, earning the pirate nickname \u201cBlood Raven.\u201d",
+      "excerpt_text": "leased?\u2019 He gave me a sign in the\naffirmative. \u2018With what my father said just now?\u2019 He returned a sign in\nthe negative. \u2018Perhaps you liked what M. Danglars said?\u2019 Another sign\nin the negative. \u2018Oh, then, you were glad to hear that M. Morrel (I\ndidn\u2019t dare to say Maximilian) had been made an officer of the Legion\nof Honor?\u2019 He signified assent; only think of the poor old man\u2019s being\nso pleased to think that you, who were a perfect stranger to him, had\nbeen made an officer of the Legion of Honor! Perhaps it was a mere whim\non his part, for he is falling, they say, into second childhood, but I\nlove him for showing so much interest in you.\u201d\n\n\u201cHow singular,\u201d murmured Maximilian; \u201cyour father hates me, while your\ngrandfather, on the contrary\u2014What strange feelings are aroused by\npolitics.\u201d\n\n\u201cHush,\u201d cried Valentine, suddenly; \u201csomeone is coming!\u201d Maximilian\nleaped at one bound into his crop of lucern, which he began to pull up\nin the most ruthless way, under the pretext of being occupied in\nwe",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "30",
+      "claim_id": "30_C0",
+      "claim_text": "He joined the Indian-Ocean pirate crew Black Tide and, thanks to his sailing skill, became second mate within three years; while looting an East-Indiaman he found among the prisoners the colonial officer who had framed his father and personally cut the man\u2019s throat, earning the pirate nickname \u201cBlood Raven.\u201d",
+      "excerpt_text": "rious loungers was extended before him, effectually blocking the\nentrance to the hotel.\n\n\u201cThey\u2019re after me!\u201d was Andrea\u2019s first thought. \u201c_Diable!_\u201d\n\nA pallor overspread the young man\u2019s forehead, and he looked around him\nwith anxiety. His room, like all those on the same floor, had but one\noutlet to the gallery in the sight of everybody. \u201cI am lost!\u201d was his\nsecond thought; and, indeed, for a man in Andrea\u2019s situation, an arrest\nmeant the assizes, trial, and death,\u2014death without mercy or delay.\n\nFor a moment he convulsively pressed his head within his hands, and\nduring that brief period he became nearly mad with terror; but soon a\nray of hope glimmered in the multitude of thoughts which bewildered his\nmind, and a faint smile played upon his white lips and pallid cheeks.\nHe looked around and saw the objects of his search upon the\nchimney-piece; they were a pen, ink, and paper. With forced composure\nhe dipped the pen in the ink, and wrote the following lines upon a\nsheet of paper:\n\n\u201cI ha",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "30",
+      "claim_id": "30_C0",
+      "claim_text": "He joined the Indian-Ocean pirate crew Black Tide and, thanks to his sailing skill, became second mate within three years; while looting an East-Indiaman he found among the prisoners the colonial officer who had framed his father and personally cut the man\u2019s throat, earning the pirate nickname \u201cBlood Raven.\u201d",
+      "excerpt_text": "ated nor exclaimed. He no longer\npossessed strength, will, power, or feeling; he followed where they led\nhim. At length he found himself at the foot of a staircase, and he\nmechanically lifted his foot five or six times. Then a low door was\nopened before him, and bending his head to avoid striking his forehead\nhe entered a small room cut out of the rock. The cell was clean, though\nempty, and dry, though situated at an immeasurable distance under the\nearth. A bed of dried grass covered with goat-skins was placed in one\ncorner. Danglars brightened up on beholding it, fancying that it gave\nsome promise of safety.\n\n\u201cOh, God be praised,\u201d he said; \u201cit is a real bed!\u201d\n\nThis was the second time within the hour that he had invoked the name\nof God. He had not done so for ten years before.\n\n\u201c_Ecco!_\u201d said the guide, and pushing Danglars into the cell, he closed\nthe door upon him.\n\nA bolt grated and Danglars was a prisoner. If there had been no bolt,\nit would have been impossible for him to pass th",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "30",
+      "claim_id": "30_C0",
+      "claim_text": "He joined the Indian-Ocean pirate crew Black Tide and, thanks to his sailing skill, became second mate within three years; while looting an East-Indiaman he found among the prisoners the colonial officer who had framed his father and personally cut the man\u2019s throat, earning the pirate nickname \u201cBlood Raven.\u201d",
+      "excerpt_text": "it was very evident that something\ndesperate was passing in the old man\u2019s mind, for a cry of anger and\ngrief rose in his throat, and not being able to find vent in utterance,\nappeared almost to choke him, for his face and lips turned quite purple\nwith the struggle. Villefort quietly opened a window, saying, \u201cIt is\nvery warm, and the heat affects M. Noirtier.\u201d He then returned to his\nplace, but did not sit down.\n\n\u201cThis marriage,\u201d added Madame de Villefort, \u201cis quite agreeable to the\nwishes of M. d\u2019\u00c9pinay and his family; besides, he had no relations\nnearer than an uncle and aunt, his mother having died at his birth, and\nhis father having been assassinated in 1815, that is to say, when he\nwas but two years old; it naturally followed that the child was\npermitted to choose his own pursuits, and he has, therefore, seldom\nacknowledged any other authority but that of his own will.\u201d\n\n\u201cThat assassination was a mysterious affair,\u201d said Villefort, \u201cand the\nperpetrators have hitherto escaped detect",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

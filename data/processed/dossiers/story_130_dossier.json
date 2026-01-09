@@ -1,4 +1,70 @@
 {
-  "story_id": 130,
-  "dossier": []
+  "story_id": "130",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "130",
+      "claim_id": "130_C0",
+      "claim_text": "What seemed an epileptic fit was in fact sudden death from years of drinking prison water laced with lead.",
+      "excerpt_text": "his,\u2014force open my teeth with the knife,\npour from eight to ten drops of the liquor contained in the phial down\nmy throat, and I may perhaps revive.\u201d\n\n\u201cPerhaps!\u201d exclaimed Dant\u00e8s in grief-stricken tones.\n\n\u201cHelp! help!\u201d cried the abb\u00e9, \u201cI\u2014I\u2014die\u2014I\u2014\u2014\u201d\n\n0229m\n\n\n\nSo sudden and violent was the fit that the unfortunate prisoner was\nunable to complete the sentence; a violent convulsion shook his whole\nframe, his eyes started from their sockets, his mouth was drawn on one\nside, his cheeks became purple, he struggled, foamed, dashed himself\nabout, and uttered the most dreadful cries, which, however, Dant\u00e8s\nprevented from being heard by covering his head with the blanket. The\nfit lasted two hours; then, more helpless than an infant, and colder\nand paler than marble, more crushed and broken than a reed trampled\nunder foot, he fell back, doubled up in one last convulsion, and became\nas rigid as a corpse.\n\nEdmond waited till life seemed extinct in the body of his friend, then,\ntaking up the knife, h",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "130",
+      "claim_id": "130_C0",
+      "claim_text": "What seemed an epileptic fit was in fact sudden death from years of drinking prison water laced with lead.",
+      "excerpt_text": "s word; twice a day he cast out, through the barred aperture,\nthe provisions his jailer brought him\u2014at first gayly, then with\ndeliberation, and at last with regret. Nothing but the recollection of\nhis oath gave him strength to proceed. Hunger made viands once\nrepugnant, now acceptable; he held the plate in his hand for an hour at\na time, and gazed thoughtfully at the morsel of bad meat, of tainted\nfish, of black and mouldy bread. It was the last yearning for life\ncontending with the resolution of despair; then his dungeon seemed less\nsombre, his prospects less desperate. He was still young\u2014he was only\nfour or five-and-twenty\u2014he had nearly fifty years to live. What\nunforseen events might not open his prison door, and restore him to\nliberty? Then he raised to his lips the repast that, like a voluntary\nTantalus, he refused himself; but he thought of his oath, and he would\nnot break it. He persisted until, at last, he had not sufficient\nstrength to rise and cast his supper out of the looph",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "130",
+      "claim_id": "130_C0",
+      "claim_text": "What seemed an epileptic fit was in fact sudden death from years of drinking prison water laced with lead.",
+      "excerpt_text": "d into it from the post-wagon.\nThe two bodies were to be interred in the cemetery of P\u00e8re-Lachaise,\nwhere M. de Villefort had long since had a tomb prepared for the\nreception of his family. The remains of poor Ren\u00e9e were already\ndeposited there, and now, after ten years of separation, her father and\nmother were to be reunited with her.\n\nThe Parisians, always curious, always affected by funereal display,\nlooked on with religious silence while the splendid procession\naccompanied to their last abode two of the number of the old\naristocracy\u2014the greatest protectors of commerce and sincere devotees to\ntheir principles.\n\nIn one of the mourning-coaches Beauchamp, Debray, and Ch\u00e2teau-Renaud\nwere talking of the very sudden death of the marchioness.\n\n\u201cI saw Madame de Saint-M\u00e9ran only last year at Marseilles, when I was\ncoming back from Algiers,\u201d said Ch\u00e2teau-Renaud; \u201cshe looked like a\nwoman destined to live to be a hundred years old, from her apparent\nsound health and great activity of mind and b",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "130",
+      "claim_id": "130_C0",
+      "claim_text": "What seemed an epileptic fit was in fact sudden death from years of drinking prison water laced with lead.",
+      "excerpt_text": "hich you would support without\ninconvenience, and which would be very dangerous for any other person\nwho had not taken the same precautions as yourself. Well, then, at the\nend of a month, when drinking water from the same carafe, you would\nkill the person who drank with you, without your perceiving, otherwise\nthan from slight inconvenience, that there was any poisonous substance\nmingled with this water.\u201d\n\n\u201cDo you know any other counter-poisons?\u201d\n\n\u201cI do not.\u201d\n\n\u201cI have often read, and read again, the history of Mithridates,\u201d said\nMadame de Villefort in a tone of reflection, \u201cand had always considered\nit a fable.\u201d\n\n\u201cNo, madame, contrary to most history, it is true; but what you tell\nme, madame, what you inquire of me, is not the result of a chance\nquery, for two years ago you asked me the same questions, and said\nthen, that for a very long time this history of Mithridates had\noccupied your mind.\u201d\n\n\u201cTrue, sir. The two favorite studies of my youth were botany and\nmineralogy, and subsequentl",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "130",
+      "claim_id": "130_C0",
+      "claim_text": "What seemed an epileptic fit was in fact sudden death from years of drinking prison water laced with lead.",
+      "excerpt_text": "d endeavored completely to\noverturn the Parisian ideas, and to feed the curiosity as much as the\nappetite of his guests. It was an Oriental feast that he offered to\nthem, but of such a kind as the Arabian fairies might be supposed to\nprepare. Every delicious fruit that the four quarters of the globe\ncould provide was heaped in vases from China and jars from Japan. Rare\nbirds, retaining their most brilliant plumage, enormous fish, spread\nupon massive silver dishes, together with every wine produced in the\nArchipelago, Asia Minor, or the Cape, sparkling in bottles, whose\ngrotesque shape seemed to give an additional flavor to the draught,\u2014all\nthese, like one of the displays with which Apicius of old gratified his\nguests, passed in review before the eyes of the astonished Parisians,\nwho understood that it was possible to expend a thousand louis upon a\ndinner for ten persons, but only on the condition of eating pearls,\nlike Cleopatra, or drinking refined gold, like Lorenzo de\u2019 Medici.\n\nMont",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "130",
+      "claim_id": "130_C0",
+      "claim_text": "What seemed an epileptic fit was in fact sudden death from years of drinking prison water laced with lead.",
+      "excerpt_text": "l that you are\ntrifling with my happiness, that my life or death are nothing to you.\nAh, to have dreamed for ten years of being your husband, Merc\u00e9d\u00e8s, and\nto lose that hope, which was the only stay of my existence!\u201d\n\n\u201cAt least it was not I who ever encouraged you in that hope, Fernand,\u201d\nreplied Merc\u00e9d\u00e8s; \u201cyou cannot reproach me with the slightest coquetry.\nI have always said to you, \u2018I love you as a brother; but do not ask\nfrom me more than sisterly affection, for my heart is another\u2019s.\u2019 Is\nnot this true, Fernand?\u201d\n\n\u201cYes, that is very true, Merc\u00e9d\u00e8s,\u201d replied the young man, \u201cYes, you\nhave been cruelly frank with me; but do you forget that it is among the\nCatalans a sacred law to intermarry?\u201d\n\n0045m\n\n\n\n\u201cYou mistake, Fernand; it is not a law, but merely a custom, and, I\npray of you, do not cite this custom in your favor. You are included in\nthe conscription, Fernand, and are only at liberty on sufferance,\nliable at any moment to be called upon to take up arms. Once a soldier,\nwhat would",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "130",
+      "claim_id": "130_C0",
+      "claim_text": "What seemed an epileptic fit was in fact sudden death from years of drinking prison water laced with lead.",
+      "excerpt_text": "say nothing?\u201d asked the abb\u00e9.\n\n\u201cWhy, what good would it do?\u201d asked Caderousse. \u201cIf the poor lad were\nliving, and came to me and begged that I would candidly tell which were\nhis true and which his false friends, why, perhaps, I should not\nhesitate. But you tell me he is no more, and therefore can have nothing\nto do with hatred or revenge, so let all such feeling be buried with\nhim.\u201d\n\n\u201cYou prefer, then,\u201d said the abb\u00e9, \u201cthat I should bestow on men you say\nare false and treacherous, the reward intended for faithful\nfriendship?\u201d\n\n\u201cThat is true enough,\u201d returned Caderousse. \u201cYou say truly, the gift of\npoor Edmond was not meant for such traitors as Fernand and Danglars;\nbesides, what would it be to them? no more than a drop of water in the\nocean.\u201d\n\n\u201cRemember,\u201d chimed in La Carconte, \u201cthose two could crush you at a\nsingle blow!\u201d\n\n\u201cHow so?\u201d inquired the abb\u00e9. \u201cAre these persons, then, so rich and\npowerful?\u201d\n\n\u201cDo you not know their history?\u201d\n\n\u201cI do not. Pray relate it to me!\u201d\n\nCaderousse seemed",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "130",
+      "claim_id": "130_C0",
+      "claim_text": "What seemed an epileptic fit was in fact sudden death from years of drinking prison water laced with lead.",
+      "excerpt_text": "hin a quarter of a league of you, in a dungeon in the Ch\u00e2teau d\u2019If.\nYou do not know that every day of those fourteen years I renewed the\nvow of vengeance which I had made the first day; and yet I was not\naware that you had married Fernand, my calumniator, and that my father\nhad died of hunger!\u201d\n\n\u201cCan it be?\u201d cried Merc\u00e9d\u00e8s, shuddering.\n\n\u201cThat is what I heard on leaving my prison fourteen years after I had\nentered it; and that is why, on account of the living Merc\u00e9d\u00e8s and my\ndeceased father, I have sworn to revenge myself on Fernand, and\u2014I have\nrevenged myself.\u201d\n\n\u201cAnd you are sure the unhappy Fernand did that?\u201d\n\n\u201cI am satisfied, madame, that he did what I have told you; besides,\nthat is not much more odious than that a Frenchman by adoption should\npass over to the English; that a Spaniard by birth should have fought\nagainst the Spaniards; that a stipendiary of Ali should have betrayed\nand murdered Ali. Compared with such things, what is the letter you\nhave just read?\u2014a lover\u2019s deception",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

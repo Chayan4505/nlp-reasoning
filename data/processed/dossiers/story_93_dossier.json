@@ -1,5 +1,70 @@
 {
-  "story_id": 93,
+  "story_id": "93",
   "prediction": 0,
-  "dossier": []
+  "dossier": [
+    {
+      "story_id": "93",
+      "claim_id": "93_C0",
+      "claim_text": "He secretly raised the \u201cSouthern Army\u201d in Marseille for Napoleon but left traceable evidence\u2014copies of the ciphered letters hidden inside oak barrels in his own vineyard, later unearthed by Villefort.",
+      "excerpt_text": "efort towards his own relations, I ought to have denounced him to\nthe authorities; then I should not have been an accomplice to thy\ndeath, as I now am, sweet, beloved Valentine; but the accomplice shall\nbecome the avenger. This fourth murder is apparent to all, and if thy\nfather abandon thee, Valentine, it is I, and I swear it, that shall\npursue the assassin.\u201d\n\nAnd this time, as though nature had at least taken compassion on the\nvigorous frame, nearly bursting with its own strength, the words of\nMorrel were stifled in his throat; his breast heaved; the tears, so\nlong rebellious, gushed from his eyes; and he threw himself weeping on\nhis knees by the side of the bed.\n\nThen d\u2019Avrigny spoke. \u201cAnd I, too,\u201d he exclaimed in a low voice, \u201cI\nunite with M. Morrel in demanding justice for crime; my blood boils at\nthe idea of having encouraged a murderer by my cowardly concession.\u201d\n\n\u201cOh, merciful Heavens!\u201d murmured Villefort. Morrel raised his head, and\nreading the eyes of the old man, which gleam",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "93",
+      "claim_id": "93_C0",
+      "claim_text": "He secretly raised the \u201cSouthern Army\u201d in Marseille for Napoleon but left traceable evidence\u2014copies of the ciphered letters hidden inside oak barrels in his own vineyard, later unearthed by Villefort.",
+      "excerpt_text": "g Merc\u00e9d\u00e8s to\nspare her son, the count at last exclaimed:\n\n\u201cFolly, folly, folly!\u2014to carry generosity so far as to put myself up as\na mark for that young man to aim at. He will never believe that my\ndeath was suicide; and yet it is important for the honor of my\nmemory,\u2014and this surely is not vanity, but a justifiable pride,\u2014it is\nimportant the world should know that I have consented, by my free will,\nto stop my arm, already raised to strike, and that with the arm which\nhas been so powerful against others I have struck myself. It must be;\nit shall be.\u201d\n\nSeizing a pen, he drew a paper from a secret drawer in his desk, and\nwrote at the bottom of the document (which was no other than his will,\nmade since his arrival in Paris) a sort of codicil, clearly explaining\nthe nature of his death.\n\n\u201cI do this, Oh, my God,\u201d said he, with his eyes raised to heaven, \u201cas\nmuch for thy honor as for mine. I have during ten years considered\nmyself the agent of thy vengeance, and other wretches, like Morcerf,",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "93",
+      "claim_id": "93_C0",
+      "claim_text": "He secretly raised the \u201cSouthern Army\u201d in Marseille for Napoleon but left traceable evidence\u2014copies of the ciphered letters hidden inside oak barrels in his own vineyard, later unearthed by Villefort.",
+      "excerpt_text": "ce where he had left him. He found the\nold man suspended from one of the branches of the oak which shaded his\ndaughter\u2019s grave. He then took an oath of bitter vengeance over the\ndead body of the one and the tomb of the other. But he was unable to\ncomplete this oath, for two days afterwards, in an encounter with the\nRoman carbineers, Carlini was killed. There was some surprise, however,\nthat, as he was with his face to the enemy, he should have received a\nball between his shoulders. That astonishment ceased when one of the\nbrigands remarked to his comrades that Cucumetto was stationed ten\npaces in Carlini\u2019s rear when he fell. On the morning of the departure\nfrom the forest of Frosinone he had followed Carlini in the darkness,\nand heard this oath of vengeance, and, like a wise man, anticipated it.\n\n\u201cThey told ten other stories of this bandit chief, each more singular\nthan the other. Thus, from Fondi to Perusia, everyone trembles at the\nname of Cucumetto.\n\n\u201cThese narratives were frequentl",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "93",
+      "claim_id": "93_C0",
+      "claim_text": "He secretly raised the \u201cSouthern Army\u201d in Marseille for Napoleon but left traceable evidence\u2014copies of the ciphered letters hidden inside oak barrels in his own vineyard, later unearthed by Villefort.",
+      "excerpt_text": "demoiselle de Saint-M\u00e9ran, whose father now stood higher\nat court than ever.\n\nAnd so Dant\u00e8s, after the Hundred Days and after Waterloo, remained in\nhis dungeon, forgotten of earth and heaven.\n\nDanglars comprehended the full extent of the wretched fate that\noverwhelmed Dant\u00e8s; and, when Napoleon returned to France, he, after\nthe manner of mediocre minds, termed the coincidence, _a decree of\nProvidence_. But when Napoleon returned to Paris, Danglars\u2019 heart\nfailed him, and he lived in constant fear of Dant\u00e8s\u2019 return on a\nmission of vengeance. He therefore informed M. Morrel of his wish to\nquit the sea, and obtained a recommendation from him to a Spanish\nmerchant, into whose service he entered at the end of March, that is,\nten or twelve days after Napoleon\u2019s return. He then left for Madrid,\nand was no more heard of.\n\nFernand understood nothing except that Dant\u00e8s was absent. What had\nbecome of him he cared not to inquire. Only, during the respite the\nabsence of his rival afforded him, he re",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "93",
+      "claim_id": "93_C0",
+      "claim_text": "He secretly raised the \u201cSouthern Army\u201d in Marseille for Napoleon but left traceable evidence\u2014copies of the ciphered letters hidden inside oak barrels in his own vineyard, later unearthed by Villefort.",
+      "excerpt_text": ". But I do not see the\nCount of Monte Cristo here.\u201d\n\n\u201cHe is worn out,\u201d said Debray; \u201cbesides, he could not well appear in\npublic, since he has been the dupe of the Cavalcanti, who, it appears,\npresented themselves to him with false letters of credit, and cheated\nhim out of 100,000 francs upon the hypothesis of this principality.\u201d\n\n\u201cBy the way, M. de Ch\u00e2teau-Renaud,\u201d asked Beauchamp, \u201chow is Morrel?\u201d\n\n\u201c_Ma foi_, I have called three times without once seeing him. Still,\nhis sister did not seem uneasy, and told me that though she had not\nseen him for two or three days, she was sure he was well.\u201d\n\n\u201cAh, now I think of it, the Count of Monte Cristo cannot appear in the\nhall,\u201d said Beauchamp.\n\n\u201cWhy not?\u201d\n\n\u201cBecause he is an actor in the drama.\u201d\n\n\u201cHas he assassinated anyone, then?\u201d\n\n\u201cNo, on the contrary, they wished to assassinate him. You know that it\nwas in leaving his house that M. de Caderousse was murdered by his\nfriend Benedetto. You know that the famous waistcoat was found in his\nhouse, ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "93",
+      "claim_id": "93_C0",
+      "claim_text": "He secretly raised the \u201cSouthern Army\u201d in Marseille for Napoleon but left traceable evidence\u2014copies of the ciphered letters hidden inside oak barrels in his own vineyard, later unearthed by Villefort.",
+      "excerpt_text": "e with him?\u201d\n\n\u201cOh, he has been taken to Fenestrelles, to Pignerol, or to the\nSainte-Margu\u00e9rite islands. Some fine morning he will return to take\ncommand of your vessel.\u201d\n\n\u201cCome when he will, it shall be kept for him. But how is it he is not\nalready returned? It seems to me the first care of government should be\nto set at liberty those who have suffered for their adherence to it.\u201d\n\n\u201cDo not be too hasty, M. Morrel,\u201d replied Villefort. \u201cThe order of\nimprisonment came from high authority, and the order for his liberation\nmust proceed from the same source; and, as Napoleon has scarcely been\nreinstated a fortnight, the letters have not yet been forwarded.\u201d\n\n\u201cBut,\u201d said Morrel, \u201cis there no way of expediting all these\nformalities\u2014of releasing him from arrest?\u201d\n\n\u201cThere has been no arrest.\u201d\n\n\u201cHow?\u201d\n\n\u201cIt is sometimes essential to government to cause a man\u2019s disappearance\nwithout leaving any traces, so that no written forms or documents may\ndefeat their wishes.\u201d\n\n\u201cIt might be so under the Bourbon",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "93",
+      "claim_id": "93_C0",
+      "claim_text": "He secretly raised the \u201cSouthern Army\u201d in Marseille for Napoleon but left traceable evidence\u2014copies of the ciphered letters hidden inside oak barrels in his own vineyard, later unearthed by Villefort.",
+      "excerpt_text": "ost, who presented himself two or three times to\ninquire if he wanted anything.\n\nFranz resolved to wait for Albert as late as possible. He ordered the\ncarriage, therefore, for eleven o\u2019clock, desiring Signor Pastrini to\ninform him the moment that Albert returned to the hotel.\n\nAt eleven o\u2019clock Albert had not come back. Franz dressed himself, and\nwent out, telling his host that he was going to pass the night at the\nDuke of Bracciano\u2019s. The house of the Duke of Bracciano is one of the\nmost delightful in Rome, the duchess, one of the last heiresses of the\nColonnas, does its honors with the most consummate grace, and thus\ntheir _f\u00eates_ have a European celebrity.\n\nFranz and Albert had brought to Rome letters of introduction to them,\nand their first question on his arrival was to inquire the whereabouts\nof his travelling companion. Franz replied that he had left him at the\nmoment they were about to extinguish the _moccoli_, and that he had\nlost sight of him in the Via Macello.\n\n\u201cThen he has",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "93",
+      "claim_id": "93_C0",
+      "claim_text": "He secretly raised the \u201cSouthern Army\u201d in Marseille for Napoleon but left traceable evidence\u2014copies of the ciphered letters hidden inside oak barrels in his own vineyard, later unearthed by Villefort.",
+      "excerpt_text": "ford him another opportunity.\n\nIn vain did Franz endeavor to forget the many perplexing thoughts which\nassailed him; in vain did he court the refreshment of sleep. Slumber\nrefused to visit his eyelids and the night was passed in feverish\ncontemplation of the chain of circumstances tending to prove the\nidentity of the mysterious visitant to the Colosseum with the\ninhabitant of the grotto of Monte Cristo; and the more he thought, the\nfirmer grew his opinion on the subject.\n\nWorn out at length, he fell asleep at daybreak, and did not awake till\nlate. Like a genuine Frenchman, Albert had employed his time in\narranging for the evening\u2019s diversion; he had sent to engage a box at\nthe Teatro Argentina; and Franz, having a number of letters to write,\nrelinquished the carriage to Albert for the whole of the day.\n\nAt five o\u2019clock Albert returned, delighted with his day\u2019s work; he had\nbeen occupied in leaving his letters of introduction, and had received\nin return more invitations to balls and rou",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

@@ -1,4 +1,54 @@
 {
-  "story_id": 68,
-  "dossier": []
+  "story_id": "68",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "68",
+      "claim_id": "68_C0",
+      "claim_text": "At ten, migrating with his clan, a flame-shaped birth-mark on his forehead convinced elders he was the reincarnation of the \u201csun-devouring warrior.\u201d At fourteen he single-handedly brought down a European bison that had trampled plantations, fashioned his first battle-axe from its horns and carved on the handle his father\u2019s death-bed chant: \u201cgnaw the bones of enemies.\u201d",
+      "excerpt_text": ". At a sign from him\nthe captain had stopped Glenarvan.\n\nIn truth, one of the warriors, startled by some unaccustomed sound,\nhad risen and approached the prison. Standing two paces from the\nhut, he listened with lowered head. He remained in this attitude\nfor a moment, that seemed an hour, with ear intent and eye on the\nalert. Then, shaking his head as a man who is mistaken, he returned\nto his companions, took an armful of dead wood and threw it on the\nhalf-extinct fire, whose flames revived. His face, brightly illumined\nby the blaze, betrayed no more anxiety, and, after gazing at the first\nglimmers of dawn that tinged the horizon, he stretched himself beside\nthe fire to warm his cold limbs.\n\n\"All right!\" said Wilson.\n\nThe captain made a sign to Glenarvan to continue his descent. The\nlatter, accordingly, slid gently down the slope, and soon Lady Helena\nand he stood on the narrow path where Robert was waiting for them. The\nrope was shaken three times, and next Captain Mangles, followed b",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "68",
+      "claim_id": "68_C0",
+      "claim_text": "At ten, migrating with his clan, a flame-shaped birth-mark on his forehead convinced elders he was the reincarnation of the \u201csun-devouring warrior.\u201d At fourteen he single-handedly brought down a European bison that had trampled plantations, fashioned his first battle-axe from its horns and carved on the handle his father\u2019s death-bed chant: \u201cgnaw the bones of enemies.\u201d",
+      "excerpt_text": "steem at a moment when his honor was so\npowerfully attacked.\n\n\u201cAt this moment one of the door-keepers brought in a letter for the\npresident. \u2018You are at liberty to speak, M. de Morcerf,\u2019 said the\npresident, as he unsealed the letter; and the count began his defence,\nI assure you, Albert, in a most eloquent and skilful manner. He\nproduced documents proving that the Vizier of Yanina had up to the last\nmoment honored him with his entire confidence, since he had interested\nhim with a negotiation of life and death with the emperor. He produced\nthe ring, his mark of authority, with which Ali Pasha generally sealed\nhis letters, and which the latter had given him, that he might, on his\nreturn at any hour of the day or night, gain access to the presence,\neven in the harem. Unfortunately, the negotiation failed, and when he\nreturned to defend his benefactor, he was dead. \u2018But,\u2019 said the count,\n\u2018so great was Ali Pasha\u2019s confidence, that on his death-bed he resigned\nhis favorite mistress and her d",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "68",
+      "claim_id": "68_C0",
+      "claim_text": "At ten, migrating with his clan, a flame-shaped birth-mark on his forehead convinced elders he was the reincarnation of the \u201csun-devouring warrior.\u201d At fourteen he single-handedly brought down a European bison that had trampled plantations, fashioned his first battle-axe from its horns and carved on the handle his father\u2019s death-bed chant: \u201cgnaw the bones of enemies.\u201d",
+      "excerpt_text": "to see in the ray of light which shines there, and retire\nwhile I examine it.\u2019\u2014\u2018Be it so,\u2019 said the envoy; and he retired, after\nhaving first deposited the token agreed on in the place pointed out to\nhim by Selim.\n\n\u201cOh, how our hearts palpitated; for it did, indeed, seem to be a ring\nwhich was placed there. But was it my father\u2019s ring? that was the\nquestion. Selim, still holding in his hand the lighted match, walked\ntowards the opening in the cavern, and, aided by the faint light which\nstreamed in through the mouth of the cave, picked up the token.\n\n\u201c\u2018It is well,\u2019 said he, kissing it; \u2018it is my master\u2019s ring!\u2019 And\nthrowing the match on the ground, he trampled on it and extinguished\nit. The messenger uttered a cry of joy and clapped his hands. At this\nsignal four soldiers of the Seraskier Kourchid suddenly appeared, and\nSelim fell, pierced by five blows. Each man had stabbed him separately,\nand, intoxicated by their crime, though still pale with fear, they\nsought all over the cavern to ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "68",
+      "claim_id": "68_C0",
+      "claim_text": "At ten, migrating with his clan, a flame-shaped birth-mark on his forehead convinced elders he was the reincarnation of the \u201csun-devouring warrior.\u201d At fourteen he single-handedly brought down a European bison that had trampled plantations, fashioned his first battle-axe from its horns and carved on the handle his father\u2019s death-bed chant: \u201cgnaw the bones of enemies.\u201d",
+      "excerpt_text": "of it; the pickaxe\ndescended, or rather fell; he placed it on the ground, passed his hand\nover his brow, and remounted the stairs, alleging to himself, as an\nexcuse, a desire to be assured that no one was watching him, but in\nreality because he felt that he was about to faint.\n\nThe island was deserted, and the sun seemed to cover it with its fiery\nglance; afar off, a few small fishing boats studded the bosom of the\nblue ocean.\n\nDant\u00e8s had tasted nothing, but he thought not of hunger at such a\nmoment; he hastily swallowed a few drops of rum, and again entered the\ncavern.\n\nThe pickaxe that had seemed so heavy, was now like a feather in his\ngrasp; he seized it, and attacked the wall. After several blows he\nperceived that the stones were not cemented, but had been merely placed\none upon the other, and covered with stucco; he inserted the point of\nhis pickaxe, and using the handle as a lever, with joy soon saw the\nstone turn as if on hinges, and fall at his feet.\n\nHe had nothing more to do ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "68",
+      "claim_id": "68_C0",
+      "claim_text": "At ten, migrating with his clan, a flame-shaped birth-mark on his forehead convinced elders he was the reincarnation of the \u201csun-devouring warrior.\u201d At fourteen he single-handedly brought down a European bison that had trampled plantations, fashioned his first battle-axe from its horns and carved on the handle his father\u2019s death-bed chant: \u201cgnaw the bones of enemies.\u201d",
+      "excerpt_text": "ost, who presented himself two or three times to\ninquire if he wanted anything.\n\nFranz resolved to wait for Albert as late as possible. He ordered the\ncarriage, therefore, for eleven o\u2019clock, desiring Signor Pastrini to\ninform him the moment that Albert returned to the hotel.\n\nAt eleven o\u2019clock Albert had not come back. Franz dressed himself, and\nwent out, telling his host that he was going to pass the night at the\nDuke of Bracciano\u2019s. The house of the Duke of Bracciano is one of the\nmost delightful in Rome, the duchess, one of the last heiresses of the\nColonnas, does its honors with the most consummate grace, and thus\ntheir _f\u00eates_ have a European celebrity.\n\nFranz and Albert had brought to Rome letters of introduction to them,\nand their first question on his arrival was to inquire the whereabouts\nof his travelling companion. Franz replied that he had left him at the\nmoment they were about to extinguish the _moccoli_, and that he had\nlost sight of him in the Via Macello.\n\n\u201cThen he has",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "68",
+      "claim_id": "68_C0",
+      "claim_text": "At ten, migrating with his clan, a flame-shaped birth-mark on his forehead convinced elders he was the reincarnation of the \u201csun-devouring warrior.\u201d At fourteen he single-handedly brought down a European bison that had trampled plantations, fashioned his first battle-axe from its horns and carved on the handle his father\u2019s death-bed chant: \u201cgnaw the bones of enemies.\u201d",
+      "excerpt_text": "Yes.\u201d\n\nThere are words which close a conversation with an iron door; such was\nthe count\u2019s \u201cyes.\u201d\n\nThe whole journey was performed with equal rapidity; the thirty-two\nhorses, dispersed over seven stages, brought them to their destination\nin eight hours. At midnight they arrived at the gate of a beautiful\npark. The porter was in attendance; he had been apprised by the groom\nof the last stage of the count\u2019s approach. At half past two in the\nmorning Morcerf was conducted to his apartments, where a bath and\nsupper were prepared. The servant who had travelled at the back of the\ncarriage waited on him; Baptistin, who rode in front, attended the\ncount.\n\nAlbert bathed, took his supper, and went to bed. All night he was\nlulled by the melancholy noise of the surf. On rising, he went to his\nwindow, which opened on a terrace, having the sea in front, and at the\nback a pretty park bounded by a small forest.\n\nIn a creek lay a little sloop, with a narrow keel and high masts,\nbearing on its flag the Mo",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

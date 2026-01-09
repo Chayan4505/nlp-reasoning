@@ -1,5 +1,62 @@
 {
-  "story_id": 37,
-  "prediction": 1,
-  "dossier": []
+  "story_id": "37",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "37",
+      "claim_id": "37_C0",
+      "claim_text": "Tom Ayrton was born near Exeter to a fisherman father, retired naval petty-officer James Ayrton; his mother died young and he was reared by his elder brother Benjamin, learning tides and wind signs on fishing trips while secretly studying the Nautical Almanac and dreaming of \u201cconquering the seas.\u201d",
+      "excerpt_text": " the maintop could be easily withdrawn. Out of this\nplatform Captain Mangles designed to make a raft. He supported it by\nmeans of empty casks, and rendered it capable of carrying the anchors.\nA rudder was fastened to it, which enabled them to steer the concern.\n\nThis labor was half accomplished when the sun neared the meridian.\nThe captain left Glenarvan to follow out his instructions, and turned\nhis attention to determining his position, which was very important.\nFortunately, he had found in Will Halley's cabin a Nautical Almanac and\na sextant, with which he was able to take an observation. By consulting\nthe map Paganel had bought at Eden, he saw that they had been wrecked\nat the mouth of Aotea Bay, above Cahua Point, on the shores of the\nprovince of Auckland. As the city was on the thirty-seventh parallel,\nthe Macquarie had been carried a considerable distance out of her\ncourse. It was, therefore, necessary to sail northward to reach the\ncapital of New Zealand.\n\n\"A journey of not mor",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "37",
+      "claim_id": "37_C0",
+      "claim_text": "Tom Ayrton was born near Exeter to a fisherman father, retired naval petty-officer James Ayrton; his mother died young and he was reared by his elder brother Benjamin, learning tides and wind signs on fishing trips while secretly studying the Nautical Almanac and dreaming of \u201cconquering the seas.\u201d",
+      "excerpt_text": "t, of seeing Miss Mary happy and consoled. He was particularly\ninterested in this young girl; and this feeling he concealed so well,\nthat, except Miss Grant and himself, no one on board the Duncan had\nperceived it.\n\nAs for the learned geographer, he was probably the happiest man in the\nsouthern hemisphere. He passed his time in studying the maps with which\nhe covered the cabin-table; and then followed daily discussions with\nMr. Olbinett, so that he could scarcely set the table.\n\nBut Paganel had all the passengers on his side except the major,\nwho was very indifferent to geographical questions, especially at\ndinner-time. Having discovered a whole cargo of odd books in the mate's\nchests, and among them a number of Cervantes' works, the Frenchman\nresolved to learn Spanish, which nobody on board knew, and which would\nfacilitate his search on the shores of Chili. Thanks to his love for\nphilology, he did not despair of speaking this new tongue fluently on\narriving at Concepcion. He therefore",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "37",
+      "claim_id": "37_C0",
+      "claim_text": "Tom Ayrton was born near Exeter to a fisherman father, retired naval petty-officer James Ayrton; his mother died young and he was reared by his elder brother Benjamin, learning tides and wind signs on fishing trips while secretly studying the Nautical Almanac and dreaming of \u201cconquering the seas.\u201d",
+      "excerpt_text": "it was very evident that something\ndesperate was passing in the old man\u2019s mind, for a cry of anger and\ngrief rose in his throat, and not being able to find vent in utterance,\nappeared almost to choke him, for his face and lips turned quite purple\nwith the struggle. Villefort quietly opened a window, saying, \u201cIt is\nvery warm, and the heat affects M. Noirtier.\u201d He then returned to his\nplace, but did not sit down.\n\n\u201cThis marriage,\u201d added Madame de Villefort, \u201cis quite agreeable to the\nwishes of M. d\u2019\u00c9pinay and his family; besides, he had no relations\nnearer than an uncle and aunt, his mother having died at his birth, and\nhis father having been assassinated in 1815, that is to say, when he\nwas but two years old; it naturally followed that the child was\npermitted to choose his own pursuits, and he has, therefore, seldom\nacknowledged any other authority but that of his own will.\u201d\n\n\u201cThat assassination was a mysterious affair,\u201d said Villefort, \u201cand the\nperpetrators have hitherto escaped detect",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "37",
+      "claim_id": "37_C0",
+      "claim_text": "Tom Ayrton was born near Exeter to a fisherman father, retired naval petty-officer James Ayrton; his mother died young and he was reared by his elder brother Benjamin, learning tides and wind signs on fishing trips while secretly studying the Nautical Almanac and dreaming of \u201cconquering the seas.\u201d",
+      "excerpt_text": "onth. With this, Luigi\npurchased books and pencils. He applied his imitative powers to\neverything, and, like Giotto, when young, he drew on his slate sheep,\nhouses, and trees. Then, with his knife, he began to carve all sorts of\nobjects in wood; it was thus that Pinelli, the famous sculptor, had\ncommenced.\n\n20105m\n\n\n\n\u201cA girl of six or seven\u2014that is, a little younger than Vampa\u2014tended\nsheep on a farm near Palestrina; she was an orphan, born at Valmontone\nand was named Teresa. The two children met, sat down near each other,\nlet their flocks mingle together, played, laughed, and conversed\ntogether; in the evening they separated the Count of San-Felice\u2019s flock\nfrom those of Baron Cervetri, and the children returned to their\nrespective farms, promising to meet the next morning. The next day they\nkept their word, and thus they grew up together. Vampa was twelve, and\nTeresa eleven. And yet their natural disposition revealed itself.\nBeside his taste for the fine arts, which Luigi had carried a",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "37",
+      "claim_id": "37_C0",
+      "claim_text": "Tom Ayrton was born near Exeter to a fisherman father, retired naval petty-officer James Ayrton; his mother died young and he was reared by his elder brother Benjamin, learning tides and wind signs on fishing trips while secretly studying the Nautical Almanac and dreaming of \u201cconquering the seas.\u201d",
+      "excerpt_text": "ndered to Ben Joyce's accomplices.\"\n\nAt these words the lips of the quartermaster slightly trembled. A quick\nblush colored his hard features,--not the sign of remorse, but the\nshame of defeat. He was prisoner on this yacht that he had meant to\ncommand as master, and his fate was soon to be decided.\n\nHowever, he made no reply. Glenarvan waited patiently, but Ayrton still\npersisted in maintaining an obstinate silence.\n\n\"Speak, Ayrton; what have you to say?\" continued Glenarvan.\n\nThe convict hesitated, and the lines of his forehead were strongly\ncontracted. At last he said, in a calm voice:\n\n\"I have nothing to say, my lord. I was foolish enough to let myself be\ntaken. Do what you please.\"\n\n[Sidenote: A DUMB PRISONER.]\n\nHaving given his answer, the quartermaster turned his eyes toward\nthe coast that extended along the west, and affected a profound\nindifference for all that was passing around him. You would have\nthought, to look at him, that he was a stranger to this serious affair.\n\nBut Gl",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "37",
+      "claim_id": "37_C0",
+      "claim_text": "Tom Ayrton was born near Exeter to a fisherman father, retired naval petty-officer James Ayrton; his mother died young and he was reared by his elder brother Benjamin, learning tides and wind signs on fishing trips while secretly studying the Nautical Almanac and dreaming of \u201cconquering the seas.\u201d",
+      "excerpt_text": " have\nbeen the case. I now repeat that I was born at Auteuil on the night of\nthe 27th of September, 1817, and that I am the son of the procureur, M.\nde Villefort. Do you wish for any further details? I will give them. I\nwas born in No. 28, Rue de la Fontaine, in a room hung with red damask;\nmy father took me in his arms, telling my mother I was dead, wrapped me\nin a napkin marked with an H and an N, and carried me into a garden,\nwhere he buried me alive.\u201d\n\nA shudder ran through the assembly when they saw that the confidence of\nthe prisoner increased in proportion to the terror of M. de Villefort.\n\n\u201cBut how have you become acquainted with all these details?\u201d asked the\npresident.\n\n\u201cI will tell you, Mr. President. A man who had sworn vengeance against\nmy father, and had long watched his opportunity to kill him, had\nintroduced himself that night into the garden in which my father buried\nme. He was concealed in a thicket; he saw my father bury something in\nthe ground, and stabbed him; then ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "37",
+      "claim_id": "37_C0",
+      "claim_text": "Tom Ayrton was born near Exeter to a fisherman father, retired naval petty-officer James Ayrton; his mother died young and he was reared by his elder brother Benjamin, learning tides and wind signs on fishing trips while secretly studying the Nautical Almanac and dreaming of \u201cconquering the seas.\u201d",
+      "excerpt_text": "of it; the pickaxe\ndescended, or rather fell; he placed it on the ground, passed his hand\nover his brow, and remounted the stairs, alleging to himself, as an\nexcuse, a desire to be assured that no one was watching him, but in\nreality because he felt that he was about to faint.\n\nThe island was deserted, and the sun seemed to cover it with its fiery\nglance; afar off, a few small fishing boats studded the bosom of the\nblue ocean.\n\nDant\u00e8s had tasted nothing, but he thought not of hunger at such a\nmoment; he hastily swallowed a few drops of rum, and again entered the\ncavern.\n\nThe pickaxe that had seemed so heavy, was now like a feather in his\ngrasp; he seized it, and attacked the wall. After several blows he\nperceived that the stones were not cemented, but had been merely placed\none upon the other, and covered with stucco; he inserted the point of\nhis pickaxe, and using the handle as a lever, with joy soon saw the\nstone turn as if on hinges, and fall at his feet.\n\nHe had nothing more to do ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

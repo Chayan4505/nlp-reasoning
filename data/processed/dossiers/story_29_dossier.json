@@ -1,4 +1,70 @@
 {
-  "story_id": 29,
-  "dossier": []
+  "story_id": "29",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "29",
+      "claim_id": "29_C0",
+      "claim_text": "The night before the mate was hanged he pressed a dagger engraved with his family crest into the boy\u2019s hand.",
+      "excerpt_text": "si and Spada, conferred upon them\nthe insignia of the cardinalate, and induced them to arrange their\naffairs and take up their residence at Rome. Then the pope and C\u00e6sar\nBorgia invited the two cardinals to dinner. This was a matter of\ndispute between the Holy Father and his son. C\u00e6sar thought they could\nmake use of one of the means which he always had ready for his friends,\nthat is to say, in the first place, the famous key which was given to\ncertain persons with the request that they go and open a designated\ncupboard. This key was furnished with a small iron point,\u2014a negligence\non the part of the locksmith. When this was pressed to effect the\nopening of the cupboard, of which the lock was difficult, the person\nwas pricked by this small point, and died next day. Then there was the\nring with the lion\u2019s head, which C\u00e6sar wore when he wanted to greet his\nfriends with a clasp of the hand. The lion bit the hand thus favored,\nand at the end of twenty-four hours, the bite was mortal.\n\n\u201cC\u00e6sar ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "29",
+      "claim_id": "29_C0",
+      "claim_text": "The night before the mate was hanged he pressed a dagger engraved with his family crest into the boy\u2019s hand.",
+      "excerpt_text": "t this moment a shadow passed rapidly before the opening; Dant\u00e8s\nseized his gun, sprang through the opening, and mounted the stair. A\nwild goat had passed before the mouth of the cave, and was feeding at a\nlittle distance. This would have been a favorable occasion to secure\nhis dinner; but Dant\u00e8s feared lest the report of his gun should attract\nattention.\n\nHe thought a moment, cut a branch of a resinous tree, lighted it at the\nfire at which the smugglers had prepared their breakfast, and descended\nwith this torch.\n\nHe wished to see everything. He approached the hole he had dug, and\nnow, with the aid of the torch, saw that his pickaxe had in reality\nstruck against iron and wood. He planted his torch in the ground and\nresumed his labor.\n\nIn an instant a space three feet long by two feet broad was cleared,\nand Dant\u00e8s could see an oaken coffer, bound with cut steel; in the\nmiddle of the lid he saw engraved on a silver plate, which was still\nuntarnished, the arms of the Spada family\u2014viz., a",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "29",
+      "claim_id": "29_C0",
+      "claim_text": "The night before the mate was hanged he pressed a dagger engraved with his family crest into the boy\u2019s hand.",
+      "excerpt_text": "said Luigi\nproudly. \u2018Go into the grotto and dress yourself.\u2019\n\n\u201cAt these words he drew away the stone, and showed Teresa the grotto,\nlighted up by two wax lights, which burnt on each side of a splendid\nmirror; on a rustic table, made by Luigi, were spread out the pearl\nnecklace and the diamond pins, and on a chair at the side was laid the\nrest of the costume.\n\n\u201cTeresa uttered a cry of joy, and, without inquiring whence this attire\ncame, or even thanking Luigi, darted into the grotto, transformed into\na dressing-room.\n\n\u201cLuigi pushed the stone behind her, for on the crest of a small\nadjacent hill which cut off the view toward Palestrina, he saw a\ntraveller on horseback, stopping a moment, as if uncertain of his road,\nand thus presenting against the blue sky that perfect outline which is\npeculiar to distant objects in southern climes. When he saw Luigi, he\nput his horse into a gallop and advanced toward him.\n\n\u201cLuigi was not mistaken. The traveller, who was going from Palestrina\nto Tivoli, ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "29",
+      "claim_id": "29_C0",
+      "claim_text": "The night before the mate was hanged he pressed a dagger engraved with his family crest into the boy\u2019s hand.",
+      "excerpt_text": "opped at the door;\nVillefort gazed at him as if he had some difficulty in recognizing him;\nthen, after a brief interval, during which the honest shipowner turned\nhis hat in his hands,\n\n\u201cM. Morrel, I believe?\u201d said Villefort.\n\n\u201cYes, sir.\u201d\n\n\u201cCome nearer,\u201d said the magistrate, with a patronizing wave of the\nhand, \u201cand tell me to what circumstance I owe the honor of this visit.\u201d\n\n\u201cDo you not guess, monsieur?\u201d asked Morrel.\n\n\u201cNot in the least; but if I can serve you in any way I shall be\ndelighted.\u201d\n\n\u201cEverything depends on you.\u201d\n\n\u201cExplain yourself, pray.\u201d\n\n\u201cMonsieur,\u201d said Morrel, recovering his assurance as he proceeded, \u201cdo\nyou recollect that a few days before the landing of his majesty the\nemperor, I came to intercede for a young man, the mate of my ship, who\nwas accused of being concerned in correspondence with the Island of\nElba? What was the other day a crime is today a title to favor. You\nthen served Louis XVIII., and you did not show any favor\u2014it was your\nduty; today you serve Napol",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "29",
+      "claim_id": "29_C0",
+      "claim_text": "The night before the mate was hanged he pressed a dagger engraved with his family crest into the boy\u2019s hand.",
+      "excerpt_text": "eturned, bearing a black dress and a three-cornered\nhat. Meanwhile Monte Cristo had rapidly taken off his greatcoat,\nwaistcoat, and shirt, and one might distinguish by the glimmering\nthrough the open panel that he wore a pliant tunic of steel mail, of\nwhich the last in France, where daggers are no longer dreaded, was worn\nby King Louis XVI., who feared the dagger at his breast, and whose head\nwas cleft with a hatchet. The tunic soon disappeared under a long\ncassock, as did his hair under a priest\u2019s wig; the three-cornered hat\nover this effectually transformed the count into an abb\u00e9.\n\nThe man, hearing nothing more, stood erect, and while Monte Cristo was\ncompleting his disguise had advanced straight to the secretaire, whose\nlock was beginning to crack under his nightingale.\n\n\u201cTry again,\u201d whispered the count, who depended on the secret spring,\nwhich was unknown to the picklock, clever as he might be\u2014\u201ctry again,\nyou have a few minutes\u2019 work there.\u201d\n\nAnd he advanced to the window. The man ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "29",
+      "claim_id": "29_C0",
+      "claim_text": "The night before the mate was hanged he pressed a dagger engraved with his family crest into the boy\u2019s hand.",
+      "excerpt_text": " you have still on your brow your master\u2019s blood! Look,\ngentlemen, all!\u2019\n\n\u201cThese words had been pronounced with such enthusiasm and evident\ntruth, that every eye was fixed on the count\u2019s forehead, and he himself\npassed his hand across it, as if he felt Ali\u2019s blood still lingering\nthere. \u2018You positively recognize M. de Morcerf as the officer, Fernand\nMondego?\u2019\u2014\u2018Indeed I do!\u2019 cried Hayd\u00e9e. \u2018Oh, my mother, it was you who\nsaid, \u201cYou were free, you had a beloved father, you were destined to be\nalmost a queen. Look well at that man; it is he who raised your\nfather\u2019s head on the point of a spear; it is he who sold us; it is he\nwho forsook us! Look well at his right hand, on which he has a large\nwound; if you forgot his features, you would know him by that hand,\ninto which fell, one by one, the gold pieces of the merchant\nEl-Kobbir!\u201d I know him! Ah, let him say now if he does not recognize\nme!\u2019 Each word fell like a dagger on Morcerf, and deprived him of a\nportion of his energy; as she uttered",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "29",
+      "claim_id": "29_C0",
+      "claim_text": "The night before the mate was hanged he pressed a dagger engraved with his family crest into the boy\u2019s hand.",
+      "excerpt_text": "n which\ncuriosity destroys all diplomacy, \u201cyou look uncommonly like a rejected\nlover;\u201d and he burst into a hoarse laugh.\n\n\u201cBah!\u201d said Danglars, \u201ca lad of his make was not born to be unhappy in\nlove. You are laughing at him, Caderousse.\u201d\n\n\u201cNo,\u201d he replied, \u201conly hark how he sighs! Come, come, Fernand,\u201d said\nCaderousse, \u201chold up your head, and answer us. It\u2019s not polite not to\nreply to friends who ask news of your health.\u201d\n\n\u201cMy health is well enough,\u201d said Fernand, clenching his hands without\nraising his head.\n\n\u201cAh, you see, Danglars,\u201d said Caderousse, winking at his friend, \u201cthis\nis how it is; Fernand, whom you see here, is a good and brave Catalan,\none of the best fishermen in Marseilles, and he is in love with a very\nfine girl, named Merc\u00e9d\u00e8s; but it appears, unfortunately, that the fine\ngirl is in love with the mate of the _Pharaon_; and as the _Pharaon_\narrived today\u2014why, you understand!\u201d\n\n\u201cNo; I do not understand,\u201d said Danglars.\n\n\u201cPoor Fernand has been dismissed,\u201d continued Cadero",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "29",
+      "claim_id": "29_C0",
+      "claim_text": "The night before the mate was hanged he pressed a dagger engraved with his family crest into the boy\u2019s hand.",
+      "excerpt_text": "a peculiar manner. The man in the mantle\nquitted the wall, and advanced into the middle of the street.\n\u201c_Salite!_\u201d said the count, in the same tone in which he would have\ngiven an order to his servant. The messenger obeyed without the least\nhesitation, but rather with alacrity, and, mounting the steps at a\nbound, entered the hotel; five seconds afterwards he was at the door of\nthe room.\n\n\u201cAh, it is you, Peppino,\u201d said the count. But Peppino, instead of\nanswering, threw himself on his knees, seized the count\u2019s hand, and\ncovered it with kisses. \u201cAh,\u201d said the count, \u201cyou have, then, not\nforgotten that I saved your life; that is strange, for it is a week\nago.\u201d\n\n20203m\n\n\n\n\u201cNo, excellency; and never shall I forget it,\u201d returned Peppino, with\nan accent of profound gratitude.\n\n\u201cNever? That is a long time; but it is something that you believe so.\nRise and answer.\u201d\n\nPeppino glanced anxiously at Franz.\n\n\u201cOh, you may speak before his excellency,\u201d said he; \u201che is one of my\nfriends. You allow me to",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

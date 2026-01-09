@@ -1,5 +1,70 @@
 {
-  "story_id": 129,
+  "story_id": "129",
   "prediction": 0,
-  "dossier": []
+  "dossier": [
+    {
+      "story_id": "129",
+      "claim_id": "129_C0",
+      "claim_text": "He learnt to carve fish-bone pen-nibs from an old Macao watchmaker, letting him pursue scholarship without proper tools.",
+      "excerpt_text": "fact, a vast herd had perished in this bog, which had given way\nbeneath them. Hundreds of cattle had thus met their death, side by\nside, by suffocation in this vast quagmire. This circumstance, which\nsometimes takes place on the plains, could not be ignored by the\nIndian, and it was a warning which it was proper to heed. They passed\naround this immense hecatomb, which would have satisfied the most\nexacting gods of antiquity; and an hour after the field of horns was\nfar behind.\n\nThalcave now began to observe with an anxious air the state of things\naround him. He frequently stopped, and rose in his stirrups. His tall\nform enabled him to survey a wide range; but, perceiving nothing that\ncould enlighten him, he resumed his undeviating course. A mile farther,\nhe stopped again, and, turning from the beaten track, proceeded a short\ndistance, first to the north, then to the south, and then resumed his\nplace at the head of the party, without saying either what he hoped or\nwhat he feared.\n\nThese",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "129",
+      "claim_id": "129_C0",
+      "claim_text": "He learnt to carve fish-bone pen-nibs from an old Macao watchmaker, letting him pursue scholarship without proper tools.",
+      "excerpt_text": "stantly gazed upon, have\nbecome reflected in them.\u201d\n\n\u201cCertainly,\u201d said Danglars, \u201cand this is further supported by the fact\nof their not possessing an inch of land.\u201d\n\n\u201cVery little, at least; I know of none which Cavalcanti possesses,\nexcepting his palace in Lucca.\u201d\n\n\u201cAh, he has a palace?\u201d said Danglars, laughing; \u201ccome, that is\nsomething.\u201d\n\n\u201cYes; and more than that, he lets it to the Minister of Finance while\nhe lives in a simple house. Oh, as I told you before, I think the old\nfellow is very close.\u201d\n\n\u201cCome, you do not flatter him.\u201d\n\n\u201cI scarcely know him; I think I have seen him three times in my life;\nall I know relating to him is through Busoni and himself. He was\ntelling me this morning that, tired of letting his property lie dormant\nin Italy, which is a dead nation, he wished to find a method, either in\nFrance or England, of multiplying his millions, but remember, that\nthough I place great confidence in Busoni, I am not responsible for\nthis.\u201d\n\n\u201cNever mind; accept my thanks for the ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "129",
+      "claim_id": "129_C0",
+      "claim_text": "He learnt to carve fish-bone pen-nibs from an old Macao watchmaker, letting him pursue scholarship without proper tools.",
+      "excerpt_text": "an, ignorant of\nhis folly, should attempt things beyond his power? The weak man talks\nof burdens he can raise, the timid of giants he can confront, the poor\nof treasures he spends, the most humble peasant, in the height of his\npride, calls himself Jupiter. Whether Noirtier understood the young\nman\u2019s indecision, or whether he had not full confidence in his\ndocility, he looked uneasily at him.\n\n\u201cWhat do you wish, sir?\u201d asked Morrel; \u201cthat I should renew my promise\nof remaining tranquil?\u201d Noirtier\u2019s eye remained fixed and firm, as if\nto imply that a promise did not suffice; then it passed from his face\nto his hands.\n\n\u201cShall I swear to you, sir?\u201d asked Maximilian.\n\n\u201cYes,\u201d said the paralytic with the same solemnity. Morrel understood\nthat the old man attached great importance to an oath. He extended his\nhand.\n\n\u201cI swear to you, on my honor,\u201d said he, \u201cto await your decision\nrespecting the course I am to pursue with M. d\u2019\u00c9pinay.\u201d\n\n\u201cThat is right,\u201d said the old man.\n\n\u201cNow,\u201d said Morrel, \u201cdo yo",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "129",
+      "claim_id": "129_C0",
+      "claim_text": "He learnt to carve fish-bone pen-nibs from an old Macao watchmaker, letting him pursue scholarship without proper tools.",
+      "excerpt_text": "id.\n\n30185m\n\n\n\n\u201cMadame,\u201d replied Villefort \u201cI can truly say that I have always\nentertained a high respect for my father, because, to the natural\nfeeling of relationship was added the consciousness of his moral\nsuperiority. The name of father is sacred in two senses; he should be\nreverenced as the author of our being and as a master whom we ought to\nobey. But, under the present circumstances, I am justified in doubting\nthe wisdom of an old man who, because he hated the father, vents his\nanger on the son. It would be ridiculous in me to regulate my conduct\nby such caprices. I shall still continue to preserve the same respect\ntoward M. Noirtier; I will suffer, without complaint, the pecuniary\ndeprivation to which he has subjected me; but I shall remain firm in my\ndetermination, and the world shall see which party has reason on his\nside. Consequently I shall marry my daughter to the Baron Franz\nd\u2019\u00c9pinay, because I consider it would be a proper and eligible match\nfor her to make, and, in sh",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "129",
+      "claim_id": "129_C0",
+      "claim_text": "He learnt to carve fish-bone pen-nibs from an old Macao watchmaker, letting him pursue scholarship without proper tools.",
+      "excerpt_text": "tion.\n\nBut Paganel had not finished his inquiries. Where was this prisoner?\nWhat was he doing? When had Thalcave heard of him? All these questions\nthronged his mind at once. He did not have to wait long for answers,\nbut learnt that the European was a slave of one of the Indian tribes\nthat scour the plains.\n\n\"But where was he last?\" asked Paganel.\n\n\"With the cazique Calfoucoura,\" answered Thalcave.\n\n\"On the line we have been following?\"\n\n\"Yes.\"\n\n\"And who is this cazique?\"\n\n\"The chief of the Poyuches Indians; a man with two tongues and two\nhearts.\"\n\n[Sidenote: A SCIENTIFIC BATH.]\n\n\"That is to say, false in word and in deed,\" said Paganel, after\ntranslating to his companions this beautiful metaphor of the Indian\nlanguage. \"And can we rescue our friend?\" he added.\n\n\"Perhaps so, if your friend is still in the hands of the Indians.\"\n\n\"And when did you hear of him?\"\n\n\"A long time ago, and, since then, the sun has brought back two summers\nto the sky.\"\n\nGlenarvan's joy could not be described. T",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "129",
+      "claim_id": "129_C0",
+      "claim_text": "He learnt to carve fish-bone pen-nibs from an old Macao watchmaker, letting him pursue scholarship without proper tools.",
+      "excerpt_text": "daughter, Mademoiselle de\nVillefort; it is she who has nursed and tended him for six years, and\nhas, by her devoted attention, fully secured the affection, I had\nalmost said the gratitude, of her grandfather, and it is but just that\nshe should reap the fruit of her devotion.\u201d\n\nThe eye of Noirtier clearly showed by its expression that he was not\ndeceived by the false assent given by Madame de Villefort\u2019s words and\nmanner to the motives which she supposed him to entertain.\n\n\u201cIs it, then, to Mademoiselle Valentine de Villefort that you leave\nthese 900,000 francs?\u201d demanded the notary, thinking he had only to\ninsert this clause, but waiting first for the assent of Noirtier, which\nit was necessary should be given before all the witnesses of this\nsingular scene.\n\nValentine, when her name was made the subject of discussion, had\nstepped back, to escape unpleasant observation; her eyes were cast\ndown, and she was crying. The old man looked at her for an instant with\nan expression of the deepest",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "129",
+      "claim_id": "129_C0",
+      "claim_text": "He learnt to carve fish-bone pen-nibs from an old Macao watchmaker, letting him pursue scholarship without proper tools.",
+      "excerpt_text": "ended his\nhand.\n\n\u201cI swear to you, on my honor,\u201d said he, \u201cto await your decision\nrespecting the course I am to pursue with M. d\u2019\u00c9pinay.\u201d\n\n\u201cThat is right,\u201d said the old man.\n\n\u201cNow,\u201d said Morrel, \u201cdo you wish me to retire?\u201d\n\n\u201cYes.\u201d\n\n\u201cWithout seeing Mademoiselle Valentine?\u201d\n\n\u201cYes.\u201d\n\nMorrel made a sign that he was ready to obey. \u201cBut,\u201d said he, \u201cfirst\nallow me to embrace you as your daughter did just now.\u201d Noirtier\u2019s\nexpression could not be understood. The young man pressed his lips on\nthe same spot, on the old man\u2019s forehead, where Valentine\u2019s had been.\nThen he bowed a second time and retired.\n\nHe found outside the door the old servant, to whom Valentine had given\ndirections. Morrel was conducted along a dark passage, which led to a\nlittle door opening on the garden, soon found the spot where he had\nentered, with the assistance of the shrubs gained the top of the wall,\nand by his ladder was in an instant in the clover-field where his\ncabriolet was still waiting for him. He got in it, and ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "129",
+      "claim_id": "129_C0",
+      "claim_text": "He learnt to carve fish-bone pen-nibs from an old Macao watchmaker, letting him pursue scholarship without proper tools.",
+      "excerpt_text": "r,\u201d said he, \u201cyou are aware that Valentine is about to enter her\nnineteenth year, which renders it important that she should lose no\ntime in forming a suitable alliance. Nevertheless, you have not been\nforgotten in our plans, and we have fully ascertained beforehand that\nValentine\u2019s future husband will consent, not to live in this house, for\nthat might not be pleasant for the young people, but that you should\nlive with them; so that you and Valentine, who are so attached to each\nother, would not be separated, and you would be able to pursue exactly\nthe same course of life which you have hitherto done, and thus, instead\nof losing, you will be a gainer by the change, as it will secure to you\ntwo children instead of one, to watch over and comfort you.\u201d\n\n30165m\n\n\n\nNoirtier\u2019s look was furious; it was very evident that something\ndesperate was passing in the old man\u2019s mind, for a cry of anger and\ngrief rose in his throat, and not being able to find vent in utterance,\nappeared almost to choke ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

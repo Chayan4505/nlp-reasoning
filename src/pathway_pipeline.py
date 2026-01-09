@@ -73,13 +73,102 @@ class ProductionNovelIndexer:
         """
         Starts the Vector Store server.
         """
-        if USE_DUMMY_LLM:
+        # Check if Pathway is properly loaded
+        pathway_available = False
+        try:
+            if pw and hasattr(pw, 'io'):
+                pathway_available = True
+        except:
+            pass
+            
+        if USE_DUMMY_LLM or not pathway_available:
             import time
-            print("[Mock] Starting dummy Pathway server (blocking)...")
-            time.sleep(5) # Simulate startup
-            print("[Mock] Dummy Pathway server running.")
-            while True:
-                time.sleep(1) # Block forever like real server
+            from http.server import HTTPServer, BaseHTTPRequestHandler
+            import json
+            import glob
+            from rank_bm25 import BM25Okapi
+            from pathlib import Path
+            
+            print(f"[Fallback] Starting High-Fidelity BM25 Server (Pathway unavailable on Windows)...")
+            
+            # 1. Load Novels for Real Search
+            corpus_chunks = []
+            corpus_files = []
+            
+            novels_path = Path(NOVELS_DIR)
+            txt_files = list(novels_path.glob("*.txt"))
+            
+            print(f"[Fallback] Indexing {len(txt_files)} novels from {novels_path}...")
+            
+            for file_path in txt_files:
+                try:
+                    with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
+                        text = f.read()
+                        # Simple chunking: 1000 chars with overlap
+                        chunk_size = 1000
+                        overlap = 200
+                        for i in range(0, len(text), chunk_size - overlap):
+                            chunk = text[i:i + chunk_size]
+                            corpus_chunks.append(chunk)
+                            corpus_files.append(file_path.name)
+                except Exception as e:
+                    print(f"Error reading {file_path}: {e}")
+            
+            if not corpus_chunks:
+                print("[Fallback] WARNING: No text found to index! Search will be empty.")
+                tokenized_corpus = []
+                bm25 = None
+            else:
+                print(f"[Fallback] content loaded. Tokenizing {len(corpus_chunks)} chunks...")
+                tokenized_corpus = [doc.split(" ") for doc in corpus_chunks]
+                bm25 = BM25Okapi(tokenized_corpus)
+                print("[Fallback] BM25 Index Ready.")
+
+            class MockHandler(BaseHTTPRequestHandler):
+                def do_POST(self):
+                    if self.path == '/v1/retrieve':
+                        content_length = int(self.headers['Content-Length'])
+                        post_data = self.rfile.read(content_length)
+                        try:
+                             data = json.loads(post_data.decode('utf-8'))
+                             query = data.get('query', '')
+                             
+                             # REAL SEARCH
+                             results = []
+                             if bm25:
+                                 # Tokenize query
+                                 tokenized_query = query.split(" ")
+                                 # Get top 5
+                                 top_docs = bm25.get_top_n(tokenized_query, corpus_chunks, n=5)
+                                 
+                                 for doc in top_docs:
+                                     results.append({
+                                         "text": doc,
+                                         "score": 0.8, # Dummy score, rank implies quality
+                                         "metadata": {"source": "BM25_Fallback"}
+                                     })
+                             else:
+                                 # Fallback if no books
+                                 results.append({"text": "No novels found in data folder.", "score": 0.0, "metadata": {}})
+                             
+                             self.send_response(200)
+                             self.send_header('Content-type', 'application/json')
+                             self.end_headers()
+                             self.wfile.write(json.dumps(results).encode('utf-8'))
+                        except Exception as e:
+                            print(f"Server Error: {e}")
+                            self.send_response(500)
+                            self.end_headers()
+                    else:
+                        self.send_response(404)
+                        self.end_headers()
+                        
+                def log_message(self, format, *args):
+                    return # Silence logs
+            
+            server = HTTPServer((self.host, self.port), MockHandler)
+            print("[Fallback] Server running on 8765...")
+            server.serve_forever()
             return
 
         index = self.build_from_dir()

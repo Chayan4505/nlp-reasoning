@@ -1,5 +1,86 @@
 {
-  "story_id": 47,
+  "story_id": "47",
   "prediction": 0,
-  "dossier": []
+  "dossier": [
+    {
+      "story_id": "47",
+      "claim_id": "47_C0",
+      "claim_text": "Colonists killed his father for refusing to reveal migration routes, and the thirteen-year-old fled alone, carrying his father\u2019s silver horse-gear.",
+      "excerpt_text": "ye to the crack between the boards; I luckily found a\nsmall opening which afforded me a view of the apartment and what was\npassing within. \u2018What do you want?\u2019 said my father to some people who\nwere holding a paper inscribed with characters of gold. \u2018What we want,\u2019\nreplied one, \u2018is to communicate to you the will of his highness. Do you\nsee this firman?\u2019\u2014\u2018I do,\u2019 said my father. \u2018Well, read it; he demands\nyour head.\u2019\n\n40078m\n\n\n\n\u201cMy father answered with a loud laugh, which was more frightful than\neven threats would have been, and he had not ceased when two reports of\na pistol were heard; he had fired them himself, and had killed two men.\nThe Palikares, who were prostrated at my father\u2019s feet, now sprang up\nand fired, and the room was filled with fire and smoke. At the same\ninstant the firing began on the other side, and the balls penetrated\nthe boards all round us. Oh, how noble did the grand vizier my father\nlook at that moment, in the midst of the flying bullets, his scimitar\nin his hand",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "47",
+      "claim_id": "47_C0",
+      "claim_text": "Colonists killed his father for refusing to reveal migration routes, and the thirteen-year-old fled alone, carrying his father\u2019s silver horse-gear.",
+      "excerpt_text": "ffer with pleasure,\u201d replied the host,\n\u201cbut, unfortunately, if I go there, it will be, in all probability,\n_incognito_.\u201d\n\nThe supper appeared to have been supplied solely for Franz, for the\nunknown scarcely touched one or two dishes of the splendid banquet to\nwhich his guest did ample justice. Then Ali brought on the dessert, or\nrather took the baskets from the hands of the statues and placed them\non the table. Between the two baskets he placed a small silver cup with\na silver cover. The care with which Ali placed this cup on the table\nroused Franz\u2019s curiosity. He raised the cover and saw a kind of\ngreenish paste, something like preserved angelica, but which was\nperfectly unknown to him. He replaced the lid, as ignorant of what the\ncup contained as he was before he had looked at it, and then casting\nhis eyes towards his host he saw him smile at his disappointment.\n\n\u201cYou cannot guess,\u201d said he, \u201cwhat there is in that small vase, can\nyou?\u201d\n\n\u201cNo, I really cannot.\u201d\n\n\u201cWell, then, that green",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "47",
+      "claim_id": "47_C0",
+      "claim_text": "Colonists killed his father for refusing to reveal migration routes, and the thirteen-year-old fled alone, carrying his father\u2019s silver horse-gear.",
+      "excerpt_text": "ve said, been with his master for\nfive-and-twenty years, therefore he knew all his habits, and it was\nseldom that Noirtier found it necessary to ask for anything, so prompt\nwas he in administering to all the necessities of the invalid.\n\nVillefort did not need the help of either Valentine or the domestic in\norder to carry on with his father the strange conversation which he was\nabout to begin. As we have said, he perfectly understood the old man\u2019s\nvocabulary, and if he did not use it more often, it was only\nindifference and _ennui_ which prevented him from so doing. He\ntherefore allowed Valentine to go into the garden, sent away Barrois,\nand after having seated himself at his father\u2019s right hand, while\nMadame de Villefort placed herself on the left, he addressed him thus:\n\n\u201cI trust you will not be displeased, sir, that Valentine has not come\nwith us, or that I dismissed Barrois, for our conference will be one\nwhich could not with propriety be carried on in the presence of either.\nMadame",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "47",
+      "claim_id": "47_C0",
+      "claim_text": "Colonists killed his father for refusing to reveal migration routes, and the thirteen-year-old fled alone, carrying his father\u2019s silver horse-gear.",
+      "excerpt_text": "gravated case to flatter his\nself-love, which was about the only vulnerable point left in his frozen\nheart.\n\nThe case was therefore prepared owing to the incessant labor of\nVillefort, who wished it to be the first on the list in the coming\nassizes. He had been obliged to seclude himself more than ever, to\nevade the enormous number of applications presented to him for the\npurpose of obtaining tickets of admission to the court on the day of\ntrial. And then so short a time had elapsed since the death of poor\nValentine, and the gloom which overshadowed the house was so recent,\nthat no one wondered to see the father so absorbed in his professional\nduties, which were the only means he had of dissipating his grief.\n\nOnce only had Villefort seen his father; it was the day after that upon\nwhich Bertuccio had paid his second visit to Benedetto, when the latter\nwas to learn his father\u2019s name. The magistrate, harassed and fatigued,\nhad descended to the garden of his house, and in a gloomy mood, si",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "47",
+      "claim_id": "47_C0",
+      "claim_text": "Colonists killed his father for refusing to reveal migration routes, and the thirteen-year-old fled alone, carrying his father\u2019s silver horse-gear.",
+      "excerpt_text": "ters, and silver buckles for the\nshoes, all disappeared; and Gaspard Caderousse, unable to appear abroad\nin his pristine splendor, had given up any further participation in the\npomps and vanities, both for himself and wife, although a bitter\nfeeling of envious discontent filled his mind as the sound of mirth and\nmerry music from the joyous revellers reached even the miserable\nhostelry to which he still clung, more for the shelter than the profit\nit afforded.\n\nCaderousse, then, was, as usual, at his place of observation before the\ndoor, his eyes glancing listlessly from a piece of closely shaven\ngrass\u2014on which some fowls were industriously, though fruitlessly,\nendeavoring to turn up some grain or insect suited to their palate\u2014to\nthe deserted road, which led away to the north and south, when he was\naroused by the shrill voice of his wife, and grumbling to himself as he\nwent, he mounted to her chamber, first taking care, however, to set the\nentrance door wide open, as an invitation to any",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "47",
+      "claim_id": "47_C0",
+      "claim_text": "Colonists killed his father for refusing to reveal migration routes, and the thirteen-year-old fled alone, carrying his father\u2019s silver horse-gear.",
+      "excerpt_text": "rtal. Had it been\npossible to save you, I should have considered it another proof of\nGod\u2019s mercy, and I would again have endeavored to restore you, I swear\nby my father\u2019s tomb.\u201d\n\n\u201cBy your father\u2019s tomb!\u201d said Caderousse, supported by a supernatural\npower, and half-raising himself to see more distinctly the man who had\njust taken the oath which all men hold sacred; \u201cwho, then, are you?\u201d\n\nThe count had watched the approach of death. He knew this was the last\nstruggle. He approached the dying man, and, leaning over him with a\ncalm and melancholy look, he whispered, \u201cI am\u2014I am\u2014\u2014\u201d\n\nAnd his almost closed lips uttered a name so low that the count himself\nappeared afraid to hear it. Caderousse, who had raised himself on his\nknees, and stretched out his arm, tried to draw back, then clasping his\nhands, and raising them with a desperate effort, \u201cOh, my God, my God!\u201d\nsaid he, \u201cpardon me for having denied thee; thou dost exist, thou art\nindeed man\u2019s father in heaven, and his judge on earth. My God",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "47",
+      "claim_id": "47_C0",
+      "claim_text": "Colonists killed his father for refusing to reveal migration routes, and the thirteen-year-old fled alone, carrying his father\u2019s silver horse-gear.",
+      "excerpt_text": "st simultaneously from all who were near enough to\nthe magistrate to hear his words.\n\n\u201cWhy, if my information prove correct, a sort of Bonapartist conspiracy\nhas just been discovered.\u201d\n\n\u201cCan I believe my ears?\u201d cried the marquise.\n\n\u201cI will read you the letter containing the accusation, at least,\u201d said\nVillefort:\n\n\u201c\u2018The king\u2019s attorney is informed by a friend to the throne and the\nreligious institutions of his country, that one named Edmond Dant\u00e8s,\nmate of the ship _Pharaon_, this day arrived from Smyrna, after having\ntouched at Naples and Porto-Ferrajo, has been the bearer of a letter\nfrom Murat to the usurper, and again taken charge of another letter\nfrom the usurper to the Bonapartist club in Paris. Ample corroboration\nof this statement may be obtained by arresting the above-mentioned\nEdmond Dant\u00e8s, who either carries the letter for Paris about with him,\nor has it at his father\u2019s abode. Should it not be found in the\npossession of father or son, then it will assuredly be discovered in",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "47",
+      "claim_id": "47_C0",
+      "claim_text": "Colonists killed his father for refusing to reveal migration routes, and the thirteen-year-old fled alone, carrying his father\u2019s silver horse-gear.",
+      "excerpt_text": "m\n\n\n\n\u201cWorthy Caderousse!\u201d said the old man, \u201che is so much attached to us.\u201d\n\n\u201cYes, to be sure I am. I love and esteem you, because honest folks are\nso rare. But it seems you have come back rich, my boy,\u201d continued the\ntailor, looking askance at the handful of gold and silver which Dant\u00e8s\nhad thrown on the table.\n\nThe young man remarked the greedy glance which shone in the dark eyes\nof his neighbor. \u201cEh,\u201d he said, negligently, \u201cthis money is not mine. I\nwas expressing to my father my fears that he had wanted many things in\nmy absence, and to convince me he emptied his purse on the table. Come,\nfather\u201d added Dant\u00e8s, \u201cput this money back in your box\u2014unless neighbor\nCaderousse wants anything, and in that case it is at his service.\u201d\n\n\u201cNo, my boy, no,\u201d said Caderousse. \u201cI am not in any want, thank God, my\nliving is suited to my means. Keep your money\u2014keep it, I say;\u2014one never\nhas too much;\u2014but, at the same time, my boy, I am as much obliged by\nyour offer as if I took advantage of it.\u201d\n\n\u201cIt w",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "47",
+      "claim_id": "47_C0",
+      "claim_text": "Colonists killed his father for refusing to reveal migration routes, and the thirteen-year-old fled alone, carrying his father\u2019s silver horse-gear.",
+      "excerpt_text": " the surface of the waves. During this time,\nin the kiosk at my father\u2019s feet, were seated twenty Palikares,\nconcealed from view by an angle of the wall and watching with eager\neyes the arrival of the boats. They were armed with their long guns\ninlaid with mother-of-pearl and silver, and cartridges in great numbers\nwere lying scattered on the floor. My father looked at his watch, and\npaced up and down with a countenance expressive of the greatest\nanguish. This was the scene which presented itself to my view as I\nquitted my father after that last kiss.\n\n\u201cMy mother and I traversed the gloomy passage leading to the cavern.\nSelim was still at his post, and smiled sadly on us as we entered. We\nfetched our cushions from the other end of the cavern, and sat down by\nSelim. In great dangers the devoted ones cling to each other; and,\nyoung as I was, I quite understood that some imminent danger was\nhanging over our heads.\u201d\n\nAlbert had often heard\u2014not from his father, for he never spoke on the\nsub",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "47",
+      "claim_id": "47_C0",
+      "claim_text": "Colonists killed his father for refusing to reveal migration routes, and the thirteen-year-old fled alone, carrying his father\u2019s silver horse-gear.",
+      "excerpt_text": "eiress\nI am. Madame de Villefort has nothing of her own, and hates me for\nbeing so richly endowed. Alas, how gladly would I exchange the half of\nthis wealth for the happiness of at least sharing my father\u2019s love. God\nknows, I would prefer sacrificing the whole, so that it would obtain me\na happy and affectionate home.\u201d\n\n\u201cPoor Valentine!\u201d\n\n\u201cI seem to myself as though living a life of bondage, yet at the same\ntime am so conscious of my own weakness that I fear to break the\nrestraint in which I am held, lest I fall utterly helpless. Then, too,\nmy father is not a person whose orders may be infringed with impunity;\nprotected as he is by his high position and firmly established\nreputation for talent and unswerving integrity, no one could oppose\nhim; he is all-powerful even with the king; he would crush you at a\nword. Dear Maximilian, believe me when I assure you that if I do not\nattempt to resist my father\u2019s commands it is more on your account than\nmy own.\u201d\n\n\u201cBut why, Valentine, do you persi",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

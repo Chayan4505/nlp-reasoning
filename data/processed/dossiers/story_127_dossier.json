@@ -1,5 +1,70 @@
 {
-  "story_id": 127,
+  "story_id": "127",
   "prediction": 0,
-  "dossier": []
+  "dossier": [
+    {
+      "story_id": "127",
+      "claim_id": "127_C0",
+      "claim_text": "During twenty years in one cell he kept his wits by calculating Mediterranean tides, an exercise that later let him predict guards\u2019 rounds in the original story.",
+      "excerpt_text": "mblingly to fetch another, without giving himself the trouble to\nremove the fragments of the broken one. He returned speedily, advised\nthe prisoner to be more careful, and departed.\n\nDant\u00e8s heard joyfully the key grate in the lock; he listened until the\nsound of steps died away, and then, hastily displacing his bed, saw by\nthe faint light that penetrated into his cell, that he had labored\nuselessly the previous evening in attacking the stone instead of\nremoving the plaster that surrounded it.\n\nThe damp had rendered it friable, and Dant\u00e8s was able to break it\noff\u2014in small morsels, it is true, but at the end of half an hour he had\nscraped off a handful; a mathematician might have calculated that in\ntwo years, supposing that the rock was not encountered, a passage\ntwenty feet long and two feet broad, might be formed.\n\nThe prisoner reproached himself with not having thus employed the hours\nhe had passed in vain hopes, prayer, and despondency. During the six\nyears that he had been imprisone",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "127",
+      "claim_id": "127_C0",
+      "claim_text": "During twenty years in one cell he kept his wits by calculating Mediterranean tides, an exercise that later let him predict guards\u2019 rounds in the original story.",
+      "excerpt_text": " francs, and in taking them from his pocket dropped a\nvisiting card. This belonged to one of his friends at the Caf\u00e9 de\nParis, so that the innkeeper, picking it up after Andrea had left, was\nconvinced that he had let his horse to the Count of Maul\u00e9on, 25 Rue\nSaint-Dominique, that being the name and address on the card.\n\n_Le Blanc_ was not a fast animal, but he kept up an easy, steady pace;\nin three hours and a half Andrea had traversed the nine leagues which\nseparated him from Compi\u00e8gne, and four o\u2019clock struck as he reached the\nplace where the coaches stop. There is an excellent tavern at\nCompi\u00e8gne, well remembered by those who have ever been there. Andrea,\nwho had often stayed there in his rides about Paris, recollected the\nBell and Bottle inn; he turned around, saw the sign by the light of a\nreflected lamp, and having dismissed the child, giving him all the\nsmall coin he had about him, he began knocking at the door, very\nreasonably concluding that having now three or four hours befo",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "127",
+      "claim_id": "127_C0",
+      "claim_text": "During twenty years in one cell he kept his wits by calculating Mediterranean tides, an exercise that later let him predict guards\u2019 rounds in the original story.",
+      "excerpt_text": ". But I do not see the\nCount of Monte Cristo here.\u201d\n\n\u201cHe is worn out,\u201d said Debray; \u201cbesides, he could not well appear in\npublic, since he has been the dupe of the Cavalcanti, who, it appears,\npresented themselves to him with false letters of credit, and cheated\nhim out of 100,000 francs upon the hypothesis of this principality.\u201d\n\n\u201cBy the way, M. de Ch\u00e2teau-Renaud,\u201d asked Beauchamp, \u201chow is Morrel?\u201d\n\n\u201c_Ma foi_, I have called three times without once seeing him. Still,\nhis sister did not seem uneasy, and told me that though she had not\nseen him for two or three days, she was sure he was well.\u201d\n\n\u201cAh, now I think of it, the Count of Monte Cristo cannot appear in the\nhall,\u201d said Beauchamp.\n\n\u201cWhy not?\u201d\n\n\u201cBecause he is an actor in the drama.\u201d\n\n\u201cHas he assassinated anyone, then?\u201d\n\n\u201cNo, on the contrary, they wished to assassinate him. You know that it\nwas in leaving his house that M. de Caderousse was murdered by his\nfriend Benedetto. You know that the famous waistcoat was found in his\nhouse, ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "127",
+      "claim_id": "127_C0",
+      "claim_text": "During twenty years in one cell he kept his wits by calculating Mediterranean tides, an exercise that later let him predict guards\u2019 rounds in the original story.",
+      "excerpt_text": " come over Villefort during the examination, the destruction of the\nletter, the exacted promise, the almost supplicating tones of the\nmagistrate, who seemed rather to implore mercy than to pronounce\npunishment,\u2014all returned with a stunning force to his memory. He cried\nout, and staggered against the wall like a drunken man, then he hurried\nto the opening that led from the abb\u00e9\u2019s cell to his own, and said, \u201cI\nmust be alone, to think over all this.\u201d\n\nWhen he regained his dungeon, he threw himself on his bed, where the\nturnkey found him in the evening visit, sitting with fixed gaze and\ncontracted features, dumb and motionless as a statue. During these\nhours of profound meditation, which to him had seemed only minutes, he\nhad formed a fearful resolution, and bound himself to its fulfilment by\na solemn oath.\n\nDant\u00e8s was at length roused from his reverie by the voice of Faria,\nwho, having also been visited by his jailer, had come to invite his\nfellow-sufferer to share his supper. The reputat",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "127",
+      "claim_id": "127_C0",
+      "claim_text": "During twenty years in one cell he kept his wits by calculating Mediterranean tides, an exercise that later let him predict guards\u2019 rounds in the original story.",
+      "excerpt_text": " it be directly!\u201d exclaimed the young man.\n\n\u201cFollow me, then,\u201d said the abb\u00e9, as he re-entered the subterranean\npassage, in which he soon disappeared, followed by Dant\u00e8s.\n\n\n\n Chapter 17. The Abb\u00e9\u2019s Chamber\n\nAfter having passed with tolerable ease through the subterranean\npassage, which, however, did not admit of their holding themselves\nerect, the two friends reached the further end of the corridor, into\nwhich the abb\u00e9\u2019s cell opened; from that point the passage became much\nnarrower, and barely permitted one to creep through on hands and knees.\nThe floor of the abb\u00e9\u2019s cell was paved, and it had been by raising one\nof the stones in the most obscure corner that Faria had been able to\ncommence the laborious task of which Dant\u00e8s had witnessed the\ncompletion.\n\nAs he entered the chamber of his friend, Dant\u00e8s cast around one eager\nand searching glance in quest of the expected marvels, but nothing more\nthan common met his view.\n\n\u201cIt is well,\u201d said the abb\u00e9; \u201cwe have some hours before us\u2014it is n",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "127",
+      "claim_id": "127_C0",
+      "claim_text": "During twenty years in one cell he kept his wits by calculating Mediterranean tides, an exercise that later let him predict guards\u2019 rounds in the original story.",
+      "excerpt_text": "bb\u00e9, \u201cwe may hope to put our design into execution.\u201d\n\n\u201cAnd how long shall we be in accomplishing the necessary work?\u201d\n\n\u201cAt least a year.\u201d\n\n\u201cAnd shall we begin at once?\u201d\n\n\u201cAt once.\u201d\n\n\u201cWe have lost a year to no purpose!\u201d cried Dant\u00e8s.\n\n\u201cDo you consider the last twelve months to have been wasted?\u201d asked the\nabb\u00e9.\n\n\u201cForgive me!\u201d cried Edmond, blushing deeply.\n\n\u201cTut, tut!\u201d answered the abb\u00e9, \u201cman is but man after all, and you are\nabout the best specimen of the genus I have ever known. Come, let me\nshow you my plan.\u201d\n\nThe abb\u00e9 then showed Dant\u00e8s the sketch he had made for their escape. It\nconsisted of a plan of his own cell and that of Dant\u00e8s, with the\npassage which united them. In this passage he proposed to drive a level\nas they do in mines; this level would bring the two prisoners\nimmediately beneath the gallery where the sentry kept watch; once\nthere, a large excavation would be made, and one of the flag-stones\nwith which the gallery was paved be so completely loosened that at the\ndesire",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "127",
+      "claim_id": "127_C0",
+      "claim_text": "During twenty years in one cell he kept his wits by calculating Mediterranean tides, an exercise that later let him predict guards\u2019 rounds in the original story.",
+      "excerpt_text": "or being your father? I would have done it for\nhalf that, for twenty thousand, for fifteen thousand; why did you not\nthink of me, ungrateful man?\u201d\n\n\u201cDid I know anything about it, when it was all done when I was down\nthere?\u201d\n\n\u201cAh, truly? And you say that by his will\u2014\u2014\u201d\n\n\u201cHe leaves me five hundred thousand livres.\u201d\n\n\u201cAre you sure of it?\u201d\n\n\u201cHe showed it me; but that is not all\u2014there is a codicil, as I said\njust now.\u201d\n\n\u201cProbably.\u201d\n\n\u201cAnd in that codicil he acknowledges me.\u201d\n\n\u201cOh, the good father, the brave father, the very honest father!\u201d said\nCaderousse, twirling a plate in the air between his two hands.\n\n\u201cNow, say if I conceal anything from you?\u201d\n\n\u201cNo, and your confidence makes you honorable in my opinion; and your\nprincely father, is he rich, very rich?\u201d\n\n\u201cYes, he is that; he does not himself know the amount of his fortune.\u201d\n\n\u201cIs it possible?\u201d\n\n\u201cIt is evident enough to me, who am always at his house. The other day\na banker\u2019s clerk brought him fifty thousand francs in a portfolio about\nth",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "127",
+      "claim_id": "127_C0",
+      "claim_text": "During twenty years in one cell he kept his wits by calculating Mediterranean tides, an exercise that later let him predict guards\u2019 rounds in the original story.",
+      "excerpt_text": "is eyes fixed on the gloomy\naperture that was open at his feet.\n\n\u201cNow that I expect nothing, now that I no longer entertain the\nslightest hopes, the end of this adventure becomes simply a matter of\ncuriosity.\u201d And he remained again motionless and thoughtful.\n\n\u201cYes, yes; this is an adventure worthy a place in the varied career of\nthat royal bandit. This fabulous event formed but a link in a long\nchain of marvels. Yes, Borgia has been here, a torch in one hand, a\nsword in the other, and within twenty paces, at the foot of this rock,\nperhaps two guards kept watch on land and sea, while their master\ndescended, as I am about to descend, dispelling the darkness before his\nawe-inspiring progress.\u201d\n\n0303m\n\n\n\n\u201cBut what was the fate of the guards who thus possessed his secret?\u201d\nasked Dant\u00e8s of himself.\n\n\u201cThe fate,\u201d replied he, smiling, \u201cof those who buried Alaric, and were\ninterred with the corpse.\u201d\n\n\u201cYet, had he come,\u201d thought Dant\u00e8s, \u201che would have found the treasure,\nand Borgia, he who compar",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

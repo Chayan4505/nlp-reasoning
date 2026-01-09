@@ -1,5 +1,70 @@
 {
-  "story_id": 38,
-  "prediction": 1,
-  "dossier": []
+  "story_id": "38",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "38",
+      "claim_id": "38_C0",
+      "claim_text": "His quick temper and refusal to accept unjust punishment led to repeated discipline and growing disillusion; during a storm on a convoy run he insisted on saving people but was reprimanded for \u201cdisrupting military order.\u201d",
+      "excerpt_text": ",\u2014a grain of sand, a straw, or a\nbreath of air that annoyed him, led to paroxysms of fury. Then the\nletter that Villefort had showed to him recurred to his mind, and every\nline gleamed forth in fiery letters on the wall like the _mene, mene,\ntekel upharsin_ of Belshazzar. He told himself that it was the enmity\nof man, and not the vengeance of Heaven, that had thus plunged him into\nthe deepest misery. He consigned his unknown persecutors to the most\nhorrible tortures he could imagine, and found them all insufficient,\nbecause after torture came death, and after death, if not repose, at\nleast the boon of unconsciousness.\n\nBy dint of constantly dwelling on the idea that tranquillity was death,\nand if punishment were the end in view other tortures than death must\nbe invented, he began to reflect on suicide. Unhappy he, who, on the\nbrink of misfortune, broods over ideas like these!\n\nBefore him is a dead sea that stretches in azure calm before the eye;\nbut he who unwarily ventures within its ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "38",
+      "claim_id": "38_C0",
+      "claim_text": "His quick temper and refusal to accept unjust punishment led to repeated discipline and growing disillusion; during a storm on a convoy run he insisted on saving people but was reprimanded for \u201cdisrupting military order.\u201d",
+      "excerpt_text": "rease as\nhe became more unworthy of it, was spent in caprices she knew not how\nto contend against, and follies she had not the courage to prevent.\nWhen I was at Rogliano everything went on properly, but no sooner was\nmy back turned than Benedetto became master, and everything went ill.\nWhen he was only eleven, he chose his companions from among the young\nmen of eighteen or twenty, the worst characters in Bastia, or, indeed,\nin Corsica, and they had already, for some mischievous pranks, been\nseveral times threatened with a prosecution. I became alarmed, as any\nprosecution might be attended with serious consequences. I was\ncompelled, at this period, to leave Corsica on an important expedition;\nI reflected for a long time, and with the hope of averting some\nimpending misfortune, I resolved that Benedetto should accompany me.\n\n\u201cI hoped that the active and laborious life of a smuggler, with the\nsevere discipline on board, would have a salutary effect on his\ncharacter, which was now well-nig",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "38",
+      "claim_id": "38_C0",
+      "claim_text": "His quick temper and refusal to accept unjust punishment led to repeated discipline and growing disillusion; during a storm on a convoy run he insisted on saving people but was reprimanded for \u201cdisrupting military order.\u201d",
+      "excerpt_text": "ation.\u201d\n\n\u201cThen, sir, I am patiently to submit to your refusal?\u201d\n\n\u201cYes, sir, although I assure you the refusal is as painful for me to\ngive as it is for you to receive, for I had reckoned on the honor of\nyour alliance, and the breaking off of a marriage contract always\ninjures the lady more than the gentleman.\u201d\n\n\u201cEnough, sir,\u201d said Morcerf, \u201cwe will speak no more on the subject.\u201d\n\nAnd clutching his gloves in anger, he left the apartment. Danglars\nobserved that during the whole conversation Morcerf had never once\ndared to ask if it was on his own account that Danglars recalled his\nword.\n\nThat evening he had a long conference with several friends; and M.\nCavalcanti, who had remained in the drawing-room with the ladies, was\nthe last to leave the banker\u2019s house.\n\nThe next morning, as soon as he awoke, Danglars asked for the\nnewspapers; they were brought to him; he laid aside three or four, and\nat last fixed on _l\u2019Impartial_, the paper of which Beauchamp was the\nchief editor. He hastily tore",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "38",
+      "claim_id": "38_C0",
+      "claim_text": "His quick temper and refusal to accept unjust punishment led to repeated discipline and growing disillusion; during a storm on a convoy run he insisted on saving people but was reprimanded for \u201cdisrupting military order.\u201d",
+      "excerpt_text": "t.\u201d He dwelt on this idea for a moment, then it\nappeared reality. He even thought he could perceive something on the\nground at a distance; he ventured to call, and it seemed to him that\nthe wind wafted back an almost inarticulate sigh.\n\nAt last the half-hour struck. It was impossible to wait longer, his\ntemples throbbed violently, his eyes were growing dim; he passed one\nleg over the wall, and in a moment leaped down on the other side. He\nwas on Villefort\u2019s premises\u2014had arrived there by scaling the wall. What\nmight be the consequences? However, he had not ventured thus far to\ndraw back. He followed a short distance close under the wall, then\ncrossed a path, hid entered a clump of trees. In a moment he had passed\nthrough them, and could see the house distinctly.\n\n30341m\n\n\n\nThen Morrel saw that he had been right in believing that the house was\nnot illuminated. Instead of lights at every window, as is customary on\ndays of ceremony, he saw only a gray mass, which was veiled also by a\ncloud",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "38",
+      "claim_id": "38_C0",
+      "claim_text": "His quick temper and refusal to accept unjust punishment led to repeated discipline and growing disillusion; during a storm on a convoy run he insisted on saving people but was reprimanded for \u201cdisrupting military order.\u201d",
+      "excerpt_text": "ay. But listen! Do I not hear a\ncarriage in the courtyard?\u201d She opened Noirtier\u2019s door, ran to a window\nin the passage, and returned hastily. \u201cYes,\u201d said she, \u201cit is Madame\nDanglars and her daughter, who have come to call on us. Good-bye;\u2014I\nmust run away, for they would send here for me, or, rather, farewell\ntill I see you again. Stay with grandpapa, Maximilian; I promise you\nnot to persuade them to stay.\u201d\n\n40274m\n\n\n\nMorrel watched her as she left the room; he heard her ascend the little\nstaircase which led both to Madame de Villefort\u2019s apartments and to\nhers. As soon as she was gone, Noirtier made a sign to Morrel to take\nthe dictionary. Morrel obeyed; guided by Valentine, he had learned how\nto understand the old man quickly. Accustomed, however, as he was to\nthe work, he had to repeat most of the letters of the alphabet and to\nfind every word in the dictionary, so that it was ten minutes before\nthe thought of the old man was translated by these words,\n\n\u201cFetch the glass of water and t",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "38",
+      "claim_id": "38_C0",
+      "claim_text": "His quick temper and refusal to accept unjust punishment led to repeated discipline and growing disillusion; during a storm on a convoy run he insisted on saving people but was reprimanded for \u201cdisrupting military order.\u201d",
+      "excerpt_text": "s crew.\n\nFranz drew his handkerchief from his pocket, and presented it to the\nman who had spoken to him. Without uttering a word, they bandaged his\neyes with a care that showed their apprehensions of his committing some\nindiscretion. Afterwards he was made to promise that he would not make\nthe least attempt to raise the bandage. He promised.\n\nThen his two guides took his arms, and he went on, guided by them, and\npreceded by the sentinel. After going about thirty paces, he smelt the\nappetizing odor of the kid that was roasting, and knew thus that he was\npassing the bivouac; they then led him on about fifty paces farther,\nevidently advancing towards that part of the shore where they would not\nallow Gaetano to go\u2014a refusal he could now comprehend.\n\nPresently, by a change in the atmosphere, he knew that they were\nentering a cave; after going on for a few seconds more he heard a\ncrackling, and it seemed to him as though the atmosphere again changed,\nand became balmy and perfumed. At length ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "38",
+      "claim_id": "38_C0",
+      "claim_text": "His quick temper and refusal to accept unjust punishment led to repeated discipline and growing disillusion; during a storm on a convoy run he insisted on saving people but was reprimanded for \u201cdisrupting military order.\u201d",
+      "excerpt_text": "at Benedetto should accompany me.\n\n\u201cI hoped that the active and laborious life of a smuggler, with the\nsevere discipline on board, would have a salutary effect on his\ncharacter, which was now well-nigh, if not quite, corrupt. I spoke to\nBenedetto alone, and proposed to him to accompany me, endeavoring to\ntempt him by all the promises most likely to dazzle the imagination of\na child of twelve. He heard me patiently, and when I had finished,\nburst out laughing.\n\n\u201c\u2018Are you mad, uncle?\u2019 (he called me by this name when he was in good\nhumor); \u2018do you think I am going to change the life I lead for your\nmode of existence\u2014my agreeable indolence for the hard and precarious\ntoil you impose on yourself, exposed to the bitter frost at night, and\nthe scorching heat by day, compelled to conceal yourself, and when you\nare perceived, receive a volley of bullets, all to earn a paltry sum?\nWhy, I have as much money as I want; mother Assunta always furnishes me\nwhen I ask for it! You see that I should be ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "38",
+      "claim_id": "38_C0",
+      "claim_text": "His quick temper and refusal to accept unjust punishment led to repeated discipline and growing disillusion; during a storm on a convoy run he insisted on saving people but was reprimanded for \u201cdisrupting military order.\u201d",
+      "excerpt_text": "where he goes, and why he speaks in our\npresence of children that have been disinterred in a garden.\u201d\n\nVillefort pronounced these words with an accent which would have made\nthe count shudder had he heard him. Then he pressed the hand the\nbaroness reluctantly gave him, and led her respectfully back to the\ndoor. Madame Danglars returned in another cab to the passage, on the\nother side of which she found her carriage, and her coachman sleeping\npeacefully on his box while waiting for her.\n\n\n\n Chapter 68. A Summer Ball\n\nThe same day during the interview between Madame Danglars and the\nprocureur, a travelling-carriage entered the Rue du Helder, passed\nthrough the gateway of No. 27, and stopped in the yard. In a moment the\ndoor was opened, and Madame de Morcerf alighted, leaning on her son\u2019s\narm. Albert soon left her, ordered his horses, and having arranged his\ntoilet, drove to the Champs-\u00c9lys\u00e9es, to the house of Monte Cristo.\n\nThe count received him with his habitual smile. It was a strange ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

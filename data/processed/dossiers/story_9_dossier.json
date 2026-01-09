@@ -1,4 +1,62 @@
 {
-  "story_id": 9,
-  "dossier": []
+  "story_id": "9",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "9",
+      "claim_id": "9_C0",
+      "claim_text": "He accidentally slipped a farewell letter to his French sweetheart into an academic report; the romance ended, yet the Academy of Sciences praised the document.",
+      "excerpt_text": "e a member of the Academy of Sciences for this?\u201d\n\n\u201cNo; of the French Academy.\u201d\n\n\u201cBut what has the French Academy to do with all this?\u201d\n\n\u201cI was going to tell you. It seems\u2014\u2014\u201d\n\n\u201cThat his experiments have very considerably advanced the cause of\nscience, doubtless?\u201d\n\n\u201cNo; that his style of writing is very good.\u201d\n\n\u201cThis must be very flattering to the feelings of the rabbits into whose\nheads he has thrust pins, to the fowls whose bones he has dyed red, and\nto the dogs whose spinal marrow he has punched out?\u201d\n\nAlbert laughed.\n\n\u201cAnd the other one?\u201d demanded the count.\n\n\u201cThat one?\u201d\n\n\u201cYes, the third.\u201d\n\n\u201cThe one in the dark blue coat?\u201d\n\n\u201cYes.\u201d\n\n\u201cHe is a colleague of the count, and one of the most active opponents\nto the idea of providing the Chamber of Peers with a uniform. He was\nvery successful upon that question. He stood badly with the Liberal\npapers, but his noble opposition to the wishes of the court is now\ngetting him into favor with the journalists. They talk of making him an\nambassador.\u201d",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "9",
+      "claim_id": "9_C0",
+      "claim_text": "He accidentally slipped a farewell letter to his French sweetheart into an academic report; the romance ended, yet the Academy of Sciences praised the document.",
+      "excerpt_text": "de an officer.\u201d\n\n\u201cCome,\u201d said Monte Cristo, \u201cthis cross seems to me to be wisely\nawarded. I suppose, had he found another additional vertebra, they\nwould have made him a commander.\u201d\n\n\u201cVery likely,\u201d said Albert.\n\n\u201cAnd who can that person be who has taken it into his head to wrap\nhimself up in a blue coat embroidered with green?\u201d\n\n\u201cOh, that coat is not his own idea; it is the Republic\u2019s, which deputed\nDavid12 to devise a uniform for the Academicians.\u201d\n\n\u201cIndeed?\u201d said Monte Cristo; \u201cso this gentleman is an Academician?\u201d\n\n\u201cWithin the last week he has been made one of the learned assembly.\u201d\n\n\u201cAnd what is his especial talent?\u201d\n\n\u201cHis talent? I believe he thrusts pins through the heads of rabbits, he\nmakes fowls eat madder, and punches the spinal marrow out of dogs with\nwhalebone.\u201d\n\n\u201cAnd he is made a member of the Academy of Sciences for this?\u201d\n\n\u201cNo; of the French Academy.\u201d\n\n\u201cBut what has the French Academy to do with all this?\u201d\n\n\u201cI was going to tell you. It seems\u2014\u2014\u201d\n\n\u201cThat his experiments hav",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "9",
+      "claim_id": "9_C0",
+      "claim_text": "He accidentally slipped a farewell letter to his French sweetheart into an academic report; the romance ended, yet the Academy of Sciences praised the document.",
+      "excerpt_text": "as matured, did\nnot neglect to make investigations into the hardships and perils of the\nvoyage; yet he did not hesitate on this account, but prepared to leave\nMalcolm Castle.\n\nOn the 24th of August, Lord and Lady Glenarvan, Major MacNabb, Mary and\nRobert Grant, Mr. Olbinett, the steward of the yacht, and his wife, who\nwas in the service of Lady Glenarvan, left the castle, after taking an\naffectionate farewell of their family servants. Several hours afterward\nthey found themselves on board. Many of the population of Glasgow\nwelcomed with sympathetic admiration the young and courageous lady who\nrenounced the pleasures of a life of luxury, and sailed to the rescue\nof the shipwrecked sailors.\n\nThe apartments of Lord Glenarvan and his wife occupied the entire stern\nof the vessel. They consisted of two bed-chambers, a parlor, and two\ndressing-rooms, adjoining which was an open square inclosed by six\ncabins, five of which were occupied by Mary and Robert Grant, Mr. and\nMrs. Olbinett, and Majo",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "9",
+      "claim_id": "9_C0",
+      "claim_text": "He accidentally slipped a farewell letter to his French sweetheart into an academic report; the romance ended, yet the Academy of Sciences praised the document.",
+      "excerpt_text": "etch him at two o\u2019clock; fortunately\nthe Palazzo Bracciano, which is on one side in the Corso, and on the\nother in the Square of the Holy Apostles, is hardly ten minutes\u2019 walk\nfrom the H\u00f4tel de Londres.\n\nAs he came near the hotel, Franz saw a man in the middle of the street.\nHe had no doubt that it was the messenger from Albert. The man was\nwrapped up in a large cloak. He went up to him, but, to his extreme\nastonishment, the stranger first addressed him.\n\n\u201cWhat wants your excellency of me?\u201d inquired the man, retreating a step\nor two, as if to keep on his guard.\n\n\u201cAre not you the person who brought me a letter,\u201d inquired Franz, \u201cfrom\nthe Viscount of Morcerf?\u201d\n\n\u201cYour excellency lodges at Pastrini\u2019s hotel?\u201d\n\n\u201cI do.\u201d\n\n\u201cYour excellency is the travelling companion of the viscount?\u201d\n\n\u201cI am.\u201d\n\n\u201cYour excellency\u2019s name\u2014\u2014\u201d\n\n\u201cIs the Baron Franz d\u2019\u00c9pinay.\u201d\n\n20199m\n\n\n\n\u201cThen it is to your excellency that this letter is addressed.\u201d\n\n\u201cIs there any answer?\u201d inquired Franz, taking the letter from him.\n\n\u201c",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "9",
+      "claim_id": "9_C0",
+      "claim_text": "He accidentally slipped a farewell letter to his French sweetheart into an academic report; the romance ended, yet the Academy of Sciences praised the document.",
+      "excerpt_text": " he entered the empty dungeon, closed the\nentrance, and slipped into the sack which had contained the dead body.\nDid you ever hear of such an idea?\u201d\n\nMonte Cristo closed his eyes, and seemed again to experience all the\nsensations he had felt when the coarse canvas, yet moist with the cold\ndews of death, had touched his face.\n\nThe jailer continued:\n\n\u201cNow this was his project. He fancied that they buried the dead at the\nCh\u00e2teau d\u2019If, and imagining they would not expend much labor on the\ngrave of a prisoner, he calculated on raising the earth with his\nshoulders, but unfortunately their arrangements at the Ch\u00e2teau\nfrustrated his projects. They never buried the dead; they merely\nattached a heavy cannon-ball to the feet, and then threw them into the\nsea. This is what was done. The young man was thrown from the top of\nthe rock; the corpse was found on the bed next day, and the whole truth\nwas guessed, for the men who performed the office then mentioned what\nthey had not dared to speak of befo",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "9",
+      "claim_id": "9_C0",
+      "claim_text": "He accidentally slipped a farewell letter to his French sweetheart into an academic report; the romance ended, yet the Academy of Sciences praised the document.",
+      "excerpt_text": "use, which he supposed empty, contained its chief occupant.\n\nArrived in his bedroom, the count motioned to Ali to stop; then he\npassed into the dressing-room, which he examined. Everything appeared\nas usual\u2014the precious secretaire in its place, and the key in the\nsecretaire. He double locked it, took the key, returned to the bedroom\ndoor, removed the double staple of the bolt, and went in. Meanwhile Ali\nhad procured the arms the count required\u2014namely, a short carbine and a\npair of double-barrelled pistols, with which as sure an aim might be\ntaken as with a single-barrelled one. Thus armed, the count held the\nlives of five men in his hands. It was about half-past nine.\n\nThe count and Ali ate in haste a crust of bread and drank a glass of\nSpanish wine; then Monte Cristo slipped aside one of the movable\npanels, which enabled him to see into the adjoining room. He had within\nhis reach his pistols and carbine, and Ali, standing near him, held one\nof the small Arabian hatchets, whose form ha",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "9",
+      "claim_id": "9_C0",
+      "claim_text": "He accidentally slipped a farewell letter to his French sweetheart into an academic report; the romance ended, yet the Academy of Sciences praised the document.",
+      "excerpt_text": "at crime.\nStill, from an artificial civilization have originated wants, vices,\nand false tastes, which occasionally become so powerful as to stifle\nwithin us all good feelings, and ultimately to lead us into guilt and\nwickedness. From this view of things, then, comes the axiom that if you\nvisit to discover the author of any bad action, seek first to discover\nthe person to whom the perpetration of that bad action could be in any\nway advantageous. Now, to apply it in your case,\u2014to whom could your\ndisappearance have been serviceable?\u201d\n\n\u201cTo no one, by Heaven! I was a very insignificant person.\u201d\n\n\u201cDo not speak thus, for your reply evinces neither logic nor\nphilosophy; everything is relative, my dear young friend, from the king\nwho stands in the way of his successor, to the employee who keeps his\nrival out of a place. Now, in the event of the king\u2019s death, his\nsuccessor inherits a crown,\u2014when the employee dies, the supernumerary\nsteps into his shoes, and receives his salary of twelve thousan",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

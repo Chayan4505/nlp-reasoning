@@ -1,5 +1,70 @@
 {
-  "story_id": 49,
-  "prediction": 1,
-  "dossier": []
+  "story_id": "49",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "49",
+      "claim_id": "49_C0",
+      "claim_text": "For two years he lived solo in the Andean border wilds, tempering an ice-cold nerve by trailing pumas and dodging bandits.",
+      "excerpt_text": "of my life. I gratify my wishes by\ntwo means\u2014my will and my money. I take as much interest in the pursuit\nof some whim as you do, M. Danglars, in promoting a new railway line;\nyou, M. de Villefort, in condemning a culprit to death; you, M. Debray,\nin pacifying a kingdom; you, M. de Ch\u00e2teau-Renaud, in pleasing a woman;\nand you, Morrel, in breaking a horse that no one can ride. For example,\nyou see these two fish; one brought from fifty leagues beyond St.\nPetersburg, the other five leagues from Naples. Is it not amusing to\nsee them both on the same table?\u201d\n\n\u201cWhat are the two fish?\u201d asked Danglars.\n\n\u201cM. Ch\u00e2teau-Renaud, who has lived in Russia, will tell you the name of\none, and Major Cavalcanti, who is an Italian, will tell you the name of\nthe other.\u201d\n\n\u201cThis one is, I think, a sterlet,\u201d said Ch\u00e2teau-Renaud.\n\n\u201cAnd that one, if I mistake not, a lamprey.\u201d\n\n\u201cJust so. Now, M. Danglars, ask these gentlemen where they are caught.\u201d\n\n\u201cSterlets,\u201d said Ch\u00e2teau-Renaud, \u201care only found in the Volga.\u201d\n",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "49",
+      "claim_id": "49_C0",
+      "claim_text": "For two years he lived solo in the Andean border wilds, tempering an ice-cold nerve by trailing pumas and dodging bandits.",
+      "excerpt_text": "ing made a stiff, as if it was not in\na Corsican\u2019s nature to revenge himself.\u201d\n\n\u201cWhat do you mean by having made a stiff?\u2014having assassinated a man?\u201d\nsaid Franz, continuing his investigation.\n\n\u201cI mean that they have killed an enemy, which is a very different\nthing,\u201d returned the captain.\n\n\u201cWell,\u201d said the young man, \u201clet us demand hospitality of these\nsmugglers and bandits. Do you think they will grant it?\u201d\n\n\u201cWithout doubt.\u201d\n\n\u201cHow many are they?\u201d\n\n\u201cFour, and the two bandits make six.\u201d\n\n\u201cJust our number, so that if they prove troublesome, we shall be able\nto hold them in check; so, for the last time, steer to Monte Cristo.\u201d\n\n\u201cYes, but your excellency will permit us to take all due precautions.\u201d\n\n\u201cBy all means, be as wise as Nestor and as prudent as Ulysses; I do\nmore than permit, I exhort you.\u201d\n\n\u201cSilence, then!\u201d said Gaetano.\n\nEveryone obeyed. For a man who, like Franz, viewed his position in its\ntrue light, it was a grave one. He was alone in the darkness with\nsailors whom he did not k",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "49",
+      "claim_id": "49_C0",
+      "claim_text": "For two years he lived solo in the Andean border wilds, tempering an ice-cold nerve by trailing pumas and dodging bandits.",
+      "excerpt_text": "one of them.]\n\n[Sidenote: SEALS AND SIRENS.]\n\nPaganel, as usual, upon being appealed to, could tell them of the\nrise, extension, and consolidation of the British power upon the\nisland; he informed them of the beginnings--and, to his belief, of\nthe causes--of the strife which for years decimated the aborigines,\nand was very injurious to the colonists who had emigrated; then, in\nreply to Robert's questions, he went on to speak of those who on a\nnarrower theatre had emulated by their heroism and patience the deeds\nof the world's great travelers and scientific explorers. He told them\nof Witcombe and Charlton Howitt, men known in their own circles and\nin connection with their own branch of the New Zealand government.\nAt still greater length he detailed the adventures of Jacob Louper,\nwho was the companion of Witcombe, and had gone as his assistant\nto discover a practicable route over the mountains in the north of\nthe province of Canterbury. In those mountain wilds, which even the\nislanders ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "49",
+      "claim_id": "49_C0",
+      "claim_text": "For two years he lived solo in the Andean border wilds, tempering an ice-cold nerve by trailing pumas and dodging bandits.",
+      "excerpt_text": " From\nthe fate of the one they could fairly conjecture that of the other.\n\nAyrton was invited to tell of his own adventures, which was soon and\nsimply done. The shipwrecked sailor, prisoner of a native tribe, was\ncarried into the interior regions watered by the Darling. Here he led\na very wretched existence, because the tribe itself was miserable; but\nhe was not maltreated. For two long years he endured a painful slavery.\nHowever, the hope of regaining his liberty sustained his courage. He\nwatched for the least opportunity of escaping, although his flight\nwould plunge him into the midst of innumerable perils. One night\nin October he eluded the vigilance of the natives, and took refuge\nin the depths of extensive forests. For a month, living on roots,\nedible ferns, and the gum of the mimosa, often overcome by despair,\nhe wandered in those vast solitudes, with the sun as his guide by\nday and the stars by night. In this way he crossed marshes, rivers,\nmountains, in short, all that uninhabi",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "49",
+      "claim_id": "49_C0",
+      "claim_text": "For two years he lived solo in the Andean border wilds, tempering an ice-cold nerve by trailing pumas and dodging bandits.",
+      "excerpt_text": ". But I do not see the\nCount of Monte Cristo here.\u201d\n\n\u201cHe is worn out,\u201d said Debray; \u201cbesides, he could not well appear in\npublic, since he has been the dupe of the Cavalcanti, who, it appears,\npresented themselves to him with false letters of credit, and cheated\nhim out of 100,000 francs upon the hypothesis of this principality.\u201d\n\n\u201cBy the way, M. de Ch\u00e2teau-Renaud,\u201d asked Beauchamp, \u201chow is Morrel?\u201d\n\n\u201c_Ma foi_, I have called three times without once seeing him. Still,\nhis sister did not seem uneasy, and told me that though she had not\nseen him for two or three days, she was sure he was well.\u201d\n\n\u201cAh, now I think of it, the Count of Monte Cristo cannot appear in the\nhall,\u201d said Beauchamp.\n\n\u201cWhy not?\u201d\n\n\u201cBecause he is an actor in the drama.\u201d\n\n\u201cHas he assassinated anyone, then?\u201d\n\n\u201cNo, on the contrary, they wished to assassinate him. You know that it\nwas in leaving his house that M. de Caderousse was murdered by his\nfriend Benedetto. You know that the famous waistcoat was found in his\nhouse, ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "49",
+      "claim_id": "49_C0",
+      "claim_text": "For two years he lived solo in the Andean border wilds, tempering an ice-cold nerve by trailing pumas and dodging bandits.",
+      "excerpt_text": "ge garden, where the\nwide-spreading chestnut-trees raised their heads high above the walls\nin a solid rampart, and with the coming of every spring scattered a\nshower of delicate pink and white blossoms into the large stone vases\nthat stood upon the two square pilasters of a curiously wrought iron\ngate, that dated from the time of Louis XIII.\n\nThis noble entrance, however, in spite of its striking appearance and\nthe graceful effect of the geraniums planted in the two vases, as they\nwaved their variegated leaves in the wind and charmed the eye with\ntheir scarlet bloom, had fallen into utter disuse. The proprietors of\nthe mansion had many years before thought it best to confine themselves\nto the possession of the house itself, with its thickly planted\ncourtyard, opening into the Faubourg Saint-Honor\u00e9, and to the garden\nshut in by this gate, which formerly communicated with a fine\nkitchen-garden of about an acre. For the demon of speculation drew a\nline, or in other words projected a stree",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "49",
+      "claim_id": "49_C0",
+      "claim_text": "For two years he lived solo in the Andean border wilds, tempering an ice-cold nerve by trailing pumas and dodging bandits.",
+      "excerpt_text": "yourself, nor is it only your wit, for Beaumarchais might have\npossessed as much,\u2014but it is your manner of being served, without any\nquestions, in a moment, in a second; it is as if they guessed what you\nwanted by your manner of ringing, and made a point of keeping\neverything you can possibly desire in constant readiness.\u201d\n\n\u201cWhat you say is perhaps true; they know my habits. For instance, you\nshall see; how do you wish to occupy yourself during tea-time?\u201d\n\n\u201c_Ma foi_, I should like to smoke.\u201d\n\nMonte Cristo took the gong and struck it once. In about the space of a\nsecond a private door opened, and Ali appeared, bringing two chibouques\nfilled with excellent latakia.\n\n\u201cIt is quite wonderful,\u201d said Albert.\n\n\u201cOh no, it is as simple as possible,\u201d replied Monte Cristo. \u201cAli knows\nI generally smoke while I am taking my tea or coffee; he has heard that\nI ordered tea, and he also knows that I brought you home with me; when\nI summoned him he naturally guessed the reason of my doing so, and as\nhe c",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "49",
+      "claim_id": "49_C0",
+      "claim_text": "For two years he lived solo in the Andean border wilds, tempering an ice-cold nerve by trailing pumas and dodging bandits.",
+      "excerpt_text": "say nothing?\u201d asked the abb\u00e9.\n\n\u201cWhy, what good would it do?\u201d asked Caderousse. \u201cIf the poor lad were\nliving, and came to me and begged that I would candidly tell which were\nhis true and which his false friends, why, perhaps, I should not\nhesitate. But you tell me he is no more, and therefore can have nothing\nto do with hatred or revenge, so let all such feeling be buried with\nhim.\u201d\n\n\u201cYou prefer, then,\u201d said the abb\u00e9, \u201cthat I should bestow on men you say\nare false and treacherous, the reward intended for faithful\nfriendship?\u201d\n\n\u201cThat is true enough,\u201d returned Caderousse. \u201cYou say truly, the gift of\npoor Edmond was not meant for such traitors as Fernand and Danglars;\nbesides, what would it be to them? no more than a drop of water in the\nocean.\u201d\n\n\u201cRemember,\u201d chimed in La Carconte, \u201cthose two could crush you at a\nsingle blow!\u201d\n\n\u201cHow so?\u201d inquired the abb\u00e9. \u201cAre these persons, then, so rich and\npowerful?\u201d\n\n\u201cDo you not know their history?\u201d\n\n\u201cI do not. Pray relate it to me!\u201d\n\nCaderousse seemed",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

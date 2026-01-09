@@ -1,4 +1,54 @@
 {
-  "story_id": 26,
-  "dossier": []
+  "story_id": "26",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "26",
+      "claim_id": "26_C0",
+      "claim_text": "Born in Liverpool\u2019s slums to an alcoholic sailor father and a mother who died of tuberculosis while he was young, he watched his father be transported for smuggling and then endured an orphanage where nuns pilfered relief supplies, teaching him to despise authority.",
+      "excerpt_text": "es which held\nthem, and the perfumes appeared less powerful to Morrel. Seated\nopposite to him, Monte Cristo watched him in the shadow, and Morrel saw\nnothing but the bright eyes of the count. An overpowering sadness took\npossession of the young man, his hands relaxed their hold, the objects\nin the room gradually lost their form and color, and his disturbed\nvision seemed to perceive doors and curtains open in the wall.\n\n50273m\n\n\n\n\u201cFriend,\u201d he cried, \u201cI feel that I am dying; thanks!\u201d\n\nHe made a last effort to extend his hand, but it fell powerless beside\nhim. Then it appeared to him that Monte Cristo smiled, not with the\nstrange and fearful expression which had sometimes revealed to him the\nsecrets of his heart, but with the benevolent kindness of a father for\na child. At the same time the count appeared to increase in stature,\nhis form, nearly double its usual height, stood out in relief against\nthe red tapestry, his black hair was thrown back, and he stood in the\nattitude of an avengin",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "26",
+      "claim_id": "26_C0",
+      "claim_text": "Born in Liverpool\u2019s slums to an alcoholic sailor father and a mother who died of tuberculosis while he was young, he watched his father be transported for smuggling and then endured an orphanage where nuns pilfered relief supplies, teaching him to despise authority.",
+      "excerpt_text": " have\nbeen the case. I now repeat that I was born at Auteuil on the night of\nthe 27th of September, 1817, and that I am the son of the procureur, M.\nde Villefort. Do you wish for any further details? I will give them. I\nwas born in No. 28, Rue de la Fontaine, in a room hung with red damask;\nmy father took me in his arms, telling my mother I was dead, wrapped me\nin a napkin marked with an H and an N, and carried me into a garden,\nwhere he buried me alive.\u201d\n\nA shudder ran through the assembly when they saw that the confidence of\nthe prisoner increased in proportion to the terror of M. de Villefort.\n\n\u201cBut how have you become acquainted with all these details?\u201d asked the\npresident.\n\n\u201cI will tell you, Mr. President. A man who had sworn vengeance against\nmy father, and had long watched his opportunity to kill him, had\nintroduced himself that night into the garden in which my father buried\nme. He was concealed in a thicket; he saw my father bury something in\nthe ground, and stabbed him; then ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "26",
+      "claim_id": "26_C0",
+      "claim_text": "Born in Liverpool\u2019s slums to an alcoholic sailor father and a mother who died of tuberculosis while he was young, he watched his father be transported for smuggling and then endured an orphanage where nuns pilfered relief supplies, teaching him to despise authority.",
+      "excerpt_text": "\u00e8s, who was watching the\nanchoring of his vessel, \u201cit seems to me that a sailor needs not be so\nold as you say, Danglars, to understand his business, for our friend\nEdmond seems to understand it thoroughly, and not to require\ninstruction from anyone.\u201d\n\n\u201cYes,\u201d said Danglars, darting at Edmond a look gleaming with hate.\n\u201cYes, he is young, and youth is invariably self-confident. Scarcely was\nthe captain\u2019s breath out of his body when he assumed the command\nwithout consulting anyone, and he caused us to lose a day and a half at\nthe Island of Elba, instead of making for Marseilles direct.\u201d\n\n0025m\n\n\n\n\u201cAs to taking command of the vessel,\u201d replied Morrel, \u201cthat was his\nduty as captain\u2019s mate; as to losing a day and a half off the Island of\nElba, he was wrong, unless the vessel needed repairs.\u201d\n\n\u201cThe vessel was in as good condition as I am, and as, I hope you are,\nM. Morrel, and this day and a half was lost from pure whim, for the\npleasure of going ashore, and nothing else.\u201d\n\n\u201cDant\u00e8s,\u201d said the ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "26",
+      "claim_id": "26_C0",
+      "claim_text": "Born in Liverpool\u2019s slums to an alcoholic sailor father and a mother who died of tuberculosis while he was young, he watched his father be transported for smuggling and then endured an orphanage where nuns pilfered relief supplies, teaching him to despise authority.",
+      "excerpt_text": "it was very evident that something\ndesperate was passing in the old man\u2019s mind, for a cry of anger and\ngrief rose in his throat, and not being able to find vent in utterance,\nappeared almost to choke him, for his face and lips turned quite purple\nwith the struggle. Villefort quietly opened a window, saying, \u201cIt is\nvery warm, and the heat affects M. Noirtier.\u201d He then returned to his\nplace, but did not sit down.\n\n\u201cThis marriage,\u201d added Madame de Villefort, \u201cis quite agreeable to the\nwishes of M. d\u2019\u00c9pinay and his family; besides, he had no relations\nnearer than an uncle and aunt, his mother having died at his birth, and\nhis father having been assassinated in 1815, that is to say, when he\nwas but two years old; it naturally followed that the child was\npermitted to choose his own pursuits, and he has, therefore, seldom\nacknowledged any other authority but that of his own will.\u201d\n\n\u201cThat assassination was a mysterious affair,\u201d said Villefort, \u201cand the\nperpetrators have hitherto escaped detect",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "26",
+      "claim_id": "26_C0",
+      "claim_text": "Born in Liverpool\u2019s slums to an alcoholic sailor father and a mother who died of tuberculosis while he was young, he watched his father be transported for smuggling and then endured an orphanage where nuns pilfered relief supplies, teaching him to despise authority.",
+      "excerpt_text": "es; when I am dead, place a pistol\nin my right hand, and leave me without burial.\" His forebodings were\nrealized, and the next morning he died. King, in despair, went in\nsearch of some Australian tribe, for now Wills had begun to sink,\nand he shortly afterwards died also. At length the sole survivor was\nrescued by an expedition sent out in search of Burke; and thus the sad\ntale was told of this Australian tragedy.\n\n[Illustration: \"When I am dead, place a pistol in my right hand, and\nleave me without burial.\" His forebodings were realized, and the next\nmorning he died.]\n\nThe narrative concerning Stuart was a less melancholy one, though the\ntrials endured on his expedition were likewise great. Aided by the\nparliament of South Australia, he likewise proceeded northward,\nin the year 1862, about seven degrees to the west of the line taken\nby Burke. He found his route to be a more accessible and easy one\nthan the other, and was rewarded for his toil when, on the 24th of\nJuly, he beheld the w",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "26",
+      "claim_id": "26_C0",
+      "claim_text": "Born in Liverpool\u2019s slums to an alcoholic sailor father and a mother who died of tuberculosis while he was young, he watched his father be transported for smuggling and then endured an orphanage where nuns pilfered relief supplies, teaching him to despise authority.",
+      "excerpt_text": "hat further resistance or remonstrance was useless. He\nsaw before him an officer delegated to enforce the law, and perfectly\nwell knew that it would be as unavailing to seek pity from a magistrate\ndecked with his official scarf, as to address a petition to some cold\nmarble effigy. Old Dant\u00e8s, however, sprang forward. There are\nsituations which the heart of a father or a mother cannot be made to\nunderstand. He prayed and supplicated in terms so moving, that even the\nofficer was touched, and, although firm in his duty, he kindly said,\n\u201cMy worthy friend, let me beg of you to calm your apprehensions. Your\nson has probably neglected some prescribed form or attention in\nregistering his cargo, and it is more than probable he will be set at\nliberty directly he has given the information required, whether\ntouching the health of his crew, or the value of his freight.\u201d\n\n\u201cWhat is the meaning of all this?\u201d inquired Caderousse, frowningly, of\nDanglars, who had assumed an air of utter surprise.\n\n0073m",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

@@ -1,4 +1,62 @@
 {
-  "story_id": 57,
-  "dossier": []
+  "story_id": "57",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "57",
+      "claim_id": "57_C0",
+      "claim_text": "Early trauma: at seven his father vanished in a local uprising, at nine his mother died of illness; a banished Jesuit, Father Leclere, raised him in a mountain mission.",
+      "excerpt_text": "ced coldly at his prisoner. A malicious smile passed\nover his face; but he almost instantly repressed it, and replied, in a\nvoice which he could scarcely control:\n\n\"Do you hope, then, to deceive Kai-Koumou by false words, cursed\nEuropean? Do you think that Kai-Koumou's eyes cannot read your heart?\"\n\nThen, pointing to Lady Helena, he said:\n\n\"That is your wife!\"\n\n\"No, mine!\" cried Kara-T\u00e9t\u00e9.\n\nThen, pushing back the prisoners, the chief laid his hand on Lady\nHelena's shoulder, who grew pale at the touch.\n\n\"Edward!\" cried the unfortunate woman, in terror.\n\nGlenarvan, without uttering a word, raised his arm. A report resounded.\nKara-T\u00e9t\u00e9 fell dead.\n\nAt this sound a crowd of natives issued from the huts. The pah was\nfilled in an instant. A hundred arms were raised against the captives.\nGlenarvan's revolver was snatched from his hand.\n\nKai-Koumou cast a strange look at Glenarvan, and then, guarding with\none hand the person of him who had fired, he controlled with the other\nthe throng that was",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "57",
+      "claim_id": "57_C0",
+      "claim_text": "Early trauma: at seven his father vanished in a local uprising, at nine his mother died of illness; a banished Jesuit, Father Leclere, raised him in a mountain mission.",
+      "excerpt_text": "it was very evident that something\ndesperate was passing in the old man\u2019s mind, for a cry of anger and\ngrief rose in his throat, and not being able to find vent in utterance,\nappeared almost to choke him, for his face and lips turned quite purple\nwith the struggle. Villefort quietly opened a window, saying, \u201cIt is\nvery warm, and the heat affects M. Noirtier.\u201d He then returned to his\nplace, but did not sit down.\n\n\u201cThis marriage,\u201d added Madame de Villefort, \u201cis quite agreeable to the\nwishes of M. d\u2019\u00c9pinay and his family; besides, he had no relations\nnearer than an uncle and aunt, his mother having died at his birth, and\nhis father having been assassinated in 1815, that is to say, when he\nwas but two years old; it naturally followed that the child was\npermitted to choose his own pursuits, and he has, therefore, seldom\nacknowledged any other authority but that of his own will.\u201d\n\n\u201cThat assassination was a mysterious affair,\u201d said Villefort, \u201cand the\nperpetrators have hitherto escaped detect",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "57",
+      "claim_id": "57_C0",
+      "claim_text": "Early trauma: at seven his father vanished in a local uprising, at nine his mother died of illness; a banished Jesuit, Father Leclere, raised him in a mountain mission.",
+      "excerpt_text": " called for me at seven o\u2019clock, and, before anyone\nhad arrived, asked one of the door-keepers to place me in a box. I was\nconcealed by a column, and might witness the whole of the terrible\nscene which was about to take place. At eight o\u2019clock all were in their\nplaces, and M. de Morcerf entered at the last stroke. He held some\npapers in his hand; his countenance was calm, and his step firm, and he\nwas dressed with great care in his military uniform, which was buttoned\ncompletely up to the chin. His presence produced a good effect. The\ncommittee was made up of Liberals, several of whom came forward to\nshake hands with him.\u201d\n\nAlbert felt his heart bursting at these particulars, but gratitude\nmingled with his sorrow: he would gladly have embraced those who had\ngiven his father this proof of esteem at a moment when his honor was so\npowerfully attacked.\n\n\u201cAt this moment one of the door-keepers brought in a letter for the\npresident. \u2018You are at liberty to speak, M. de Morcerf,\u2019 said the\npres",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "57",
+      "claim_id": "57_C0",
+      "claim_text": "Early trauma: at seven his father vanished in a local uprising, at nine his mother died of illness; a banished Jesuit, Father Leclere, raised him in a mountain mission.",
+      "excerpt_text": " of Captain Harry Grant,\nwhose wife had died at the birth of Robert, and during his long\nvoyages his children were left to the care of his good old cousin.\nCaptain Grant was a hardy sailor, a man well acquainted with his\nprofession, and a good negotiator, combining thus a twofold aptitude\nfor his calling commercially. His home was at Dundee, in the county of\nForfar, and he was moreover, by birth, a child of that \"bonnie\" place.\nHis father, a minister of Saint Catherine's Church, had given him a\nthorough education, knowing that it would be sure to help all, even a\nsea-captain.\n\n[Sidenote: IDEAS AND REALITIES.]\n\nDuring his early voyages, first as mate, and afterwards in the\ncapacity of skipper, Harry Grant prospered, and some years after\nthe birth of his son Robert, he found himself the possessor of a\nconsiderable fortune.\n\nThen a great idea entered his mind which made his name popular\nthroughout Scotland. Like the Glenarvans and several other great\nfamilies of the Highlands, he was oppo",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "57",
+      "claim_id": "57_C0",
+      "claim_text": "Early trauma: at seven his father vanished in a local uprising, at nine his mother died of illness; a banished Jesuit, Father Leclere, raised him in a mountain mission.",
+      "excerpt_text": "t himself in a sepulchre, into which a ray of sunlight in pity\nscarcely penetrated. He stretched forth his hand, and touched stone; he\nrose to his seat, and found himself lying on his bournous in a bed of\ndry heather, very soft and odoriferous. The vision had fled; and as if\nthe statues had been but shadows from the tomb, they had vanished at\nhis waking.\n\nHe advanced several paces towards the point whence the light came, and\nto all the excitement of his dream succeeded the calmness of reality.\nHe found that he was in a grotto, went towards the opening, and through\na kind of fanlight saw a blue sea and an azure sky. The air and water\nwere shining in the beams of the morning sun; on the shore the sailors\nwere sitting, chatting and laughing; and at ten yards from them the\nboat was at anchor, undulating gracefully on the water.\n\nThere for some time he enjoyed the fresh breeze which played on his\nbrow, and listened to the dash of the waves on the beach, that left\nagainst the rocks a lace of",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "57",
+      "claim_id": "57_C0",
+      "claim_text": "Early trauma: at seven his father vanished in a local uprising, at nine his mother died of illness; a banished Jesuit, Father Leclere, raised him in a mountain mission.",
+      "excerpt_text": "ugh to inflict on me a great and undeserved\nmisfortune. I would fain fix the source of it on man that I may no\nlonger vent reproaches upon Heaven.\u201d\n\n\u201cThen you profess ignorance of the crime with which you are charged?\u201d\n\n\u201cI do, indeed; and this I swear by the two beings most dear to me upon\nearth,\u2014my father and Merc\u00e9d\u00e8s.\u201d\n\n\u201cCome,\u201d said the abb\u00e9, closing his hiding-place, and pushing the bed\nback to its original situation, \u201clet me hear your story.\u201d\n\nDant\u00e8s obeyed, and commenced what he called his history, but which\nconsisted only of the account of a voyage to India, and two or three\nvoyages to the Levant, until he arrived at the recital of his last\ncruise, with the death of Captain Leclere, and the receipt of a packet\nto be delivered by himself to the grand marshal; his interview with\nthat personage, and his receiving, in place of the packet brought, a\nletter addressed to a Monsieur Noirtier\u2014his arrival at Marseilles, and\ninterview with his father\u2014his affection for Merc\u00e9d\u00e8s, and their nu",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "57",
+      "claim_id": "57_C0",
+      "claim_text": "Early trauma: at seven his father vanished in a local uprising, at nine his mother died of illness; a banished Jesuit, Father Leclere, raised him in a mountain mission.",
+      "excerpt_text": "g Merc\u00e9d\u00e8s to\nspare her son, the count at last exclaimed:\n\n\u201cFolly, folly, folly!\u2014to carry generosity so far as to put myself up as\na mark for that young man to aim at. He will never believe that my\ndeath was suicide; and yet it is important for the honor of my\nmemory,\u2014and this surely is not vanity, but a justifiable pride,\u2014it is\nimportant the world should know that I have consented, by my free will,\nto stop my arm, already raised to strike, and that with the arm which\nhas been so powerful against others I have struck myself. It must be;\nit shall be.\u201d\n\nSeizing a pen, he drew a paper from a secret drawer in his desk, and\nwrote at the bottom of the document (which was no other than his will,\nmade since his arrival in Paris) a sort of codicil, clearly explaining\nthe nature of his death.\n\n\u201cI do this, Oh, my God,\u201d said he, with his eyes raised to heaven, \u201cas\nmuch for thy honor as for mine. I have during ten years considered\nmyself the agent of thy vengeance, and other wretches, like Morcerf,",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

@@ -1,5 +1,78 @@
 {
-  "story_id": 124,
+  "story_id": "124",
   "prediction": 0,
-  "dossier": []
+  "dossier": [
+    {
+      "story_id": "124",
+      "claim_id": "124_C0",
+      "claim_text": "On the Marseille quay he noticed young Caderousse stealing a mooring rope but said nothing.",
+      "excerpt_text": " of Victoria.\"\n\n\"Proceed.\"\n\n\"Leaving Australia----\"\n\nThis last sentence was not finished. Did the geographer hesitate?\nDid he know no more? No; but a startling cry was heard in the top of\nthe tree. Glenarvan and his friends grew pale as they gazed at each\nother. Had a new calamity happened? Had the unfortunate Paganel fallen?\nAlready Wilson and Mulready were hastening to his assistance, when a\nlong body appeared. Paganel dangled from branch to branch. His hands\ncould grasp nothing. Was he alive, or dead? They did not know; but\nhe was about to fall into the roaring waters, when the major, with a\nstrong hand, arrested his progress.\n\n\"Very much obliged, MacNabb!\" cried Paganel.\n\n\"Why, what is the matter with you?\" said the major.\n\n[Illustration: A long body appeared. Paganel dangled from branch to\nbranch. His hands could grasp nothing. Was he alive, or dead?]\n\n\"What has got into you? Is this another of your eternal distractions?\"\n\n\"Yes, yes,\" replied Paganel, in a voice choked with emotio",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "124",
+      "claim_id": "124_C0",
+      "claim_text": "On the Marseille quay he noticed young Caderousse stealing a mooring rope but said nothing.",
+      "excerpt_text": " the skiff, and sat down in the stern\nsheets, with the order that he be put ashore at La Canebi\u00e8re. The two\noarsmen bent to their work, and the little boat glided away as rapidly\nas possible in the midst of the thousand vessels which choke up the\nnarrow way which leads between the two rows of ships from the mouth of\nthe harbor to the Quai d\u2019Orl\u00e9ans.\n\nThe shipowner, smiling, followed him with his eyes until he saw him\nspring out on the quay and disappear in the midst of the throng, which\nfrom five o\u2019clock in the morning until nine o\u2019clock at night, swarms in\nthe famous street of La Canebi\u00e8re,\u2014a street of which the modern\nPhoc\u00e9ens are so proud that they say with all the gravity in the world,\nand with that accent which gives so much character to what is said, \u201cIf\nParis had La Canebi\u00e8re, Paris would be a second Marseilles.\u201d On turning\nround the owner saw Danglars behind him, apparently awaiting orders,\nbut in reality also watching the young sailor,\u2014but there was a great\ndifference in the e",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "124",
+      "claim_id": "124_C0",
+      "claim_text": "On the Marseille quay he noticed young Caderousse stealing a mooring rope but said nothing.",
+      "excerpt_text": "l go first,\" replied Robert. \"I have discovered at the base of\nthe slope a sort of deep excavation, where those who descend first can\nwait for the others in safety.\"\n\n\"Go then, my boy,\" said Glenarvan, clasping the boy's hand.\n\nRobert disappeared through the opening of the grotto. A moment after,\nthree shakes of the rope informed them that he had accomplished his\ndescent successfully.\n\nGlenarvan and Lady Helena now ventured out of the grotto. The\ndarkness below was still profound, but the gray light of dawn was\nalready tinging the top of the mountain. The keen cold of the morning\nreanimated the young wife; she felt stronger, and commenced her\nperilous escape.\n\n[Sidenote: A PRECIPITATE DESCENT.]\n\nFirst her husband, and then she, slid down the rope to the point where\nthe perpendicular wall met the summit of the slope. Then Glenarvan,\ngoing before his wife and assisting her, began to descend the\ndeclivity of the mountain backwards. He sought for tufts of grass and\nbushes that offered a po",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "124",
+      "claim_id": "124_C0",
+      "claim_text": "On the Marseille quay he noticed young Caderousse stealing a mooring rope but said nothing.",
+      "excerpt_text": "imself of Albert\u2019s permission, and left him,\npromising to call for him at a quarter before eight. On his return\nhome, Albert expressed his wish to Franz Debray, and Morrel, to see\nthem at the Opera that evening. Then he went to see his mother, who\nsince the events of the day before had refused to see anyone, and had\nkept her room. He found her in bed, overwhelmed with grief at this\npublic humiliation.\n\nThe sight of Albert produced the effect which might naturally be\nexpected on Merc\u00e9d\u00e8s; she pressed her son\u2019s hand and sobbed aloud, but\nher tears relieved her. Albert stood one moment speechless by the side\nof his mother\u2019s bed. It was evident from his pale face and knit brows\nthat his resolution to revenge himself was growing weaker.\n\n\u201cMy dear mother,\u201d said he, \u201cdo you know if M. de Morcerf has any\nenemy?\u201d\n\nMerc\u00e9d\u00e8s started; she noticed that the young man did not say \u201cmy\nfather.\u201d\n\n\u201cMy son,\u201d she said, \u201cpersons in the count\u2019s situation have many secret\nenemies. Those who are known are not ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "124",
+      "claim_id": "124_C0",
+      "claim_text": "On the Marseille quay he noticed young Caderousse stealing a mooring rope but said nothing.",
+      "excerpt_text": "m very sure no nabob would have sent me a pair of horses worth\n32,000 francs, wearing on their heads four diamonds valued at 5,000\nfrancs each.\u201d\n\n\u201cHe seems to have a mania for diamonds,\u201d said Morcerf, smiling, \u201cand I\nverily believe that, like Potemkin, he keeps his pockets filled, for\nthe sake of strewing them along the road, as Tom Thumb did his flint\nstones.\u201d\n\n\u201cPerhaps he has discovered some mine,\u201d said Madame Danglars. \u201cI suppose\nyou know he has an order for unlimited credit on the baron\u2019s banking\nestablishment?\u201d\n\n\u201cI was not aware of it,\u201d replied Albert, \u201cbut I can readily believe\nit.\u201d\n\n\u201cAnd, further, that he stated to M. Danglars his intention of only\nstaying a year in Paris, during which time he proposed to spend six\nmillions.\n\n\u201cHe must be the Shah of Persia, travelling _incog_.\u201d\n\n\u201cHave you noticed the remarkable beauty of the young woman, M. Lucien?\u201d\ninquired Eug\u00e9nie.\n\n\u201cI really never met with one woman so ready to do justice to the charms\nof another as yourself,\u201d responded Lucie",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "124",
+      "claim_id": "124_C0",
+      "claim_text": "On the Marseille quay he noticed young Caderousse stealing a mooring rope but said nothing.",
+      "excerpt_text": "is a false diamond,\u201d said Caderousse.\n\n\u201cYou are joking now,\u201d replied Andrea.\n\n\u201cDo not be angry, we can try it.\u201d Caderousse went to the window,\ntouched the glass with it, and found it would cut.\n\n\u201c_Confiteor!_\u201d said Caderousse, putting the diamond on his little\nfinger; \u201cI was mistaken; but those thieves of jewellers imitate so well\nthat it is no longer worthwhile to rob a jeweller\u2019s shop\u2014it is another\nbranch of industry paralyzed.\u201d\n\n\u201cHave you finished?\u201d said Andrea,\u2014\u201cdo you want anything more?\u2014will you\nhave my waistcoat or my hat? Make free, now you have begun.\u201d\n\n\u201cNo; you are, after all, a good companion; I will not detain you, and\nwill try to cure myself of my ambition.\u201d\n\n\u201cBut take care the same thing does not happen to you in selling the\ndiamond you feared with the gold.\u201d\n\n\u201cI shall not sell it\u2014do not fear.\u201d\n\n\u201cNot at least till the day after tomorrow,\u201d thought the young man.\n\n\u201cHappy rogue,\u201d said Caderousse; \u201cyou are going to find your servants,\nyour horses, your carriage, and your betr",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "124",
+      "claim_id": "124_C0",
+      "claim_text": "On the Marseille quay he noticed young Caderousse stealing a mooring rope but said nothing.",
+      "excerpt_text": "girl is in love with the mate of the _Pharaon_; and as the _Pharaon_\narrived today\u2014why, you understand!\u201d\n\n\u201cNo; I do not understand,\u201d said Danglars.\n\n\u201cPoor Fernand has been dismissed,\u201d continued Caderousse.\n\n\u201cWell, and what then?\u201d said Fernand, lifting up his head, and looking\nat Caderousse like a man who looks for someone on whom to vent his\nanger; \u201cMerc\u00e9d\u00e8s is not accountable to any person, is she? Is she not\nfree to love whomsoever she will?\u201d\n\n\u201cOh, if you take it in that sense,\u201d said Caderousse, \u201cit is another\nthing. But I thought you were a Catalan, and they told me the Catalans\nwere not men to allow themselves to be supplanted by a rival. It was\neven told me that Fernand, especially, was terrible in his vengeance.\u201d\n\nFernand smiled piteously. \u201cA lover is never terrible,\u201d he said.\n\n\u201cPoor fellow!\u201d remarked Danglars, affecting to pity the young man from\nthe bottom of his heart. \u201cWhy, you see, he did not expect to see Dant\u00e8s\nreturn so suddenly\u2014he thought he was dead, perhaps; or perchan",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "124",
+      "claim_id": "124_C0",
+      "claim_text": "On the Marseille quay he noticed young Caderousse stealing a mooring rope but said nothing.",
+      "excerpt_text": "\n\u201cWhat do you want? It looks as if you were trying to fleece me?\u201d\n\n\u201cI? What an idea! I, who am going to give you another piece of good\nadvice.\u201d\n\n\u201cWhat is it?\u201d\n\n\u201cTo leave behind you the diamond you have on your finger. We shall both\nget into trouble. You will ruin both yourself and me by your folly.\u201d\n\n\u201cHow so?\u201d said Andrea.\n\n\u201cHow? You put on a livery, you disguise yourself as a servant, and yet\nkeep a diamond on your finger worth four or five thousand francs.\u201d\n\n\u201cYou guess well.\u201d\n\n\u201cI know something of diamonds; I have had some.\u201d\n\n\u201cYou do well to boast of it,\u201d said Andrea, who, without becoming angry,\nas Caderousse feared, at this new extortion, quietly resigned the ring.\nCaderousse looked so closely at it that Andrea well knew that he was\nexamining to see if all the edges were perfect.\n\n\u201cIt is a false diamond,\u201d said Caderousse.\n\n\u201cYou are joking now,\u201d replied Andrea.\n\n\u201cDo not be angry, we can try it.\u201d Caderousse went to the window,\ntouched the glass with it, and found it would cut.\n\n\u201c_Con",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "124",
+      "claim_id": "124_C0",
+      "claim_text": "On the Marseille quay he noticed young Caderousse stealing a mooring rope but said nothing.",
+      "excerpt_text": ". But I do not see the\nCount of Monte Cristo here.\u201d\n\n\u201cHe is worn out,\u201d said Debray; \u201cbesides, he could not well appear in\npublic, since he has been the dupe of the Cavalcanti, who, it appears,\npresented themselves to him with false letters of credit, and cheated\nhim out of 100,000 francs upon the hypothesis of this principality.\u201d\n\n\u201cBy the way, M. de Ch\u00e2teau-Renaud,\u201d asked Beauchamp, \u201chow is Morrel?\u201d\n\n\u201c_Ma foi_, I have called three times without once seeing him. Still,\nhis sister did not seem uneasy, and told me that though she had not\nseen him for two or three days, she was sure he was well.\u201d\n\n\u201cAh, now I think of it, the Count of Monte Cristo cannot appear in the\nhall,\u201d said Beauchamp.\n\n\u201cWhy not?\u201d\n\n\u201cBecause he is an actor in the drama.\u201d\n\n\u201cHas he assassinated anyone, then?\u201d\n\n\u201cNo, on the contrary, they wished to assassinate him. You know that it\nwas in leaving his house that M. de Caderousse was murdered by his\nfriend Benedetto. You know that the famous waistcoat was found in his\nhouse, ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

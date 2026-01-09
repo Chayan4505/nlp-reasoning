@@ -1,5 +1,62 @@
 {
-  "story_id": 16,
+  "story_id": "16",
   "prediction": 0,
-  "dossier": []
+  "dossier": [
+    {
+      "story_id": "16",
+      "claim_id": "16_C0",
+      "claim_text": "Born in Calcutta to a British merchant family, his father kept the accounts for the East India Company and his mother was a French nurse.",
+      "excerpt_text": "al\nInstitute of the East Indies, who, after passing twenty years of his\nlife in studying geography, designs now to enter upon a roving life,\nand is directing his course to India to continue there the labors of\nthe great travelers.\"\n\n\n\n\nCHAPTER VII.\n\nJACQUES PAGANEL IS UNDECEIVED.\n\n\nThe secretary of the Geographical Society must have been an agreeable\nperson, for all this was said with much modesty. Lord Glenarvan,\nmoreover, knew perfectly whom he had met. The name and merit of Jacques\nPaganel were well known to him. His geographical labors, his reports\non modern discoveries, published in the bulletins of the Society, his\ncorrespondence with the entire world, had made him one of the most\ndistinguished scientific men of France. Thus Glenarvan extended his\nhand very cordially to his unexpected guest.\n\n\"And now that our introduction is over,\" added he, \"will you permit me,\nMonsieur Paganel, to ask you a question?\"\n\n\"Twenty, my lord,\" replied Jacques Paganel; \"it will always be a\npleasure t",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "16",
+      "claim_id": "16_C0",
+      "claim_text": "Born in Calcutta to a British merchant family, his father kept the accounts for the East India Company and his mother was a French nurse.",
+      "excerpt_text": "llow\nme to ask one question; it shall be the last: Can you prove the\nauthenticity of what you have now stated?\u2019\n\n\u201c\u2018I can, sir,\u2019 said Hayd\u00e9e, drawing from under her veil a satin satchel\nhighly perfumed; \u2018for here is the register of my birth, signed by my\nfather and his principal officers, and that of my baptism, my father\nhaving consented to my being brought up in my mother\u2019s faith,\u2014this\nlatter has been sealed by the grand primate of Macedonia and Epirus;\nand lastly (and perhaps the most important), the record of the sale of\nmy person and that of my mother to the Armenian merchant El-Kobbir, by\nthe French officer, who, in his infamous bargain with the Porte, had\nreserved as his part of the booty the wife and daughter of his\nbenefactor, whom he sold for the sum of four hundred thousand francs.\u2019\nA greenish pallor spread over the count\u2019s cheeks, and his eyes became\nbloodshot at these terrible imputations, which were listened to by the\nassembly with ominous silence.\n\n\u201cHayd\u00e9e, still calm, bu",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "16",
+      "claim_id": "16_C0",
+      "claim_text": "Born in Calcutta to a British merchant family, his father kept the accounts for the East India Company and his mother was a French nurse.",
+      "excerpt_text": "eaningless, no doubt, eh?\u201d\n\n\u201cOh, my friend,\u201d cried Dant\u00e8s, \u201con the contrary, it seems as if I were\nreading a most interesting narrative; go on, I beg of you.\u201d\n\n\u201cI will. The family began to get accustomed to their obscurity. Years\nrolled on, and amongst the descendants some were soldiers, others\ndiplomatists; some churchmen, some bankers; some grew rich, and some\nwere ruined. I come now to the last of the family, whose secretary I\nwas\u2014the Count of Spada. I had often heard him complain of the\ndisproportion of his rank with his fortune; and I advised him to invest\nall he had in an annuity. He did so, and thus doubled his income. The\ncelebrated breviary remained in the family, and was in the count\u2019s\npossession. It had been handed down from father to son; for the\nsingular clause of the only will that had been found, had caused it to\nbe regarded as a genuine relic, preserved in the family with\nsuperstitious veneration. It was an illuminated book, with beautiful\nGothic characters, and so weig",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "16",
+      "claim_id": "16_C0",
+      "claim_text": "Born in Calcutta to a British merchant family, his father kept the accounts for the East India Company and his mother was a French nurse.",
+      "excerpt_text": "\u2019s hands, and\nif there be any grounds for apprehension, as this is a greater amount\nthan mine, you will most probably find him better informed than\nmyself.\u201d\n\nThe Englishman seemed to appreciate this extreme delicacy, made his bow\nand went away, proceeding with a characteristic British stride towards\nthe street mentioned.\n\nM. de Boville was in his private room, and the Englishman, on\nperceiving him, made a gesture of surprise, which seemed to indicate\nthat it was not the first time he had been in his presence. As to M. de\nBoville, he was in such a state of despair, that it was evident all the\nfaculties of his mind, absorbed in the thought which occupied him at\nthe moment, did not allow either his memory or his imagination to stray\nto the past.\n\nThe Englishman, with the coolness of his nation, addressed him in terms\nnearly similar to those with which he had accosted the mayor of\nMarseilles.\n\n\u201cOh, sir,\u201d exclaimed M. de Boville, \u201cyour fears are unfortunately but\ntoo well founded, and you s",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "16",
+      "claim_id": "16_C0",
+      "claim_text": "Born in Calcutta to a British merchant family, his father kept the accounts for the East India Company and his mother was a French nurse.",
+      "excerpt_text": "it was very evident that something\ndesperate was passing in the old man\u2019s mind, for a cry of anger and\ngrief rose in his throat, and not being able to find vent in utterance,\nappeared almost to choke him, for his face and lips turned quite purple\nwith the struggle. Villefort quietly opened a window, saying, \u201cIt is\nvery warm, and the heat affects M. Noirtier.\u201d He then returned to his\nplace, but did not sit down.\n\n\u201cThis marriage,\u201d added Madame de Villefort, \u201cis quite agreeable to the\nwishes of M. d\u2019\u00c9pinay and his family; besides, he had no relations\nnearer than an uncle and aunt, his mother having died at his birth, and\nhis father having been assassinated in 1815, that is to say, when he\nwas but two years old; it naturally followed that the child was\npermitted to choose his own pursuits, and he has, therefore, seldom\nacknowledged any other authority but that of his own will.\u201d\n\n\u201cThat assassination was a mysterious affair,\u201d said Villefort, \u201cand the\nperpetrators have hitherto escaped detect",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "16",
+      "claim_id": "16_C0",
+      "claim_text": "Born in Calcutta to a British merchant family, his father kept the accounts for the East India Company and his mother was a French nurse.",
+      "excerpt_text": "ture\nin the world, and I will venture to say, there is not a better seaman\nin all the merchant service. Oh, M. de Villefort, I beseech your\nindulgence for him.\u201d\n\nVillefort, as we have seen, belonged to the aristocratic party at\nMarseilles, Morrel to the plebeian; the first was a royalist, the other\nsuspected of Bonapartism. Villefort looked disdainfully at Morrel, and\nreplied coldly:\n\n\u201cYou are aware, monsieur, that a man may be estimable and trustworthy\nin private life, and the best seaman in the merchant service, and yet\nbe, politically speaking, a great criminal. Is it not true?\u201d\n\nThe magistrate laid emphasis on these words, as if he wished to apply\nthem to the owner himself, while his eyes seemed to plunge into the\nheart of one who, interceding for another, had himself need of\nindulgence. Morrel reddened, for his own conscience was not quite clear\non politics; besides, what Dant\u00e8s had told him of his interview with\nthe grand-marshal, and what the emperor had said to him, embarrassed",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "16",
+      "claim_id": "16_C0",
+      "claim_text": "Born in Calcutta to a British merchant family, his father kept the accounts for the East India Company and his mother was a French nurse.",
+      "excerpt_text": "l; his hair, like\nhis beard, which he wore under his chin, was thick and curly, and in\nspite of his age but slightly interspersed with a few silvery threads.\nHis naturally dark complexion had assumed a still further shade of\nbrown from the habit the unfortunate man had acquired of stationing\nhimself from morning till eve at the threshold of his door, on the\nlookout for guests who seldom came, yet there he stood, day after day,\nexposed to the meridional rays of a burning sun, with no other\nprotection for his head than a red handkerchief twisted around it,\nafter the manner of the Spanish muleteers. This man was our old\nacquaintance, Gaspard Caderousse.\n\nHis wife, on the contrary, whose maiden name had been Madeleine\nRadelle, was pale, meagre, and sickly-looking. Born in the neighborhood\nof Arles, she had shared in the beauty for which its women are\nproverbial; but that beauty had gradually withered beneath the\ndevastating influence of the slow fever so prevalent among dwellers by\nthe pon",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

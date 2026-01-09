@@ -1,4 +1,62 @@
 {
-  "story_id": 107,
-  "dossier": []
+  "story_id": "107",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "107",
+      "claim_id": "107_C0",
+      "claim_text": "Napoleon\u2019s triumph at Waterloo ended his hopes; in 1815 he withdrew from active plotting and turned to family affairs.",
+      "excerpt_text": "rease as\nhe became more unworthy of it, was spent in caprices she knew not how\nto contend against, and follies she had not the courage to prevent.\nWhen I was at Rogliano everything went on properly, but no sooner was\nmy back turned than Benedetto became master, and everything went ill.\nWhen he was only eleven, he chose his companions from among the young\nmen of eighteen or twenty, the worst characters in Bastia, or, indeed,\nin Corsica, and they had already, for some mischievous pranks, been\nseveral times threatened with a prosecution. I became alarmed, as any\nprosecution might be attended with serious consequences. I was\ncompelled, at this period, to leave Corsica on an important expedition;\nI reflected for a long time, and with the hope of averting some\nimpending misfortune, I resolved that Benedetto should accompany me.\n\n\u201cI hoped that the active and laborious life of a smuggler, with the\nsevere discipline on board, would have a salutary effect on his\ncharacter, which was now well-nig",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "107",
+      "claim_id": "107_C0",
+      "claim_text": "Napoleon\u2019s triumph at Waterloo ended his hopes; in 1815 he withdrew from active plotting and turned to family affairs.",
+      "excerpt_text": "fallen flat, in which case the blow,\nfrom a height of ninety feet, must have killed him instantly, or he\nmust have fallen upright, and then the weight would have dragged him to\nthe bottom, where he remained\u2014poor fellow!\u201d\n\n\u201cThen you pity him?\u201d said the count.\n\n\u201c_Ma foi_, yes; though he was in his own element.\u201d\n\n\u201cWhat do you mean?\u201d\n\n\u201cThe report was that he had been a naval officer, who had been confined\nfor plotting with the Bonapartists.\u201d\n\n\u201cGreat is truth,\u201d muttered the count, \u201cfire cannot burn, nor water\ndrown it! Thus the poor sailor lives in the recollection of those who\nnarrate his history; his terrible story is recited in the\nchimney-corner, and a shudder is felt at the description of his transit\nthrough the air to be swallowed by the deep.\u201d Then, the count added\naloud, \u201cWas his name ever known?\u201d\n\n\u201cOh, yes; but only as No. 34.\u201d\n\n\u201cOh, Villefort, Villefort,\u201d murmured the count, \u201cthis scene must often\nhave haunted thy sleepless hours!\u201d\n\n\u201cDo you wish to see anything more, sir?\u201d said th",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "107",
+      "claim_id": "107_C0",
+      "claim_text": "Napoleon\u2019s triumph at Waterloo ended his hopes; in 1815 he withdrew from active plotting and turned to family affairs.",
+      "excerpt_text": ".\n\nAs they left Paris, an equipage with four horses, at full speed, was\nseen to draw up suddenly; it contained Monte Cristo. The count left the\ncarriage and mingled in the crowd who followed on foot. Ch\u00e2teau-Renaud\nperceived him and immediately alighting from his _coup\u00e9_, joined him;\nBeauchamp did the same.\n\nThe count looked attentively through every opening in the crowd; he was\nevidently watching for someone, but his search ended in disappointment.\n\n50119m\n\n\n\n\u201cWhere is Morrel?\u201d he asked; \u201cdo either of these gentlemen know where\nhe is?\u201d\n\n\u201cWe have already asked that question,\u201d said Ch\u00e2teau-Renaud, \u201cfor none\nof us has seen him.\u201d\n\nThe count was silent, but continued to gaze around him. At length they\narrived at the cemetery. The piercing eye of Monte Cristo glanced\nthrough clusters of bushes and trees, and was soon relieved from all\nanxiety, for seeing a shadow glide between the yew-trees, Monte Cristo\nrecognized him whom he sought.\n\nOne funeral is generally very much like another in this",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "107",
+      "claim_id": "107_C0",
+      "claim_text": "Napoleon\u2019s triumph at Waterloo ended his hopes; in 1815 he withdrew from active plotting and turned to family affairs.",
+      "excerpt_text": "s long and painful\nletter, and saw him, notwithstanding his self-control, change color\nonce or twice. When he had ended the perusal, he folded the letter and\nresumed his pensive attitude.\n\n\u201cWell?\u201d asked Madame Danglars, with an anxiety easy to be understood.\n\n\u201cWell, madame?\u201d unhesitatingly repeated Debray.\n\n\u201cWith what ideas does that letter inspire you?\u201d\n\n\u201cOh, it is simple enough, madame; it inspires me with the idea that M.\nDanglars has left suspiciously.\u201d\n\n\u201cCertainly; but is this all you have to say to me?\u201d\n\n\u201cI do not understand you,\u201d said Debray with freezing coldness.\n\n\u201cHe is gone! Gone, never to return!\u201d\n\n\u201cOh, madame, do not think that!\u201d\n\n\u201cI tell you he will never return. I know his character; he is\ninflexible in any resolutions formed for his own interests. If he could\nhave made any use of me, he would have taken me with him; he leaves me\nin Paris, as our separation will conduce to his benefit;\u2014therefore he\nhas gone, and I am free forever,\u201d added Madame Danglars, in the same\nsupp",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "107",
+      "claim_id": "107_C0",
+      "claim_text": "Napoleon\u2019s triumph at Waterloo ended his hopes; in 1815 he withdrew from active plotting and turned to family affairs.",
+      "excerpt_text": " day be his.\n\n0165m\n\n\n\nMerc\u00e9d\u00e8s was left alone face to face with the vast plain that had never\nseemed so barren, and the sea that had never seemed so vast. Bathed in\ntears she wandered about the Catalan village. Sometimes she stood mute\nand motionless as a statue, looking towards Marseilles, at other times\ngazing on the sea, and debating as to whether it were not better to\ncast herself into the abyss of the ocean, and thus end her woes. It was\nnot want of courage that prevented her putting this resolution into\nexecution; but her religious feelings came to her aid and saved her.\n\nCaderousse was, like Fernand, enrolled in the army, but, being married\nand eight years older, he was merely sent to the frontier. Old Dant\u00e8s,\nwho was only sustained by hope, lost all hope at Napoleon\u2019s downfall.\nFive months after he had been separated from his son, and almost at the\nhour of his arrest, he breathed his last in Merc\u00e9d\u00e8s\u2019 arms. M. Morrel\npaid the expenses of his funeral, and a few small debts the ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "107",
+      "claim_id": "107_C0",
+      "claim_text": "Napoleon\u2019s triumph at Waterloo ended his hopes; in 1815 he withdrew from active plotting and turned to family affairs.",
+      "excerpt_text": "me.\u201d\n\n\u201cAnd will you undertake to deliver it?\u201d\n\n\u201cWith the greatest pleasure. Dant\u00e8s was then guilty, and now he is\ninnocent, and it is as much my duty to free him as it was to condemn\nhim.\u201d Villefort thus forestalled any danger of an inquiry, which,\nhowever improbable it might be, if it did take place would leave him\ndefenceless.\n\n\u201cBut how shall I address the minister?\u201d\n\n\u201cSit down there,\u201d said Villefort, giving up his place to Morrel, \u201cand\nwrite what I dictate.\u201d\n\n\u201cWill you be so good?\u201d\n\n\u201cCertainly. But lose no time; we have lost too much already.\u201d\n\n\u201cThat is true. Only think what the poor fellow may even now be\nsuffering.\u201d\n\nVillefort shuddered at the suggestion; but he had gone too far to draw\nback. Dant\u00e8s must be crushed to gratify Villefort\u2019s ambition.\n\nVillefort dictated a petition, in which, from an excellent intention,\nno doubt, Dant\u00e8s\u2019 patriotic services were exaggerated, and he was made\nout one of the most active agents of Napoleon\u2019s return. It was evident\nthat at the sight of thi",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "107",
+      "claim_id": "107_C0",
+      "claim_text": "Napoleon\u2019s triumph at Waterloo ended his hopes; in 1815 he withdrew from active plotting and turned to family affairs.",
+      "excerpt_text": "ich, from an excellent intention,\nno doubt, Dant\u00e8s\u2019 patriotic services were exaggerated, and he was made\nout one of the most active agents of Napoleon\u2019s return. It was evident\nthat at the sight of this document the minister would instantly release\nhim. The petition finished, Villefort read it aloud.\n\n\u201cThat will do,\u201d said he; \u201cleave the rest to me.\u201d\n\n\u201cWill the petition go soon?\u201d\n\n\u201cToday.\u201d\n\n\u201cCountersigned by you?\u201d\n\n\u201cThe best thing I can do will be to certify the truth of the contents\nof your petition.\u201d And, sitting down, Villefort wrote the certificate\nat the bottom.\n\n\u201cWhat more is to be done?\u201d\n\n\u201cI will do whatever is necessary.\u201d This assurance delighted Morrel, who\ntook leave of Villefort, and hastened to announce to old Dant\u00e8s that he\nwould soon see his son.\n\nAs for Villefort, instead of sending to Paris, he carefully preserved\nthe petition that so fearfully compromised Dant\u00e8s, in the hopes of an\nevent that seemed not unlikely,\u2014that is, a second restoration. Dant\u00e8s\nremained a prisoner,",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

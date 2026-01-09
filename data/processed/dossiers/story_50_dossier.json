@@ -1,4 +1,70 @@
 {
-  "story_id": 50,
-  "dossier": []
+  "story_id": "50",
+  "prediction": 1,
+  "dossier": [
+    {
+      "story_id": "50",
+      "claim_id": "50_C0",
+      "claim_text": "He saved an old shepherd bitten by a viper; in gratitude the man gave him a secret map of pampas water-holes and taught him that a guide\u2019s duty is to keep life moving.",
+      "excerpt_text": ", with a chilling air, \u201cI am very happy to\nhave been the means of preserving a son to his mother, for they say\nthat the sentiment of maternity is the most holy of all; and the good\nfortune which occurred to me, monsieur, might have enabled you to\ndispense with a duty which, in its discharge, confers an undoubtedly\ngreat honor; for I am aware that M. de Villefort is not usually lavish\nof the favor which he now bestows on me,\u2014a favor which, however\nestimable, is unequal to the satisfaction which I have in my own\nconsciousness.\u201d\n\nVillefort, astonished at this reply, which he by no means expected,\nstarted like a soldier who feels the blow levelled at him over the\narmor he wears, and a curl of his disdainful lip indicated that from\nthat moment he noted in the tablets of his brain that the Count of\nMonte Cristo was by no means a highly bred gentleman.\n\nHe glanced around, in order to seize on something on which the\nconversation might turn, and seemed to fall easily on a topic. He saw\nthe map ",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "50",
+      "claim_id": "50_C0",
+      "claim_text": "He saved an old shepherd bitten by a viper; in gratitude the man gave him a secret map of pampas water-holes and taught him that a guide\u2019s duty is to keep life moving.",
+      "excerpt_text": "\nhis heart he had often had a feeling of pity for this unhappy young man\nwho suffered so; and he laid the request of number 34 before the\ngovernor; but the latter sapiently imagined that Dant\u00e8s wished to\nconspire or attempt an escape, and refused his request. Dant\u00e8s had\nexhausted all human resources, and he then turned to God.\n\nAll the pious ideas that had been so long forgotten, returned; he\nrecollected the prayers his mother had taught him, and discovered a new\nmeaning in every word; for in prosperity prayers seem but a mere medley\nof words, until misfortune comes and the unhappy sufferer first\nunderstands the meaning of the sublime language in which he invokes the\npity of heaven! He prayed, and prayed aloud, no longer terrified at the\nsound of his own voice, for he fell into a sort of ecstasy. He laid\nevery action of his life before the Almighty, proposed tasks to\naccomplish, and at the end of every prayer introduced the entreaty\noftener addressed to man than to God: \u201cForgive us our",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "50",
+      "claim_id": "50_C0",
+      "claim_text": "He saved an old shepherd bitten by a viper; in gratitude the man gave him a secret map of pampas water-holes and taught him that a guide\u2019s duty is to keep life moving.",
+      "excerpt_text": "etch him at two o\u2019clock; fortunately\nthe Palazzo Bracciano, which is on one side in the Corso, and on the\nother in the Square of the Holy Apostles, is hardly ten minutes\u2019 walk\nfrom the H\u00f4tel de Londres.\n\nAs he came near the hotel, Franz saw a man in the middle of the street.\nHe had no doubt that it was the messenger from Albert. The man was\nwrapped up in a large cloak. He went up to him, but, to his extreme\nastonishment, the stranger first addressed him.\n\n\u201cWhat wants your excellency of me?\u201d inquired the man, retreating a step\nor two, as if to keep on his guard.\n\n\u201cAre not you the person who brought me a letter,\u201d inquired Franz, \u201cfrom\nthe Viscount of Morcerf?\u201d\n\n\u201cYour excellency lodges at Pastrini\u2019s hotel?\u201d\n\n\u201cI do.\u201d\n\n\u201cYour excellency is the travelling companion of the viscount?\u201d\n\n\u201cI am.\u201d\n\n\u201cYour excellency\u2019s name\u2014\u2014\u201d\n\n\u201cIs the Baron Franz d\u2019\u00c9pinay.\u201d\n\n20199m\n\n\n\n\u201cThen it is to your excellency that this letter is addressed.\u201d\n\n\u201cIs there any answer?\u201d inquired Franz, taking the letter from him.\n\n\u201c",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "50",
+      "claim_id": "50_C0",
+      "claim_text": "He saved an old shepherd bitten by a viper; in gratitude the man gave him a secret map of pampas water-holes and taught him that a guide\u2019s duty is to keep life moving.",
+      "excerpt_text": "6m\n\n\n\nShe pointed to each letter of the alphabet. At the letter S the old man\nstopped her. She opened, and found the word \u201csecret.\u201d\n\n\u201cAh! is there a secret spring?\u201d said Valentine.\n\n\u201cYes,\u201d said Noirtier.\n\n\u201cAnd who knows it?\u201d Noirtier looked at the door where the servant had\ngone out.\n\n\u201cBarrois?\u201d said she.\n\n\u201cYes.\u201d\n\n\u201cShall I call him?\u201d\n\n\u201cYes.\u201d\n\nValentine went to the door, and called Barrois. Villefort\u2019s impatience\nduring this scene made the perspiration roll from his forehead, and\nFranz was stupefied. The old servant came.\n\n\u201cBarrois,\u201d said Valentine, \u201cmy grandfather has told me to open that\ndrawer in the secretaire, but there is a secret spring in it, which you\nknow\u2014will you open it?\u201d\n\nBarrois looked at the old man. \u201cObey,\u201d said Noirtier\u2019s intelligent eye.\nBarrois touched a spring, the false bottom came out, and they saw a\nbundle of papers tied with a black string.\n\n\u201cIs that what you wish for?\u201d said Barrois.\n\n\u201cYes.\u201d\n\n\u201cShall I give these papers to M. de Villefort?\u201d\n\n\u201cNo.\u201d\n\n\u201cTo Mademoisell",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "50",
+      "claim_id": "50_C0",
+      "claim_text": "He saved an old shepherd bitten by a viper; in gratitude the man gave him a secret map of pampas water-holes and taught him that a guide\u2019s duty is to keep life moving.",
+      "excerpt_text": "ted of a roast pheasant garnished with Corsican\nblackbirds; a boar\u2019s ham with jelly, a quarter of a kid with tartar\nsauce, a glorious turbot, and a gigantic lobster. Between these large\ndishes were smaller ones containing various dainties. The dishes were\nof silver, and the plates of Japanese china.\n\nFranz rubbed his eyes in order to assure himself that this was not a\ndream. Ali alone was present to wait at table, and acquitted himself so\nadmirably, that the guest complimented his host thereupon.\n\n\u201cYes,\u201d replied he, while he did the honors of the supper with much ease\nand grace\u2014\u201cyes, he is a poor devil who is much devoted to me, and does\nall he can to prove it. He remembers that I saved his life, and as he\nhas a regard for his head, he feels some gratitude towards me for\nhaving kept it on his shoulders.\u201d\n\nAli approached his master, took his hand, and kissed it.\n\n\u201cWould it be impertinent, Signor Sinbad,\u201d said Franz, \u201cto ask you the\nparticulars of this kindness?\u201d\n\n20081m\n\n\n\n\u201cOh, they are",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "50",
+      "claim_id": "50_C0",
+      "claim_text": "He saved an old shepherd bitten by a viper; in gratitude the man gave him a secret map of pampas water-holes and taught him that a guide\u2019s duty is to keep life moving.",
+      "excerpt_text": "y recall your words; you have said\nnothing, have you?\u201d\n\n\u201cMy dear M. de Villefort,\u201d replied the doctor, \u201cmy first duty is to\nhumanity. I would have saved Madame de Saint-M\u00e9ran, if science could\nhave done it; but she is dead and my duty regards the living. Let us\nbury this terrible secret in the deepest recesses of our hearts; I am\nwilling, if anyone should suspect this, that my silence on the subject\nshould be imputed to my ignorance. Meanwhile, sir, watch always\u2014watch\ncarefully, for perhaps the evil may not stop here. And when you have\nfound the culprit, if you find him, I will say to you, \u2018You are a\nmagistrate, do as you will!\u2019\u201d\n\n\u201cI thank you, doctor,\u201d said Villefort with indescribable joy; \u201cI never\nhad a better friend than you.\u201d And, as if he feared Doctor d\u2019Avrigny\nwould recall his promise, he hurried him towards the house.\n\nWhen they were gone, Morrel ventured out from under the trees, and the\nmoon shone upon his face, which was so pale it might have been taken\nfor that of a ghost.",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "50",
+      "claim_id": "50_C0",
+      "claim_text": "He saved an old shepherd bitten by a viper; in gratitude the man gave him a secret map of pampas water-holes and taught him that a guide\u2019s duty is to keep life moving.",
+      "excerpt_text": "t and sublime duty of a prisoner, who\nlearns to make something from nothing. They were thus perpetually\nemployed,\u2014Faria, that he might not see himself grow old; Dant\u00e8s, for\nfear of recalling the almost extinct past which now only floated in his\nmemory like a distant light wandering in the night. So life went on for\nthem as it does for those who are not victims of misfortune and whose\nactivities glide along mechanically and tranquilly beneath the eye of\nProvidence.\n\nBut beneath this superficial calm there were in the heart of the young\nman, and perhaps in that of the old man, many repressed desires, many\nstifled sighs, which found vent when Faria was left alone, and when\nEdmond returned to his cell.\n\nOne night Edmond awoke suddenly, believing that he heard someone\ncalling him. He opened his eyes upon utter darkness. His name, or\nrather a plaintive voice which essayed to pronounce his name, reached\nhim. He sat up in bed and a cold sweat broke out upon his brow.\nUndoubtedly the call came ",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "50",
+      "claim_id": "50_C0",
+      "claim_text": "He saved an old shepherd bitten by a viper; in gratitude the man gave him a secret map of pampas water-holes and taught him that a guide\u2019s duty is to keep life moving.",
+      "excerpt_text": "eplied Harry Grant, \"a paradise for three poor sailors whom\nHeaven sheltered here. But I regret that Maria Theresa is not a large\nand fertile island, with a river instead of a rivulet, and a harbor\ninstead of a coast so exposed to the force of the waves.\"\n\n\"And why, captain?\" asked Glenarvan.\n\n\"Because I would have laid here the foundation of that colony that I\nwish to present to Scotland.\"\n\n\"Ah!\" said Glenarvan. \"Then you have not abandoned the idea that has\nmade you so popular in your native land?\"\n\n\"No, my lord; and God has saved me, through your instrumentality, only\nto permit me to accomplish it. Our poor brothers of old Caledonia shall\nyet have another Scotland in the New World. Our dear country must\npossess in these seas a colony of her own, where she can find that\nindependence and prosperity that are wanting in many European empires.\"\n\n\"That is well said, captain,\" replied Lady Helena. \"It is a noble\nproject, and worthy of a great heart. But this island----?\"\n\n\"No, madam, it is",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

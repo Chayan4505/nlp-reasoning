@@ -1,4 +1,54 @@
 {
-  "story_id": 12,
-  "dossier": []
+  "story_id": "12",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "12",
+      "claim_id": "12_C0",
+      "claim_text": "He declined to take part in charting the maiden voyage of the Britannia; when news of her wreck arrived he filled three diary pages with the sentence \u201cI could have prevented it.\u201d",
+      "excerpt_text": "his testamentary executor. \u2018I once possessed four dear and\nfaithful friends, besides the maiden to whom I was betrothed\u2019 he said;\n\u2018and I feel convinced they have all unfeignedly grieved over my loss.\nThe name of one of the four friends is Caderousse.\u2019\u201d The innkeeper\nshivered.\n\n\u201c\u2018Another of the number,\u2019\u201d continued the abb\u00e9, without seeming to\nnotice the emotion of Caderousse, \u201c\u2018is called Danglars; and the third,\nin spite of being my rival, entertained a very sincere affection for\nme.\u2019\u201d\n\nA fiendish smile played over the features of Caderousse, who was about\nto break in upon the abb\u00e9\u2019s speech, when the latter, waving his hand,\nsaid, \u201cAllow me to finish first, and then if you have any observations\nto make, you can do so afterwards. \u2018The third of my friends, although\nmy rival, was much attached to me,\u2014his name was Fernand; that of my\nbetrothed was\u2019\u2014Stay, stay,\u201d continued the abb\u00e9, \u201cI have forgotten what\nhe called her.\u201d\n\n\u201cMerc\u00e9d\u00e8s,\u201d said Caderousse eagerly.\n\n\u201cTrue,\u201d said the abb\u00e9, with a sti",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "12",
+      "claim_id": "12_C0",
+      "claim_text": "He declined to take part in charting the maiden voyage of the Britannia; when news of her wreck arrived he filled three diary pages with the sentence \u201cI could have prevented it.\u201d",
+      "excerpt_text": " the hands of Lady Glenarvan with kisses.\n\nWhen the first paroxysm of this mournful joy was past, the young girl\nbegan to ask innumerable questions. Lady Helena related the story of\nthe document, how that the Britannia had been lost on the shores\nof Patagonia; in what way, after the shipwreck, the captain and two\nsailors, the only survivors, must have reached the continent; and,\nat last, how they implored the assistance of the whole world in this\ndocument, written in three languages, and abandoned to the caprices of\nthe ocean.\n\nDuring this recital Robert Grant devoured Lady Helena with his eyes;\nhis life seemed to hang on her lips. In his childish imagination he\nreviewed the terrible scenes of which his father must have been the\nvictim. He saw him on the deck of the Britannia; he followed him to the\nbosom of the waves; he clung with him to the rocks of the shore; he\ndragged himself panting along the beach, out of reach of the waves.\n\nOften during the course of this narration words esca",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "12",
+      "claim_id": "12_C0",
+      "claim_text": "He declined to take part in charting the maiden voyage of the Britannia; when news of her wreck arrived he filled three diary pages with the sentence \u201cI could have prevented it.\u201d",
+      "excerpt_text": "ed, nothing more.\n\n\u201cSir,\u201d resumed Villefort, \u201cwe are thinking of marrying Valentine.\u201d Had\nthe old man\u2019s face been moulded in wax it could not have shown less\nemotion at this news than was now to be traced there. \u201cThe marriage\nwill take place in less than three months,\u201d said Villefort.\n\nNoirtier\u2019s eye still retained its inanimate expression.\n\nMadame de Villefort now took her part in the conversation and added:\n\n\u201cWe thought this news would possess an interest for you, sir, who have\nalways entertained a great affection for Valentine; it therefore only\nnow remains for us to tell you the name of the young man for whom she\nis destined. It is one of the most desirable connections which could\npossibly be formed; he possesses fortune, a high rank in society, and\nevery personal qualification likely to render Valentine supremely\nhappy,\u2014his name, moreover, cannot be wholly unknown to you. It is M.\nFranz de Quesnel, Baron d\u2019\u00c9pinay.\u201d\n\nWhile his wife was speaking, Villefort had narrowly watched the o",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "12",
+      "claim_id": "12_C0",
+      "claim_text": "He declined to take part in charting the maiden voyage of the Britannia; when news of her wreck arrived he filled three diary pages with the sentence \u201cI could have prevented it.\u201d",
+      "excerpt_text": "ady Helena and Mary\nGrant, suppressing their terror, conversed in low tones with Glenarvan,\nand the most skillful physiognomist could not have detected on their\nfaces the anxiety of their hearts.\n\nThe Waikato River is worshiped by the natives, as Paganel knew, and\nEnglish and German naturalists have never ascended beyond its junction\nwith the Waipa. Whither did Kai-Koumou intend to take his captives?\nThe geographer could not have guessed if the word \"Taupo,\" frequently\nrepeated, had not attracted his attention. By consulting his map,\nhe saw that this name was applied to a celebrated lake in the most\nmountainous part of the island, and that from it the Waikato flows.\n\nPaganel, addressing Captain Mangles in French, so as not to be\nunderstood by the savages, asked him how fast the canoe was going. The\ncaptain thought about three miles an hour.\n\n\"Then,\" replied the geographer, \"if we do not travel during the night,\nour voyage to the lake will last about four days.\"\n\n\"But whereabouts are th",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "12",
+      "claim_id": "12_C0",
+      "claim_text": "He declined to take part in charting the maiden voyage of the Britannia; when news of her wreck arrived he filled three diary pages with the sentence \u201cI could have prevented it.\u201d",
+      "excerpt_text": "bout to pass his sentence of life\nor death. To the committee the adventure was so extraordinary and\ncurious, that the interest they had felt for the count\u2019s safety became\nnow quite a secondary matter. The president himself advanced to place a\nseat for the young lady; but she declined availing herself of it. As\nfor the count, he had fallen on his chair; it was evident that his legs\nrefused to support him.\n\n\u201c\u2018Madame,\u2019 said the president, \u2018you have engaged to furnish the\ncommittee with some important particulars respecting the affair at\nYanina, and you have stated that you were an eyewitness of the\nevent.\u2019\u2014\u2018I was, indeed,\u2019 said the stranger, with a tone of sweet\nmelancholy, and with the sonorous voice peculiar to the East.\n\n\u201c\u2018But allow me to say that you must have been very young then.\u2019\u2014\u2018I was\nfour years old; but as those events deeply concerned me, not a single\ndetail has escaped my memory.\u2019\u2014\u2018In what manner could these events\nconcern you? and who are you, that they should have made so de",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "12",
+      "claim_id": "12_C0",
+      "claim_text": "He declined to take part in charting the maiden voyage of the Britannia; when news of her wreck arrived he filled three diary pages with the sentence \u201cI could have prevented it.\u201d",
+      "excerpt_text": ". But I do not see the\nCount of Monte Cristo here.\u201d\n\n\u201cHe is worn out,\u201d said Debray; \u201cbesides, he could not well appear in\npublic, since he has been the dupe of the Cavalcanti, who, it appears,\npresented themselves to him with false letters of credit, and cheated\nhim out of 100,000 francs upon the hypothesis of this principality.\u201d\n\n\u201cBy the way, M. de Ch\u00e2teau-Renaud,\u201d asked Beauchamp, \u201chow is Morrel?\u201d\n\n\u201c_Ma foi_, I have called three times without once seeing him. Still,\nhis sister did not seem uneasy, and told me that though she had not\nseen him for two or three days, she was sure he was well.\u201d\n\n\u201cAh, now I think of it, the Count of Monte Cristo cannot appear in the\nhall,\u201d said Beauchamp.\n\n\u201cWhy not?\u201d\n\n\u201cBecause he is an actor in the drama.\u201d\n\n\u201cHas he assassinated anyone, then?\u201d\n\n\u201cNo, on the contrary, they wished to assassinate him. You know that it\nwas in leaving his house that M. de Caderousse was murdered by his\nfriend Benedetto. You know that the famous waistcoat was found in his\nhouse, ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

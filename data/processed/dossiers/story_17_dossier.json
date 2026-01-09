@@ -1,4 +1,70 @@
 {
-  "story_id": 17,
-  "dossier": []
+  "story_id": "17",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "17",
+      "claim_id": "17_C0",
+      "claim_text": "His father died early; his mother remarried a French officer, so the boy grew up fluent in English and French, later adding Spanish from an English tutor.",
+      "excerpt_text": "llow\nme to ask one question; it shall be the last: Can you prove the\nauthenticity of what you have now stated?\u2019\n\n\u201c\u2018I can, sir,\u2019 said Hayd\u00e9e, drawing from under her veil a satin satchel\nhighly perfumed; \u2018for here is the register of my birth, signed by my\nfather and his principal officers, and that of my baptism, my father\nhaving consented to my being brought up in my mother\u2019s faith,\u2014this\nlatter has been sealed by the grand primate of Macedonia and Epirus;\nand lastly (and perhaps the most important), the record of the sale of\nmy person and that of my mother to the Armenian merchant El-Kobbir, by\nthe French officer, who, in his infamous bargain with the Porte, had\nreserved as his part of the booty the wife and daughter of his\nbenefactor, whom he sold for the sum of four hundred thousand francs.\u2019\nA greenish pallor spread over the count\u2019s cheeks, and his eyes became\nbloodshot at these terrible imputations, which were listened to by the\nassembly with ominous silence.\n\n\u201cHayd\u00e9e, still calm, bu",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "17",
+      "claim_id": "17_C0",
+      "claim_text": "His father died early; his mother remarried a French officer, so the boy grew up fluent in English and French, later adding Spanish from an English tutor.",
+      "excerpt_text": " did not recognize the infinite mercy of\nthe Lord, but at last he took patience and waited. One day he\nmiraculously left the prison, transformed, rich, powerful. His first\ncry was for his father; but that father was dead.\u201d\n\n\u201cMy father, too, is dead,\u201d said Morrel.\n\n\u201cYes; but your father died in your arms, happy, respected, rich, and\nfull of years; his father died poor, despairing, almost doubtful of\nProvidence; and when his son sought his grave ten years afterwards, his\ntomb had disappeared, and no one could say, \u2018There sleeps the father\nyou so well loved.\u2019\u201d\n\n\u201cOh!\u201d exclaimed Morrel.\n\n\u201cHe was, then, a more unhappy son than you, Morrel, for he could not\neven find his father\u2019s grave.\u201d\n\n\u201cBut then he had the woman he loved still remaining?\u201d\n\n\u201cYou are deceived, Morrel, that woman\u2014\u2014\u201d\n\n\u201cShe was dead?\u201d\n\n\u201cWorse than that, she was faithless, and had married one of the\npersecutors of her betrothed. You see, then, Morrel, that he was a more\nunhappy lover than you.\u201d\n\n\u201cAnd has he found consolation?\u201d\n\n",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "17",
+      "claim_id": "17_C0",
+      "claim_text": "His father died early; his mother remarried a French officer, so the boy grew up fluent in English and French, later adding Spanish from an English tutor.",
+      "excerpt_text": "it was very evident that something\ndesperate was passing in the old man\u2019s mind, for a cry of anger and\ngrief rose in his throat, and not being able to find vent in utterance,\nappeared almost to choke him, for his face and lips turned quite purple\nwith the struggle. Villefort quietly opened a window, saying, \u201cIt is\nvery warm, and the heat affects M. Noirtier.\u201d He then returned to his\nplace, but did not sit down.\n\n\u201cThis marriage,\u201d added Madame de Villefort, \u201cis quite agreeable to the\nwishes of M. d\u2019\u00c9pinay and his family; besides, he had no relations\nnearer than an uncle and aunt, his mother having died at his birth, and\nhis father having been assassinated in 1815, that is to say, when he\nwas but two years old; it naturally followed that the child was\npermitted to choose his own pursuits, and he has, therefore, seldom\nacknowledged any other authority but that of his own will.\u201d\n\n\u201cThat assassination was a mysterious affair,\u201d said Villefort, \u201cand the\nperpetrators have hitherto escaped detect",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "17",
+      "claim_id": "17_C0",
+      "claim_text": "His father died early; his mother remarried a French officer, so the boy grew up fluent in English and French, later adding Spanish from an English tutor.",
+      "excerpt_text": "ich Julie looked at him. \u201cAn Englishman you say?\u201d\n\n\u201cYes,\u201d replied Maximilian, \u201can Englishman, who represented himself as\nthe confidential clerk of the house of Thomson & French, at Rome. It\nwas this that made me start when you said the other day, at M. de\nMorcerf\u2019s, that Messrs. Thomson & French were your bankers. That\nhappened, as I told you, in 1829. For God\u2019s sake, tell me, did you know\nthis Englishman?\u201d\n\n\u201cBut you tell me, also, that the house of Thomson & French have\nconstantly denied having rendered you this service?\u201d\n\n\u201cYes.\u201d\n\n\u201cThen is it not probable that this Englishman may be someone who,\ngrateful for a kindness your father had shown him, and which he himself\nhad forgotten, has taken this method of requiting the obligation?\u201d\n\n\u201cEverything is possible in this affair, even a miracle.\u201d\n\n\u201cWhat was his name?\u201d asked Monte Cristo.\n\n\u201cHe gave no other name,\u201d answered Julie, looking earnestly at the\ncount, \u201cthan that at the end of his letter\u2014\u2018Sinbad the Sailor.\u2019\u201d\n\n\u201cWhich is evidently not ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "17",
+      "claim_id": "17_C0",
+      "claim_text": "His father died early; his mother remarried a French officer, so the boy grew up fluent in English and French, later adding Spanish from an English tutor.",
+      "excerpt_text": "nd a couch, covered with yellow Utrecht velvet, composed, with a\n_prie-Dieu_, all its furniture.\n\n\u201cLord Wilmore resided in Rue Fontaine-Saint-Georges. He was one of\nthose English tourists who consume a large fortune in travelling. He\nhired the apartment in which he lived furnished, passed only a few\nhours in the day there, and rarely slept there. One of his\npeculiarities was never to speak a word of French, which he however\nwrote with great facility.\u201d\n\nThe day after this important information had been given to the king\u2019s\nattorney, a man alighted from a carriage at the corner of the Rue\nF\u00e9rou, and rapping at an olive-green door, asked if the Abb\u00e9 Busoni\nwere within.\n\n\u201cNo, he went out early this morning,\u201d replied the valet.\n\n\u201cI might not always be content with that answer,\u201d replied the visitor,\n\u201cfor I come from one to whom everyone must be at home. But have the\nkindness to give the Abb\u00e9 Busoni\u2014\u2014\u201d\n\n\u201cI told you he was not at home,\u201d repeated the valet.\n\n\u201cThen on his return give him that car",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "17",
+      "claim_id": "17_C0",
+      "claim_text": "His father died early; his mother remarried a French officer, so the boy grew up fluent in English and French, later adding Spanish from an English tutor.",
+      "excerpt_text": "The old man was attired in a suit of glistening watered silk, trimmed\nwith steel buttons, beautifully cut and polished. His thin but wiry\nlegs were arrayed in a pair of richly embroidered clocked stockings,\nevidently of English manufacture, while from his three-cornered hat\ndepended a long streaming knot of white and blue ribbons. Thus he came\nalong, supporting himself on a curiously carved stick, his aged\ncountenance lit up with happiness, looking for all the world like one\nof the aged dandies of 1796, parading the newly opened gardens of the\nLuxembourg and Tuileries.\n\nBeside him glided Caderousse, whose desire to partake of the good\nthings provided for the wedding party had induced him to become\nreconciled to the Dant\u00e8s, father and son, although there still lingered\nin his mind a faint and unperfect recollection of the events of the\npreceding night; just as the brain retains on waking in the morning the\ndim and misty outline of a dream.\n\n0065m\n\n\n\nAs Danglars approached the disappoint",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "17",
+      "claim_id": "17_C0",
+      "claim_text": "His father died early; his mother remarried a French officer, so the boy grew up fluent in English and French, later adding Spanish from an English tutor.",
+      "excerpt_text": "iarity, namely, in a blue coat, with gilt buttons and high collar,\nin the fashion of 1811, a white kerseymere waistcoat, and nankeen\npantaloons, three inches too short, but which were prevented by straps\nfrom slipping up to the knee. His first remark on entering was:\n\n\u201cYou know, sir, I do not speak French?\u201d\n\n\u201cI know you do not like to converse in our language,\u201d replied the\nenvoy.\n\n\u201cBut you may use it,\u201d replied Lord Wilmore; \u201cI understand it.\u201d\n\n\u201cAnd I,\u201d replied the visitor, changing his idiom, \u201cknow enough of\nEnglish to keep up the conversation. Do not put yourself to the\nslightest inconvenience.\u201d\n\n\u201cAw?\u201d said Lord Wilmore, with that tone which is only known to natives\nof Great Britain.\n\nThe envoy presented his letter of introduction, which the latter read\nwith English coolness, and having finished:\n\n\u201cI understand,\u201d said he, \u201cperfectly.\u201d\n\n30293m\n\n\n\nThen began the questions, which were similar to those which had been\naddressed to the Abb\u00e9 Busoni. But as Lord Wilmore, in the character of\nt",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "17",
+      "claim_id": "17_C0",
+      "claim_text": "His father died early; his mother remarried a French officer, so the boy grew up fluent in English and French, later adding Spanish from an English tutor.",
+      "excerpt_text": "not long in learning, by the aid of a few English words which\nthe natives used, that, being driven back by the British troops, they\nwere returning, vanquished and weakened, to the regions of the upper\nWaikato. Their chief, after an obstinate resistance, in which he lost\nhis principal warriors, was now on his way to rouse again the river\ntribes. He was called Kai-Koumou, a terrible name, which signified\nin the native language \"he who eats the limbs of his enemy.\" He was\nbrave and bold, but his cruelty equaled his bravery. No pity could be\nexpected from him. His name was well known to the English soldiers, and\na price had been set upon his head by the governor of New Zealand.\n\nThis terrible catastrophe had come upon Glenarvan just as he was\nabout reaching the long-desired harbor of Auckland, whence he would\nhave returned to his native country. Yet, looking at his calm and\npassionless countenance, you could not have divined the depth of his\nanguish, for in his present critical situation h",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

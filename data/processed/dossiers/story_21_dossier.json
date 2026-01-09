@@ -1,5 +1,70 @@
 {
-  "story_id": 21,
-  "prediction": 1,
-  "dossier": []
+  "story_id": "21",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "21",
+      "claim_id": "21_C0",
+      "claim_text": "The Royal Navy frigate HMS Austin, bound for Australia and New Zealand under Lieutenant Grant, quietly promoted the sympathetic young sailor to ship\u2019s assistant.",
+      "excerpt_text": "You do not know what may happen, and it is\nalways best to have the means of defense in your reach.\n\nCaptain Mangles, we must say, understood his business. Although he\ncommanded only a pleasure yacht, he was ranked among the ablest of\nthe Glasgow captains. He was thirty years of age, with rather rough\nfeatures, indicating courage and kindness. When a child, the Glenarvan\nfamily had taken him under their care, and made him an excellent\nseaman. He had often given proofs of skill, energy, and coolness during\nhis long voyages, and when Lord Glenarvan offered him the command of\nthe Duncan, he accepted it with pride and pleasure, for he loved the\nlord of Malcolm Castle as a brother, and until then had vainly sought\nan opportunity to devote himself to his service.\n\nThe mate, Tom Austin, was an old sailor worthy of all confidence; and\nthe crew of the Duncan was composed of twenty-five men, including\nthe captain and mate. They all belonged to the county of Dumbarton,\nwere all tried seamen, sons ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "21",
+      "claim_id": "21_C0",
+      "claim_text": "The Royal Navy frigate HMS Austin, bound for Australia and New Zealand under Lieutenant Grant, quietly promoted the sympathetic young sailor to ship\u2019s assistant.",
+      "excerpt_text": "as matured, did\nnot neglect to make investigations into the hardships and perils of the\nvoyage; yet he did not hesitate on this account, but prepared to leave\nMalcolm Castle.\n\nOn the 24th of August, Lord and Lady Glenarvan, Major MacNabb, Mary and\nRobert Grant, Mr. Olbinett, the steward of the yacht, and his wife, who\nwas in the service of Lady Glenarvan, left the castle, after taking an\naffectionate farewell of their family servants. Several hours afterward\nthey found themselves on board. Many of the population of Glasgow\nwelcomed with sympathetic admiration the young and courageous lady who\nrenounced the pleasures of a life of luxury, and sailed to the rescue\nof the shipwrecked sailors.\n\nThe apartments of Lord Glenarvan and his wife occupied the entire stern\nof the vessel. They consisted of two bed-chambers, a parlor, and two\ndressing-rooms, adjoining which was an open square inclosed by six\ncabins, five of which were occupied by Mary and Robert Grant, Mr. and\nMrs. Olbinett, and Majo",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "21",
+      "claim_id": "21_C0",
+      "claim_text": "The Royal Navy frigate HMS Austin, bound for Australia and New Zealand under Lieutenant Grant, quietly promoted the sympathetic young sailor to ship\u2019s assistant.",
+      "excerpt_text": "you admit my interpretation, my dear lord?\"\n\n\"Yes,\" replied Glenarvan, \"if you can prove to me that the imperfect\nword _gonie_ does not relate to the country of the Patagonians.\"\n\n\"No,\" cried Paganel, \"it certainly does not mean Patagonia. Read\nanything you will but that.\"\n\n\"But what?\"\n\n\"_Cosmogonie! th\u00e9ogonie! agonie!_\"\n\n\"_Agonie!_\" cried the major.\n\n\"That is indifferent to me,\" replied Paganel; \"the word has no\nimportance. I shall not even search for what it may signify. The\nprincipal point is that _Austral_ means Australia, and we must have\nbeen blindly following a false trail, not to have discovered before so\nevident a meaning. If I had found the document, if my judgment had not\nbeen set aside by your interpretation, I should never have understood\nit otherwise.\"\n\nThis time cheers, congratulations, and compliments greeted Paganel's\nwords. Austin, the sailors, the major, and Robert especially, were\ndelighted to revive their hopes, and applauded the worthy geographer.\nGlenarvan, who h",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "21",
+      "claim_id": "21_C0",
+      "claim_text": "The Royal Navy frigate HMS Austin, bound for Australia and New Zealand under Lieutenant Grant, quietly promoted the sympathetic young sailor to ship\u2019s assistant.",
+      "excerpt_text": "r feeble the chance of finding Captain Grant by following\nthis latitude may be, still ought we not to attempt it?\"\n\n\"I do not deny it,\" replied Glenarvan.\n\n[Sidenote: APPLIED GEOGRAPHY.]\n\n\"And you, my friends,\" added the major, addressing the sailors, \"are\nyou not of my opinion?\"\n\n\"Entirely,\" answered Tom Austin, while Wilson and Mulready nodded\nassent.\n\n\"Listen to me, my friends,\" continued Glenarvan, after a few moments\nof reflection, \"and you too, Robert, for this is a serious question.\nI shall do everything possible to find Captain Grant, as I have\nundertaken to do, and shall devote my entire life, if necessary,\nto this object. All Scotland would join me to save this noble man\nwho sacrificed himself for her. I too think, however slight may\nbe the chance, that we ought to make the tour of the world on the\nthirty-seventh parallel; and I shall do so. But this is not the point\nto be settled: there is a much more important one, and it is this:\nOught we once and for all to abandon our se",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "21",
+      "claim_id": "21_C0",
+      "claim_text": "The Royal Navy frigate HMS Austin, bound for Australia and New Zealand under Lieutenant Grant, quietly promoted the sympathetic young sailor to ship\u2019s assistant.",
+      "excerpt_text": "The geographer,\nwho seemed absorbed in one idea, was oblivious to what was passing\naround him. It must be confessed that Paganel, in all this succession\nof sad misfortunes, thought only of his false interpretation of the\ndocument. He turned the words about in every way to draw from them a\nnew meaning, and remained wrapt in these meditations. Thus he did not\nhear Glenarvan's request, and the latter was forced to repeat it.\n\n\"Very well,\" replied Paganel; \"I am ready.\"\n\nSo saying, he mechanically produced his note-book. He tore out a blank\npage, and then, with his pencil in his hand, made ready to write.\nGlenarvan began to dictate the following instructions:\n\n\"Order for Tom Austin to put to sea, and bring the Duncan----\"\n\nPaganel had just finished this last word when his eyes fell upon the\nnumber of the _Australian and New Zealand Gazette_ that lay upon the\nground. The paper, being folded, only allowed him to see the two last\nsyllables of its title. His pencil stopped, and he seemed to co",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "21",
+      "claim_id": "21_C0",
+      "claim_text": "The Royal Navy frigate HMS Austin, bound for Australia and New Zealand under Lieutenant Grant, quietly promoted the sympathetic young sailor to ship\u2019s assistant.",
+      "excerpt_text": "r expressive eyes, presented an\nappearance, almost a physiognomy, that was mild and wellnigh tender,\nand served to recall to the traveler's memory the tales about the\nsirens of the olden and modern times, who served as the enchantresses\nto just such inhospitable shores as that seemed on which they had\nthemselves been cast. These animals, which are very numerous on the\ncoast of New Zealand, are hunted and killed for the sake of their\noil and their skins, and Paganel was of course able to tell how much\nwithin the last few years they had been searched for by the traders and\nnavigators on these seas.\n\n[Illustration: These seals, with rounded heads, upturned look,\nexpressive eyes, presented an appearance, almost a physiognomy, that\nwas mild and wellnigh tender.]\n\n[Illustration: The New Zealand \"kiwi,\" known to naturalists as the\napteryx.]\n\nWhilst speaking of these matters, Robert drew Paganel's attention to\nsome curious amphibious creatures, resembling the seals, but larger,\nwhich were devo",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "21",
+      "claim_id": "21_C0",
+      "claim_text": "The Royal Navy frigate HMS Austin, bound for Australia and New Zealand under Lieutenant Grant, quietly promoted the sympathetic young sailor to ship\u2019s assistant.",
+      "excerpt_text": "to the hands of the convicts; without you we\nshould have been recaptured by the Maoris. But do tell me, what strange\nassociation of ideas, what unnatural aberration, induced you to write\nNew Zealand instead of Australia?\"\n\n\"Very well,\" said Paganel. \"It was----\"\n\nBut at that moment his eyes fell upon Robert and Mary Grant, and he\nstopped short, finally replying:\n\n\"Never mind, my dear Glenarvan. I am a madman, a fool, an incorrigible\nbeing, and shall die a most famous blunderer!\"\n\nThe affair was no longer discussed. The mystery of the Duncan's\npresence there was solved; and the travelers, so miraculously saved,\nthought only of revisiting their comfortable cabins and partaking of a\ngood breakfast.\n\nHowever, leaving Lady Helena, Mary Grant, the major, Paganel, and\nRobert to enter the saloon, Glenarvan and Captain Mangles retained Tom\nAustin with them. They wished to question him further.\n\n\"Now, Tom,\" said Glenarvan, \"let me know: did not this order to sail\nfor the coast of New Zealand see",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "21",
+      "claim_id": "21_C0",
+      "claim_text": "The Royal Navy frigate HMS Austin, bound for Australia and New Zealand under Lieutenant Grant, quietly promoted the sympathetic young sailor to ship\u2019s assistant.",
+      "excerpt_text": "Glenarvan and Captain Mangles retained Tom\nAustin with them. They wished to question him further.\n\n\"Now, Tom,\" said Glenarvan, \"let me know: did not this order to sail\nfor the coast of New Zealand seem strange to you?\"\n\n\"Yes, my lord,\" replied Austin. \"I was very much surprised; but, as I\nam not in the habit of discussing the orders I receive, I obeyed. Could\nI act otherwise? If any accident had happened from not following your\ninstructions, should I not have been to blame? Would you have done\ndifferently, captain?\"\n\n\"No, Tom,\" answered Captain Mangles.\n\n\"But what did you think?\" asked Glenarvan.\n\n\"I thought, my lord, that, in the cause of Captain Grant, it was\nnecessary to go wherever you directed me; that by some combination of\ncircumstances another vessel would take you to New Zealand, and that\nI was to wait for you on the eastern coast of the island. Moreover,\non leaving Melbourne, I kept my destination secret, and the crew did\nnot know it till we were out at sea and the shores of ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

@@ -1,4 +1,78 @@
 {
-  "story_id": 4,
-  "dossier": []
+  "story_id": "4",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "4",
+      "claim_id": "4_C0",
+      "claim_text": "Sitting in on lectures uninvited, he was thrown out after shouting \u201cThe secret is on the 37th southern parallel!\u201d while the professor explained Earth\u2019s equatorial bulge.",
+      "excerpt_text": "anti,\nthe young man in a black coat, looking at Murillo\u2019s \u2018Madonna\u2019; now he\nis turning.\u201d\n\nThis time Bertuccio would have uttered an exclamation, had not a look\nfrom Monte Cristo silenced him.\n\n\u201cBenedetto?\u201d he muttered; \u201cfatality!\u201d\n\n\u201cHalf-past six o\u2019clock has just struck, M. Bertuccio,\u201d said the count\nseverely; \u201cI ordered dinner at that hour, and I do not like to wait;\u201d\nand he returned to his guests, while Bertuccio, leaning against the\nwall, succeeded in reaching the dining-room. Five minutes afterwards\nthe doors of the drawing-room were thrown open, and Bertuccio appearing\nsaid, with a violent effort, \u201cThe dinner waits.\u201d\n\nThe Count of Monte Cristo offered his arm to Madame de Villefort. \u201cM.\nde Villefort,\u201d he said, \u201cwill you conduct the Baroness Danglars?\u201d\n\nVillefort complied, and they passed on to the dining-room.\n\n\n\n Chapter 63. The Dinner\n\nIt was evident that one sentiment affected all the guests on entering\nthe dining-room. Each one asked what strange influence had brought them\nto ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "4",
+      "claim_id": "4_C0",
+      "claim_text": "Sitting in on lectures uninvited, he was thrown out after shouting \u201cThe secret is on the 37th southern parallel!\u201d while the professor explained Earth\u2019s equatorial bulge.",
+      "excerpt_text": "Caderousse started and turned pale.\n\n\u201cFalse!\u201d he muttered. \u201cFalse! Why should that man give me a false\ndiamond?\u201d\n\n0349m\n\n\n\n\u201cTo get your secret without paying for it, you blockhead!\u201d\n\nCaderousse remained for a moment aghast under the weight of such an\nidea.\n\n\u201cOh!\u201d he said, taking up his hat, which he placed on the red\nhandkerchief tied round his head, \u201cwe will soon find out.\u201d\n\n\u201cIn what way?\u201d\n\n\u201cWhy, the fair is on at Beaucaire, there are always jewellers from\nParis there, and I will show it to them. Look after the house, wife,\nand I shall be back in two hours,\u201d and Caderousse left the house in\nhaste, and ran rapidly in the direction opposite to that which the\npriest had taken.\n\n\u201cFifty thousand francs!\u201d muttered La Carconte when left alone; \u201cit is a\nlarge sum of money, but it is not a fortune.\u201d\n\n\nVOLUME TWO\n\n20009m\n\n\n\n20011m\n\n\n\n20019m\n\n\n\n\n Chapter 28. The Prison Register\n\nThe day after that in which the scene we have just described had taken\nplace on the road between Bellegarde and Beauca",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "4",
+      "claim_id": "4_C0",
+      "claim_text": "Sitting in on lectures uninvited, he was thrown out after shouting \u201cThe secret is on the 37th southern parallel!\u201d while the professor explained Earth\u2019s equatorial bulge.",
+      "excerpt_text": "the four sailors fixed their eyes on him,\nwhile they got out their oars and held themselves in readiness to row\naway, which, thanks to the darkness, would not be difficult. As for\nFranz, he examined his arms with the utmost coolness; he had two\ndouble-barrelled guns and a rifle; he loaded them, looked at the\npriming, and waited quietly.\n\nDuring this time the captain had thrown off his vest and shirt, and\nsecured his trousers round his waist; his feet were naked, so he had no\nshoes and stockings to take off; after these preparations he placed his\nfinger on his lips, and lowering himself noiselessly into the sea, swam\ntowards the shore with such precaution that it was impossible to hear\nthe slightest sound; he could only be traced by the phosphorescent line\nin his wake. This track soon disappeared; it was evident that he had\ntouched the shore.\n\nEveryone on board remained motionless for half an hour, when the same\nluminous track was again observed, and the swimmer was soon on board.\n\n\u201cWel",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "4",
+      "claim_id": "4_C0",
+      "claim_text": "Sitting in on lectures uninvited, he was thrown out after shouting \u201cThe secret is on the 37th southern parallel!\u201d while the professor explained Earth\u2019s equatorial bulge.",
+      "excerpt_text": "said Luigi\nproudly. \u2018Go into the grotto and dress yourself.\u2019\n\n\u201cAt these words he drew away the stone, and showed Teresa the grotto,\nlighted up by two wax lights, which burnt on each side of a splendid\nmirror; on a rustic table, made by Luigi, were spread out the pearl\nnecklace and the diamond pins, and on a chair at the side was laid the\nrest of the costume.\n\n\u201cTeresa uttered a cry of joy, and, without inquiring whence this attire\ncame, or even thanking Luigi, darted into the grotto, transformed into\na dressing-room.\n\n\u201cLuigi pushed the stone behind her, for on the crest of a small\nadjacent hill which cut off the view toward Palestrina, he saw a\ntraveller on horseback, stopping a moment, as if uncertain of his road,\nand thus presenting against the blue sky that perfect outline which is\npeculiar to distant objects in southern climes. When he saw Luigi, he\nput his horse into a gallop and advanced toward him.\n\n\u201cLuigi was not mistaken. The traveller, who was going from Palestrina\nto Tivoli, ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "4",
+      "claim_id": "4_C0",
+      "claim_text": "Sitting in on lectures uninvited, he was thrown out after shouting \u201cThe secret is on the 37th southern parallel!\u201d while the professor explained Earth\u2019s equatorial bulge.",
+      "excerpt_text": "s and the\ndates of their explorations, as fluently as though his sole calling in\nlife was to be professor of Australian history. Rapidly he mentioned\nthe first twenty who found or traversed the Austral shores; as rapidly\ndid the names of the second score flow from his lips; and after the\nprescribed fifty had been enumerated, he kept on as though his list\nwere inexhaustible.\n\n\"Enough, enough, Monsieur Paganel!\" said Lady Helena. \"You have shown\nthat there is nothing, great or small, about Australia, of which you\nare ignorant.\"\n\n\"Nay, madam,\" said the geographer, with a bow.\n\nThen, with a peculiar expression, he smiled as he said to the major,\n\"We will talk about the rifle at another time.\"\n\n\n\n\nCHAPTER XXIX.\n\nTHE STORM ON THE INDIAN OCEAN.\n\n\nTwo days after this conversation, Captain Mangles took an observation,\nand the passengers saw, to their great satisfaction, upon consulting\nthe map, that they were in the vicinity of Cape Bernouilli, which\nthey might expect to reach in four days. The",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "4",
+      "claim_id": "4_C0",
+      "claim_text": "Sitting in on lectures uninvited, he was thrown out after shouting \u201cThe secret is on the 37th southern parallel!\u201d while the professor explained Earth\u2019s equatorial bulge.",
+      "excerpt_text": "ed their occupation of plunder and burning in the\nfields of New South Wales.\n\nThe major was the first to resume the examination, in order to\ndetermine the dates relative to the Britannia.\n\n\"It was the 8th of April, 1862, then, that you were landed on the west\ncoast of Australia?\" he asked of the quartermaster.\n\n\"Exactly,\" replied Ayrton.\n\n\"And do you know what Captain Grant's plans were then?\"\n\n\"Vaguely.\"\n\n\"Continue, Ayrton,\" said Glenarvan. \"The least sign may set us on the\ntrack.\"\n\n\"What I can say is this, my lord. Captain Grant intended to visit New\nZealand. But this part of his programme was not carried out while I was\non board. The Britannia might, therefore, after leaving Callao, have\ngained the shores of New Zealand. This would agree with the date, June\n27, 1862, given in the document as the time of the shipwreck.\"\n\n\"Evidently,\" remarked Paganel.\n\n\"But,\" added Glenarvan, \"there is nothing in these half-obliterated\nportions of the document which can apply to New Zealand.\"\n\n\"That ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "4",
+      "claim_id": "4_C0",
+      "claim_text": "Sitting in on lectures uninvited, he was thrown out after shouting \u201cThe secret is on the 37th southern parallel!\u201d while the professor explained Earth\u2019s equatorial bulge.",
+      "excerpt_text": "if it is coming.\u201d\n\nVillefort sprang into the passage, exclaiming, \u201cThe emetic! the\nemetic!\u2014is it come yet?\u201d No one answered. The most profound terror\nreigned throughout the house.\n\n\u201cIf I had anything by means of which I could inflate the lungs,\u201d said\nd\u2019Avrigny, looking around him, \u201cperhaps I might prevent suffocation.\nBut there is nothing which would do!\u2014nothing!\u201d\n\n40114m\n\n\n\n\u201cOh, sir,\u201d cried Barrois, \u201care you going to let me die without help?\nOh, I am dying! Oh, save me!\u201d\n\n\u201cA pen, a pen!\u201d said the doctor. There was one lying on the table; he\nendeavored to introduce it into the mouth of the patient, who, in the\nmidst of his convulsions, was making vain attempts to vomit; but the\njaws were so clenched that the pen could not pass them. This second\nattack was much more violent than the first, and he had slipped from\nthe couch to the ground, where he was writhing in agony. The doctor\nleft him in this paroxysm, knowing that he could do nothing to\nalleviate it, and, going up to Noirtier, said",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "4",
+      "claim_id": "4_C0",
+      "claim_text": "Sitting in on lectures uninvited, he was thrown out after shouting \u201cThe secret is on the 37th southern parallel!\u201d while the professor explained Earth\u2019s equatorial bulge.",
+      "excerpt_text": ". But I do not see the\nCount of Monte Cristo here.\u201d\n\n\u201cHe is worn out,\u201d said Debray; \u201cbesides, he could not well appear in\npublic, since he has been the dupe of the Cavalcanti, who, it appears,\npresented themselves to him with false letters of credit, and cheated\nhim out of 100,000 francs upon the hypothesis of this principality.\u201d\n\n\u201cBy the way, M. de Ch\u00e2teau-Renaud,\u201d asked Beauchamp, \u201chow is Morrel?\u201d\n\n\u201c_Ma foi_, I have called three times without once seeing him. Still,\nhis sister did not seem uneasy, and told me that though she had not\nseen him for two or three days, she was sure he was well.\u201d\n\n\u201cAh, now I think of it, the Count of Monte Cristo cannot appear in the\nhall,\u201d said Beauchamp.\n\n\u201cWhy not?\u201d\n\n\u201cBecause he is an actor in the drama.\u201d\n\n\u201cHas he assassinated anyone, then?\u201d\n\n\u201cNo, on the contrary, they wished to assassinate him. You know that it\nwas in leaving his house that M. de Caderousse was murdered by his\nfriend Benedetto. You know that the famous waistcoat was found in his\nhouse, ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "4",
+      "claim_id": "4_C0",
+      "claim_text": "Sitting in on lectures uninvited, he was thrown out after shouting \u201cThe secret is on the 37th southern parallel!\u201d while the professor explained Earth\u2019s equatorial bulge.",
+      "excerpt_text": "\u2019s\nfeet, \u201cit was simply vengeance\u2014nothing else.\u201d\n\n\u201cI understand that, but I do not understand what it is that galvanizes\nyou in this manner.\u201d\n\n\u201cBut, monsieur, it is very natural,\u201d returned Bertuccio, \u201csince it was\nin this house that my vengeance was accomplished.\u201d\n\n\u201cWhat! my house?\u201d\n\n\u201cOh, your excellency, it was not yours, then.\u201d\n\n\u201cWhose, then? The Marquis de Saint-M\u00e9ran, I think, the concierge said.\nWhat had you to revenge on the Marquis de Saint-M\u00e9ran?\u201d\n\n\u201cOh, it was not on him, monsieur; it was on another.\u201d\n\n\u201cThis is strange,\u201d returned Monte Cristo, seeming to yield to his\nreflections, \u201cthat you should find yourself without any preparation in\na house where the event happened that causes you so much remorse.\u201d\n\n\u201cMonsieur,\u201d said the steward, \u201cit is fatality, I am sure. First, you\npurchase a house at Auteuil\u2014this house is the one where I have\ncommitted an assassination; you descend to the garden by the same\nstaircase by which he descended; you stop at the spot where he received\nthe blow;",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

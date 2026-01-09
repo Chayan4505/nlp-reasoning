@@ -1,5 +1,62 @@
 {
-  "story_id": 60,
-  "prediction": 1,
-  "dossier": []
+  "story_id": "60",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "60",
+      "claim_id": "60_C0",
+      "claim_text": "First rescue: in 1852 an avalanche buried a silver-prospecting caravan; Thalcave led a night dig that saved eight survivors, among them French geographer Roux.",
+      "excerpt_text": "olently.\n\n\u201cSomething more terrible, more fatal, more alarming for us\u2014the child\nwas, perhaps, alive, and the assassin may have saved it!\u201d\n\nMadame Danglars uttered a piercing cry, and, seizing Villefort\u2019s hands,\nexclaimed, \u201cMy child was alive?\u201d said she; \u201cyou buried my child alive?\nYou were not certain my child was dead, and you buried it? Ah\u2014\u2014\u201d\n\nMadame Danglars had risen, and stood before the procureur, whose hands\nshe wrung in her feeble grasp.\n\n\u201cI know not; I merely suppose so, as I might suppose anything else,\u201d\nreplied Villefort with a look so fixed, it indicated that his powerful\nmind was on the verge of despair and madness.\n\n\u201cAh, my child, my poor child!\u201d cried the baroness, falling on her\nchair, and stifling her sobs in her handkerchief. Villefort, becoming\nsomewhat reassured, perceived that to avert the maternal storm\ngathering over his head, he must inspire Madame Danglars with the\nterror he felt.\n\n\u201cYou understand, then, that if it were so,\u201d said he, rising in his\nturn, and appr",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "60",
+      "claim_id": "60_C0",
+      "claim_text": "First rescue: in 1852 an avalanche buried a silver-prospecting caravan; Thalcave led a night dig that saved eight survivors, among them French geographer Roux.",
+      "excerpt_text": "ock. At\nfirst he was indifferent to the noise, but finding that it continued,\nhe listened. At last, puzzled by its persistence, he put his ear close\nto the ground to hear better. It seemed as if some one was scraping and\ndigging outside.\n\nWhen he was certain of this fact, he passed quietly towards Glenarvan\nand the captain, and led them to the rear of the hut.\n\n\"Listen,\" said he, in a low voice, motioning to them to bend down.\n\nThe scrapings became more and more audible. They could hear the little\nstones grate under the pressure of a sharp instrument and fall down\noutside.\n\n\"Some creature in its burrow,\" said Captain Mangles.\n\nGlenarvan, with bewildered gaze, stood astonished.\n\n\"Who knows,\" said he, \"but that it is a man?\"\n\n\"Man or animal,\" replied the major, \"I will know what is going on.\"\n\nWilson and Olbinett joined their companions, and all began to dig in\nthe wall, the captain with his poniard, the others with stones pulled\nout of the ground, or with their nails, while Mulready, st",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "60",
+      "claim_id": "60_C0",
+      "claim_text": "First rescue: in 1852 an avalanche buried a silver-prospecting caravan; Thalcave led a night dig that saved eight survivors, among them French geographer Roux.",
+      "excerpt_text": " Paganel,\" replied Harry Grant; \"Maria Theresa on the\nEnglish and German, but Tabor on the French maps.\"\n\nAt this moment a vigorous blow descended upon Paganel's shoulder. Truth\ncompels us to say that it was from the major, who now failed in his\nstrict habits of propriety.\n\n\"A fine geographer you are!\" said MacNabb, in a tone of badinage. \"But\nno matter, since we have succeeded.\"\n\n\"No matter?\" cried Paganel; \"I ought never to have forgotten that\ntwofold appellation! It is an unpardonable mistake, unworthy of the\nsecretary of a Geographical Society. I am disgraced!\"\n\nWhen the meal was finished, Harry Grant put everything in order in his\nhouse. He took nothing away, for he was willing that the guilty convict\nshould inherit his possessions.\n\nThey returned to the vessel; and, as he expected to sail the same day,\nGlenarvan gave orders for the quartermaster's landing. Ayrton was\nbrought on deck, and found himself in the presence of Harry Grant.\n\n\"It is I, Ayrton,\" said he.\n\n\"Yes, captain,\" r",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "60",
+      "claim_id": "60_C0",
+      "claim_text": "First rescue: in 1852 an avalanche buried a silver-prospecting caravan; Thalcave led a night dig that saved eight survivors, among them French geographer Roux.",
+      "excerpt_text": "ire to go in one night from Paris to\nTr\u00e9port; let eight fresh horses be in readiness on the road, which will\nenable me to go fifty leagues in ten hours.\u201d\n\n\u201cYour highness had already expressed that wish,\u201d said Bertuccio, \u201cand\nthe horses are ready. I have bought them, and stationed them myself at\nthe most desirable posts, that is, in villages, where no one generally\nstops.\u201d\n\n\u201cThat\u2019s well,\u201d said Monte Cristo; \u201cI remain here a day or two\u2014arrange\naccordingly.\u201d\n\nAs Bertuccio was leaving the room to give the requisite orders,\nBaptistin opened the door: he held a letter on a silver waiter.\n\n\u201cWhat are you doing here?\u201d asked the count, seeing him covered with\ndust; \u201cI did not send for you, I think?\u201d\n\nBaptistin, without answering, approached the count, and presented the\nletter. \u201cImportant and urgent,\u201d said he.\n\nThe count opened the letter, and read:\n\n\u201c\u2018M. de Monte Cristo is apprised that this night a man will enter his\nhouse in the Champs-\u00c9lys\u00e9es with the intention of carrying off some\npapers sup",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "60",
+      "claim_id": "60_C0",
+      "claim_text": "First rescue: in 1852 an avalanche buried a silver-prospecting caravan; Thalcave led a night dig that saved eight survivors, among them French geographer Roux.",
+      "excerpt_text": "tched five hundred head of cattle on the earth!\"\n\nBut Thalcave reaffirmed it, and he was not mistaken; for the storms of\nthe Pampas are noted for their violence.\n\nAt evening they stopped at an abandoned rancho, made of interlaced\nbranches plastered with mud and covered with thatch. This structure\nstood within an inclosure of half-rotten stakes which, however,\nsufficed to protect the horses during the night against the attacks of\nthe foxes. Not that they had anything to fear personally from these\nanimals, but the malicious beasts gnawed the halters, so that the\nhorses could escape.\n\nA few paces from the rancho, a hole was dug which served as a kitchen\nand contained half-cooled embers. Within, there was a bench, a bed of\nox-hide, a saucepan, a spit, and a pot for boiling mat\u00e9. The mat\u00e9 is\na drink very much in use in South America. It is the Indian's tea,\nconsisting of a decoction of leaves dried in the fire, and is imbibed\nthrough a straw. At Paganel's request, Thalcave prepared several\n",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "60",
+      "claim_id": "60_C0",
+      "claim_text": "First rescue: in 1852 an avalanche buried a silver-prospecting caravan; Thalcave led a night dig that saved eight survivors, among them French geographer Roux.",
+      "excerpt_text": " Duncan, Captain Mangles, his brave crew, and Harry Grant who\nwas, perhaps, not far distant.\n\nAs for Paganel, he did not leave the Indian. He became Thalcave's\nshadow, and could not remain quiet in the presence of a real\nPatagonian, in comparison with whom he would have passed for a dwarf.\nHe overwhelmed the grave Indian with Spanish phrases, to which the\nlatter quietly listened. The geographer studied this time without a\nbook, and was often heard repeating words aloud.\n\n\"If I do not get the accent,\" said he to the major, \"you must not be\nangry with me. Who would have thought that one day a Patagonian would\nteach me Spanish!\"\n\n\n\n\nCHAPTER XVI.\n\nNEWS OF THE LOST CAPTAIN.\n\n\nAt eight o'clock the next morning Thalcave gave the signal for\ndeparture. The slope was gradual, and the travelers had only to descend\na gentle declivity to the sea.\n\nWhen the Patagonian declined the horse that Glenarvan offered him, the\nlatter thought that he preferred to go on foot, according to the custom\nof certain",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "60",
+      "claim_id": "60_C0",
+      "claim_text": "First rescue: in 1852 an avalanche buried a silver-prospecting caravan; Thalcave led a night dig that saved eight survivors, among them French geographer Roux.",
+      "excerpt_text": "ng, but even the artificial wells dug by the\nIndians were empty. On seeing these indications of dryness increase\nfrom mile to mile, Paganel asked Thalcave where he expected to find\nwater.\n\n\"At Lake Salinas,\" replied the Indian.\n\n\"And when shall we arrive there?\"\n\n\"To-morrow evening.\"\n\nThe natives ordinarily, when they travel on the Pampas, dig wells, and\nfind water a few feet below the surface; but the travelers, destitute\nof the necessary implements, could not employ this expedient. It was\ntherefore necessary to obtain a supply in some other way, for, if they\ndid not absolutely suffer from the tormenting desire for drink, no one\ncould entirely allay his thirst.\n\nAt evening they halted, after a journey of thirty miles. Every one\nrelied upon a good night to recruit himself after the fatigues of\nthe day; but they were greatly annoyed by a very persistent swarm of\nmosquitoes, which disappeared, however, after the wind changed.\n\nIf the major preserved his calmness in the midst of the petty",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

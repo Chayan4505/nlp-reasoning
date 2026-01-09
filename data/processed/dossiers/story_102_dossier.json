@@ -1,4 +1,86 @@
 {
-  "story_id": 102,
-  "dossier": []
+  "story_id": "102",
+  "prediction": 1,
+  "dossier": [
+    {
+      "story_id": "102",
+      "claim_id": "102_C0",
+      "claim_text": "During the Revolution he acted as a militant republican, attended major assemblies and helped organise trials of royalists.",
+      "excerpt_text": " release the clumsy vehicle.\"\n\n\"We will try, John,\" said Glenarvan. \"Let us return to camp, for there\nmust be anxiety at our long absence.\"\n\nAyrton took charge of the ox, and Mulready of the horse, and the party\nreturned along the winding banks of the river. Half an hour after,\nPaganel, MacNabb, Lady Helena, and Miss Grant were told the state of\naffairs.\n\n\"By my faith,\" the major could not help exclaiming, \"it is a pity,\nAyrton, that you did not shoe all our animals on crossing the Wimerra.\"\n\n\"Why so, sir?\" asked Ayrton.\n\n\"Because of all our horses only the one you put into the hands of the\nfarrier has escaped the common fate.\"\n\n\"That is true,\" said Captain Mangles; \"and it is a singular\ncoincidence!\"\n\n[Sidenote: MISTAKES AND MISAPPREHENSIONS.]\n\n\"A coincidence, and nothing more,\" replied the quartermaster, gazing\nfixedly at the major.\n\nMacNabb compressed his lips, as if he would repress the words ready\nto burst from them. Glenarvan, the captain, and Lady Helena seemed to\nexpect that he",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "102",
+      "claim_id": "102_C0",
+      "claim_text": "During the Revolution he acted as a militant republican, attended major assemblies and helped organise trials of royalists.",
+      "excerpt_text": "before the glass, it was by no\nmeans easy for him to assume an air of judicial severity. Except the\nrecollection of the line of politics his father had adopted, and which\nmight interfere, unless he acted with the greatest prudence, with his\nown career, G\u00e9rard de Villefort was as happy as a man could be. Already\nrich, he held a high official situation, though only twenty-seven. He\nwas about to marry a young and charming woman, whom he loved, not\npassionately, but reasonably, as became a deputy attorney of the king;\nand besides her personal attractions, which were very great,\nMademoiselle de Saint-M\u00e9ran\u2019s family possessed considerable political\ninfluence, which they would, of course, exert in his favor. The dowry\nof his wife amounted to fifty thousand crowns, and he had, besides, the\nprospect of seeing her fortune increased to half a million at her\nfather\u2019s death. These considerations naturally gave Villefort a feeling\nof such complete felicity that his mind was fairly dazzled in its\ncon",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "102",
+      "claim_id": "102_C0",
+      "claim_text": "During the Revolution he acted as a militant republican, attended major assemblies and helped organise trials of royalists.",
+      "excerpt_text": "t of seeing her fortune increased to half a million at her\nfather\u2019s death. These considerations naturally gave Villefort a feeling\nof such complete felicity that his mind was fairly dazzled in its\ncontemplation.\n\nAt the door he met the commissary of police, who was waiting for him.\nThe sight of this officer recalled Villefort from the third heaven to\nearth; he composed his face, as we have before described, and said, \u201cI\nhave read the letter, sir, and you have acted rightly in arresting this\nman; now inform me what you have discovered concerning him and the\nconspiracy.\u201d\n\n\u201cWe know nothing as yet of the conspiracy, monsieur; all the papers\nfound have been sealed up and placed on your desk. The prisoner himself\nis named Edmond Dant\u00e8s, mate on board the three-master the _Pharaon_,\ntrading in cotton with Alexandria and Smyrna, and belonging to Morrel &\nSon, of Marseilles.\u201d\n\n\u201cBefore he entered the merchant service, had he ever served in the\nmarines?\u201d\n\n\u201cOh, no, monsieur, he is very young.\u201d\n\n\u201cH",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "102",
+      "claim_id": "102_C0",
+      "claim_text": "During the Revolution he acted as a militant republican, attended major assemblies and helped organise trials of royalists.",
+      "excerpt_text": "ithout him, and that consequently his absence could be in no way\nprejudicial to their interests.\n\n\"Well then, Ayrton, start,\" said Glenarvan. \"Make haste, and return to\nthe encampment by way of Eden.\"\n\nA gleam of satisfaction seemed to light up the eyes of the\nquartermaster. He turned his head to one side, though not so quickly\nbut that Captain Mangles had intercepted his glance, and instinctively\nfelt his suspicions increased.\n\nThe quartermaster made his preparations for departure, aided by the\ntwo sailors, one of whom attended to his horse, and the other to his\nprovisions. Meantime Glenarvan wrote the letter designed for Tom Austin.\n\nHe ordered the mate of the Duncan to repair without delay to Twofold\nBay, and recommended the quartermaster to him as a man in whom he could\nplace entire confidence. As soon as he arrived at the bay, he was to\nsend a detachment of sailors under the command of Ayrton.\n\nHe had just reached this part of his letter, when the major, who had\nbeen looking over ",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "102",
+      "claim_id": "102_C0",
+      "claim_text": "During the Revolution he acted as a militant republican, attended major assemblies and helped organise trials of royalists.",
+      "excerpt_text": " when wounded\nhad exclaimed with the great philosopher, \u201cPain, thou art not an evil.\u201d\n\nHe had, moreover, looked upon the customs officer wounded to death,\nand, whether from heat of blood produced by the encounter, or the chill\nof human sentiment, this sight had made but slight impression upon him.\nDant\u00e8s was on the way he desired to follow, and was moving towards the\nend he wished to achieve; his heart was in a fair way of petrifying in\nhis bosom. Jacopo, seeing him fall, had believed him killed, and\nrushing towards him raised him up, and then attended to him with all\nthe kindness of a devoted comrade.\n\nThis world was not then so good as Doctor Pangloss believed it, neither\nwas it so wicked as Dant\u00e8s thought it, since this man, who had nothing\nto expect from his comrade but the inheritance of his share of the\nprize-money, manifested so much sorrow when he saw him fall.\nFortunately, as we have said, Edmond was only wounded, and with certain\nherbs gathered at certain seasons, and sold to",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "102",
+      "claim_id": "102_C0",
+      "claim_text": "During the Revolution he acted as a militant republican, attended major assemblies and helped organise trials of royalists.",
+      "excerpt_text": " has she not still on the plains of Mitidja, or in the\nmountains of Atlas, a marshal\u2019s staff to offer you?\u201d\n\n\u201cOh,\u201d replied Morcerf, reddening slightly, \u201cI have left the service,\nmonsieur. Made a peer at the Restoration, I served through the first\ncampaign under the orders of Marshal Bourmont. I could, therefore,\nexpect a higher rank, and who knows what might have happened had the\nelder branch remained on the throne? But the Revolution of July was, it\nseems, sufficiently glorious to allow itself to be ungrateful, and it\nwas so for all services that did not date from the imperial period. I\ntendered my resignation, for when you have gained your epaulets on the\nbattle-field, you do not know how to man\u0153uvre on the slippery grounds\nof the salons. I have hung up my sword, and cast myself into politics.\nI have devoted myself to industry; I study the useful arts. During the\ntwenty years I served, I often wished to do so, but I had not the\ntime.\u201d\n\n\u201cThese are the ideas that render your nation sup",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "102",
+      "claim_id": "102_C0",
+      "claim_text": "During the Revolution he acted as a militant republican, attended major assemblies and helped organise trials of royalists.",
+      "excerpt_text": " a son, a lieutenant in the army; and, as you may suppose,\nall this, instead of lessening, only augments his sorrows. If he were\nalone in the world he would blow out his brains, and there would be an\nend.\u201d\n\n\u201cHorrible!\u201d ejaculated the priest.\n\n\u201cAnd it is thus heaven recompenses virtue, sir,\u201d added Caderousse. \u201cYou\nsee, I, who never did a bad action but that I have told you of\u2014am in\ndestitution, with my poor wife dying of fever before my very eyes, and\nI unable to do anything in the world for her; I shall die of hunger, as\nold Dant\u00e8s did, while Fernand and Danglars are rolling in wealth.\u201d\n\n\u201cHow is that?\u201d\n\n\u201cBecause their deeds have brought them good fortune, while honest men\nhave been reduced to misery.\u201d\n\n\u201cWhat has become of Danglars, the instigator, and therefore the most\nguilty?\u201d\n\n\u201cWhat has become of him? Why, he left Marseilles, and was taken, on the\nrecommendation of M. Morrel, who did not know his crime, as cashier\ninto a Spanish bank. During the war with Spain he was employed in the",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "102",
+      "claim_id": "102_C0",
+      "claim_text": "During the Revolution he acted as a militant republican, attended major assemblies and helped organise trials of royalists.",
+      "excerpt_text": "ou only\nacquired this information today, the 3rd of March! Well, sir, what you\ntell me is impossible. You must have received a false report, or you\nhave gone mad.\u201d\n\n\u201cAlas, sire, it is but too true!\u201d Louis made a gesture of indescribable\nanger and alarm, and then drew himself up as if this sudden blow had\nstruck him at the same moment in heart and countenance.\n\n\u201cIn France!\u201d he cried, \u201cthe usurper in France! Then they did not watch\nover this man. Who knows? they were, perhaps, in league with him.\u201d\n\n\u201cOh, sire,\u201d exclaimed the Duc de Blacas, \u201cM. Dandr\u00e9 is not a man to be\naccused of treason! Sire, we have all been blind, and the minister of\npolice has shared the general blindness, that is all.\u201d\n\n\u201cBut\u2014\u2014\u201d said Villefort, and then suddenly checking himself, he was\nsilent; then he continued, \u201cYour pardon, sire,\u201d he said, bowing, \u201cmy\nzeal carried me away. Will your majesty deign to excuse me?\u201d\n\n\u201cSpeak, sir, speak boldly,\u201d replied Louis. \u201cYou alone forewarned us of\nthe evil; now try and aid us wit",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "102",
+      "claim_id": "102_C0",
+      "claim_text": "During the Revolution he acted as a militant republican, attended major assemblies and helped organise trials of royalists.",
+      "excerpt_text": "hat could he say that had not been repeated\na hundred times already? Glenarvan was, therefore, about to open the\nconversation on a new topic, to profit by the information received from\nAyrton, when the major, addressing him, said:\n\n\"You were quartermaster of the Britannia?\"\n\n\"Yes,\" replied Ayrton.\n\nBut perceiving that a certain feeling of distrust, a doubt, however\nslight, had suggested this inquiry, he added,--\n\n\"I saved my contract from the wreck.\"\n\nHe immediately left the room in search of this authoritative document.\nDuring his absence, which lasted but a few moments, Mr. O'Moore said:\n\n\"My lord, I will answer for it that Ayrton is an honest man. During the\ntwo months that he has been in my employ, I have had no fault to find\nwith him. I knew the story of his shipwreck and captivity. He is a true\nman, and worthy of your entire confidence.\"\n\nGlenarvan was about to answer that he had never doubted Ayrton's\nhonesty, when the latter returned and presented his contract. It was a\npaper s",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "102",
+      "claim_id": "102_C0",
+      "claim_text": "During the Revolution he acted as a militant republican, attended major assemblies and helped organise trials of royalists.",
+      "excerpt_text": "mblingly to fetch another, without giving himself the trouble to\nremove the fragments of the broken one. He returned speedily, advised\nthe prisoner to be more careful, and departed.\n\nDant\u00e8s heard joyfully the key grate in the lock; he listened until the\nsound of steps died away, and then, hastily displacing his bed, saw by\nthe faint light that penetrated into his cell, that he had labored\nuselessly the previous evening in attacking the stone instead of\nremoving the plaster that surrounded it.\n\nThe damp had rendered it friable, and Dant\u00e8s was able to break it\noff\u2014in small morsels, it is true, but at the end of half an hour he had\nscraped off a handful; a mathematician might have calculated that in\ntwo years, supposing that the rock was not encountered, a passage\ntwenty feet long and two feet broad, might be formed.\n\nThe prisoner reproached himself with not having thus employed the hours\nhe had passed in vain hopes, prayer, and despondency. During the six\nyears that he had been imprisone",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

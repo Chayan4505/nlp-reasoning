@@ -1,5 +1,70 @@
 {
-  "story_id": 51,
-  "prediction": 1,
-  "dossier": []
+  "story_id": "51",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "51",
+      "claim_id": "51_C0",
+      "claim_text": "Horse-thieves attacked; the old shepherd died shielding Thalcave, and with his last breath begged the youth to \u201cstand between civilisation and the wild.\u201d",
+      "excerpt_text": "\u00e8s, who was watching the\nanchoring of his vessel, \u201cit seems to me that a sailor needs not be so\nold as you say, Danglars, to understand his business, for our friend\nEdmond seems to understand it thoroughly, and not to require\ninstruction from anyone.\u201d\n\n\u201cYes,\u201d said Danglars, darting at Edmond a look gleaming with hate.\n\u201cYes, he is young, and youth is invariably self-confident. Scarcely was\nthe captain\u2019s breath out of his body when he assumed the command\nwithout consulting anyone, and he caused us to lose a day and a half at\nthe Island of Elba, instead of making for Marseilles direct.\u201d\n\n0025m\n\n\n\n\u201cAs to taking command of the vessel,\u201d replied Morrel, \u201cthat was his\nduty as captain\u2019s mate; as to losing a day and a half off the Island of\nElba, he was wrong, unless the vessel needed repairs.\u201d\n\n\u201cThe vessel was in as good condition as I am, and as, I hope you are,\nM. Morrel, and this day and a half was lost from pure whim, for the\npleasure of going ashore, and nothing else.\u201d\n\n\u201cDant\u00e8s,\u201d said the ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "51",
+      "claim_id": "51_C0",
+      "claim_text": "Horse-thieves attacked; the old shepherd died shielding Thalcave, and with his last breath begged the youth to \u201cstand between civilisation and the wild.\u201d",
+      "excerpt_text": "mpulse of the current. Soon a\nmingled roar, like bellowing, neighing, and bleating, resounded half\na mile to the south, and immense herds appeared, tumbling, rising,\nand rushing, a confused mass of terrified beasts, and fled by with\nfrightful rapidity. It was scarcely possible to distinguish them in the\nmidst of the clouds of spray dashed up by their flight.\n\n[Illustration: \"The flood! the flood!\" replied Thalcave, spurring his\nhorse towards the north.]\n\n\"Quick! quick!\" cried Thalcave, in a piercing voice.\n\n\"What is it?\" said Paganel.\n\n\"The flood! the flood!\" replied Thalcave, spurring his horse towards\nthe north.\n\n\"The inundation!\" cried Paganel; and his companions, with him at their\nhead, fled away in the track of Thaouka.\n\nIt was time. Five miles to the south a high and broad wall of water\nwas rushing over the plain, which was fast becoming an ocean. The tall\ngrass disappeared as before the scythe, and the tufts of mimosas, torn\nup by the current, separated and formed floating islan",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "51",
+      "claim_id": "51_C0",
+      "claim_text": "Horse-thieves attacked; the old shepherd died shielding Thalcave, and with his last breath begged the youth to \u201cstand between civilisation and the wild.\u201d",
+      "excerpt_text": "s friend\u2019s entreaties, and bade him find\na shepherd to send to Rita\u2019s father at Frosinone.\n\n\u201cCarlini flew joyfully to Rita, telling her she was saved, and bidding\nher write to her father, to inform him what had occurred, and that her\nransom was fixed at three hundred piastres. Twelve hours\u2019 delay was all\nthat was granted\u2014that is, until nine the next morning. The instant the\nletter was written, Carlini seized it, and hastened to the plain to\nfind a messenger. He found a young shepherd watching his flock. The\nnatural messengers of the bandits are the shepherds who live between\nthe city and the mountains, between civilized and savage life. The boy\nundertook the commission, promising to be in Frosinone in less than an\nhour. Carlini returned, anxious to see his mistress, and announce the\njoyful intelligence. He found the troop in the glade, supping off the\nprovisions exacted as contributions from the peasants; but his eye\nvainly sought Rita and Cucumetto among them.\n\n\u201cHe inquired where they",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "51",
+      "claim_id": "51_C0",
+      "claim_text": "Horse-thieves attacked; the old shepherd died shielding Thalcave, and with his last breath begged the youth to \u201cstand between civilisation and the wild.\u201d",
+      "excerpt_text": "e villains sought his life, not his money. It\nwould be his bedroom they would attack, and they must reach it by the\nback staircase, or by the window in the dressing-room.\n\nThe clock of the Invalides struck a quarter to twelve; the west wind\nbore on its moistened gusts the doleful vibration of the three strokes.\n\n40152m\n\n\n\nAs the last stroke died away, the count thought he heard a slight noise\nin the dressing-room; this first sound, or rather this first grinding,\nwas followed by a second, then a third; at the fourth, the count knew\nwhat to expect. A firm and well-practised hand was engaged in cutting\nthe four sides of a pane of glass with a diamond. The count felt his\nheart beat more rapidly.\n\nInured as men may be to danger, forewarned as they may be of peril,\nthey understand, by the fluttering of the heart and the shuddering of\nthe frame, the enormous difference between a dream and a reality,\nbetween the project and the execution. However, Monte Cristo only made\na sign to apprise Ali, ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "51",
+      "claim_id": "51_C0",
+      "claim_text": "Horse-thieves attacked; the old shepherd died shielding Thalcave, and with his last breath begged the youth to \u201cstand between civilisation and the wild.\u201d",
+      "excerpt_text": "say nothing?\u201d asked the abb\u00e9.\n\n\u201cWhy, what good would it do?\u201d asked Caderousse. \u201cIf the poor lad were\nliving, and came to me and begged that I would candidly tell which were\nhis true and which his false friends, why, perhaps, I should not\nhesitate. But you tell me he is no more, and therefore can have nothing\nto do with hatred or revenge, so let all such feeling be buried with\nhim.\u201d\n\n\u201cYou prefer, then,\u201d said the abb\u00e9, \u201cthat I should bestow on men you say\nare false and treacherous, the reward intended for faithful\nfriendship?\u201d\n\n\u201cThat is true enough,\u201d returned Caderousse. \u201cYou say truly, the gift of\npoor Edmond was not meant for such traitors as Fernand and Danglars;\nbesides, what would it be to them? no more than a drop of water in the\nocean.\u201d\n\n\u201cRemember,\u201d chimed in La Carconte, \u201cthose two could crush you at a\nsingle blow!\u201d\n\n\u201cHow so?\u201d inquired the abb\u00e9. \u201cAre these persons, then, so rich and\npowerful?\u201d\n\n\u201cDo you not know their history?\u201d\n\n\u201cI do not. Pray relate it to me!\u201d\n\nCaderousse seemed",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "51",
+      "claim_id": "51_C0",
+      "claim_text": "Horse-thieves attacked; the old shepherd died shielding Thalcave, and with his last breath begged the youth to \u201cstand between civilisation and the wild.\u201d",
+      "excerpt_text": "si and Spada, conferred upon them\nthe insignia of the cardinalate, and induced them to arrange their\naffairs and take up their residence at Rome. Then the pope and C\u00e6sar\nBorgia invited the two cardinals to dinner. This was a matter of\ndispute between the Holy Father and his son. C\u00e6sar thought they could\nmake use of one of the means which he always had ready for his friends,\nthat is to say, in the first place, the famous key which was given to\ncertain persons with the request that they go and open a designated\ncupboard. This key was furnished with a small iron point,\u2014a negligence\non the part of the locksmith. When this was pressed to effect the\nopening of the cupboard, of which the lock was difficult, the person\nwas pricked by this small point, and died next day. Then there was the\nring with the lion\u2019s head, which C\u00e6sar wore when he wanted to greet his\nfriends with a clasp of the hand. The lion bit the hand thus favored,\nand at the end of twenty-four hours, the bite was mortal.\n\n\u201cC\u00e6sar ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "51",
+      "claim_id": "51_C0",
+      "claim_text": "Horse-thieves attacked; the old shepherd died shielding Thalcave, and with his last breath begged the youth to \u201cstand between civilisation and the wild.\u201d",
+      "excerpt_text": " last thought before sleeping, and the first upon waking in the\nmorning. Andrea had scarcely opened his eyes when his predominating\nidea presented itself, and whispered in his ear that he had slept too\nlong. He jumped out of bed and ran to the window. A gendarme was\ncrossing the court. A gendarme is one of the most striking objects in\nthe world, even to a man void of uneasiness; but for one who has a\ntimid conscience, and with good cause too, the yellow, blue, and white\nuniform is really very alarming.\n\n\u201cWhy is that gendarme there?\u201d asked Andrea of himself.\n\nThen, all at once, he replied, with that logic which the reader has,\ndoubtless, remarked in him, \u201cThere is nothing astonishing in seeing a\ngendarme at an inn; instead of being astonished, let me dress myself.\u201d\nAnd the youth dressed himself with a facility his valet de chambre had\nfailed to rob him of during the two months of fashionable life he had\nled in Paris.\n\n\u201cNow then,\u201d said Andrea, while dressing himself, \u201cI\u2019ll wait till he\nl",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "51",
+      "claim_id": "51_C0",
+      "claim_text": "Horse-thieves attacked; the old shepherd died shielding Thalcave, and with his last breath begged the youth to \u201cstand between civilisation and the wild.\u201d",
+      "excerpt_text": "Quaker.\n\n\u201cWhat! A hundred thousand francs for a fowl!\u201d\n\n\u201cAh, excellency, you cannot imagine how hard it is to rear fowls in\nthese horrible caves!\u201d\n\n\u201cCome, come, this is very droll\u2014very amusing\u2014I allow; but, as I am very\nhungry, pray allow me to eat. Stay, here is another louis for you.\u201d\n\n\u201cThen that will make only 4,998 louis more,\u201d said Peppino with the same\nindifference. \u201cI shall get them all in time.\u201d\n\n\u201cOh, as for that,\u201d said Danglars, angry at this prolongation of the\njest,\u2014\u201cas for that you won\u2019t get them at all. Go to the devil! You do\nnot know with whom you have to deal!\u201d\n\n50253m\n\n\n\nPeppino made a sign, and the youth hastily removed the fowl. Danglars\nthrew himself upon his goat-skin, and Peppino, reclosing the door,\nagain began eating his peas and bacon. Though Danglars could not see\nPeppino, the noise of his teeth allowed no doubt as to his occupation.\nHe was certainly eating, and noisily too, like an ill-bred man.\n\u201cBrute!\u201d said Danglars. Peppino pretended not to hear him, and w",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

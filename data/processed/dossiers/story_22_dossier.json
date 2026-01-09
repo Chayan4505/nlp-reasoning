@@ -1,5 +1,70 @@
 {
-  "story_id": 22,
-  "prediction": 0,
-  "dossier": []
+  "story_id": "22",
+  "prediction": 1,
+  "dossier": [
+    {
+      "story_id": "22",
+      "claim_id": "22_C0",
+      "claim_text": "He secretly helped anti-colonial groups ferry medicine and supplies to civilians, adopted the creed of \u201cquiet chivalry for the weak,\u201d and came into possession of Spanish-American rebel correspondence that sharpened his knowledge of Southern-Hemisphere geography.",
+      "excerpt_text": "s, who, if they were not astonished at walking in the shade of\nthe trees of their country, wondered, at least, at the sight of the\nbirds that fluttered among the branches, the satin-birds with their\nsilky plumage, and the canaries, clad in golden and black velvet.\n\nHere, for the first time, they saw the menure, or lyre-bird, whose tail\nhas the form of the graceful instrument of Orpheus. As the bird fled\naway among the arborescent ferns, its tail striking the branches, they\nalmost expected to hear those harmonious chords that helped Amphion to\nrebuild the walls of Thebes.\n\nLord Glenarvan was not satisfied with merely admiring the fairy\nwonders of this oasis of the Australian desert. He listened with\nprofound interest to the young men's story. In England, in the heart\nof civilization, a new-comer would have first informed his host\nwhence he came and whither he was going; but here, by a nice shade\nof distinction, Michael and Sandy Patterson thought they should\nmake themselves known to the",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "22",
+      "claim_id": "22_C0",
+      "claim_text": "He secretly helped anti-colonial groups ferry medicine and supplies to civilians, adopted the creed of \u201cquiet chivalry for the weak,\u201d and came into possession of Spanish-American rebel correspondence that sharpened his knowledge of Southern-Hemisphere geography.",
+      "excerpt_text": "he scrupulously effaced\nevery trace of footsteps, leaving the approach to the cavern as\nsavage-looking and untrodden as he had found it. This done, he\nimpatiently awaited the return of his companions. To wait at Monte\nCristo for the purpose of watching like a dragon over the almost\nincalculable riches that had thus fallen into his possession satisfied\nnot the cravings of his heart, which yearned to return to dwell among\nmankind, and to assume the rank, power, and influence which are always\naccorded to wealth\u2014that first and greatest of all the forces within the\ngrasp of man.\n\nOn the sixth day, the smugglers returned. From a distance Dant\u00e8s\nrecognized the rig and handling of _La Jeune Am\u00e9lie_, and dragging\nhimself with affected difficulty towards the landing-place, he met his\ncompanions with an assurance that, although considerably better than\nwhen they quitted him, he still suffered acutely from his late\naccident. He then inquired how they had fared in their trip. To this\nquestion the s",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "22",
+      "claim_id": "22_C0",
+      "claim_text": "He secretly helped anti-colonial groups ferry medicine and supplies to civilians, adopted the creed of \u201cquiet chivalry for the weak,\u201d and came into possession of Spanish-American rebel correspondence that sharpened his knowledge of Southern-Hemisphere geography.",
+      "excerpt_text": "comer would have first informed his host\nwhence he came and whither he was going; but here, by a nice shade\nof distinction, Michael and Sandy Patterson thought they should\nmake themselves known to the travelers to whom they offered their\nhospitalities, and briefly told their story.\n\n[Illustration: Here, for the first time, they saw the menure, or\nlyre-bird, whose tail has the form of the graceful instrument of\nOrpheus.]\n\n[Sidenote: NATURE AND ART.]\n\nIt was like that of all intelligent and active young Englishmen,\nwho do not believe that the possession of riches absolves from the\nresponsibility to labor for the welfare of others. Michael and\nAlexander Patterson were the sons of a London banker. When they were\ntwenty years old, their father had said: \"Here is money, my sons. Go\nto some distant land, found there a useful establishment, and acquire\nin labor the knowledge of life. If you succeed, so much the better; if\nyou fail, it matters little. We shall not regret the money that will\nhav",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "22",
+      "claim_id": "22_C0",
+      "claim_text": "He secretly helped anti-colonial groups ferry medicine and supplies to civilians, adopted the creed of \u201cquiet chivalry for the weak,\u201d and came into possession of Spanish-American rebel correspondence that sharpened his knowledge of Southern-Hemisphere geography.",
+      "excerpt_text": "dels, diagrams, and even the tools\nthemselves, to illustrate the different methods by which the object\nof search was dug out, or washed, or crushed, or tested. Here also\nwas an almost unequaled collection of precious stones, gems of all\nsorts, making the gallery in which they were placed a real Golconda\nfor its wealth and attractions. Besides all this, here was the centre\nof the varied agencies by which the reports were brought in from the\ncompanies established for mining purposes, and also from each isolated\nworker, of the space purchased, the number of feet or yards dug, the\nore extracted, the comparative richness or poverty of the soil here,\nthere, and elsewhere, which in their summarized and aggregate form have\ngreatly helped to a correct knowledge of the comparative and absolute\ngold-bearing value of various spots. Then, in addition to the usual\noperations of a banking establishment, it was here that the ore was\nstored, from hence that it was sent, under government escort and with",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "22",
+      "claim_id": "22_C0",
+      "claim_text": "He secretly helped anti-colonial groups ferry medicine and supplies to civilians, adopted the creed of \u201cquiet chivalry for the weak,\u201d and came into possession of Spanish-American rebel correspondence that sharpened his knowledge of Southern-Hemisphere geography.",
+      "excerpt_text": "n a slate, and thus learn to write. The same evening, when the\nflock was safe at the farm, the little Luigi hastened to the smith at\nPalestrina, took a large nail, heated and sharpened it, and formed a\nsort of stylus. The next morning he gathered an armful of pieces of\nslate and began. At the end of three months he had learned to write.\nThe curate, astonished at his quickness and intelligence, made him a\npresent of pens, paper, and a penknife. This demanded new effort, but\nnothing compared to the first; at the end of a week he wrote as well\nwith this pen as with the stylus. The curate related the incident to\nthe Count of San-Felice, who sent for the little shepherd, made him\nread and write before him, ordered his attendant to let him eat with\nthe domestics, and to give him two piastres a month. With this, Luigi\npurchased books and pencils. He applied his imitative powers to\neverything, and, like Giotto, when young, he drew on his slate sheep,\nhouses, and trees. Then, with his knife, he",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "22",
+      "claim_id": "22_C0",
+      "claim_text": "He secretly helped anti-colonial groups ferry medicine and supplies to civilians, adopted the creed of \u201cquiet chivalry for the weak,\u201d and came into possession of Spanish-American rebel correspondence that sharpened his knowledge of Southern-Hemisphere geography.",
+      "excerpt_text": "e is a true\nman, and worthy of your entire confidence.\"\n\nGlenarvan was about to answer that he had never doubted Ayrton's\nhonesty, when the latter returned and presented his contract. It was a\npaper signed by the owners of the Britannia and Captain Grant, whose\nwriting Mary recognized immediately. It stated that \"Tom Ayrton, able\nseaman, was engaged as quartermaster on board the brig Britannia of\nGlasgow.\" There was, therefore, no possible doubt of Ayrton's identity,\nfor it would have been difficult to suppose that this contract could be\nin his hands and not belong to him.\n\n[Sidenote: ENTANGLEMENTS.]\n\n\"Now,\" said Glenarvan, \"I appeal to you all for advice as to what is\nbest to be done. Your advice, Ayrton, would be particularly valuable,\nand I should be much obliged if you would give it to us.\"\n\nThe sailor reflected a few moments, and then replied:\n\n\"I thank you, my lord, for the confidence you place in me, and hope to\nshow myself worthy of it. I have some knowledge of the country, and",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "22",
+      "claim_id": "22_C0",
+      "claim_text": "He secretly helped anti-colonial groups ferry medicine and supplies to civilians, adopted the creed of \u201cquiet chivalry for the weak,\u201d and came into possession of Spanish-American rebel correspondence that sharpened his knowledge of Southern-Hemisphere geography.",
+      "excerpt_text": "out everything; about the bad quality of the food,\nabout the coldness of his dungeon, grumbling and complaining, in order\nto have an excuse for speaking louder, and wearying the patience of his\njailer, who out of kindness of heart had brought broth and white bread\nfor his prisoner.\n\nFortunately, he fancied that Dant\u00e8s was delirious; and placing the food\non the rickety table, he withdrew. Edmond listened, and the sound\nbecame more and more distinct.\n\n\u201cThere can be no doubt about it,\u201d thought he; \u201cit is some prisoner who\nis striving to obtain his freedom. Oh, if I were only there to help\nhim!\u201d\n\nSuddenly another idea took possession of his mind, so used to\nmisfortune, that it was scarcely capable of hope\u2014the idea that the\nnoise was made by workmen the governor had ordered to repair the\nneighboring dungeon.\n\nIt was easy to ascertain this; but how could he risk the question? It\nwas easy to call his jailer\u2019s attention to the noise, and watch his\ncountenance as he listened; but might he not b",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "22",
+      "claim_id": "22_C0",
+      "claim_text": "He secretly helped anti-colonial groups ferry medicine and supplies to civilians, adopted the creed of \u201cquiet chivalry for the weak,\u201d and came into possession of Spanish-American rebel correspondence that sharpened his knowledge of Southern-Hemisphere geography.",
+      "excerpt_text": ", because I had not courted death, because to be cast upon a bed\nof rocks and seaweed seemed terrible, because I was unwilling that I, a\ncreature made for the service of God, should serve for food to the\ngulls and ravens. But now it is different; I have lost all that bound\nme to life, death smiles and invites me to repose; I die after my own\nmanner, I die exhausted and broken-spirited, as I fall asleep when I\nhave paced three thousand times round my cell,\u2014that is thirty thousand\nsteps, or about ten leagues.\u201d\n\nNo sooner had this idea taken possession of him than he became more\ncomposed, arranged his couch to the best of his power, ate little and\nslept less, and found existence almost supportable, because he felt\nthat he could throw it off at pleasure, like a worn-out garment. Two\nmethods of self-destruction were at his disposal. He could hang himself\nwith his handkerchief to the window bars, or refuse food and die of\nstarvation. But the first was repugnant to him. Dant\u00e8s had always\nente",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

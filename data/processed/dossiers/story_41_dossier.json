@@ -1,4 +1,62 @@
 {
-  "story_id": 41,
-  "dossier": []
+  "story_id": "41",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "41",
+      "claim_id": "41_C0",
+      "claim_text": "In Lisbon he unwittingly helped a black-marketeer dodge duty, was introduced to Duncan\u2019s smuggling ring and, using his sea-craft, slipped past patrols several times; guilt nibbled at him yet profit lured him deeper.",
+      "excerpt_text": " about to ring for\nSignor Pastrini, when that worthy presented himself.\n\n\u201cMy dear sir,\u201d he said, hastily, \u201cdo you know if the count is within?\u201d\n\n\u201cYes, your excellency; he has this moment returned.\u201d\n\n\u201cIs he in bed?\u201d\n\n\u201cI should say no.\u201d\n\n\u201cThen ring at his door, if you please, and request him to be so kind as\nto give me an audience.\u201d\n\nSignor Pastrini did as he was desired, and returning five minutes\nafter, he said:\n\n\u201cThe count awaits your excellency.\u201d\n\nFranz went along the corridor, and a servant introduced him to the\ncount. He was in a small room which Franz had not yet seen, and which\nwas surrounded with divans. The count came towards him.\n\n\u201cWell, what good wind blows you hither at this hour?\u201d said he; \u201chave\nyou come to sup with me? It would be very kind of you.\u201d\n\n\u201cNo; I have come to speak to you of a very serious matter.\u201d\n\n\u201cA serious matter,\u201d said the count, looking at Franz with the\nearnestness usual to him; \u201cand what may it be?\u201d\n\n\u201cAre we alone?\u201d\n\n\u201cYes,\u201d replied the count, going to th",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "41",
+      "claim_id": "41_C0",
+      "claim_text": "In Lisbon he unwittingly helped a black-marketeer dodge duty, was introduced to Duncan\u2019s smuggling ring and, using his sea-craft, slipped past patrols several times; guilt nibbled at him yet profit lured him deeper.",
+      "excerpt_text": " often overcome by despair,\nhe wandered in those vast solitudes, with the sun as his guide by\nday and the stars by night. In this way he crossed marshes, rivers,\nmountains, in short, all that uninhabited portion of country that few\ntravelers have explored. At last, exhausted and almost dead, he reached\nthe hospitable dwelling of Mr. O'Moore, where his labor insured him a\ncomfortable livelihood.\n\n\"And if Ayrton is pleased with me,\" said the Irish colonist, when the\nstory was finished, \"I cannot but be pleased with him. He is an honest\nand intelligent man, a good worker, and, if he chooses, this house\nshall long be at his service.\"\n\nAyrton thanked Mr. O'Moore, and waited for further questions. He\nprobably thought, however, that the legitimate curiosity of his hearers\nought to be satisfied. What could he say that had not been repeated\na hundred times already? Glenarvan was, therefore, about to open the\nconversation on a new topic, to profit by the information received from\nAyrton, when th",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "41",
+      "claim_id": "41_C0",
+      "claim_text": "In Lisbon he unwittingly helped a black-marketeer dodge duty, was introduced to Duncan\u2019s smuggling ring and, using his sea-craft, slipped past patrols several times; guilt nibbled at him yet profit lured him deeper.",
+      "excerpt_text": " health in a glass of it.\u201d\n\n\u201cTake some, then, and come back immediately.\u201d\n\nBarrois took away the waiter, and hardly was he outside the door, which\nin his haste he forgot to shut, than they saw him throw back his head\nand empty to the very dregs the glass which Valentine had filled.\nValentine and Morrel were exchanging their adieux in the presence of\nNoirtier when a ring was heard at the door-bell. It was the signal of a\nvisit. Valentine looked at her watch.\n\n\u201cIt is past noon,\u201d said she, \u201cand today is Saturday; I dare say it is\nthe doctor, grandpapa.\u201d\n\nNoirtier looked his conviction that she was right in her supposition.\n\n\u201cHe will come in here, and M. Morrel had better go,\u2014do you not think\nso, grandpapa?\u201d\n\n\u201cYes,\u201d signed the old man.\n\n\u201cBarrois,\u201d cried Valentine, \u201cBarrois!\u201d\n\n\u201cI am coming, mademoiselle,\u201d replied he.\n\n\u201cBarrois will open the door for you,\u201d said Valentine, addressing\nMorrel. \u201cAnd now remember one thing, Monsieur Officer, that my\ngrandfather commands you not to take any rash o",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "41",
+      "claim_id": "41_C0",
+      "claim_text": "In Lisbon he unwittingly helped a black-marketeer dodge duty, was introduced to Duncan\u2019s smuggling ring and, using his sea-craft, slipped past patrols several times; guilt nibbled at him yet profit lured him deeper.",
+      "excerpt_text": "ened, as much at least as the darkness of\nthe night permitted him. According to his estimate, he had traveled a\ndistance of about two miles, when several men--five, he thought--sprang\nto his horse's head. The animal reared. Mulready seized his revolver\nand fired. He thought that two of his assailants fell. By the flash of\nthe report, he recognized Ben Joyce, but that was all. He had not time\nto fully discharge his weapon. A violent blow was struck upon his right\nside, which brought him to the ground. However, he had not yet lost\nconsciousness. The assassins believed him dead. He felt them search\nhim. Then a conversation ensued. \"I have the letter,\" said one of them.\n\"Give it to me,\" replied Ben Joyce; \"and now the Duncan is ours!\"\n\nAt this point in the story Glenarvan could not restrain a cry.\n\nMacNabb continued:\n\n[Sidenote: A HOPELESS CHANCE.]\n\n\"'Now, you others,' said Ben Joyce, 'catch the horse. In two days I\nshall be on board the Duncan, and in six at Twofold Bay. There is the\nplac",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "41",
+      "claim_id": "41_C0",
+      "claim_text": "In Lisbon he unwittingly helped a black-marketeer dodge duty, was introduced to Duncan\u2019s smuggling ring and, using his sea-craft, slipped past patrols several times; guilt nibbled at him yet profit lured him deeper.",
+      "excerpt_text": "ans to be expected in a\nperson of his years, and, light and steady on his feet as a cat or a\nlizard, climbed from the table to the outstretched hands of Dant\u00e8s, and\nfrom them to his shoulders; then, bending double, for the ceiling of\nthe dungeon prevented him from holding himself erect, he managed to\nslip his head between the upper bars of the window, so as to be able to\ncommand a perfect view from top to bottom.\n\nAn instant afterwards he hastily drew back his head, saying, \u201cI thought\nso!\u201d and sliding from the shoulders of Dant\u00e8s as dextrously as he had\nascended, he nimbly leaped from the table to the ground.\n\n\u201cWhat was it that you thought?\u201d asked the young man anxiously, in his\nturn descending from the table.\n\nThe elder prisoner pondered the matter. \u201cYes,\u201d said he at length, \u201cit\nis so. This side of your chamber looks out upon a kind of open gallery,\nwhere patrols are continually passing, and sentries keep watch day and\nnight.\u201d\n\n\u201cAre you quite sure of that?\u201d\n\n\u201cCertain. I saw the soldie",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "41",
+      "claim_id": "41_C0",
+      "claim_text": "In Lisbon he unwittingly helped a black-marketeer dodge duty, was introduced to Duncan\u2019s smuggling ring and, using his sea-craft, slipped past patrols several times; guilt nibbled at him yet profit lured him deeper.",
+      "excerpt_text": "of it; the pickaxe\ndescended, or rather fell; he placed it on the ground, passed his hand\nover his brow, and remounted the stairs, alleging to himself, as an\nexcuse, a desire to be assured that no one was watching him, but in\nreality because he felt that he was about to faint.\n\nThe island was deserted, and the sun seemed to cover it with its fiery\nglance; afar off, a few small fishing boats studded the bosom of the\nblue ocean.\n\nDant\u00e8s had tasted nothing, but he thought not of hunger at such a\nmoment; he hastily swallowed a few drops of rum, and again entered the\ncavern.\n\nThe pickaxe that had seemed so heavy, was now like a feather in his\ngrasp; he seized it, and attacked the wall. After several blows he\nperceived that the stones were not cemented, but had been merely placed\none upon the other, and covered with stucco; he inserted the point of\nhis pickaxe, and using the handle as a lever, with joy soon saw the\nstone turn as if on hinges, and fall at his feet.\n\nHe had nothing more to do ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "41",
+      "claim_id": "41_C0",
+      "claim_text": "In Lisbon he unwittingly helped a black-marketeer dodge duty, was introduced to Duncan\u2019s smuggling ring and, using his sea-craft, slipped past patrols several times; guilt nibbled at him yet profit lured him deeper.",
+      "excerpt_text": " meeting such a man. Franz was less enthusiastic; but the\ncount exercised over him also the ascendency a strong mind always\nacquires over a mind less domineering. He thought several times of the\nproject the count had of visiting Paris; and he had no doubt but that,\nwith his eccentric character, his characteristic face, and his colossal\nfortune, he would produce a great effect there. And yet he did not wish\nto be at Paris when the count was there.\n\nThe evening passed as evenings mostly pass at Italian theatres; that\nis, not in listening to the music, but in paying visits and conversing.\nThe Countess G\u2014\u2014 wished to revive the subject of the count, but Franz\nannounced he had something far newer to tell her, and, in spite of\nAlbert\u2019s demonstrations of false modesty, he informed the countess of\nthe great event which had preoccupied them for the last three days. As\nsimilar intrigues are not uncommon in Italy, if we may credit\ntravellers, the comtess did not manifest the least incredulity, but",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

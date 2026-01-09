@@ -1,5 +1,70 @@
 {
-  "story_id": 87,
+  "story_id": "87",
   "prediction": 0,
-  "dossier": []
+  "dossier": [
+    {
+      "story_id": "87",
+      "claim_id": "87_C0",
+      "claim_text": "**Family Trauma**: His father was guillotined in 1792 for hiding exiled aristocrats; watching the blade fall left him with chronic hand tremors and lifelong revulsion for the old regime.",
+      "excerpt_text": "ajor, greatly puzzled.\n\n\"Yes, Mr. MacNabb,\" replied Austin. \"I will soon bring it.\"\n\nHe accordingly repaired to his own cabin. While he was gone, they gazed\nat each other in silence, except the major, who, with his eye fixed\nupon Paganel, said, as he folded his arms:\n\n\"Indeed, I must confess, Paganel, that this is a little too much.\"\n\nAt this moment Austin returned. He held in his hand the letter written\nby Paganel, and signed by Glenarvan.\n\n\"Read it, my lord,\" said the old sailor.\n\nGlenarvan took the letter, and read:\n\n\"Order for Tom Austin to put to sea, and bring the Duncan to the\neastern coast of New Zealand.\"\n\n\"New Zealand?\" cried Paganel, starting.\n\nHe snatched the letter from Glenarvan's hands, rubbed his eyes,\nadjusted his spectacles to his nose, and read in his turn.\n\n\"New Zealand!\" repeated he, in an indescribable tone, while the letter\nslipped from his fingers.\n\nJust then he felt a hand fall upon his shoulder. He turned, and found\nhimself face to face with the major.\n\n[Siden",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "87",
+      "claim_id": "87_C0",
+      "claim_text": "**Family Trauma**: His father was guillotined in 1792 for hiding exiled aristocrats; watching the blade fall left him with chronic hand tremors and lifelong revulsion for the old regime.",
+      "excerpt_text": ".\n\nAs they left Paris, an equipage with four horses, at full speed, was\nseen to draw up suddenly; it contained Monte Cristo. The count left the\ncarriage and mingled in the crowd who followed on foot. Ch\u00e2teau-Renaud\nperceived him and immediately alighting from his _coup\u00e9_, joined him;\nBeauchamp did the same.\n\nThe count looked attentively through every opening in the crowd; he was\nevidently watching for someone, but his search ended in disappointment.\n\n50119m\n\n\n\n\u201cWhere is Morrel?\u201d he asked; \u201cdo either of these gentlemen know where\nhe is?\u201d\n\n\u201cWe have already asked that question,\u201d said Ch\u00e2teau-Renaud, \u201cfor none\nof us has seen him.\u201d\n\nThe count was silent, but continued to gaze around him. At length they\narrived at the cemetery. The piercing eye of Monte Cristo glanced\nthrough clusters of bushes and trees, and was soon relieved from all\nanxiety, for seeing a shadow glide between the yew-trees, Monte Cristo\nrecognized him whom he sought.\n\nOne funeral is generally very much like another in this",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "87",
+      "claim_id": "87_C0",
+      "claim_text": "**Family Trauma**: His father was guillotined in 1792 for hiding exiled aristocrats; watching the blade fall left him with chronic hand tremors and lifelong revulsion for the old regime.",
+      "excerpt_text": "The old man was attired in a suit of glistening watered silk, trimmed\nwith steel buttons, beautifully cut and polished. His thin but wiry\nlegs were arrayed in a pair of richly embroidered clocked stockings,\nevidently of English manufacture, while from his three-cornered hat\ndepended a long streaming knot of white and blue ribbons. Thus he came\nalong, supporting himself on a curiously carved stick, his aged\ncountenance lit up with happiness, looking for all the world like one\nof the aged dandies of 1796, parading the newly opened gardens of the\nLuxembourg and Tuileries.\n\nBeside him glided Caderousse, whose desire to partake of the good\nthings provided for the wedding party had induced him to become\nreconciled to the Dant\u00e8s, father and son, although there still lingered\nin his mind a faint and unperfect recollection of the events of the\npreceding night; just as the brain retains on waking in the morning the\ndim and misty outline of a dream.\n\n0065m\n\n\n\nAs Danglars approached the disappoint",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "87",
+      "claim_id": "87_C0",
+      "claim_text": "**Family Trauma**: His father was guillotined in 1792 for hiding exiled aristocrats; watching the blade fall left him with chronic hand tremors and lifelong revulsion for the old regime.",
+      "excerpt_text": "ondin to be free from a small spice of the old leaven.\u201d A\ndeep crimson suffused the countenance of Villefort.\n\n\u201c\u2019Tis true, madame,\u201d answered he, \u201cthat my father was a Girondin, but\nhe was not among the number of those who voted for the king\u2019s death; he\nwas an equal sufferer with yourself during the Reign of Terror, and had\nwell-nigh lost his head on the same scaffold on which your father\nperished.\u201d\n\n\u201cTrue,\u201d replied the marquise, without wincing in the slightest degree\nat the tragic remembrance thus called up; \u201cbut bear in mind, if you\nplease, that our respective parents underwent persecution and\nproscription from diametrically opposite principles; in proof of which\nI may remark, that while my family remained among the staunchest\nadherents of the exiled princes, your father lost no time in joining\nthe new government; and that while the Citizen Noirtier was a Girondin,\nthe Count Noirtier became a senator.\u201d\n\n\u201cDear mother,\u201d interposed Ren\u00e9e, \u201cyou know very well it was agreed that\nall these",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "87",
+      "claim_id": "87_C0",
+      "claim_text": "**Family Trauma**: His father was guillotined in 1792 for hiding exiled aristocrats; watching the blade fall left him with chronic hand tremors and lifelong revulsion for the old regime.",
+      "excerpt_text": " first sitting of the assizes. The morning\ndawned dull and gloomy, and Villefort saw the dim gray light shine upon\nthe lines he had traced in red ink. The magistrate had slept for a\nshort time while the lamp sent forth its final struggles; its\nflickerings awoke him, and he found his fingers as damp and purple as\nthough they had been dipped in blood.\n\nHe opened the window; a bright yellow streak crossed the sky, and\nseemed to divide in half the poplars, which stood out in black relief\non the horizon. In the clover-fields beyond the chestnut-trees, a lark\nwas mounting up to heaven, while pouring out her clear morning song.\nThe damps of the dew bathed the head of Villefort, and refreshed his\nmemory.\n\n\u201cToday,\u201d he said with an effort,\u2014\u201ctoday the man who holds the blade of\njustice must strike wherever there is guilt.\u201d\n\nInvoluntarily his eyes wandered towards the window of Noirtier\u2019s room,\nwhere he had seen him the preceding night. The curtain was drawn, and\nyet the image of his father was so",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "87",
+      "claim_id": "87_C0",
+      "claim_text": "**Family Trauma**: His father was guillotined in 1792 for hiding exiled aristocrats; watching the blade fall left him with chronic hand tremors and lifelong revulsion for the old regime.",
+      "excerpt_text": "drea, that the season of your youth was\nrather a stormy one. Ah,\u201d said the count, watching Andrea\u2019s\ncountenance, \u201cI do not demand any confession from you; it is precisely\nto avoid that necessity that your father was sent for from Lucca. You\nshall soon see him. He is a little stiff and pompous in his manner, and\nhe is disfigured by his uniform; but when it becomes known that he has\nbeen for eighteen years in the Austrian service, all that will be\npardoned. We are not generally very severe with the Austrians. In\nshort, you will find your father a very presentable person, I assure\nyou.\u201d\n\n\u201cAh, sir, you have given me confidence; it is so long since we were\nseparated, that I have not the least remembrance of him, and, besides,\nyou know that in the eyes of the world a large fortune covers all\ndefects.\u201d\n\n\u201cHe is a millionaire\u2014his income is 500,000 francs.\u201d\n\n\u201cThen,\u201d said the young man, with anxiety, \u201cI shall be sure to be placed\nin an agreeable position.\u201d\n\n\u201cOne of the most agreeable possible, my",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "87",
+      "claim_id": "87_C0",
+      "claim_text": "**Family Trauma**: His father was guillotined in 1792 for hiding exiled aristocrats; watching the blade fall left him with chronic hand tremors and lifelong revulsion for the old regime.",
+      "excerpt_text": " that he was dead. Questions and answers\nfollowed in a nonchalant manner that made Dant\u00e8s indignant, for he felt\nthat all the world should have for the poor abb\u00e9 a love and respect\nequal to his own.\n\n\u201cI am very sorry for what you tell me,\u201d said the governor, replying to\nthe assurance of the doctor, \u201cthat the old man is really dead; for he\nwas a quiet, inoffensive prisoner, happy in his folly, and required no\nwatching.\u201d\n\n\u201cAh,\u201d added the turnkey, \u201cthere was no occasion for watching him; he\nwould have stayed here fifty years, I\u2019ll answer for it, without any\nattempt to escape.\u201d\n\n\u201cStill,\u201d said the governor, \u201cI believe it will be requisite,\nnotwithstanding your certainty, and not that I doubt your science, but\nin discharge of my official duty, that we should be perfectly assured\nthat the prisoner is dead.\u201d\n\nThere was a moment of complete silence, during which Dant\u00e8s, still\nlistening, knew that the doctor was examining the corpse a second time.\n\n\u201cYou may make your mind easy,\u201d said the doctor;",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "87",
+      "claim_id": "87_C0",
+      "claim_text": "**Family Trauma**: His father was guillotined in 1792 for hiding exiled aristocrats; watching the blade fall left him with chronic hand tremors and lifelong revulsion for the old regime.",
+      "excerpt_text": "the\nguillotine, the other elevates the people to a level with the throne.\nObserve,\u201d said Villefort, smiling, \u201cI do not mean to deny that both\nthese men were revolutionary scoundrels, and that the 9th Thermidor and\nthe 4th of April, in the year 1814, were lucky days for France, worthy\nof being gratefully remembered by every friend to monarchy and civil\norder; and that explains how it comes to pass that, fallen, as I trust\nhe is forever, Napoleon has still retained a train of parasitical\nsatellites. Still, marquise, it has been so with other\nusurpers\u2014Cromwell, for instance, who was not half so bad as Napoleon,\nhad his partisans and advocates.\u201d\n\n\u201cDo you know, Villefort, that you are talking in a most dreadfully\nrevolutionary strain? But I excuse it, it is impossible to expect the\nson of a Girondin to be free from a small spice of the old leaven.\u201d A\ndeep crimson suffused the countenance of Villefort.\n\n\u201c\u2019Tis true, madame,\u201d answered he, \u201cthat my father was a Girondin, but\nhe was not among th",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

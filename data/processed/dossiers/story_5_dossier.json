@@ -1,4 +1,78 @@
 {
-  "story_id": 5,
-  "dossier": []
+  "story_id": "5",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "5",
+      "claim_id": "5_C0",
+      "claim_text": "During an Algerian geological survey he shielded a box of specimens in a sand-storm, was struck on the head and afterwards often mixed up dates and directions.",
+      "excerpt_text": " francs, and in taking them from his pocket dropped a\nvisiting card. This belonged to one of his friends at the Caf\u00e9 de\nParis, so that the innkeeper, picking it up after Andrea had left, was\nconvinced that he had let his horse to the Count of Maul\u00e9on, 25 Rue\nSaint-Dominique, that being the name and address on the card.\n\n_Le Blanc_ was not a fast animal, but he kept up an easy, steady pace;\nin three hours and a half Andrea had traversed the nine leagues which\nseparated him from Compi\u00e8gne, and four o\u2019clock struck as he reached the\nplace where the coaches stop. There is an excellent tavern at\nCompi\u00e8gne, well remembered by those who have ever been there. Andrea,\nwho had often stayed there in his rides about Paris, recollected the\nBell and Bottle inn; he turned around, saw the sign by the light of a\nreflected lamp, and having dismissed the child, giving him all the\nsmall coin he had about him, he began knocking at the door, very\nreasonably concluding that having now three or four hours befo",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "5",
+      "claim_id": "5_C0",
+      "claim_text": "During an Algerian geological survey he shielded a box of specimens in a sand-storm, was struck on the head and afterwards often mixed up dates and directions.",
+      "excerpt_text": "s lying.\n\nSo many loathsome animals inhabited the prison, that their noise did\nnot, in general, awake him; but whether abstinence had quickened his\nfaculties, or whether the noise was really louder than usual, Edmond\nraised his head and listened. It was a continual scratching, as if made\nby a huge claw, a powerful tooth, or some iron instrument attacking the\nstones.\n\nAlthough weakened, the young man\u2019s brain instantly responded to the\nidea that haunts all prisoners\u2014liberty! It seemed to him that heaven\nhad at length taken pity on him, and had sent this noise to warn him on\nthe very brink of the abyss. Perhaps one of those beloved ones he had\nso often thought of was thinking of him, and striving to diminish the\ndistance that separated them.\n\nNo, no, doubtless he was deceived, and it was but one of those dreams\nthat forerun death!\n\nEdmond still heard the sound. It lasted nearly three hours; he then\nheard a noise of something falling, and all was silent.\n\nSome hours afterwards it began aga",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "5",
+      "claim_id": "5_C0",
+      "claim_text": "During an Algerian geological survey he shielded a box of specimens in a sand-storm, was struck on the head and afterwards often mixed up dates and directions.",
+      "excerpt_text": " the carriage, and descended at the viscount\u2019s\ndoor.\u201d The young men looked at each other; they did not know if it was\na comedy Monte Cristo was playing, but every word he uttered had such\nan air of simplicity, that it was impossible to suppose what he said\nwas false\u2014besides, why should he tell a falsehood?\n\n\u201cWe must content ourselves, then,\u201d said Beauchamp, \u201cwith rendering the\ncount all the little services in our power. I, in my quality of\njournalist, open all the theatres to him.\u201d\n\n\u201cThanks, monsieur,\u201d returned Monte Cristo, \u201cmy steward has orders to\ntake a box at each theatre.\u201d\n\n\u201cIs your steward also a Nubian?\u201d asked Debray.\n\n\u201cNo, he is a countryman of yours, if a Corsican is a countryman of\nanyone\u2019s. But you know him, M. de Morcerf.\u201d\n\n\u201cIs it that excellent M. Bertuccio, who understands hiring windows so\nwell?\u201d\n\n\u201cYes, you saw him the day I had the honor of receiving you; he has been\na soldier, a smuggler\u2014in fact, everything. I would not be quite sure\nthat he has not been mixed up with",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "5",
+      "claim_id": "5_C0",
+      "claim_text": "During an Algerian geological survey he shielded a box of specimens in a sand-storm, was struck on the head and afterwards often mixed up dates and directions.",
+      "excerpt_text": "th cordial kindness to Franz; then, inviting Albert to take the\nvacant seat beside her, she recommended Franz to take the next best, if\nhe wished to view the ballet, and pointed to the one behind her own\nchair.\n\nAlbert was soon deeply engrossed in discoursing upon Paris and Parisian\nmatters, speaking to the countess of the various persons they both knew\nthere. Franz perceived how completely he was in his element; and,\nunwilling to interfere with the pleasure he so evidently felt, took up\nAlbert\u2019s glass, and began in his turn to survey the audience.\n\nSitting alone, in the front of a box immediately opposite, but situated\non the third row, was a woman of exquisite beauty, dressed in a Greek\ncostume, which evidently, from the ease and grace with which she wore\nit, was her national attire. Behind her, but in deep shadow, was the\noutline of a masculine figure; but the features of this latter\npersonage it was not possible to distinguish. Franz could not forbear\nbreaking in upon the apparentl",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "5",
+      "claim_id": "5_C0",
+      "claim_text": "During an Algerian geological survey he shielded a box of specimens in a sand-storm, was struck on the head and afterwards often mixed up dates and directions.",
+      "excerpt_text": "pebble\nand was sure that it was in itself so interesting as a mineralogical\nspecimen that he must treasure it up for the Bank of France, so that\nhis own land might have at least one part of Australia. All this was\ndone with such a mingling of childish good-nature and scientific and\nnational pride that it was useless to do anything but laugh, and an\nirrepressible smile came over even the major's features. At length,\nhowever, by drawing him into a lecture, they succeeded in persuading\nhim to follow them; and, as they left the diggings, he told them the\nhistory of the prophecies, the discovery, and the spread of knowledge\nas to the rich auriferous deposits of this part of Australia. He\ncould give them facts and incidents and dates as to the ingress into\nMelbourne, and the exodus therefrom to the diggings, in the year 1852;\nhe told them how the energy and the love of order which characterize\nthe English-speaking peoples had reduced to system, method,\nsubordination, the chaotic surgings and",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "5",
+      "claim_id": "5_C0",
+      "claim_text": "During an Algerian geological survey he shielded a box of specimens in a sand-storm, was struck on the head and afterwards often mixed up dates and directions.",
+      "excerpt_text": "fact, a vast herd had perished in this bog, which had given way\nbeneath them. Hundreds of cattle had thus met their death, side by\nside, by suffocation in this vast quagmire. This circumstance, which\nsometimes takes place on the plains, could not be ignored by the\nIndian, and it was a warning which it was proper to heed. They passed\naround this immense hecatomb, which would have satisfied the most\nexacting gods of antiquity; and an hour after the field of horns was\nfar behind.\n\nThalcave now began to observe with an anxious air the state of things\naround him. He frequently stopped, and rose in his stirrups. His tall\nform enabled him to survey a wide range; but, perceiving nothing that\ncould enlighten him, he resumed his undeviating course. A mile farther,\nhe stopped again, and, turning from the beaten track, proceeded a short\ndistance, first to the north, then to the south, and then resumed his\nplace at the head of the party, without saying either what he hoped or\nwhat he feared.\n\nThese",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "5",
+      "claim_id": "5_C0",
+      "claim_text": "During an Algerian geological survey he shielded a box of specimens in a sand-storm, was struck on the head and afterwards often mixed up dates and directions.",
+      "excerpt_text": " he has, therefore, seldom\nacknowledged any other authority but that of his own will.\u201d\n\n\u201cThat assassination was a mysterious affair,\u201d said Villefort, \u201cand the\nperpetrators have hitherto escaped detection, although suspicion has\nfallen on the head of more than one person.\u201d\n\nNoirtier made such an effort that his lips expanded into a smile.\n\n\u201cNow,\u201d continued Villefort, \u201cthose to whom the guilt really belongs, by\nwhom the crime was committed, on whose heads the justice of man may\nprobably descend here, and the certain judgment of God hereafter, would\nrejoice in the opportunity thus afforded of bestowing such a\npeace-offering as Valentine on the son of him whose life they so\nruthlessly destroyed.\u201d Noirtier had succeeded in mastering his emotion\nmore than could have been deemed possible with such an enfeebled and\nshattered frame.\n\n\u201cYes, I understand,\u201d was the reply contained in his look; and this look\nexpressed a feeling of strong indignation, mixed with profound\ncontempt. Villefort fully un",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "5",
+      "claim_id": "5_C0",
+      "claim_text": "During an Algerian geological survey he shielded a box of specimens in a sand-storm, was struck on the head and afterwards often mixed up dates and directions.",
+      "excerpt_text": "e thousandth time all that belonged to his\nyacht) could look at the books and documents which he had brought with\nhim, intending to peruse them carefully. And as to the major he was\nnever in company and never out of company; his cigar insured, nothing\nelse was wanted.\n\nEver and anon many miles of the ocean would be covered by masses of\nsea-weed; these different species of alg\u00e6 would afford subject for\nresearch; specimens must be preserved, authorities must be consulted,\nand as one result at least all would become wiser. Then a discussion\nwould ensue on some geographical problem, and maps that were not\nattainable were of course appealed to by each disputant, though the\nsubject in question was often of very trivial moment. It was in the\nmidst of a debate of this kind, during the evening, that a sailor cried\nout,--\n\n\"Land ahead!\"\n\n\"In what direction?\" asked Paganel.\n\n\"To windward,\" replied the sailor.\n\nThe landsmen's eyes were strained, but to no purpose. The geographer's\ntelescope was br",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "5",
+      "claim_id": "5_C0",
+      "claim_text": "During an Algerian geological survey he shielded a box of specimens in a sand-storm, was struck on the head and afterwards often mixed up dates and directions.",
+      "excerpt_text": "he services thus rendered\ncharmed the Frenchman, who was none the less loquacious, and was in\ntruth able even to enlighten his guides.\n\n[Illustration: Here was the mineralogical museum, in which might be\nseen specimens illustrative of all the various ways in which the gold\nhas been found.]\n\n[Sidenote: PLEASING PROGRESS.]\n\nBut his joy culminated when, after some time spent in the hotel, the\nparty left the town, and passed through the \"diggings,\" properly so\ncalled. It was difficult to persuade Paganel and Robert--who kept\ntogether--to come on, in order that they might not leave Ayrton and\nMulready too long in suspense. Now the Frenchman would see just the key\nthat he needed to understand a point not before clear to him; anon you\nmight see him as in the illustration, when he had picked up a pebble\nand was sure that it was in itself so interesting as a mineralogical\nspecimen that he must treasure it up for the Bank of France, so that\nhis own land might have at least one part of Australia.",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

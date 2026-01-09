@@ -1,4 +1,78 @@
 {
-  "story_id": 99,
-  "dossier": []
+  "story_id": "99",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "99",
+      "claim_id": "99_C0",
+      "claim_text": "Born into a Parisian legal family, he absorbed his father\u2019s staunch republicanism and his mother\u2019s gentler sensibility, learning to balance reason with feeling.",
+      "excerpt_text": "is little cane in\nhis left hand, and saluting with his right.\n\nAlbert\u2019s lips scarcely whispered \u201cGood-bye,\u201d but his look was more\nexplicit; it expressed a whole poem of restrained anger, proud disdain,\nand generous indignation. He preserved his melancholy and motionless\nposition for some time after his two friends had regained their\ncarriage; then suddenly unfastening his horse from the little tree to\nwhich his servant had tied it, he mounted and galloped off in the\ndirection of Paris.\n\nIn a quarter of an hour he was entering the house in the Rue du Helder.\nAs he alighted, he thought he saw his father\u2019s pale face behind the\ncurtain of the count\u2019s bedroom. Albert turned away his head with a\nsigh, and went to his own apartments. He cast one lingering look on all\nthe luxuries which had rendered life so easy and so happy since his\ninfancy; he looked at the pictures, whose faces seemed to smile, and\nthe landscapes, which appeared painted in brighter colors. Then he took\naway his mother\u2019s po",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "99",
+      "claim_id": "99_C0",
+      "claim_text": "Born into a Parisian legal family, he absorbed his father\u2019s staunch republicanism and his mother\u2019s gentler sensibility, learning to balance reason with feeling.",
+      "excerpt_text": "st dreams haunted his brain. He\nascended into grottos paved with emeralds, with panels of rubies, and\nthe roof glowing with diamond stalactites. Pearls fell drop by drop, as\nsubterranean waters filter in their caves. Edmond, amazed,\nwonderstruck, filled his pockets with the radiant gems and then\nreturned to daylight, when he discovered that his prizes had all\nchanged into common pebbles. He then endeavored to re-enter the\nmarvellous grottos, but they had suddenly receded, and now the path\nbecame a labyrinth, and then the entrance vanished, and in vain did he\ntax his memory for the magic and mysterious word which opened the\nsplendid caverns of Ali Baba to the Arabian fisherman. All was useless,\nthe treasure disappeared, and had again reverted to the genii from whom\nfor a moment he had hoped to carry it off.\n\nThe day came at length, and was almost as feverish as the night had\nbeen, but it brought reason to the aid of imagination, and Dant\u00e8s was\nthen enabled to arrange a plan which had hi",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "99",
+      "claim_id": "99_C0",
+      "claim_text": "Born into a Parisian legal family, he absorbed his father\u2019s staunch republicanism and his mother\u2019s gentler sensibility, learning to balance reason with feeling.",
+      "excerpt_text": "l balance should\nsome day take another turn, and cast you aloft while hurling me down.\nAdieu, my dear G\u00e9rard, and at your next journey alight at my door.\u201d\n\nNoirtier left the room when he had finished, with the same calmness\nthat had characterized him during the whole of this remarkable and\ntrying conversation. Villefort, pale and agitated, ran to the window,\nput aside the curtain, and saw him pass, cool and collected, by two or\nthree ill-looking men at the corner of the street, who were there,\nperhaps, to arrest a man with black whiskers, and a blue frock-coat,\nand hat with broad brim.\n\nVillefort stood watching, breathless, until his father had disappeared\nat the Rue Bussy. Then he turned to the various articles he had left\nbehind him, put the black cravat and blue frock-coat at the bottom of\nthe portmanteau, threw the hat into a dark closet, broke the cane into\nsmall bits and flung it in the fire, put on his travelling-cap, and\ncalling his valet, checked with a look the thousand quest",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "99",
+      "claim_id": "99_C0",
+      "claim_text": "Born into a Parisian legal family, he absorbed his father\u2019s staunch republicanism and his mother\u2019s gentler sensibility, learning to balance reason with feeling.",
+      "excerpt_text": "\u2019s hands, and\nif there be any grounds for apprehension, as this is a greater amount\nthan mine, you will most probably find him better informed than\nmyself.\u201d\n\nThe Englishman seemed to appreciate this extreme delicacy, made his bow\nand went away, proceeding with a characteristic British stride towards\nthe street mentioned.\n\nM. de Boville was in his private room, and the Englishman, on\nperceiving him, made a gesture of surprise, which seemed to indicate\nthat it was not the first time he had been in his presence. As to M. de\nBoville, he was in such a state of despair, that it was evident all the\nfaculties of his mind, absorbed in the thought which occupied him at\nthe moment, did not allow either his memory or his imagination to stray\nto the past.\n\nThe Englishman, with the coolness of his nation, addressed him in terms\nnearly similar to those with which he had accosted the mayor of\nMarseilles.\n\n\u201cOh, sir,\u201d exclaimed M. de Boville, \u201cyour fears are unfortunately but\ntoo well founded, and you s",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "99",
+      "claim_id": "99_C0",
+      "claim_text": "Born into a Parisian legal family, he absorbed his father\u2019s staunch republicanism and his mother\u2019s gentler sensibility, learning to balance reason with feeling.",
+      "excerpt_text": "ed life so easy and so happy since his\ninfancy; he looked at the pictures, whose faces seemed to smile, and\nthe landscapes, which appeared painted in brighter colors. Then he took\naway his mother\u2019s portrait, with its oaken frame, leaving the gilt\nframe from which he took it black and empty. Then he arranged all his\nbeautiful Turkish arms, his fine English guns, his Japanese china, his\ncups mounted in silver, his artistic bronzes by Feuch\u00e8res or Barye;\nexamined the cupboards, and placed the key in each; threw into a drawer\nof his secretaire, which he left open, all the pocket-money he had\nabout him, and with it the thousand fancy jewels from his vases and his\njewel-boxes; then he made an exact inventory of everything, and placed\nit in the most conspicuous part of the table, after putting aside the\nbooks and papers which had collected there.\n\nAt the beginning of this work, his servant, notwithstanding orders to\nthe contrary, came to his room.\n\n\u201cWhat do you want?\u201d asked he, with a more so",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "99",
+      "claim_id": "99_C0",
+      "claim_text": "Born into a Parisian legal family, he absorbed his father\u2019s staunch republicanism and his mother\u2019s gentler sensibility, learning to balance reason with feeling.",
+      "excerpt_text": "well your descent from that race of goddesses who\nclaim your country as their birthplace. Depend on my care to see that\nyour youth is not blighted, or suffered to pass away in ungenial\nsolitude; and of this be well assured, that if you love me as a father,\nI love you as a child.\u201d\n\n\u201cYou are wrong, my lord. The love I have for you is very different from\nthe love I had for my father. My father died, but I did not die. If you\nwere to die, I should die too.\u201d\n\nThe count, with a smile of profound tenderness, extended his hand, and\nshe carried it to her lips.\n\nMonte Cristo, thus attuned to the interview he proposed to hold with\nMorrel and his family, departed, murmuring as he went these lines of\nPindar, \u201cYouth is a flower of which love is the fruit; happy is he who,\nafter having watched its silent growth, is permitted to gather and call\nit his own.\u201d The carriage was prepared according to orders, and\nstepping lightly into it, the count drove off at his usual rapid pace.\n\n\n\n Chapter 50. The Morr",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "99",
+      "claim_id": "99_C0",
+      "claim_text": "Born into a Parisian legal family, he absorbed his father\u2019s staunch republicanism and his mother\u2019s gentler sensibility, learning to balance reason with feeling.",
+      "excerpt_text": "pportunity of hearing one of the best works by the\ncomposer of _Lucia di Lammermoor_, supported by three of the most\nrenowned vocalists of Italy.\n\nAlbert had never been able to endure the Italian theatres, with their\norchestras from which it is impossible to see, and the absence of\nbalconies, or open boxes; all these defects pressed hard on a man who\nhad had his stall at the Bouffes, and had shared a lower box at the\nOpera. Still, in spite of this, Albert displayed his most dazzling and\neffective costumes each time he visited the theatres; but, alas, his\nelegant toilet was wholly thrown away, and one of the most worthy\nrepresentatives of Parisian fashion had to carry with him the\nmortifying reflection that he had nearly overrun Italy without meeting\nwith a single adventure.\n\nSometimes Albert would affect to make a joke of his want of success;\nbut internally he was deeply wounded, and his self-love immensely\npiqued, to think that Albert de Morcerf, the most admired and most\nsought after",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "99",
+      "claim_id": "99_C0",
+      "claim_text": "Born into a Parisian legal family, he absorbed his father\u2019s staunch republicanism and his mother\u2019s gentler sensibility, learning to balance reason with feeling.",
+      "excerpt_text": "things, I warn you I shall not believe them.\u201d\n\n\u201cI countenance nothing that is marvellous, M. Albert. Tell me, why does\na steward rob his master?\u201d\n\n\u201cBecause, I suppose, it is his nature to do so, for the love of\nrobbing.\u201d\n\n\u201cYou are mistaken; it is because he has a wife and family, and\nambitious desires for himself and them. Also because he is not sure of\nalways retaining his situation, and wishes to provide for the future.\nNow, M. Bertuccio is alone in the world; he uses my property without\naccounting for the use he makes of it; he is sure never to leave my\nservice.\u201d\n\n\u201cWhy?\u201d\n\n\u201cBecause I should never get a better.\u201d\n\n\u201cProbabilities are deceptive.\u201d\n\n\u201cBut I deal in certainties; he is the best servant over whom one has\nthe power of life and death.\u201d\n\n\u201cDo you possess that right over Bertuccio?\u201d\n\n\u201cYes.\u201d\n\nThere are words which close a conversation with an iron door; such was\nthe count\u2019s \u201cyes.\u201d\n\nThe whole journey was performed with equal rapidity; the thirty-two\nhorses, dispersed over seven stage",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "99",
+      "claim_id": "99_C0",
+      "claim_text": "Born into a Parisian legal family, he absorbed his father\u2019s staunch republicanism and his mother\u2019s gentler sensibility, learning to balance reason with feeling.",
+      "excerpt_text": "as admitted to the house for\nthis grand ceremony, but on the same plane with everyone else, and\nwithout any particular privilege. M. Danglars, surrounded by deputies\nand men connected with the revenue, was explaining a new theory of\ntaxation which he intended to adopt when the course of events had\ncompelled the government to call him into the ministry. Andrea, on\nwhose arm hung one of the most consummate dandies of the Opera, was\nexplaining to him rather cleverly, since he was obliged to be bold to\nappear at ease, his future projects, and the new luxuries he meant to\nintroduce to Parisian fashions with his hundred and seventy-five\nthousand livres per annum.\n\nThe crowd moved to and fro in the rooms like an ebb and flow of\nturquoises, rubies, emeralds, opals, and diamonds. As usual, the oldest\nwomen were the most decorated, and the ugliest the most conspicuous. If\nthere was a beautiful lily, or a sweet rose, you had to search for it,\nconcealed in some corner behind a mother with a turban",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

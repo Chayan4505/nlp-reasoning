@@ -1,5 +1,62 @@
 {
-  "story_id": 101,
-  "prediction": 0,
-  "dossier": []
+  "story_id": "101",
+  "prediction": 1,
+  "dossier": [
+    {
+      "story_id": "101",
+      "claim_id": "101_C0",
+      "claim_text": "At eighteen he joined a radical republican cell, speaking in caf\u00e9s and back-room meetings for the revolutionary cause.",
+      "excerpt_text": "the\nguillotine, the other elevates the people to a level with the throne.\nObserve,\u201d said Villefort, smiling, \u201cI do not mean to deny that both\nthese men were revolutionary scoundrels, and that the 9th Thermidor and\nthe 4th of April, in the year 1814, were lucky days for France, worthy\nof being gratefully remembered by every friend to monarchy and civil\norder; and that explains how it comes to pass that, fallen, as I trust\nhe is forever, Napoleon has still retained a train of parasitical\nsatellites. Still, marquise, it has been so with other\nusurpers\u2014Cromwell, for instance, who was not half so bad as Napoleon,\nhad his partisans and advocates.\u201d\n\n\u201cDo you know, Villefort, that you are talking in a most dreadfully\nrevolutionary strain? But I excuse it, it is impossible to expect the\nson of a Girondin to be free from a small spice of the old leaven.\u201d A\ndeep crimson suffused the countenance of Villefort.\n\n\u201c\u2019Tis true, madame,\u201d answered he, \u201cthat my father was a Girondin, but\nhe was not among th",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "101",
+      "claim_id": "101_C0",
+      "claim_text": "At eighteen he joined a radical republican cell, speaking in caf\u00e9s and back-room meetings for the revolutionary cause.",
+      "excerpt_text": ".\n\nAs they left Paris, an equipage with four horses, at full speed, was\nseen to draw up suddenly; it contained Monte Cristo. The count left the\ncarriage and mingled in the crowd who followed on foot. Ch\u00e2teau-Renaud\nperceived him and immediately alighting from his _coup\u00e9_, joined him;\nBeauchamp did the same.\n\nThe count looked attentively through every opening in the crowd; he was\nevidently watching for someone, but his search ended in disappointment.\n\n50119m\n\n\n\n\u201cWhere is Morrel?\u201d he asked; \u201cdo either of these gentlemen know where\nhe is?\u201d\n\n\u201cWe have already asked that question,\u201d said Ch\u00e2teau-Renaud, \u201cfor none\nof us has seen him.\u201d\n\nThe count was silent, but continued to gaze around him. At length they\narrived at the cemetery. The piercing eye of Monte Cristo glanced\nthrough clusters of bushes and trees, and was soon relieved from all\nanxiety, for seeing a shadow glide between the yew-trees, Monte Cristo\nrecognized him whom he sought.\n\nOne funeral is generally very much like another in this",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "101",
+      "claim_id": "101_C0",
+      "claim_text": "At eighteen he joined a radical republican cell, speaking in caf\u00e9s and back-room meetings for the revolutionary cause.",
+      "excerpt_text": "drea, that the season of your youth was\nrather a stormy one. Ah,\u201d said the count, watching Andrea\u2019s\ncountenance, \u201cI do not demand any confession from you; it is precisely\nto avoid that necessity that your father was sent for from Lucca. You\nshall soon see him. He is a little stiff and pompous in his manner, and\nhe is disfigured by his uniform; but when it becomes known that he has\nbeen for eighteen years in the Austrian service, all that will be\npardoned. We are not generally very severe with the Austrians. In\nshort, you will find your father a very presentable person, I assure\nyou.\u201d\n\n\u201cAh, sir, you have given me confidence; it is so long since we were\nseparated, that I have not the least remembrance of him, and, besides,\nyou know that in the eyes of the world a large fortune covers all\ndefects.\u201d\n\n\u201cHe is a millionaire\u2014his income is 500,000 francs.\u201d\n\n\u201cThen,\u201d said the young man, with anxiety, \u201cI shall be sure to be placed\nin an agreeable position.\u201d\n\n\u201cOne of the most agreeable possible, my",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "101",
+      "claim_id": "101_C0",
+      "claim_text": "At eighteen he joined a radical republican cell, speaking in caf\u00e9s and back-room meetings for the revolutionary cause.",
+      "excerpt_text": "ated nor exclaimed. He no longer\npossessed strength, will, power, or feeling; he followed where they led\nhim. At length he found himself at the foot of a staircase, and he\nmechanically lifted his foot five or six times. Then a low door was\nopened before him, and bending his head to avoid striking his forehead\nhe entered a small room cut out of the rock. The cell was clean, though\nempty, and dry, though situated at an immeasurable distance under the\nearth. A bed of dried grass covered with goat-skins was placed in one\ncorner. Danglars brightened up on beholding it, fancying that it gave\nsome promise of safety.\n\n\u201cOh, God be praised,\u201d he said; \u201cit is a real bed!\u201d\n\nThis was the second time within the hour that he had invoked the name\nof God. He had not done so for ten years before.\n\n\u201c_Ecco!_\u201d said the guide, and pushing Danglars into the cell, he closed\nthe door upon him.\n\nA bolt grated and Danglars was a prisoner. If there had been no bolt,\nit would have been impossible for him to pass th",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "101",
+      "claim_id": "101_C0",
+      "claim_text": "At eighteen he joined a radical republican cell, speaking in caf\u00e9s and back-room meetings for the revolutionary cause.",
+      "excerpt_text": "ontemplated death with a mixture of dread\nand desire; the time had come when the implacable spectre, which exists\nin the mind of every human creature, arrested his attention and called\nout with every pulsation of his heart, \u201cThou shalt die!\u201d\n\nDanglars resembled a timid animal excited in the chase; first it flies,\nthen despairs, and at last, by the very force of desperation, sometimes\nsucceeds in eluding its pursuers. Danglars meditated an escape; but the\nwalls were solid rock, a man was sitting reading at the only outlet to\nthe cell, and behind that man shapes armed with guns continually\npassed. His resolution not to sign lasted two days, after which he\noffered a million for some food. They sent him a magnificent supper,\nand took his million.\n\nFrom this time the prisoner resolved to suffer no longer, but to have\neverything he wanted. At the end of twelve days, after having made a\nsplendid dinner, he reckoned his accounts, and found that he had only\n50,000 francs left. Then a strange re",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "101",
+      "claim_id": "101_C0",
+      "claim_text": "At eighteen he joined a radical republican cell, speaking in caf\u00e9s and back-room meetings for the revolutionary cause.",
+      "excerpt_text": "he hewn stone and rough stones of the wall, and\nemployed it as a lever. A slight oscillation showed Dant\u00e8s that all\nwent well. At the end of an hour the stone was extricated from the\nwall, leaving a cavity a foot and a half in diameter.\n\nDant\u00e8s carefully collected the plaster, carried it into the corner of\nhis cell, and covered it with earth. Then, wishing to make the best use\nof his time while he had the means of labor, he continued to work\nwithout ceasing. At the dawn of day he replaced the stone, pushed his\nbed against the wall, and lay down. The breakfast consisted of a piece\nof bread; the jailer entered and placed the bread on the table.\n\n\u201cWell, don\u2019t you intend to bring me another plate?\u201d said Dant\u00e8s.\n\n\u201cNo,\u201d replied the turnkey; \u201cyou destroy everything. First you break\nyour jug, then you make me break your plate; if all the prisoners\nfollowed your example, the government would be ruined. I shall leave\nyou the saucepan, and pour your soup into that. So for the future I\nhope you wi",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "101",
+      "claim_id": "101_C0",
+      "claim_text": "At eighteen he joined a radical republican cell, speaking in caf\u00e9s and back-room meetings for the revolutionary cause.",
+      "excerpt_text": "se listening anxiously\nfor the sound, walking round and round his cell, shaking the iron bars\nof the loophole, restoring vigor and agility to his limbs by exercise,\nand so preparing himself for his future destiny. At intervals he\nlistened to learn if the noise had not begun again, and grew impatient\nat the prudence of the prisoner, who did not guess he had been\ndisturbed by a captive as anxious for liberty as himself.\n\nThree days passed\u2014seventy-two long tedious hours which he counted off\nby minutes!\n\nAt length one evening, as the jailer was visiting him for the last time\nthat night, Dant\u00e8s, with his ear for the hundredth time at the wall,\nfancied he heard an almost imperceptible movement among the stones. He\nmoved away, walked up and down his cell to collect his thoughts, and\nthen went back and listened.\n\nThe matter was no longer doubtful. Something was at work on the other\nside of the wall; the prisoner had discovered the danger, and had\nsubstituted a lever for a chisel.\n\nEncouraged b",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

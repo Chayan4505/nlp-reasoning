@@ -1,4 +1,70 @@
 {
-  "story_id": 112,
-  "dossier": []
+  "story_id": "112",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "112",
+      "claim_id": "112_C0",
+      "claim_text": "Through underground circles he met the Count of Monte Cristo and fed the avenger vital information, lending invisible aid to the plot against his enemies.",
+      "excerpt_text": "r depend\nupon himself, proceeded at once to the salon.\n\nAlthough M. de Villefort flattered himself that, to all outward view,\nhe had completely masked the feelings which were passing in his mind,\nhe did not know that the cloud was still lowering on his brow, so much\nso that the count, whose smile was radiant, immediately noticed his\nsombre and thoughtful air.\n\n\u201c_Ma foi!_\u201d said Monte Cristo, after the first compliments were over,\n\u201cwhat is the matter with you, M. de Villefort? Have I arrived at the\nmoment when you were drawing up an indictment for a capital crime?\u201d\n\nVillefort tried to smile.\n\n\u201cNo, count,\u201d he replied, \u201cI am the only victim in this case. It is I\nwho lose my cause, and it is ill-luck, obstinacy, and folly which have\ncaused it to be decided against me.\u201d\n\n\u201cTo what do you refer?\u201d said Monte Cristo with well-feigned interest.\n\u201cHave you really met with some great misfortune?\u201d\n\n\u201cOh, no, monsieur,\u201d said Villefort with a bitter smile; \u201cit is only a\nloss of money which I have sustai",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "112",
+      "claim_id": "112_C0",
+      "claim_text": "Through underground circles he met the Count of Monte Cristo and fed the avenger vital information, lending invisible aid to the plot against his enemies.",
+      "excerpt_text": "ring of the heart and the shuddering of\nthe frame, the enormous difference between a dream and a reality,\nbetween the project and the execution. However, Monte Cristo only made\na sign to apprise Ali, who, understanding that danger was approaching\nfrom the other side, drew nearer to his master. Monte Cristo was eager\nto ascertain the strength and number of his enemies.\n\nThe window whence the noise proceeded was opposite the opening by which\nthe count could see into the dressing-room. He fixed his eyes on that\nwindow\u2014he distinguished a shadow in the darkness; then one of the panes\nbecame quite opaque, as if a sheet of paper were stuck on the outside,\nthen the square cracked without falling. Through the opening an arm was\npassed to find the fastening, then a second; the window turned on its\nhinges, and a man entered. He was alone.\n\n\u201cThat\u2019s a daring rascal,\u201d whispered the count.\n\nAt that moment Ali touched him slightly on the shoulder. He turned; Ali\npointed to the window of the room in wh",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "112",
+      "claim_id": "112_C0",
+      "claim_text": "Through underground circles he met the Count of Monte Cristo and fed the avenger vital information, lending invisible aid to the plot against his enemies.",
+      "excerpt_text": " have not. Besides, his\npresenting you the cup under the name of Lord Ruthven\u2014\u2014\u201d\n\n\u201cOh, but that is dreadful! Why, the man must owe me a fearful grudge.\u201d\n\n\u201cDoes his action appear like that of an enemy?\u201d\n\n\u201cNo; certainly not.\u201d\n\n\u201cWell, then\u2014\u2014\u201d\n\n\u201cAnd so he is in Paris?\u201d\n\n\u201cYes.\u201d\n\n\u201cAnd what effect does he produce?\u201d\n\n\u201cWhy,\u201d said Albert, \u201che was talked about for a week; then the\ncoronation of the queen of England took place, followed by the theft of\nMademoiselle Mars\u2019s diamonds; and so people talked of something else.\u201d\n\n\u201cMy good fellow,\u201d said Ch\u00e2teau-Renaud, \u201cthe count is your friend and\nyou treat him accordingly. Do not believe what Albert is telling you,\ncountess; so far from the sensation excited in the Parisian circles by\nthe appearance of the Count of Monte Cristo having abated, I take upon\nmyself to declare that it is as strong as ever. His first astounding\nact upon coming amongst us was to present a pair of horses, worth\n32,000 francs, to Madame Danglars; his second, the almost miraculou",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "112",
+      "claim_id": "112_C0",
+      "claim_text": "Through underground circles he met the Count of Monte Cristo and fed the avenger vital information, lending invisible aid to the plot against his enemies.",
+      "excerpt_text": "esented itself now to his recollection. Monte Cristo knew everything,\nas he had bought the daughter of Ali Pasha; and, knowing everything, he\nhad advised Danglars to write to Yanina. The answer known, he had\nyielded to Albert\u2019s wish to be introduced to Hayd\u00e9e, and allowed the\nconversation to turn on the death of Ali, and had not opposed Hayd\u00e9e\u2019s\nrecital (but having, doubtless, warned the young girl, in the few\nRomaic words he spoke to her, not to implicate Morcerf\u2019s father).\nBesides, had he not begged of Morcerf not to mention his father\u2019s name\nbefore Hayd\u00e9e? Lastly, he had taken Albert to Normandy when he knew the\nfinal blow was near. There could be no doubt that all had been\ncalculated and previously arranged; Monte Cristo then was in league\nwith his father\u2019s enemies. Albert took Beauchamp aside, and\ncommunicated these ideas to him.\n\n\u201cYou are right,\u201d said the latter; \u201cM. Danglars has only been a\nsecondary agent in this sad affair, and it is of M. de Monte Cristo\nthat you must demand ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "112",
+      "claim_id": "112_C0",
+      "claim_text": "Through underground circles he met the Count of Monte Cristo and fed the avenger vital information, lending invisible aid to the plot against his enemies.",
+      "excerpt_text": "anti,\nthe young man in a black coat, looking at Murillo\u2019s \u2018Madonna\u2019; now he\nis turning.\u201d\n\nThis time Bertuccio would have uttered an exclamation, had not a look\nfrom Monte Cristo silenced him.\n\n\u201cBenedetto?\u201d he muttered; \u201cfatality!\u201d\n\n\u201cHalf-past six o\u2019clock has just struck, M. Bertuccio,\u201d said the count\nseverely; \u201cI ordered dinner at that hour, and I do not like to wait;\u201d\nand he returned to his guests, while Bertuccio, leaning against the\nwall, succeeded in reaching the dining-room. Five minutes afterwards\nthe doors of the drawing-room were thrown open, and Bertuccio appearing\nsaid, with a violent effort, \u201cThe dinner waits.\u201d\n\nThe Count of Monte Cristo offered his arm to Madame de Villefort. \u201cM.\nde Villefort,\u201d he said, \u201cwill you conduct the Baroness Danglars?\u201d\n\nVillefort complied, and they passed on to the dining-room.\n\n\n\n Chapter 63. The Dinner\n\nIt was evident that one sentiment affected all the guests on entering\nthe dining-room. Each one asked what strange influence had brought them\nto ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "112",
+      "claim_id": "112_C0",
+      "claim_text": "Through underground circles he met the Count of Monte Cristo and fed the avenger vital information, lending invisible aid to the plot against his enemies.",
+      "excerpt_text": ". But I do not see the\nCount of Monte Cristo here.\u201d\n\n\u201cHe is worn out,\u201d said Debray; \u201cbesides, he could not well appear in\npublic, since he has been the dupe of the Cavalcanti, who, it appears,\npresented themselves to him with false letters of credit, and cheated\nhim out of 100,000 francs upon the hypothesis of this principality.\u201d\n\n\u201cBy the way, M. de Ch\u00e2teau-Renaud,\u201d asked Beauchamp, \u201chow is Morrel?\u201d\n\n\u201c_Ma foi_, I have called three times without once seeing him. Still,\nhis sister did not seem uneasy, and told me that though she had not\nseen him for two or three days, she was sure he was well.\u201d\n\n\u201cAh, now I think of it, the Count of Monte Cristo cannot appear in the\nhall,\u201d said Beauchamp.\n\n\u201cWhy not?\u201d\n\n\u201cBecause he is an actor in the drama.\u201d\n\n\u201cHas he assassinated anyone, then?\u201d\n\n\u201cNo, on the contrary, they wished to assassinate him. You know that it\nwas in leaving his house that M. de Caderousse was murdered by his\nfriend Benedetto. You know that the famous waistcoat was found in his\nhouse, ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "112",
+      "claim_id": "112_C0",
+      "claim_text": "Through underground circles he met the Count of Monte Cristo and fed the avenger vital information, lending invisible aid to the plot against his enemies.",
+      "excerpt_text": "ed to\ntheir apartments, and proceeded to disencumber themselves of their\ncostumes. Albert, as he took off his dress, carefully preserved the\nbunch of violets; it was his token reserved for the morrow.\n\nThe two friends sat down to table; but they could not refrain from\nremarking the difference between the Count of Monte Cristo\u2019s table and\nthat of Signor Pastrini. Truth compelled Franz, in spite of the dislike\nhe seemed to have taken to the count, to confess that the advantage was\nnot on Pastrini\u2019s side. During dessert, the servant inquired at what\ntime they wished for the carriage. Albert and Franz looked at each\nother, fearing really to abuse the count\u2019s kindness. The servant\nunderstood them.\n\n\u201cHis excellency the Count of Monte Cristo had,\u201d he said, \u201cgiven\npositive orders that the carriage was to remain at their lordships\u2019\norders all day, and they could therefore dispose of it without fear of\nindiscretion.\u201d\n\nThey resolved to profit by the count\u2019s courtesy, and ordered the horses\nto be ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "112",
+      "claim_id": "112_C0",
+      "claim_text": "Through underground circles he met the Count of Monte Cristo and fed the avenger vital information, lending invisible aid to the plot against his enemies.",
+      "excerpt_text": ", \u201cI\nwould give a good deal to know how it comes about that the Count of\nMonte Cristo is acquainted with M. de Villefort.\u201d\n\n\n\n Chapter 52. Toxicology\n\nIt was really the Count of Monte Cristo who had just arrived at Madame\nde Villefort\u2019s for the purpose of returning the procureur\u2019s visit, and\nat his name, as may be easily imagined, the whole house was in\nconfusion.\n\nMadame de Villefort, who was alone in her drawing-room when the count\nwas announced, desired that her son might be brought thither instantly\nto renew his thanks to the count; and Edward, who heard this great\npersonage talked of for two whole days, made all possible haste to come\nto him, not from obedience to his mother, or out of any feeling of\ngratitude to the count, but from sheer curiosity, and that some chance\nremark might give him the opportunity for making one of the impertinent\nspeeches which made his mother say:\n\n\u201cOh, that naughty child! But I can\u2019t be severe with him, he is really\n_so_ bright.\u201d\n\nAfter the usual civi",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

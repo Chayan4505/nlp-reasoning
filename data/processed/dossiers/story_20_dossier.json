@@ -1,4 +1,62 @@
 {
-  "story_id": 20,
-  "dossier": []
+  "story_id": "20",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "20",
+      "claim_id": "20_C0",
+      "claim_text": "After a failed attempt to save a drowning comrade he was injured; the naval commander\u2019s praise when he recovered left him with a strong sense of duty toward rescue.",
+      "excerpt_text": "ering her\nhusband.\n\n\u201cRead me something, M. Debray,\u201d she said. Debray, who was slightly\ndisturbed at this visit, recovered himself when he saw the calmness of\nthe baroness, and took up a book marked by a mother-of-pearl knife\ninlaid with gold.\n\n\u201cExcuse me,\u201d said the banker, \u201cbut you will tire yourself, baroness, by\nsuch late hours, and M. Debray lives some distance from here.\u201d\n\nDebray was petrified, not only to hear Danglars speak so calmly and\npolitely, but because it was apparent that beneath outward politeness\nthere really lurked a determined spirit of opposition to anything his\nwife might wish to do. The baroness was also surprised, and showed her\nastonishment by a look which would doubtless have had some effect upon\nher husband if he had not been intently occupied with the paper, where\nhe was looking to see the closing stock quotations. The result was,\nthat the proud look entirely failed of its purpose.\n\n\u201cM. Lucien,\u201d said the baroness, \u201cI assure you I have no desire to\nsleep, and t",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "20",
+      "claim_id": "20_C0",
+      "claim_text": "After a failed attempt to save a drowning comrade he was injured; the naval commander\u2019s praise when he recovered left him with a strong sense of duty toward rescue.",
+      "excerpt_text": "her need of you; you may go.\u201d\n\n\u201cBut,\u201d observed the honest notary, \u201cthe count is, I think, mistaken; it\nis only fifty thousand francs, everything included.\u201d\n\n\u201cAnd your fee?\u201d\n\n\u201cIs included in this sum.\u201d\n\n\u201cBut have you not come from Auteuil here?\u201d\n\n\u201cYes, certainly.\u201d\n\n\u201cWell, then, it is but fair that you should be paid for your loss of\ntime and trouble,\u201d said the count; and he made a gesture of polite\ndismissal.\n\nThe notary left the room backwards, and bowing down to the ground; it\nwas the first time he had ever met a similar client.\n\n\u201cSee this gentleman out,\u201d said the count to Bertuccio. And the steward\nfollowed the notary out of the room.\n\nScarcely was the count alone, when he drew from his pocket a book\nclosed with a lock, and opened it with a key which he wore round his\nneck, and which never left him. After having sought for a few minutes,\nhe stopped at a leaf which had several notes, and compared them with\nthe deed of sale, which lay on the table, and recalling his\n_souvenirs_\u2014\n\n\u201c\u2018Aut",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "20",
+      "claim_id": "20_C0",
+      "claim_text": "After a failed attempt to save a drowning comrade he was injured; the naval commander\u2019s praise when he recovered left him with a strong sense of duty toward rescue.",
+      "excerpt_text": "s crew.\n\nFranz drew his handkerchief from his pocket, and presented it to the\nman who had spoken to him. Without uttering a word, they bandaged his\neyes with a care that showed their apprehensions of his committing some\nindiscretion. Afterwards he was made to promise that he would not make\nthe least attempt to raise the bandage. He promised.\n\nThen his two guides took his arms, and he went on, guided by them, and\npreceded by the sentinel. After going about thirty paces, he smelt the\nappetizing odor of the kid that was roasting, and knew thus that he was\npassing the bivouac; they then led him on about fifty paces farther,\nevidently advancing towards that part of the shore where they would not\nallow Gaetano to go\u2014a refusal he could now comprehend.\n\nPresently, by a change in the atmosphere, he knew that they were\nentering a cave; after going on for a few seconds more he heard a\ncrackling, and it seemed to him as though the atmosphere again changed,\nand became balmy and perfumed. At length ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "20",
+      "claim_id": "20_C0",
+      "claim_text": "After a failed attempt to save a drowning comrade he was injured; the naval commander\u2019s praise when he recovered left him with a strong sense of duty toward rescue.",
+      "excerpt_text": "d,\u2014\n\n\u201cWell, it appears that he has given you satisfactory reasons for his\nlanding at Porto-Ferrajo?\u201d\n\n\u201cYes, most satisfactory, my dear Danglars.\u201d\n\n\u201cWell, so much the better,\u201d said the supercargo; \u201cfor it is not\npleasant to think that a comrade has not done his duty.\u201d\n\n\u201cDant\u00e8s has done his,\u201d replied the owner, \u201cand that is not saying much.\nIt was Captain Leclere who gave orders for this delay.\u201d\n\n\u201cTalking of Captain Leclere, has not Dant\u00e8s given you a letter from\nhim?\u201d\n\n\u201cTo me?\u2014no\u2014was there one?\u201d\n\n\u201cI believe that, besides the packet, Captain Leclere confided a letter\nto his care.\u201d\n\n\u201cOf what packet are you speaking, Danglars?\u201d\n\n\u201cWhy, that which Dant\u00e8s left at Porto-Ferrajo.\u201d\n\n\u201cHow do you know he had a packet to leave at Porto-Ferrajo?\u201d\n\nDanglars turned very red.\n\n\u201cI was passing close to the door of the captain\u2019s cabin, which was half\nopen, and I saw him give the packet and letter to Dant\u00e8s.\u201d\n\n\u201cHe did not speak to me of it,\u201d replied the shipowner; \u201cbut if there be\nany letter he will give i",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "20",
+      "claim_id": "20_C0",
+      "claim_text": "After a failed attempt to save a drowning comrade he was injured; the naval commander\u2019s praise when he recovered left him with a strong sense of duty toward rescue.",
+      "excerpt_text": "scape,\nwhile I have been but a hindrance. You will no longer have half a dead\nbody tied to you as a drag to all your movements. At length Providence\nhas done something for you; he restores to you more than he takes away,\nand it was time I should die.\u201d\n\nEdmond could only clasp his hands and exclaim, \u201cOh, my friend, my\nfriend, speak not thus!\u201d and then resuming all his presence of mind,\nwhich had for a moment staggered under this blow, and his strength,\nwhich had failed at the words of the old man, he said, \u201cOh, I have\nsaved you once, and I will save you a second time!\u201d And raising the\nfoot of the bed, he drew out the phial, still a third filled with the\nred liquor.\n\n\u201cSee,\u201d he exclaimed, \u201cthere remains still some of the magic draught.\nQuick, quick! tell me what I must do this time; are there any fresh\ninstructions? Speak, my friend; I listen.\u201d\n\n\u201cThere is not a hope,\u201d replied Faria, shaking his head, \u201cbut no matter;\nGod wills it that man whom he has created, and in whose heart he has so\np",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "20",
+      "claim_id": "20_C0",
+      "claim_text": "After a failed attempt to save a drowning comrade he was injured; the naval commander\u2019s praise when he recovered left him with a strong sense of duty toward rescue.",
+      "excerpt_text": "a wave which he no longer had the strength\nto surmount passed over his head. He rose again to the surface,\nstruggled with the last desperate effort of a drowning man, uttered a\nthird cry, and felt himself sinking, as if the fatal cannon shot were\nagain tied to his feet. The water passed over his head, and the sky\nturned gray. A convulsive movement again brought him to the surface. He\nfelt himself seized by the hair, then he saw and heard nothing. He had\nfainted.\n\nWhen he opened his eyes Dant\u00e8s found himself on the deck of the tartan.\nHis first care was to see what course they were taking. They were\nrapidly leaving the Ch\u00e2teau d\u2019If behind. Dant\u00e8s was so exhausted that\nthe exclamation of joy he uttered was mistaken for a sigh.\n\nAs we have said, he was lying on the deck. A sailor was rubbing his\nlimbs with a woollen cloth; another, whom he recognized as the one who\nhad cried out \u201cCourage!\u201d held a gourd full of rum to his mouth; while\nthe third, an old sailor, at once the pilot and captain",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "20",
+      "claim_id": "20_C0",
+      "claim_text": "After a failed attempt to save a drowning comrade he was injured; the naval commander\u2019s praise when he recovered left him with a strong sense of duty toward rescue.",
+      "excerpt_text": "ven up the fight. He had learned that\nDant\u00e8s had been taken to prison, and he had gone to all his friends,\nand the influential persons of the city; but the report was already in\ncirculation that Dant\u00e8s was arrested as a Bonapartist agent; and as the\nmost sanguine looked upon any attempt of Napoleon to remount the throne\nas impossible, he met with nothing but refusal, and had returned home\nin despair, declaring that the matter was serious and that nothing more\ncould be done.\n\nCaderousse was equally restless and uneasy, but instead of seeking,\nlike M. Morrel, to aid Dant\u00e8s, he had shut himself up with two bottles\nof black currant brandy, in the hope of drowning reflection. But he did\nnot succeed, and became too intoxicated to fetch any more drink, and\nyet not so intoxicated as to forget what had happened. With his elbows\non the table he sat between the two empty bottles, while spectres\ndanced in the light of the unsnuffed candle\u2014spectres such as Hoffmann\nstrews over his punch-drenched pa",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

@@ -1,5 +1,70 @@
 {
-  "story_id": 95,
-  "prediction": 1,
-  "dossier": []
+  "story_id": "95",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "95",
+      "claim_id": "95_C0",
+      "claim_text": "Learning that Villefort meant to denounce him to Louis XVIII, Noirtier pre-emptively handed the conspiracy dossier to a British spy\u2014the very file the Count of Monte Cristo later acquired\u2014thereby engineering his son\u2019s \u201clawful\u201d murder.",
+      "excerpt_text": "ned up one of\nthe neighboring streets. Then they returned to the Rospoli Palace; but\nthe count and the blue domino had also disappeared; the two windows,\nhung with yellow damask, were still occupied by the persons whom the\ncount had invited.\n\nAt this moment the same bell that had proclaimed the beginning of the\nmascherata sounded the retreat. The file on the Corso broke the line,\nand in a second all the carriages had disappeared. Franz and Albert\nwere opposite the Via delle Muratte; the coachman, without saying a\nword, drove up it, passed along the Piazza di Spagna and the Rospoli\nPalace and stopped at the door of the hotel. Signor Pastrini came to\nthe door to receive his guests.\n\nFranz hastened to inquire after the count, and to express regret that\nhe had not returned in sufficient time; but Pastrini reassured him by\nsaying that the Count of Monte Cristo had ordered a second carriage for\nhimself, and that it had gone at four o\u2019clock to fetch him from the\nRospoli Palace.\n\nThe count had",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "95",
+      "claim_id": "95_C0",
+      "claim_text": "Learning that Villefort meant to denounce him to Louis XVIII, Noirtier pre-emptively handed the conspiracy dossier to a British spy\u2014the very file the Count of Monte Cristo later acquired\u2014thereby engineering his son\u2019s \u201clawful\u201d murder.",
+      "excerpt_text": "eturned, bringing with him a small casket.\n\n\u201cDo you permit us to open this casket?\u201d asked the notary. Noirtier gave\nhis assent.\n\nThey opened it, and found 900,000 francs in bank scrip. The first\nnotary handed over each note, as he examined it, to his colleague.\n\nThe total amount was found to be as M. Noirtier had stated.\n\n\u201cIt is all as he has said; it is very evident that the mind still\nretains its full force and vigor.\u201d Then, turning towards the paralytic,\nhe said, \u201cYou possess, then, 900,000 francs of capital, which,\naccording to the manner in which you have invested it, ought to bring\nin an income of about 40,000 livres?\u201d\n\n\u201cYes.\u201d\n\n\u201cTo whom do you desire to leave this fortune?\u201d\n\n\u201cOh!\u201d said Madame de Villefort, \u201cthere is not much doubt on that\nsubject. M. Noirtier tenderly loves his granddaughter, Mademoiselle de\nVillefort; it is she who has nursed and tended him for six years, and\nhas, by her devoted attention, fully secured the affection, I had\nalmost said the gratitude, of her gran",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "95",
+      "claim_id": "95_C0",
+      "claim_text": "Learning that Villefort meant to denounce him to Louis XVIII, Noirtier pre-emptively handed the conspiracy dossier to a British spy\u2014the very file the Count of Monte Cristo later acquired\u2014thereby engineering his son\u2019s \u201clawful\u201d murder.",
+      "excerpt_text": "o\nhelp us; we enroll no one against his conscience, but we will compel\nyou to act generously, even if you are not disposed to do so.\u201d\n\n\u201c\u2018\u201cYou would call acting generously, knowing your conspiracy and not\ninforming against you, that is what I should call becoming your\naccomplice. You see I am more candid than you.\u201d\u2019\u201d\n\n\u201cAh, my father!\u201d said Franz, interrupting himself. \u201cI understand now\nwhy they murdered him.\u201d Valentine could not help casting one glance\ntowards the young man, whose filial enthusiasm it was delightful to\nbehold. Villefort walked to and fro behind them. Noirtier watched the\nexpression of each one, and preserved his dignified and commanding\nattitude. Franz returned to the manuscript, and continued:\n\n\u201c\u2018\u201cSir,\u201d said the president, \u201cyou have been invited to join this\nassembly\u2014you were not forced here; it was proposed to you to come\nblindfolded\u2014you accepted. When you complied with this twofold request\nyou well knew we did not wish to secure the throne of Louis XVIII., or\nwe shou",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "95",
+      "claim_id": "95_C0",
+      "claim_text": "Learning that Villefort meant to denounce him to Louis XVIII, Noirtier pre-emptively handed the conspiracy dossier to a British spy\u2014the very file the Count of Monte Cristo later acquired\u2014thereby engineering his son\u2019s \u201clawful\u201d murder.",
+      "excerpt_text": "if\nnothing had happened; his face was like marble, and his heart was like\nbronze. Morrel whispered, \u201cWhat have you done to him?\u201d\n\n\u201cI? Nothing\u2014at least personally,\u201d said Monte Cristo.\n\n\u201cBut there must be some cause for this strange scene.\u201d\n\n\u201cThe Count of Morcerf\u2019s adventure exasperates the young man.\u201d\n\n\u201cHave you anything to do with it?\u201d\n\n\u201cIt was through Hayd\u00e9e that the Chamber was informed of his father\u2019s\ntreason.\u201d\n\n\u201cIndeed?\u201d said Morrel. \u201cI had been told, but would not credit it, that\nthe Grecian slave I have seen with you here in this very box was the\ndaughter of Ali Pasha.\u201d\n\n\u201cIt is true, nevertheless.\u201d\n\n\u201cThen,\u201d said Morrel, \u201cI understand it all, and this scene was\npremeditated.\u201d\n\n\u201cHow so?\u201d\n\n\u201cYes. Albert wrote to request me to come to the Opera, doubtless that I\nmight be a witness to the insult he meant to offer you.\u201d\n\n\u201cProbably,\u201d said Monte Cristo with his imperturbable tranquillity.\n\n\u201cBut what shall you do with him?\u201d\n\n\u201cWith whom?\u201d\n\n\u201cWith Albert.\u201d\n\n\u201cWhat shall I do with Albert? As ce",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "95",
+      "claim_id": "95_C0",
+      "claim_text": "Learning that Villefort meant to denounce him to Louis XVIII, Noirtier pre-emptively handed the conspiracy dossier to a British spy\u2014the very file the Count of Monte Cristo later acquired\u2014thereby engineering his son\u2019s \u201clawful\u201d murder.",
+      "excerpt_text": "ing himself up as if he would\nchallenge both friends and enemies, \u201cI shall endeavor to correct his\nmistake.\u201d\n\n\u201cWhat happened during the night?\u201d asked Beauchamp of Ch\u00e2teau-Renaud;\n\u201cwe appear to make a very sorry figure here.\u201d\n\n\u201cIn truth, what Albert has just done is either very despicable or very\nnoble,\u201d replied the baron.\n\n\u201cWhat can it mean?\u201d said Debray to Franz.\n\n\u201cThe Count of Monte Cristo acts dishonorably to M. de Morcerf, and is\njustified by his son! Had I ten Yaninas in my family, I should only\nconsider myself the more bound to fight ten times.\u201d\n\nAs for Monte Cristo, his head was bent down, his arms were powerless.\nBowing under the weight of twenty-four years\u2019 reminiscences, he thought\nnot of Albert, of Beauchamp, of Ch\u00e2teau-Renaud, or of any of that\ngroup; but he thought of that courageous woman who had come to plead\nfor her son\u2019s life, to whom he had offered his, and who had now saved\nit by the revelation of a dreadful family secret, capable of destroying\nforever in that young ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "95",
+      "claim_id": "95_C0",
+      "claim_text": "Learning that Villefort meant to denounce him to Louis XVIII, Noirtier pre-emptively handed the conspiracy dossier to a British spy\u2014the very file the Count of Monte Cristo later acquired\u2014thereby engineering his son\u2019s \u201clawful\u201d murder.",
+      "excerpt_text": "ose name I could not extract from\nhim; but this mission was to prepare men\u2019s minds for a return (it is\nthe man who says this, sire)\u2014a return which will soon occur.\u201d\n\n\u201cAnd where is this man?\u201d\n\n\u201cIn prison, sire.\u201d\n\n\u201cAnd the matter seems serious to you?\u201d\n\n\u201cSo serious, sire, that when the circumstance surprised me in the midst\nof a family festival, on the very day of my betrothal, I left my bride\nand friends, postponing everything, that I might hasten to lay at your\nmajesty\u2019s feet the fears which impressed me, and the assurance of my\ndevotion.\u201d\n\n\u201cTrue,\u201d said Louis XVIII., \u201cwas there not a marriage engagement between\nyou and Mademoiselle de Saint-M\u00e9ran?\u201d\n\n\u201cDaughter of one of your majesty\u2019s most faithful servants.\u201d\n\n\u201cYes, yes; but let us talk of this plot, M. de Villefort.\u201d\n\n\u201cSire, I fear it is more than a plot; I fear it is a conspiracy.\u201d\n\n\u201cA conspiracy in these times,\u201d said Louis XVIII., smiling, \u201cis a thing\nvery easy to meditate, but more difficult to conduct to an end,\ninasmuch as, re-est",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "95",
+      "claim_id": "95_C0",
+      "claim_text": "Learning that Villefort meant to denounce him to Louis XVIII, Noirtier pre-emptively handed the conspiracy dossier to a British spy\u2014the very file the Count of Monte Cristo later acquired\u2014thereby engineering his son\u2019s \u201clawful\u201d murder.",
+      "excerpt_text": "rageous woman who had come to plead\nfor her son\u2019s life, to whom he had offered his, and who had now saved\nit by the revelation of a dreadful family secret, capable of destroying\nforever in that young man\u2019s heart every feeling of filial piety.\n\n\u201cProvidence still,\u201d murmured he; \u201cnow only am I fully convinced of\nbeing the emissary of God!\u201d\n\n\n\n Chapter 91. Mother and Son\n\nThe Count of Monte Cristo bowed to the five young men with a melancholy\nand dignified smile, and got into his carriage with Maximilian and\nEmmanuel. Albert, Beauchamp, and Ch\u00e2teau-Renaud remained alone. Albert\nlooked at his two friends, not timidly, but in a way that appeared to\nask their opinion of what he had just done.\n\n\u201cIndeed, my dear friend,\u201d said Beauchamp first, who had either the most\nfeeling or the least dissimulation, \u201callow me to congratulate you; this\nis a very unhoped-for conclusion of a very disagreeable affair.\u201d\n\nAlbert remained silent and wrapped in thought. Ch\u00e2teau-Renaud contented\nhimself with tapping h",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "95",
+      "claim_id": "95_C0",
+      "claim_text": "Learning that Villefort meant to denounce him to Louis XVIII, Noirtier pre-emptively handed the conspiracy dossier to a British spy\u2014the very file the Count of Monte Cristo later acquired\u2014thereby engineering his son\u2019s \u201clawful\u201d murder.",
+      "excerpt_text": "hat case, sir,\u201d rejoined Madame de Villefort, \u201cI will leave you\noverwhelmed with gratitude and happiness at your prompt acquiescence to\nmy wishes.\u201d She then bowed to M. Noirtier and retired.\n\nThe next day M. Noirtier sent for the notary; the first will was torn\nup and a second made, in which he left the whole of his fortune to\nValentine, on condition that she should never be separated from him. It\nwas then generally reported that Mademoiselle de Villefort, the heiress\nof the marquis and marchioness of Saint-M\u00e9ran, had regained the good\ngraces of her grandfather, and that she would ultimately be in\npossession of an income of 300,000 livres.\n\nWhile all the proceedings relative to the dissolution of the\nmarriage-contract were being carried on at the house of M. de\nVillefort, Monte Cristo had paid his visit to the Count of Morcerf,\nwho, in order to lose no time in responding to M. Danglars\u2019 wishes, and\nat the same time to pay all due deference to his position in society,\ndonned his uniform",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

@@ -1,4 +1,62 @@
 {
-  "story_id": 23,
-  "dossier": []
+  "story_id": "23",
+  "prediction": 1,
+  "dossier": [
+    {
+      "story_id": "23",
+      "claim_id": "23_C0",
+      "claim_text": "After his mother died she entrusted him with the care of his toddler half-brother; the child was later taken to Europe by the French stepfather and never heard from again, leaving Paganel with a lifelong dread of \u201cseparation by life and death.\u201d",
+      "excerpt_text": "ng to escape?\u201d\n\n\u201cSimply the fact that the idea never occurred to me,\u201d answered Dant\u00e8s.\n\n\u201cBecause,\u201d said the old man, \u201cthe natural repugnance to the commission\nof such a crime prevented you from thinking of it; and so it ever is\nbecause in simple and allowable things our natural instincts keep us\nfrom deviating from the strict line of duty. The tiger, whose nature\nteaches him to delight in shedding blood, needs but the sense of smell\nto show him when his prey is within his reach, and by following this\ninstinct he is enabled to measure the leap necessary to permit him to\nspring on his victim; but man, on the contrary, loathes the idea of\nblood\u2014it is not alone that the laws of social life inspire him with a\nshrinking dread of taking life; his natural construction and\nphysiological formation\u2014\u2014\u201d\n\nDant\u00e8s was confused and silent at this explanation of the thoughts\nwhich had unconsciously been working in his mind, or rather soul; for\nthere are two distinct sorts of ideas, those that proceed fr",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "23",
+      "claim_id": "23_C0",
+      "claim_text": "After his mother died she entrusted him with the care of his toddler half-brother; the child was later taken to Europe by the French stepfather and never heard from again, leaving Paganel with a lifelong dread of \u201cseparation by life and death.\u201d",
+      "excerpt_text": "once came on deck. Very\nsoon the ebb-tide was felt. The Duncan gave a few shrill whistles,\nslackened her cables, and separated from the surrounding vessels. Her\nscrew was set in motion, which propelled her into the channel of the\nriver. The captain had taken no pilot. He was perfectly acquainted with\nthe navigation of the Clyde, and no one could have commanded better. At\na sign from him the yacht started. With his right hand he controlled\nthe engine, and with his left the tiller, with silent but unerring\nskill.\n\n[Illustration: The Rev. Mr. Morton implored the blessing of Heaven, and\ncommended the expedition to the care of Providence.]\n\n[Sidenote: A CHANGE OF SCENE.]\n\nSoon the last workshops on the shore gave place to villas, built here\nand there upon the hills, and the sounds of the city died away in the\ndistance. An hour afterwards, the Duncan passed the rocks of Dumbarton;\ntwo hours later she was in the Frith of Clyde; and at six o'clock in\nthe morning she doubled Cantyre Point, emer",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "23",
+      "claim_id": "23_C0",
+      "claim_text": "After his mother died she entrusted him with the care of his toddler half-brother; the child was later taken to Europe by the French stepfather and never heard from again, leaving Paganel with a lifelong dread of \u201cseparation by life and death.\u201d",
+      "excerpt_text": "my hand across my brow, I felt that it\nwas wet and clammy.\n\n\u201cTo the fearful noises that had awakened me had succeeded the most\nperfect silence\u2014unbroken, save by the footsteps of a man walking about\nin the chamber above. The staircase creaked, he descended into the room\nbelow, approached the fire and lit a candle.\n\n\u201cThe man was Caderousse\u2014he was pale and his shirt was all bloody.\nHaving obtained the light, he hurried upstairs again, and once more I\nheard his rapid and uneasy footsteps.\n\n\u201cA moment later he came down again, holding in his hand the small\nshagreen case, which he opened, to assure himself it contained the\ndiamond,\u2014seemed to hesitate as to which pocket he should put it in,\nthen, as if dissatisfied with the security of either pocket, he\ndeposited it in his red handkerchief, which he carefully rolled round\nhis head.\n\n\u201cAfter this he took from his cupboard the bank-notes and gold he had\nput there, thrust the one into the pocket of his trousers, and the\nother into that of his wais",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "23",
+      "claim_id": "23_C0",
+      "claim_text": "After his mother died she entrusted him with the care of his toddler half-brother; the child was later taken to Europe by the French stepfather and never heard from again, leaving Paganel with a lifelong dread of \u201cseparation by life and death.\u201d",
+      "excerpt_text": "s crew.\n\nFranz drew his handkerchief from his pocket, and presented it to the\nman who had spoken to him. Without uttering a word, they bandaged his\neyes with a care that showed their apprehensions of his committing some\nindiscretion. Afterwards he was made to promise that he would not make\nthe least attempt to raise the bandage. He promised.\n\nThen his two guides took his arms, and he went on, guided by them, and\npreceded by the sentinel. After going about thirty paces, he smelt the\nappetizing odor of the kid that was roasting, and knew thus that he was\npassing the bivouac; they then led him on about fifty paces farther,\nevidently advancing towards that part of the shore where they would not\nallow Gaetano to go\u2014a refusal he could now comprehend.\n\nPresently, by a change in the atmosphere, he knew that they were\nentering a cave; after going on for a few seconds more he heard a\ncrackling, and it seemed to him as though the atmosphere again changed,\nand became balmy and perfumed. At length ",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "23",
+      "claim_id": "23_C0",
+      "claim_text": "After his mother died she entrusted him with the care of his toddler half-brother; the child was later taken to Europe by the French stepfather and never heard from again, leaving Paganel with a lifelong dread of \u201cseparation by life and death.\u201d",
+      "excerpt_text": " of Captain Harry Grant,\nwhose wife had died at the birth of Robert, and during his long\nvoyages his children were left to the care of his good old cousin.\nCaptain Grant was a hardy sailor, a man well acquainted with his\nprofession, and a good negotiator, combining thus a twofold aptitude\nfor his calling commercially. His home was at Dundee, in the county of\nForfar, and he was moreover, by birth, a child of that \"bonnie\" place.\nHis father, a minister of Saint Catherine's Church, had given him a\nthorough education, knowing that it would be sure to help all, even a\nsea-captain.\n\n[Sidenote: IDEAS AND REALITIES.]\n\nDuring his early voyages, first as mate, and afterwards in the\ncapacity of skipper, Harry Grant prospered, and some years after\nthe birth of his son Robert, he found himself the possessor of a\nconsiderable fortune.\n\nThen a great idea entered his mind which made his name popular\nthroughout Scotland. Like the Glenarvans and several other great\nfamilies of the Highlands, he was oppo",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "23",
+      "claim_id": "23_C0",
+      "claim_text": "After his mother died she entrusted him with the care of his toddler half-brother; the child was later taken to Europe by the French stepfather and never heard from again, leaving Paganel with a lifelong dread of \u201cseparation by life and death.\u201d",
+      "excerpt_text": "a wave which he no longer had the strength\nto surmount passed over his head. He rose again to the surface,\nstruggled with the last desperate effort of a drowning man, uttered a\nthird cry, and felt himself sinking, as if the fatal cannon shot were\nagain tied to his feet. The water passed over his head, and the sky\nturned gray. A convulsive movement again brought him to the surface. He\nfelt himself seized by the hair, then he saw and heard nothing. He had\nfainted.\n\nWhen he opened his eyes Dant\u00e8s found himself on the deck of the tartan.\nHis first care was to see what course they were taking. They were\nrapidly leaving the Ch\u00e2teau d\u2019If behind. Dant\u00e8s was so exhausted that\nthe exclamation of joy he uttered was mistaken for a sigh.\n\nAs we have said, he was lying on the deck. A sailor was rubbing his\nlimbs with a woollen cloth; another, whom he recognized as the one who\nhad cried out \u201cCourage!\u201d held a gourd full of rum to his mouth; while\nthe third, an old sailor, at once the pilot and captain",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "23",
+      "claim_id": "23_C0",
+      "claim_text": "After his mother died she entrusted him with the care of his toddler half-brother; the child was later taken to Europe by the French stepfather and never heard from again, leaving Paganel with a lifelong dread of \u201cseparation by life and death.\u201d",
+      "excerpt_text": "ht me to try and clear up a mystery he\nhad never been able to penetrate, and to clear his memory should any\nfoul spot or stain have fallen on it.\u201d\n\nAnd here the look of the abb\u00e9, becoming more and more fixed, seemed to\nrest with ill-concealed satisfaction on the gloomy depression which was\nrapidly spreading over the countenance of Caderousse.\n\n\u201cA rich Englishman,\u201d continued the abb\u00e9, \u201cwho had been his companion in\nmisfortune, but had been released from prison during the second\nrestoration, was possessed of a diamond of immense value; this jewel he\nbestowed on Dant\u00e8s upon himself quitting the prison, as a mark of his\ngratitude for the kindness and brotherly care with which Dant\u00e8s had\nnursed him in a severe illness he underwent during his confinement.\nInstead of employing this diamond in attempting to bribe his jailers,\nwho might only have taken it and then betrayed him to the governor,\nDant\u00e8s carefully preserved it, that in the event of his getting out of\nprison he might have wherewitha",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

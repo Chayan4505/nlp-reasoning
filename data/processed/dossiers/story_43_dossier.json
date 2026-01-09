@@ -1,4 +1,70 @@
 {
-  "story_id": 43,
-  "dossier": []
+  "story_id": "43",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "43",
+      "claim_id": "43_C0",
+      "claim_text": "Suspected of colluding with the enemy, he panicked, slipped away in a lifeboat under darkness and fled to the Southern Hemisphere.",
+      "excerpt_text": "ock. At\nfirst he was indifferent to the noise, but finding that it continued,\nhe listened. At last, puzzled by its persistence, he put his ear close\nto the ground to hear better. It seemed as if some one was scraping and\ndigging outside.\n\nWhen he was certain of this fact, he passed quietly towards Glenarvan\nand the captain, and led them to the rear of the hut.\n\n\"Listen,\" said he, in a low voice, motioning to them to bend down.\n\nThe scrapings became more and more audible. They could hear the little\nstones grate under the pressure of a sharp instrument and fall down\noutside.\n\n\"Some creature in its burrow,\" said Captain Mangles.\n\nGlenarvan, with bewildered gaze, stood astonished.\n\n\"Who knows,\" said he, \"but that it is a man?\"\n\n\"Man or animal,\" replied the major, \"I will know what is going on.\"\n\nWilson and Olbinett joined their companions, and all began to dig in\nthe wall, the captain with his poniard, the others with stones pulled\nout of the ground, or with their nails, while Mulready, st",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "43",
+      "claim_id": "43_C0",
+      "claim_text": "Suspected of colluding with the enemy, he panicked, slipped away in a lifeboat under darkness and fled to the Southern Hemisphere.",
+      "excerpt_text": "mpulse of the current. Soon a\nmingled roar, like bellowing, neighing, and bleating, resounded half\na mile to the south, and immense herds appeared, tumbling, rising,\nand rushing, a confused mass of terrified beasts, and fled by with\nfrightful rapidity. It was scarcely possible to distinguish them in the\nmidst of the clouds of spray dashed up by their flight.\n\n[Illustration: \"The flood! the flood!\" replied Thalcave, spurring his\nhorse towards the north.]\n\n\"Quick! quick!\" cried Thalcave, in a piercing voice.\n\n\"What is it?\" said Paganel.\n\n\"The flood! the flood!\" replied Thalcave, spurring his horse towards\nthe north.\n\n\"The inundation!\" cried Paganel; and his companions, with him at their\nhead, fled away in the track of Thaouka.\n\nIt was time. Five miles to the south a high and broad wall of water\nwas rushing over the plain, which was fast becoming an ocean. The tall\ngrass disappeared as before the scythe, and the tufts of mimosas, torn\nup by the current, separated and formed floating islan",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "43",
+      "claim_id": "43_C0",
+      "claim_text": "Suspected of colluding with the enemy, he panicked, slipped away in a lifeboat under darkness and fled to the Southern Hemisphere.",
+      "excerpt_text": "use, which he supposed empty, contained its chief occupant.\n\nArrived in his bedroom, the count motioned to Ali to stop; then he\npassed into the dressing-room, which he examined. Everything appeared\nas usual\u2014the precious secretaire in its place, and the key in the\nsecretaire. He double locked it, took the key, returned to the bedroom\ndoor, removed the double staple of the bolt, and went in. Meanwhile Ali\nhad procured the arms the count required\u2014namely, a short carbine and a\npair of double-barrelled pistols, with which as sure an aim might be\ntaken as with a single-barrelled one. Thus armed, the count held the\nlives of five men in his hands. It was about half-past nine.\n\nThe count and Ali ate in haste a crust of bread and drank a glass of\nSpanish wine; then Monte Cristo slipped aside one of the movable\npanels, which enabled him to see into the adjoining room. He had within\nhis reach his pistols and carbine, and Ali, standing near him, held one\nof the small Arabian hatchets, whose form ha",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "43",
+      "claim_id": "43_C0",
+      "claim_text": "Suspected of colluding with the enemy, he panicked, slipped away in a lifeboat under darkness and fled to the Southern Hemisphere.",
+      "excerpt_text": "determined to make for them. But how could he find his\nway in the darkness of the night?\n\nAt this moment he saw the light of Planier, gleaming in front of him\nlike a star. By leaving this light on the right, he kept the Island of\nTiboulen a little on the left; by turning to the left, therefore, he\nwould find it. But, as we have said, it was at least a league from the\nCh\u00e2teau d\u2019If to this island. Often in prison Faria had said to him,\nwhen he saw him idle and inactive:\n\n\u201cDant\u00e8s, you must not give way to this listlessness; you will be\ndrowned if you seek to escape, and your strength has not been properly\nexercised and prepared for exertion.\u201d\n\nThese words rang in Dant\u00e8s\u2019 ears, even beneath the waves; he hastened\nto cleave his way through them to see if he had not lost his strength.\nHe found with pleasure that his captivity had taken away nothing of his\npower, and that he was still master of that element on whose bosom he\nhad so often sported as a boy.\n\nFear, that relentless pursuer, clogg",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "43",
+      "claim_id": "43_C0",
+      "claim_text": "Suspected of colluding with the enemy, he panicked, slipped away in a lifeboat under darkness and fled to the Southern Hemisphere.",
+      "excerpt_text": "ing made a stiff, as if it was not in\na Corsican\u2019s nature to revenge himself.\u201d\n\n\u201cWhat do you mean by having made a stiff?\u2014having assassinated a man?\u201d\nsaid Franz, continuing his investigation.\n\n\u201cI mean that they have killed an enemy, which is a very different\nthing,\u201d returned the captain.\n\n\u201cWell,\u201d said the young man, \u201clet us demand hospitality of these\nsmugglers and bandits. Do you think they will grant it?\u201d\n\n\u201cWithout doubt.\u201d\n\n\u201cHow many are they?\u201d\n\n\u201cFour, and the two bandits make six.\u201d\n\n\u201cJust our number, so that if they prove troublesome, we shall be able\nto hold them in check; so, for the last time, steer to Monte Cristo.\u201d\n\n\u201cYes, but your excellency will permit us to take all due precautions.\u201d\n\n\u201cBy all means, be as wise as Nestor and as prudent as Ulysses; I do\nmore than permit, I exhort you.\u201d\n\n\u201cSilence, then!\u201d said Gaetano.\n\nEveryone obeyed. For a man who, like Franz, viewed his position in its\ntrue light, it was a grave one. He was alone in the darkness with\nsailors whom he did not k",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "43",
+      "claim_id": "43_C0",
+      "claim_text": "Suspected of colluding with the enemy, he panicked, slipped away in a lifeboat under darkness and fled to the Southern Hemisphere.",
+      "excerpt_text": "h, it must have been the young man, certainly, for he was strong and\nindustrious, while the abb\u00e9 was aged and weak; besides, his mind was\ntoo vacillating to allow him to carry out an idea.\u201d\n\n\u201cBlind fools!\u201d murmured the count.\n\n\u201cHowever, be that as it may, the young man made a tunnel, how or by\nwhat means no one knows; but he made it, and there is the evidence yet\nremaining of his work. Do you see it?\u201d and the man held the torch to\nthe wall.\n\n50223m\n\n\n\n\u201cAh, yes; I see,\u201d said the count, in a voice hoarse from emotion.\n\n\u201cThe result was that the two men communicated with one another; how\nlong they did so, nobody knows. One day the old man fell ill and died.\nNow guess what the young one did?\u201d\n\n\u201cTell me.\u201d\n\n\u201cHe carried off the corpse, which he placed in his own bed with its\nface to the wall; then he entered the empty dungeon, closed the\nentrance, and slipped into the sack which had contained the dead body.\nDid you ever hear of such an idea?\u201d\n\nMonte Cristo closed his eyes, and seemed again to ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "43",
+      "claim_id": "43_C0",
+      "claim_text": "Suspected of colluding with the enemy, he panicked, slipped away in a lifeboat under darkness and fled to the Southern Hemisphere.",
+      "excerpt_text": "t on suicide. Unhappy he, who, on the\nbrink of misfortune, broods over ideas like these!\n\nBefore him is a dead sea that stretches in azure calm before the eye;\nbut he who unwarily ventures within its embrace finds himself\nstruggling with a monster that would drag him down to perdition. Once\nthus ensnared, unless the protecting hand of God snatch him thence, all\nis over, and his struggles but tend to hasten his destruction. This\nstate of mental anguish is, however, less terrible than the sufferings\nthat precede or the punishment that possibly will follow. There is a\nsort of consolation at the contemplation of the yawning abyss, at the\nbottom of which lie darkness and obscurity.\n\nEdmond found some solace in these ideas. All his sorrows, all his\nsufferings, with their train of gloomy spectres, fled from his cell\nwhen the angel of death seemed about to enter. Dant\u00e8s reviewed his past\nlife with composure, and, looking forward with terror to his future\nexistence, chose that middle line that ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "43",
+      "claim_id": "43_C0",
+      "claim_text": "Suspected of colluding with the enemy, he panicked, slipped away in a lifeboat under darkness and fled to the Southern Hemisphere.",
+      "excerpt_text": ", my lord!\"\n\nGlenarvan and Thalcave had scarcely time to perceive Robert, who,\nclinging to the horse's mane, disappeared in the darkness.\n\n\"Robert, unfortunate!\" cried Glenarvan.\n\nBut these words the Indian himself could not hear. Frightful howls\nresounded. The wolves, starting on the track of the horse, fled into\nthe darkness with a terrible speed.\n\nThalcave and Glenarvan rushed out of the ramada. Already the plain had\nresumed its tranquillity, and they could scarcely distinguish a moving\nline which undulated afar in the shadows of the night.\n\nGlenarvan sank upon the ground, overcome, in despair, clasping his\nhands. He gazed at Thalcave, who smiled with his accustomed calmness.\n\n\"Thaouka--good horse--brave child--he will be saved!\" he repeated,\nnodding his head.\n\n\"But if he falls?\" said Glenarvan.\n\n\"He will not fall!\"\n\nIn spite of Thalcave's confidence, his companion passed the night in\nterrible anguish. He was no longer even mindful of the danger still to\nbe feared from the wolves. H",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

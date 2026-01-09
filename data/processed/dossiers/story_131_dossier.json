@@ -1,5 +1,86 @@
 {
-  "story_id": 131,
+  "story_id": "131",
   "prediction": 0,
-  "dossier": []
+  "dossier": [
+    {
+      "story_id": "131",
+      "claim_id": "131_C0",
+      "claim_text": "Born in 1760 to a declining Italian noble house, he devoured the family library and startled tutors with his memory.",
+      "excerpt_text": "him happy.\u2019\u201d\n\n\u201cYes, indeed but one!\u201d said the major with a sigh.\n\n\u201c\u2018Which is to recover a lost and adored son.\u2019\u201d\n\n\u201cA lost and adored son!\u201d\n\n\u201c\u2018Stolen away in his infancy, either by an enemy of his noble family or\nby the gypsies.\u2019\u201d\n\n\u201cAt the age of five years!\u201d said the major with a deep sigh, and\nraising his eye to heaven.\n\n\u201cUnhappy father,\u201d said Monte Cristo. The count continued:\n\n\u201c\u2018I have given him renewed life and hope, in the assurance that you\nhave the power of restoring the son whom he has vainly sought for\nfifteen years.\u2019\u201d\n\nThe major looked at the count with an indescribable expression of\nanxiety.\n\n\u201cI have the power of so doing,\u201d said Monte Cristo. The major recovered\nhis self-possession.\n\n\u201cSo, then,\u201d said he, \u201cthe letter was true to the end?\u201d\n\n\u201cDid you doubt it, my dear Monsieur Bartolomeo?\u201d\n\n\u201cNo, indeed; certainly not; a good man, a man holding religious office,\nas does the Abb\u00e9 Busoni, could not condescend to deceive or play off a\njoke; but your excellency has not read all.\u201d\n\n\u201c",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "131",
+      "claim_id": "131_C0",
+      "claim_text": "Born in 1760 to a declining Italian noble house, he devoured the family library and startled tutors with his memory.",
+      "excerpt_text": "I am ready, my son,\u201d said Merc\u00e9d\u00e8s.\n\nAlbert ran to fetch a carriage. He recollected that there was a small\nfurnished house to let in the Rue des Saints-P\u00e8res, where his mother\nwould find a humble but decent lodging, and thither he intended\nconducting the countess. As the carriage stopped at the door, and\nAlbert was alighting, a man approached and gave him a letter.\n\nAlbert recognized the bearer. \u201cFrom the count,\u201d said Bertuccio. Albert\ntook the letter, opened, and read it, then looked round for Bertuccio,\nbut he was gone.\n\nHe returned to Merc\u00e9d\u00e8s with tears in his eyes and heaving breast, and\nwithout uttering a word he gave her the letter. Merc\u00e9d\u00e8s read:\n\n\u201cAlbert,\u2014While showing you that I have discovered your plans, I hope\nalso to convince you of my delicacy. You are free, you leave the\ncount\u2019s house, and you take your mother to your home; but reflect,\nAlbert, you owe her more than your poor noble heart can pay her. Keep\nthe struggle for yourself, bear all the suffering, but spare her ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "131",
+      "claim_id": "131_C0",
+      "claim_text": "Born in 1760 to a declining Italian noble house, he devoured the family library and startled tutors with his memory.",
+      "excerpt_text": " devoured too much\nfood. Edmond replaced on the table the bread he was about to devour,\nand returned to his couch\u2014he did not wish to die. He soon felt that his\nideas became again collected\u2014he could think, and strengthen his\nthoughts by reasoning. Then he said to himself:\n\n\u201cI must put this to the test, but without compromising anybody. If it\nis a workman, I need but knock against the wall, and he will cease to\nwork, in order to find out who is knocking, and why he does so; but as\nhis occupation is sanctioned by the governor, he will soon resume it.\nIf, on the contrary, it is a prisoner, the noise I make will alarm him,\nhe will cease, and not begin again until he thinks everyone is asleep.\u201d\n\nEdmond rose again, but this time his legs did not tremble, and his\nsight was clear; he went to a corner of his dungeon, detached a stone,\nand with it knocked against the wall where the sound came. He struck\nthrice.\n\nAt the first blow the sound ceased, as if by magic.\n\nEdmond listened intently; an hou",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "131",
+      "claim_id": "131_C0",
+      "claim_text": "Born in 1760 to a declining Italian noble house, he devoured the family library and startled tutors with his memory.",
+      "excerpt_text": "\u00e9 limited himself to objects of strict necessity.\nHe preferred to use the sitting-room upstairs, which was more library\nthan parlor, and was furnished with theological books and parchments,\nin which he delighted to bury himself for months at a time, according\nto his valet de chambre. His valet looked at the visitors through a\nsort of wicket; and if their faces were unknown to him or displeased\nhim, he replied that the abb\u00e9 was not in Paris, an answer which\nsatisfied most persons, because the abb\u00e9 was known to be a great\ntraveller. Besides, whether at home or not, whether in Paris or Cairo,\nthe abb\u00e9 always left something to give away, which the valet\ndistributed through this wicket in his master\u2019s name. The other room\nnear the library was a bedroom. A bed without curtains, four armchairs,\nand a couch, covered with yellow Utrecht velvet, composed, with a\n_prie-Dieu_, all its furniture.\n\n\u201cLord Wilmore resided in Rue Fontaine-Saint-Georges. He was one of\nthose English tourists who consume ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "131",
+      "claim_id": "131_C0",
+      "claim_text": "Born in 1760 to a declining Italian noble house, he devoured the family library and startled tutors with his memory.",
+      "excerpt_text": "l; his hair, like\nhis beard, which he wore under his chin, was thick and curly, and in\nspite of his age but slightly interspersed with a few silvery threads.\nHis naturally dark complexion had assumed a still further shade of\nbrown from the habit the unfortunate man had acquired of stationing\nhimself from morning till eve at the threshold of his door, on the\nlookout for guests who seldom came, yet there he stood, day after day,\nexposed to the meridional rays of a burning sun, with no other\nprotection for his head than a red handkerchief twisted around it,\nafter the manner of the Spanish muleteers. This man was our old\nacquaintance, Gaspard Caderousse.\n\nHis wife, on the contrary, whose maiden name had been Madeleine\nRadelle, was pale, meagre, and sickly-looking. Born in the neighborhood\nof Arles, she had shared in the beauty for which its women are\nproverbial; but that beauty had gradually withered beneath the\ndevastating influence of the slow fever so prevalent among dwellers by\nthe pon",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "131",
+      "claim_id": "131_C0",
+      "claim_text": "Born in 1760 to a declining Italian noble house, he devoured the family library and startled tutors with his memory.",
+      "excerpt_text": "looked around\non the assembly. This timidity, which might proceed from the\nastonishment of innocence as well as the shame of guilt, conciliated\nsome in his favor; for men who are truly generous are always ready to\ncompassionate when the misfortune of their enemy surpasses the limits\nof their hatred.\n\nThe president put it to the vote, and it was decided that the\ninvestigation should take place. The count was asked what time he\nrequired to prepare his defence. Morcerf\u2019s courage had revived when he\nfound himself alive after this horrible blow.\n\n\u201cMy lords,\u201d answered he, \u201cit is not by time I could repel the attack\nmade on me by enemies unknown to me, and, doubtless, hidden in\nobscurity; it is immediately, and by a thunderbolt, that I must repel\nthe flash of lightning which, for a moment, startled me. Oh, that I\ncould, instead of taking up this defence, shed my last drop of blood to\nprove to my noble colleagues that I am their equal in worth.\u201d\n\nThese words made a favorable impression on beha",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "131",
+      "claim_id": "131_C0",
+      "claim_text": "Born in 1760 to a declining Italian noble house, he devoured the family library and startled tutors with his memory.",
+      "excerpt_text": " come over Villefort during the examination, the destruction of the\nletter, the exacted promise, the almost supplicating tones of the\nmagistrate, who seemed rather to implore mercy than to pronounce\npunishment,\u2014all returned with a stunning force to his memory. He cried\nout, and staggered against the wall like a drunken man, then he hurried\nto the opening that led from the abb\u00e9\u2019s cell to his own, and said, \u201cI\nmust be alone, to think over all this.\u201d\n\nWhen he regained his dungeon, he threw himself on his bed, where the\nturnkey found him in the evening visit, sitting with fixed gaze and\ncontracted features, dumb and motionless as a statue. During these\nhours of profound meditation, which to him had seemed only minutes, he\nhad formed a fearful resolution, and bound himself to its fulfilment by\na solemn oath.\n\nDant\u00e8s was at length roused from his reverie by the voice of Faria,\nwho, having also been visited by his jailer, had come to invite his\nfellow-sufferer to share his supper. The reputat",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "131",
+      "claim_id": "131_C0",
+      "claim_text": "Born in 1760 to a declining Italian noble house, he devoured the family library and startled tutors with his memory.",
+      "excerpt_text": ". At a sign from him\nthe captain had stopped Glenarvan.\n\nIn truth, one of the warriors, startled by some unaccustomed sound,\nhad risen and approached the prison. Standing two paces from the\nhut, he listened with lowered head. He remained in this attitude\nfor a moment, that seemed an hour, with ear intent and eye on the\nalert. Then, shaking his head as a man who is mistaken, he returned\nto his companions, took an armful of dead wood and threw it on the\nhalf-extinct fire, whose flames revived. His face, brightly illumined\nby the blaze, betrayed no more anxiety, and, after gazing at the first\nglimmers of dawn that tinged the horizon, he stretched himself beside\nthe fire to warm his cold limbs.\n\n\"All right!\" said Wilson.\n\nThe captain made a sign to Glenarvan to continue his descent. The\nlatter, accordingly, slid gently down the slope, and soon Lady Helena\nand he stood on the narrow path where Robert was waiting for them. The\nrope was shaken three times, and next Captain Mangles, followed b",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "131",
+      "claim_id": "131_C0",
+      "claim_text": "Born in 1760 to a declining Italian noble house, he devoured the family library and startled tutors with his memory.",
+      "excerpt_text": " care if I am?\u2019\u201d\n\n\u201cAndrea, he has some secretaire with a spring.\u201d\n\n\u201cHow do you know?\u201d\n\n\u201cYes, which catches the thief in a trap and plays a tune. I was told\nthere were such at the last exhibition.\u201d\n\n\u201cHe has simply a mahogany secretaire, in which the key is always kept.\u201d\n\n\u201cAnd he is not robbed?\u201d\n\n\u201cNo; his servants are all devoted to him.\u201d\n\n\u201cThere ought to be some money in that secretaire?\u201d\n\n\u201cThere may be. No one knows what there is.\u201d\n\n\u201cAnd where is it?\u201d\n\n\u201cOn the first floor.\u201d\n\n\u201cSketch me the plan of that floor, as you have done of the ground\nfloor, my boy.\u201d\n\n\u201cThat is very simple.\u201d Andrea took the pen. \u201cOn the first story, do you\nsee, there is the anteroom and the drawing-room; to the right of the\ndrawing-room, a library and a study; to the left, a bedroom and a\ndressing-room. The famous secretaire is in the dressing-room.\u201d\n\n\u201cIs there a window in the dressing-room?\u201d\n\n\u201cTwo,\u2014one here and one there.\u201d Andrea sketched two windows in the room,\nwhich formed an angle on the plan, and appeared as ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "131",
+      "claim_id": "131_C0",
+      "claim_text": "Born in 1760 to a declining Italian noble house, he devoured the family library and startled tutors with his memory.",
+      "excerpt_text": "lad to be relieved, looked at the captain, and the latter\nby a sign indicated that he might abandon it to his new comrade. Dant\u00e8s\ncould thus keep his eyes on Marseilles.\n\n\u201cWhat is the day of the month?\u201d asked he of Jacopo, who sat down beside\nhim.\n\n\u201cThe 28th of February.\u201d\n\n\u201cIn what year?\u201d\n\n\u201cIn what year\u2014you ask me in what year?\u201d\n\n\u201cYes,\u201d replied the young man, \u201cI ask you in what year!\u201d\n\n\u201cYou have forgotten then?\u201d\n\n\u201cI got such a fright last night,\u201d replied Dant\u00e8s, smiling, \u201cthat I have\nalmost lost my memory. I ask you what year is it?\u201d\n\n\u201cThe year 1829,\u201d returned Jacopo.\n\nIt was fourteen years, day for day, since Dant\u00e8s\u2019 arrest. He was\nnineteen when he entered the Ch\u00e2teau d\u2019If; he was thirty-three when he\nescaped. A sorrowful smile passed over his face; he asked himself what\nhad become of Merc\u00e9d\u00e8s, who must believe him dead. Then his eyes\nlighted up with hatred as he thought of the three men who had caused\nhim so long and wretched a captivity. He renewed against Danglars,\nFernand, and Vil",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

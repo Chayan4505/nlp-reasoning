@@ -1,5 +1,70 @@
 {
-  "story_id": 33,
-  "prediction": 0,
-  "dossier": []
+  "story_id": "33",
+  "prediction": 1,
+  "dossier": [
+    {
+      "story_id": "33",
+      "claim_id": "33_C0",
+      "claim_text": "He volunteered for Captain Grant\u2019s crew chiefly to spy on the colonisation schemes backed by Scottish nobles.",
+      "excerpt_text": "hour for\ntomorrow, and my cashier shall call on you with a check for eighty\nthousand francs.\u201d\n\n\u201cAt ten o\u2019clock then, if you please; I should like it early, as I am\ngoing into the country tomorrow.\u201d\n\n\u201cVery well, at ten o\u2019clock; you are still at the H\u00f4tel des Princes?\u201d\n\n\u201cYes.\u201d\n\nThe following morning, with the banker\u2019s usual punctuality, the eighty\nthousand francs were placed in the young man\u2019s hands, as he was on the\npoint of starting, after having left two hundred francs for Caderousse.\nHe went out chiefly to avoid this dangerous enemy, and returned as late\nas possible in the evening.\n\nBut scarcely had he stepped out of his carriage when the porter met him\nwith a parcel in his hand.\n\n\u201cSir,\u201d said he, \u201cthat man has been here.\u201d\n\n\u201cWhat man?\u201d said Andrea carelessly, apparently forgetting him whom he\nbut too well recollected.\n\n\u201cHim to whom your excellency pays that little annuity.\u201d\n\n\u201cOh,\u201d said Andrea, \u201cmy father\u2019s old servant. Well, you gave him the two\nhundred francs I had left for him?\u201d\n\n\u201cY",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "33",
+      "claim_id": "33_C0",
+      "claim_text": "He volunteered for Captain Grant\u2019s crew chiefly to spy on the colonisation schemes backed by Scottish nobles.",
+      "excerpt_text": " \"how he will thank you when you have\nfound him!\" And, so saying, he took his lordship's hand and pressed it\nto his lips.\n\n\"You love him well, Robert?\"\n\n\"Yes, my lord; he was so kind to sister and me. He thought only of us,\nand every voyage brought us a memento of the countries he visited, and,\nwhat was better, tender caresses and kind words, on his return. Ah!\nyou will love him too, when you know him! Mary resembles him. He has a\nsweet voice like her. It is singular for a sailor, is it not?\"\n\n\"Yes, very singular, Robert,\" said Glenarvan.\n\n\"I see him still,\" replied the boy, as if speaking to himself. \"Good\nand brave papa! He rocked me to sleep on his knees, when I was little,\nand kept humming an old Scottish song which is sung around the lakes of\nour country. I sometimes recall the air, but indistinctly. How we loved\nhim, my lord! Well, I think one must be very young to love his father\nwell.\"\n\n\"And old to reverence him, my child,\" replied Glenarvan, quite moved by\nthe words that came ",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "33",
+      "claim_id": "33_C0",
+      "claim_text": "He volunteered for Captain Grant\u2019s crew chiefly to spy on the colonisation schemes backed by Scottish nobles.",
+      "excerpt_text": "his task, left the conversation to Danglars, who now came\ntowards the owner. He was a man of twenty-five or twenty-six years of\nage, of unprepossessing countenance, obsequious to his superiors,\ninsolent to his subordinates; and this, in addition to his position as\nresponsible agent on board, which is always obnoxious to the sailors,\nmade him as much disliked by the crew as Edmond Dant\u00e8s was beloved by\nthem.\n\n\u201cWell, M. Morrel,\u201d said Danglars, \u201cyou have heard of the misfortune\nthat has befallen us?\u201d\n\n\u201cYes\u2014yes: poor Captain Leclere! He was a brave and an honest man.\u201d\n\n\u201cAnd a first-rate seaman, one who had seen long and honorable service,\nas became a man charged with the interests of a house so important as\nthat of Morrel & Son,\u201d replied Danglars.\n\n\u201cBut,\u201d replied the owner, glancing after Dant\u00e8s, who was watching the\nanchoring of his vessel, \u201cit seems to me that a sailor needs not be so\nold as you say, Danglars, to understand his business, for our friend\nEdmond seems to understand it thoro",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "33",
+      "claim_id": "33_C0",
+      "claim_text": "He volunteered for Captain Grant\u2019s crew chiefly to spy on the colonisation schemes backed by Scottish nobles.",
+      "excerpt_text": "om Ayrton, quartermaster of the\nBritannia. I left Glasgow in Captain Grant's ship on the 12th of March,\n1861. For fourteen months we traversed together the Pacific, seeking\nsome favorable place to found a Scottish colony. Harry Grant was a man\ncapable of performing great deeds, but frequently serious disputes\narose between us. His character did not harmonize with mine. I could\nnot yield; but with Harry Grant, when his resolution is taken, all\nresistance is impossible. He is like iron towards himself and others.\nHowever, I dared to mutiny, and attempted to involve the crew and gain\npossession of the vessel. Whether I did right or wrong is of little\nimportance. However it may be, Captain Grant did not hesitate to land\nme, April 8, 1862, on the west coast of Australia.\"\n\n\"Australia!\" exclaimed the major, interrupting Ayrton's story. \"Then\nyou left the Britannia before her arrival at Callao, where the last\nnews of her was dated?\"\n\n\"Yes,\" replied the quartermaster; \"for the Britannia never ",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "33",
+      "claim_id": "33_C0",
+      "claim_text": "He volunteered for Captain Grant\u2019s crew chiefly to spy on the colonisation schemes backed by Scottish nobles.",
+      "excerpt_text": "van.\n\n\"That we might perhaps find some traces of the shipwreck, but that the\nseamen of the Britannia have perished.\"\n\n\"Keep all this silent, my friends,\" replied Glenarvan, \"and leave me to\nchoose the time for telling this sad news to the children of Captain\nGrant.\"\n\n\n\n\nCHAPTER LVIII.\n\nA CRY IN THE NIGHT.\n\n\nThe crew soon learned that Ayrton's disclosures had not thrown light\nupon the situation of Captain Grant. The despair on board was profound,\nfor they had relied on the quartermaster, who, however, knew nothing\nthat could put the Duncan on the track of the Britannia. The yacht\ntherefore continued on the same course, and the only question now was\nto choose the island on which to leave Ayrton.\n\nPaganel and Captain Mangles consulted the maps on board. Exactly on\nthe thirty-seventh parallel was an island, generally known by the\nname of Maria Theresa, a lone rock in the midst of the Pacific, three\nthousand five hundred miles from the American coast, and one thousand\nfive hundred miles fro",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "33",
+      "claim_id": "33_C0",
+      "claim_text": "He volunteered for Captain Grant\u2019s crew chiefly to spy on the colonisation schemes backed by Scottish nobles.",
+      "excerpt_text": "cht was probably that very moment at the coast, in the hands of\nthe convicts.\n\nHowever, this state of things could not last long. Indeed, on the\nmorning of the third day, Paganel perceived that the waters were\nbeginning to subside. He reported to Glenarvan the result of his\nobservations.\n\n\"What does it matter now?\" replied Glenarvan; \"it is too late!\"\n\n\"That is no reason for prolonging our stay at the encampment,\" replied\nthe major.\n\n\"Certainly not,\" said Captain Mangles; \"to-morrow, perhaps, it will be\npossible to cross.\"\n\n\"But will that save my unfortunate crew?\" cried Glenarvan.\n\n\"Listen to me, my lord,\" continued Captain Mangles. \"I know Tom Austin.\nHe was to execute your orders, and start as soon as his departure was\npossible. Who knows whether the Duncan was ready, or her injuries\nrepaired, on the arrival of Ben Joyce at Melbourne? Supposing the\nyacht could not put to sea, and suffered one or two days of delay?\"\n\n\"You are right, John,\" replied Glenarvan. \"We must reach Twofold Ba",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "33",
+      "claim_id": "33_C0",
+      "claim_text": "He volunteered for Captain Grant\u2019s crew chiefly to spy on the colonisation schemes backed by Scottish nobles.",
+      "excerpt_text": "say nothing?\u201d asked the abb\u00e9.\n\n\u201cWhy, what good would it do?\u201d asked Caderousse. \u201cIf the poor lad were\nliving, and came to me and begged that I would candidly tell which were\nhis true and which his false friends, why, perhaps, I should not\nhesitate. But you tell me he is no more, and therefore can have nothing\nto do with hatred or revenge, so let all such feeling be buried with\nhim.\u201d\n\n\u201cYou prefer, then,\u201d said the abb\u00e9, \u201cthat I should bestow on men you say\nare false and treacherous, the reward intended for faithful\nfriendship?\u201d\n\n\u201cThat is true enough,\u201d returned Caderousse. \u201cYou say truly, the gift of\npoor Edmond was not meant for such traitors as Fernand and Danglars;\nbesides, what would it be to them? no more than a drop of water in the\nocean.\u201d\n\n\u201cRemember,\u201d chimed in La Carconte, \u201cthose two could crush you at a\nsingle blow!\u201d\n\n\u201cHow so?\u201d inquired the abb\u00e9. \u201cAre these persons, then, so rich and\npowerful?\u201d\n\n\u201cDo you not know their history?\u201d\n\n\u201cI do not. Pray relate it to me!\u201d\n\nCaderousse seemed",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "33",
+      "claim_id": "33_C0",
+      "claim_text": "He volunteered for Captain Grant\u2019s crew chiefly to spy on the colonisation schemes backed by Scottish nobles.",
+      "excerpt_text": " sailor worthy of all confidence; and\nthe crew of the Duncan was composed of twenty-five men, including\nthe captain and mate. They all belonged to the county of Dumbarton,\nwere all tried seamen, sons of the tenants of the family, and formed\non shipboard a genuine clan of honest people, who of course were not\nwithout the national bagpipe. Lord Glenarvan had, in them, a band of\nfaithful subjects, happy in their avocation, devoted, courageous, and\nskillful in the use of arms, as well as in the management of a ship,\nwhile they were ready to follow him on the most perilous expeditions.\nWhen they learned where they were going, they could not restrain their\njoyous emotion, and the echoes of the rocks of Dumbarton awoke to their\ncries of enthusiasm.\n\nCaptain Mangles, while occupied in lading and provisioning his craft,\ndid not forget to prepare Lord and Lady Glenarvan's apartments for a\nlong voyage. He likewise provided cabins for Captain Grant's children,\nfor Lady Helena could not refuse Mary",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

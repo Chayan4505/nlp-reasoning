@@ -1,4 +1,86 @@
 {
-  "story_id": 117,
-  "dossier": []
+  "story_id": "117",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "117",
+      "claim_id": "117_C0",
+      "claim_text": "While escaping he hid lifetime research manuscripts in a Madeira monastery cellar\u2014the eventual clue to Monte Cristo\u2019s treasure.",
+      "excerpt_text": " Paganel.\n\n\"Yes, and I learned afterwards--Frenchman saved.\"\n\n\"Saved!\" exclaimed Robert, whose very life seemed to hang on the\nsergeant's lips.\n\n\"Yes, saved from the hands of the Indians,\" replied Manuel.\n\nEach looked to the geographer, who beat his brow in despair.\n\n\"Ah! I understand,\" said he, at last. \"All is clear, all is explained.\"\n\n\"But what is to be done?\" asked Glenarvan, with as much anxiety as\nimpatience.\n\n\"My friends,\" answered Paganel, taking Robert's hands, \"we must submit\nto a severe misfortune. We have followed a false trail! The captive\nin question is not the captain, but one of my countrymen (whose\ncompanion, Marco Vazello, was actually assassinated by the Indians),\na Frenchman who often accompanied these cruel savages to the banks of\nthe Colorado, and who, after fortunately escaping from their hands,\nreturned to France. While thinking that we were on the track of Captain\nGrant, we have fallen upon that of young Guinnard.\"\n\nA profound silence followed this declaration",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "117",
+      "claim_id": "117_C0",
+      "claim_text": "While escaping he hid lifetime research manuscripts in a Madeira monastery cellar\u2014the eventual clue to Monte Cristo\u2019s treasure.",
+      "excerpt_text": "heard him shout like a\nmadman?\n\nHe remained silent, his eyes fixed upon the light; the boat went on,\nbut the prisoner thought only of Merc\u00e9d\u00e8s. An intervening elevation of\nland hid the light. Dant\u00e8s turned and perceived that they had got out\nto sea. While he had been absorbed in thought, they had shipped their\noars and hoisted sail; the boat was now moving with the wind.\n\nIn spite of his repugnance to address the guards, Dant\u00e8s turned to the\nnearest gendarme, and taking his hand,\n\n\u201cComrade,\u201d said he, \u201cI adjure you, as a Christian and a soldier, to\ntell me where we are going. I am Captain Dant\u00e8s, a loyal Frenchman,\nthought accused of treason; tell me where you are conducting me, and I\npromise you on my honor I will submit to my fate.\u201d\n\nThe gendarme looked irresolutely at his companion, who returned for\nanswer a sign that said, \u201cI see no great harm in telling him now,\u201d and\nthe gendarme replied:\n\n\u201cYou are a native of Marseilles, and a sailor, and yet you do not know\nwhere you are going?\u201d\n",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "117",
+      "claim_id": "117_C0",
+      "claim_text": "While escaping he hid lifetime research manuscripts in a Madeira monastery cellar\u2014the eventual clue to Monte Cristo\u2019s treasure.",
+      "excerpt_text": " value in his eyes, and every day he\nexpatiated on the amount, explaining to Dant\u00e8s all the good which, with\nthirteen or fourteen millions of francs, a man could do in these days\nto his friends; and then Dant\u00e8s\u2019 countenance became gloomy, for the\noath of vengeance he had taken recurred to his memory, and he reflected\nhow much ill, in these times, a man with thirteen or fourteen millions\ncould do to his enemies.\n\nThe abb\u00e9 did not know the Island of Monte Cristo; but Dant\u00e8s knew it,\nand had often passed it, situated twenty-five miles from Pianosa,\nbetween Corsica and the Island of Elba, and had once touched there.\nThis island was, always had been, and still is, completely deserted. It\nis a rock of almost conical form, which looks as though it had been\nthrust up by volcanic force from the depth to the surface of the ocean.\nDant\u00e8s drew a plan of the island for Faria, and Faria gave Dant\u00e8s\nadvice as to the means he should employ to recover the treasure. But\nDant\u00e8s was far from being as enth",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "117",
+      "claim_id": "117_C0",
+      "claim_text": "While escaping he hid lifetime research manuscripts in a Madeira monastery cellar\u2014the eventual clue to Monte Cristo\u2019s treasure.",
+      "excerpt_text": "inished:\n\n\u201cI understand,\u201d said he, \u201cperfectly.\u201d\n\n30293m\n\n\n\nThen began the questions, which were similar to those which had been\naddressed to the Abb\u00e9 Busoni. But as Lord Wilmore, in the character of\nthe count\u2019s enemy, was less restrained in his answers, they were more\nnumerous; he described the youth of Monte Cristo, who he said, at ten\nyears of age, entered the service of one of the petty sovereigns of\nIndia who make war on the English. It was there Wilmore had first met\nhim and fought against him; and in that war Zaccone had been taken\nprisoner, sent to England, and consigned to the hulks, whence he had\nescaped by swimming. Then began his travels, his duels, his caprices;\nthen the insurrection in Greece broke out, and he had served in the\nGrecian ranks. While in that service he had discovered a silver mine in\nthe mountains of Thessaly, but he had been careful to conceal it from\neveryone. After the battle of Navarino, when the Greek government was\nconsolidated, he asked of King Otho a",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "117",
+      "claim_id": "117_C0",
+      "claim_text": "While escaping he hid lifetime research manuscripts in a Madeira monastery cellar\u2014the eventual clue to Monte Cristo\u2019s treasure.",
+      "excerpt_text": "ood appearance, to be a good gamester,\nand to pay in cash. They are certainly less particular with a foreigner\nthan with a Frenchman. Andrea had, then, in a fortnight, attained a\nvery fair position. He was called count, he was said to possess 50,000\nlivres per annum; and his father\u2019s immense riches, buried in the\nquarries of Saravezza, were a constant theme. A learned man, before\nwhom the last circumstance was mentioned as a fact, declared he had\nseen the quarries in question, which gave great weight to assertions\nhitherto somewhat doubtful, but which now assumed the garb of reality.\n\nSuch was the state of society in Paris at the period we bring before\nour readers, when Monte Cristo went one evening to pay M. Danglars a\nvisit. M. Danglars was out, but the count was asked to go and see the\nbaroness, and he accepted the invitation. It was never without a\nnervous shudder, since the dinner at Auteuil, and the events which\nfollowed it, that Madame Danglars heard Monte Cristo\u2019s name announce",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "117",
+      "claim_id": "117_C0",
+      "claim_text": "While escaping he hid lifetime research manuscripts in a Madeira monastery cellar\u2014the eventual clue to Monte Cristo\u2019s treasure.",
+      "excerpt_text": "n to Valentine, and took her in his\narms.\n\n\u201cA physician, a physician,\u2014M. d\u2019Avrigny!\u201d cried Villefort; \u201cor rather I\nwill go for him myself.\u201d\n\nHe flew from the apartment, and Morrel at the same moment darted out at\nthe other door. He had been struck to the heart by a frightful\nrecollection\u2014the conversation he had heard between the doctor and\nVillefort the night of Madame de Saint-M\u00e9ran\u2019s death, recurred to him;\nthese symptoms, to a less alarming extent, were the same which had\npreceded the death of Barrois. At the same time Monte Cristo\u2019s voice\nseemed to resound in his ear with the words he had heard only two hours\nbefore, \u201cWhatever you want, Morrel, come to me; I have great power.\u201d\n\nMore rapidly than thought, he darted down the Rue Matignon, and thence\nto the Avenue des Champs-\u00c9lys\u00e9es.\n\nMeanwhile M. de Villefort arrived in a hired cabriolet at M.\nd\u2019Avrigny\u2019s door. He rang so violently that the porter was alarmed.\nVillefort ran upstairs without saying a word. The porter knew him, and\nlet",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "117",
+      "claim_id": "117_C0",
+      "claim_text": "While escaping he hid lifetime research manuscripts in a Madeira monastery cellar\u2014the eventual clue to Monte Cristo\u2019s treasure.",
+      "excerpt_text": "s her and extended his\nhand, which she as usual raised to her lips.\n\n40064m\n\n\n\nAlbert had proceeded no farther than the door, where he remained rooted\nto the spot, being completely fascinated by the sight of such\nsurpassing beauty, beheld as it was for the first time, and of which an\ninhabitant of more northern climes could form no adequate idea.\n\n\u201cWhom do you bring?\u201d asked the young girl in Romaic, of Monte Cristo;\n\u201cis it a friend, a brother, a simple acquaintance, or an enemy.\u201d\n\n\u201cA friend,\u201d said Monte Cristo in the same language.\n\n\u201cWhat is his name?\u201d\n\n\u201cCount Albert; it is the same man whom I rescued from the hands of the\nbanditti at Rome.\u201d\n\n\u201cIn what language would you like me to converse with him?\u201d\n\nMonte Cristo turned to Albert. \u201cDo you know modern Greek,\u201d asked he.\n\n\u201cAlas! no,\u201d said Albert; \u201cnor even ancient Greek, my dear count; never\nhad Homer or Plato a more unworthy scholar than myself.\u201d\n\n\u201cThen,\u201d said Hayd\u00e9e, proving by her remark that she had quite\nunderstood Monte Cristo\u2019s qu",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "117",
+      "claim_id": "117_C0",
+      "claim_text": "While escaping he hid lifetime research manuscripts in a Madeira monastery cellar\u2014the eventual clue to Monte Cristo\u2019s treasure.",
+      "excerpt_text": "taken place between Merc\u00e9d\u00e8s and himself had awakened so\nmany recollections in his heart that he felt it necessary to combat\nwith them. A man of the count\u2019s temperament could not long indulge in\nthat melancholy which can exist in common minds, but which destroys\nsuperior ones. He thought he must have made an error in his\ncalculations if he now found cause to blame himself.\n\n\u201cI cannot have deceived myself,\u201d he said; \u201cI must look upon the past in\na false light. What!\u201d he continued, \u201ccan I have been following a false\npath?\u2014can the end which I proposed be a mistaken end?\u2014can one hour have\nsufficed to prove to an architect that the work upon which he founded\nall his hopes was an impossible, if not a sacrilegious, undertaking? I\ncannot reconcile myself to this idea\u2014it would madden me. The reason why\nI am now dissatisfied is that I have not a clear appreciation of the\npast. The past, like the country through which we walk, becomes\nindistinct as we advance. My position is like that of a person",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "117",
+      "claim_id": "117_C0",
+      "claim_text": "While escaping he hid lifetime research manuscripts in a Madeira monastery cellar\u2014the eventual clue to Monte Cristo\u2019s treasure.",
+      "excerpt_text": "bert; \u201cnor even ancient Greek, my dear count; never\nhad Homer or Plato a more unworthy scholar than myself.\u201d\n\n\u201cThen,\u201d said Hayd\u00e9e, proving by her remark that she had quite\nunderstood Monte Cristo\u2019s question and Albert\u2019s answer, \u201cthen I will\nspeak either in French or Italian, if my lord so wills it.\u201d\n\nMonte Cristo reflected one instant. \u201cYou will speak in Italian,\u201d said\nhe.\n\nThen, turning towards Albert,\u2014\u201cIt is a pity you do not understand\neither ancient or modern Greek, both of which Hayd\u00e9e speaks so\nfluently; the poor child will be obliged to talk to you in Italian,\nwhich will give you but a very false idea of her powers of\nconversation.\u201d\n\nThe count made a sign to Hayd\u00e9e to address his visitor. \u201cSir,\u201d she said\nto Morcerf, \u201cyou are most welcome as the friend of my lord and master.\u201d\nThis was said in excellent Tuscan, and with that soft Roman accent\nwhich makes the language of Dante as sonorous as that of Homer. Then,\nturning to Ali, she directed him to bring coffee and pipes, and when h",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "117",
+      "claim_id": "117_C0",
+      "claim_text": "While escaping he hid lifetime research manuscripts in a Madeira monastery cellar\u2014the eventual clue to Monte Cristo\u2019s treasure.",
+      "excerpt_text": "an Arab.\u201d\n\n\u201cAnd you really believe the result would be still more sure with us\nthan in the East, and in the midst of our fogs and rains a man would\nhabituate himself more easily than in a warm latitude to this\nprogressive absorption of poison?\u201d\n\n\u201cCertainly; it being at the same time perfectly understood that he\nshould have been duly fortified against the poison to which he had not\nbeen accustomed.\u201d\n\n\u201cYes, I understand that; and how would you habituate yourself, for\ninstance, or rather, how did you habituate yourself to it?\u201d\n\n\u201cOh, very easily. Suppose you knew beforehand the poison that would be\nmade use of against you; suppose the poison was, for instance,\nbrucine\u2014\u2014\u201d\n\n\u201cBrucine is extracted from the false angostura8 is it not?\u201d inquired\nMadame de Villefort.\n\n\u201cPrecisely, madame,\u201d replied Monte Cristo; \u201cbut I perceive I have not\nmuch to teach you. Allow me to compliment you on your knowledge; such\nlearning is very rare among ladies.\u201d\n\n\u201cOh, I am aware of that,\u201d said Madame de Villefort; \u201cb",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

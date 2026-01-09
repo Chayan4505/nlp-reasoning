@@ -1,4 +1,62 @@
 {
-  "story_id": 1,
-  "dossier": []
+  "story_id": "1",
+  "prediction": 1,
+  "dossier": [
+    {
+      "story_id": "1",
+      "claim_id": "1_C0",
+      "claim_text": "At twelve, Jacques Paganel fell in love with geography after reading Captain Cook\u2019s nautical journal; with a homemade telescope he studied the stars and papered his bedroom walls with maps he drew himself, earning his father\u2019s scolding for neglecting \u201cserious\u201d pursuits.",
+      "excerpt_text": "ontemplated death with a mixture of dread\nand desire; the time had come when the implacable spectre, which exists\nin the mind of every human creature, arrested his attention and called\nout with every pulsation of his heart, \u201cThou shalt die!\u201d\n\nDanglars resembled a timid animal excited in the chase; first it flies,\nthen despairs, and at last, by the very force of desperation, sometimes\nsucceeds in eluding its pursuers. Danglars meditated an escape; but the\nwalls were solid rock, a man was sitting reading at the only outlet to\nthe cell, and behind that man shapes armed with guns continually\npassed. His resolution not to sign lasted two days, after which he\noffered a million for some food. They sent him a magnificent supper,\nand took his million.\n\nFrom this time the prisoner resolved to suffer no longer, but to have\neverything he wanted. At the end of twelve days, after having made a\nsplendid dinner, he reckoned his accounts, and found that he had only\n50,000 francs left. Then a strange re",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "1",
+      "claim_id": "1_C0",
+      "claim_text": "At twelve, Jacques Paganel fell in love with geography after reading Captain Cook\u2019s nautical journal; with a homemade telescope he studied the stars and papered his bedroom walls with maps he drew himself, earning his father\u2019s scolding for neglecting \u201cserious\u201d pursuits.",
+      "excerpt_text": "aw, and that he should continue the\ncontemplated project of the former, under the munificent patronage of\nLord Glenarvan.\n\nBut was Jacques Paganel to die a bachelor? Certainly not; for, after\nhis heroic exploits, the worthy geographer could not escape celebrity.\nHis eccentricities (and his abilities) made him much talked of in\nScotland. People seemed as though they could not show him enough\nattention.\n\nJust at this time an amiable lady of thirty, none other than the\nmajor's cousin, a little eccentric herself, but still agreeable and\ncharming, fell in love with the geographer's peculiarities. Paganel was\nfar from being insensible to Miss Arabella's attractions, yet did not\ndare to declare his sentiments. The major accordingly undertook the\npart of Cupid's messenger between these two congenial hearts, and even\ntold Paganel that marriage was \"the last blunder\" that he could commit.\nBut the geographer was very much embarrassed, and, strangely enough,\ncould not summon courage to speak for h",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "1",
+      "claim_id": "1_C0",
+      "claim_text": "At twelve, Jacques Paganel fell in love with geography after reading Captain Cook\u2019s nautical journal; with a homemade telescope he studied the stars and papered his bedroom walls with maps he drew himself, earning his father\u2019s scolding for neglecting \u201cserious\u201d pursuits.",
+      "excerpt_text": "t, of seeing Miss Mary happy and consoled. He was particularly\ninterested in this young girl; and this feeling he concealed so well,\nthat, except Miss Grant and himself, no one on board the Duncan had\nperceived it.\n\nAs for the learned geographer, he was probably the happiest man in the\nsouthern hemisphere. He passed his time in studying the maps with which\nhe covered the cabin-table; and then followed daily discussions with\nMr. Olbinett, so that he could scarcely set the table.\n\nBut Paganel had all the passengers on his side except the major,\nwho was very indifferent to geographical questions, especially at\ndinner-time. Having discovered a whole cargo of odd books in the mate's\nchests, and among them a number of Cervantes' works, the Frenchman\nresolved to learn Spanish, which nobody on board knew, and which would\nfacilitate his search on the shores of Chili. Thanks to his love for\nphilology, he did not despair of speaking this new tongue fluently on\narriving at Concepcion. He therefore",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "1",
+      "claim_id": "1_C0",
+      "claim_text": "At twelve, Jacques Paganel fell in love with geography after reading Captain Cook\u2019s nautical journal; with a homemade telescope he studied the stars and papered his bedroom walls with maps he drew himself, earning his father\u2019s scolding for neglecting \u201cserious\u201d pursuits.",
+      "excerpt_text": "n his study, according to his\ncustom, with a heap of papers calculated to alarm anyone else, but\nwhich generally scarcely satisfied his inordinate desires.\n\nBut this time the papers were a mere matter of form. Villefort had\nsecluded himself, not to study, but to reflect; and with the door\nlocked and orders given that he should not be disturbed excepting for\nimportant business, he sat down in his armchair and began to ponder\nover the events, the remembrance of which had during the last eight\ndays filled his mind with so many gloomy thoughts and bitter\nrecollections.\n\nThen, instead of plunging into the mass of documents piled before him,\nhe opened the drawer of his desk, touched a spring, and drew out a\nparcel of cherished memoranda, amongst which he had carefully arranged,\nin characters only known to himself, the names of all those who, either\nin his political career, in money matters, at the bar, or in his\nmysterious love affairs, had become his enemies.\n\nTheir number was formidable, n",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "1",
+      "claim_id": "1_C0",
+      "claim_text": "At twelve, Jacques Paganel fell in love with geography after reading Captain Cook\u2019s nautical journal; with a homemade telescope he studied the stars and papered his bedroom walls with maps he drew himself, earning his father\u2019s scolding for neglecting \u201cserious\u201d pursuits.",
+      "excerpt_text": "to must penetrate deeper into the island; he examined the stones,\nand sounded one part of the wall where he fancied the opening existed,\nmasked for precaution\u2019s sake.\n\nThe pickaxe struck for a moment with a dull sound that drew out of\nDant\u00e8s\u2019 forehead large drops of perspiration. At last it seemed to him\nthat one part of the wall gave forth a more hollow and deeper echo; he\neagerly advanced, and with the quickness of perception that no one but\na prisoner possesses, saw that there, in all probability, the opening\nmust be.\n\nHowever, he, like C\u00e6sar Borgia, knew the value of time; and, in order\nto avoid fruitless toil, he sounded all the other walls with his\npickaxe, struck the earth with the butt of his gun, and finding nothing\nthat appeared suspicious, returned to that part of the wall whence\nissued the consoling sound he had before heard.\n\nHe again struck it, and with greater force. Then a singular thing\noccurred. As he struck the wall, pieces of stucco similar to that used\nin the groun",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "1",
+      "claim_id": "1_C0",
+      "claim_text": "At twelve, Jacques Paganel fell in love with geography after reading Captain Cook\u2019s nautical journal; with a homemade telescope he studied the stars and papered his bedroom walls with maps he drew himself, earning his father\u2019s scolding for neglecting \u201cserious\u201d pursuits.",
+      "excerpt_text": " often overcome by despair,\nhe wandered in those vast solitudes, with the sun as his guide by\nday and the stars by night. In this way he crossed marshes, rivers,\nmountains, in short, all that uninhabited portion of country that few\ntravelers have explored. At last, exhausted and almost dead, he reached\nthe hospitable dwelling of Mr. O'Moore, where his labor insured him a\ncomfortable livelihood.\n\n\"And if Ayrton is pleased with me,\" said the Irish colonist, when the\nstory was finished, \"I cannot but be pleased with him. He is an honest\nand intelligent man, a good worker, and, if he chooses, this house\nshall long be at his service.\"\n\nAyrton thanked Mr. O'Moore, and waited for further questions. He\nprobably thought, however, that the legitimate curiosity of his hearers\nought to be satisfied. What could he say that had not been repeated\na hundred times already? Glenarvan was, therefore, about to open the\nconversation on a new topic, to profit by the information received from\nAyrton, when th",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "1",
+      "claim_id": "1_C0",
+      "claim_text": "At twelve, Jacques Paganel fell in love with geography after reading Captain Cook\u2019s nautical journal; with a homemade telescope he studied the stars and papered his bedroom walls with maps he drew himself, earning his father\u2019s scolding for neglecting \u201cserious\u201d pursuits.",
+      "excerpt_text": "can offer you for a few days the\nhospitalities of my vessel. May you not grow weary of our company.\"\n\n\"Oh, my lord,\" exclaimed the geographer, \"I am still too happy in being\nso agreeably disappointed. However, it is a very ludicrous situation\nfor a man who takes passage for India, and is sailing to America.\"\n\nIn spite of this mortifying reflection, Paganel made the best use of a\ndelay that he could not avoid. He showed himself amiable, and even gay;\nhe enchanted the ladies with his good humor, and before the end of the\nday he was the friend of every one. At his request the famous document\nwas shown to him. He studied it carefully, long and minutely. No other\ninterpretation appeared to him possible. Mary Grant and her brother\ninspired him with the liveliest interest. He gave them good hopes. His\nway of distinguishing the events, and the undeniable success that he\npredicted for the Duncan, elicited a smile from the young girl.\n\n[Sidenote: THIS, OR THAT, OR NEITHER.]\n\nAs to Lady Helena, w",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

@@ -1,5 +1,70 @@
 {
-  "story_id": 64,
+  "story_id": "64",
   "prediction": 0,
-  "dossier": []
+  "dossier": [
+    {
+      "story_id": "64",
+      "claim_id": "64_C0",
+      "claim_text": "South-latitude incident: off the Chilean coast he ferried water and provisions to a burning barque and fished a sailor from the sea during a squall.",
+      "excerpt_text": "\u00e8s, who was watching the\nanchoring of his vessel, \u201cit seems to me that a sailor needs not be so\nold as you say, Danglars, to understand his business, for our friend\nEdmond seems to understand it thoroughly, and not to require\ninstruction from anyone.\u201d\n\n\u201cYes,\u201d said Danglars, darting at Edmond a look gleaming with hate.\n\u201cYes, he is young, and youth is invariably self-confident. Scarcely was\nthe captain\u2019s breath out of his body when he assumed the command\nwithout consulting anyone, and he caused us to lose a day and a half at\nthe Island of Elba, instead of making for Marseilles direct.\u201d\n\n0025m\n\n\n\n\u201cAs to taking command of the vessel,\u201d replied Morrel, \u201cthat was his\nduty as captain\u2019s mate; as to losing a day and a half off the Island of\nElba, he was wrong, unless the vessel needed repairs.\u201d\n\n\u201cThe vessel was in as good condition as I am, and as, I hope you are,\nM. Morrel, and this day and a half was lost from pure whim, for the\npleasure of going ashore, and nothing else.\u201d\n\n\u201cDant\u00e8s,\u201d said the ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "64",
+      "claim_id": "64_C0",
+      "claim_text": "South-latitude incident: off the Chilean coast he ferried water and provisions to a burning barque and fished a sailor from the sea during a squall.",
+      "excerpt_text": "Spada was\nsingularly circumstantial, and Dant\u00e8s repeated it to himself, from one\nend to the other, for he had not forgotten a word.\n\n0285m\n\n\n\nEvening came, and Edmond saw the island tinged with the shades of\ntwilight, and then disappear in the darkness from all eyes but his own,\nfor he, with vision accustomed to the gloom of a prison, continued to\nbehold it last of all, for he remained alone upon deck. The next morn\nbroke off the coast of Aleria; all day they coasted, and in the evening\nsaw fires lighted on land; the position of these was no doubt a signal\nfor landing, for a ship\u2019s lantern was hung up at the mast-head instead\nof the streamer, and they came to within a gunshot of the shore. Dant\u00e8s\nnoticed that the captain of _La Jeune Am\u00e9lie_ had, as he neared the\nland, mounted two small culverins, which, without making much noise,\ncan throw a four ounce ball a thousand paces or so.\n\nBut on this occasion the precaution was superfluous, and everything\nproceeded with the utmost smoothness",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "64",
+      "claim_id": "64_C0",
+      "claim_text": "South-latitude incident: off the Chilean coast he ferried water and provisions to a burning barque and fished a sailor from the sea during a squall.",
+      "excerpt_text": "n the sea during the obscurity of the night, in\nthe silence of immensity, and under the eye of Heaven?\n\nNow this solitude was peopled with his thoughts, the night lighted up\nby his illusions, and the silence animated by his anticipations. When\nthe patron awoke, the vessel was hurrying on with every sail set, and\nevery sail full with the breeze. They were making nearly ten knots an\nhour. The Island of Monte Cristo loomed large in the horizon. Edmond\nresigned the lugger to the master\u2019s care, and went and lay down in his\nhammock; but, in spite of a sleepless night, he could not close his\neyes for a moment.\n\nTwo hours afterwards he came on deck, as the boat was about to double\nthe Island of Elba. They were just abreast of Mareciana, and beyond the\nflat but verdant Island of La Pianosa. The peak of Monte Cristo\nreddened by the burning sun, was seen against the azure sky. Dant\u00e8s\nordered the helmsman to put down his helm, in order to leave La Pianosa\nto starboard, as he knew that he should sh",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "64",
+      "claim_id": "64_C0",
+      "claim_text": "South-latitude incident: off the Chilean coast he ferried water and provisions to a burning barque and fished a sailor from the sea during a squall.",
+      "excerpt_text": "afterward the little party descended the high banks. But here a serious\ndisappointment awaited them,--the lake was dry!\n\n\n\n\nCHAPTER XVIII.\n\nIN SEARCH OF WATER.\n\n\nLake Salinas terminates the cluster of lagoons that adjoin the Ventana\nand Guamini mountains. Numerous expeditions are made to this place\nto obtain supplies of salt, with which these waters are strongly\nimpregnated. But now the water had evaporated under the heat of the\nsun, and the lake was only a vast glittering basin.\n\nWhen Thalcave announced the presence of a drinkable liquid at Lake\nSalinas, he meant the streams of fresh water that flow from it in\nmany places. But at this time its affluents were as dry as itself.\nThe burning sun had absorbed everything. Hence, the consternation was\ngeneral when the thirsty party arrived at the parched shores of Lake\nSalinas.\n\nIt was necessary to take counsel. The little water in the leathern\nbottles was half spoiled, and could not quench their thirst, which\nbegan to make itself acutely fe",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "64",
+      "claim_id": "64_C0",
+      "claim_text": "South-latitude incident: off the Chilean coast he ferried water and provisions to a burning barque and fished a sailor from the sea during a squall.",
+      "excerpt_text": "\nThe answer was unanimous,--make for the coast without delay. Lady\nHelena and Mary Grant engaged to travel fifteen miles a day. The\ncourageous women did not shrink from traversing the entire distance on\nfoot, if necessary.\n\n\"But are we certain to find at the bay the resources that we need?\"\nasked Glenarvan.\n\n\"Without doubt,\" replied Paganel. \"Eden is not a new municipality; and\nits harbor must have frequent communication with Melbourne. I even\nbelieve that thirty-five miles from here, at the parish of Delegete, we\ncan obtain provisions and the means of conveyance.\"\n\n\"And the Duncan?\" asked Ayrton. \"Do you not think it advisable to order\nher to the bay?\"\n\n\"What say you, captain?\" said Glenarvan.\n\n\"I do not think that there is any necessity for such a proceeding,\"\nreplied the young captain, after reflection. \"There will be plenty of\ntime to send your orders to Tom Austin and summon him to the coast.\"\n\n\"That is quite true,\" added Paganel.\n\n\"Besides,\" continued Captain Mangles, \"in four or",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "64",
+      "claim_id": "64_C0",
+      "claim_text": "South-latitude incident: off the Chilean coast he ferried water and provisions to a burning barque and fished a sailor from the sea during a squall.",
+      "excerpt_text": "in fact, increase the waves; the sea is peculiarly\nboisterous around them, and ships are sure to be lost if they strike on\nthese bars in heavy storms.\n\nIt was therefore very natural that the Duncan, considering this coast\ndangerous, and knowing it to be without a port of shelter, kept at a\ndistance. Captain Mangles must have kept to the windward as far as\npossible. This was Tom Austin's opinion, and he declared that the\nDuncan was not less than five miles at sea.\n\nThe major, accordingly, persuaded his impatient relative to be\nresigned, as there was no way of dissipating the thick darkness. And\nwhy weary their eyes in scanning the gloomy horizon? He established a\nkind of encampment in the shelter of the sand-hills; the remains of\nthe provisions furnished them a final repast; and then each, following\nthe major's example, hollowed out a comfortable bed in the sand, and,\ncovering himself up to his chin, was soon wrapped in profound repose.\n\nGlenarvan watched alone. The wind continued stron",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "64",
+      "claim_id": "64_C0",
+      "claim_text": "South-latitude incident: off the Chilean coast he ferried water and provisions to a burning barque and fished a sailor from the sea during a squall.",
+      "excerpt_text": "te: A TALE OF INDUSTRY.]\n\n\"It was on the night of the 26th of June, 1862, that the Britannia,\ndisabled by a six days' tempest, was wrecked on the rock of Maria\nTheresa. The sea was so high that to save anything was impossible,\nand all the crew perished except my two sailors, Bob Learce and Joe\nBell, and myself; and we succeeded in reaching the coast after many\nstruggles. The land that we thus reached was only a desert island, two\nmiles wide and five long, with a few trees in the interior, some meadow\nland, and a spring of fresh water that, fortunately, has never ceased\nto flow. Alone with my two sailors, in this quarter of the globe, I did\nnot despair, but, placing my confidence in God, engaged in a resolute\nstruggle. Bob and Joe, my companions and friends in misfortune,\nenergetically aided my efforts. We began, like Robinson Crusoe, by\ncollecting the fragments of the vessel, some tools, a little powder,\nseveral weapons, and a bag of precious seeds. The first weeks were very\ntoilsome, ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "64",
+      "claim_id": "64_C0",
+      "claim_text": "South-latitude incident: off the Chilean coast he ferried water and provisions to a burning barque and fished a sailor from the sea during a squall.",
+      "excerpt_text": "\nIndian Ocean. It was necessary, however, to pass around the bay to gain\nthat part of the coast where Tom Austin was to meet the travelers.\n\nWhen the sea appeared, all eyes quickly surveyed the wide expanse. Was\nthe Duncan there, by a miracle of Providence, as she had been discerned\nbefore by some of them on the Argentine coast? Nothing was seen; sky\nand water mingled in an unbroken horizon; not a sail brightened the\nvast extent of ocean.\n\nOne hope still remained. Perhaps Tom Austin had thought it best to cast\nanchor in Twofold Bay, as the sea was rough and a vessel could not be\nmoored in safety near such shores.\n\n\"To Eden!\" said Glenarvan.\n\nThe mail-coach at once took the road to the right, which ran along the\nedge of the bay, and proceeded towards the little town of Eden, only\nfive miles distant. The postilions stopped not far from the light that\nguarded the entrance to the harbor. Several ships were anchored in the\nroadstead, but none displayed the flag of Malcolm Castle.\n\nGlenarvan",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

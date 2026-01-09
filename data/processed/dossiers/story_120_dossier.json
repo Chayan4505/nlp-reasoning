@@ -1,4 +1,70 @@
 {
-  "story_id": 120,
-  "dossier": []
+  "story_id": "120",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "120",
+      "claim_id": "120_C0",
+      "claim_text": "He invented a \u201csalt-blood\u201d ink that revealed under heat, used it to help a Corsican patriot escape, and was transferred to the more secure Ch\u00e2teau d\u2019If for the trouble.",
+      "excerpt_text": "peared; it was evident that he had\ntouched the shore.\n\nEveryone on board remained motionless for half an hour, when the same\nluminous track was again observed, and the swimmer was soon on board.\n\n\u201cWell?\u201d exclaimed Franz and the sailors in unison.\n\n\u201cThey are Spanish smugglers,\u201d said he; \u201cthey have with them two\nCorsican bandits.\u201d\n\n\u201cAnd what are these Corsican bandits doing here with Spanish\nsmugglers?\u201d\n\n\u201cAlas,\u201d returned the captain with an accent of the most profound pity,\n\u201cwe ought always to help one another. Very often the bandits are hard\npressed by gendarmes or carbineers; well, they see a vessel, and good\nfellows like us on board, they come and demand hospitality of us; you\ncan\u2019t refuse help to a poor hunted devil; we receive them, and for\ngreater security we stand out to sea. This costs us nothing, and saves\nthe life, or at least the liberty, of a fellow-creature, who on the\nfirst occasion returns the service by pointing out some safe spot where\nwe can land our goods without inter",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "120",
+      "claim_id": "120_C0",
+      "claim_text": "He invented a \u201csalt-blood\u201d ink that revealed under heat, used it to help a Corsican patriot escape, and was transferred to the more secure Ch\u00e2teau d\u2019If for the trouble.",
+      "excerpt_text": " might have bound Edmond to him by a more secure alliance. At\nseven o\u2019clock in the evening all was ready, and at ten minutes past\nseven they doubled the lighthouse just as the beacon was kindled. The\nsea was calm, and, with a fresh breeze from the south-east, they sailed\nbeneath a bright blue sky, in which God also lighted up in turn his\nbeacon lights, each of which is a world. Dant\u00e8s told them that all\nhands might turn in, and he would take the helm. When the Maltese (for\nso they called Dant\u00e8s) had said this, it was sufficient, and all went\nto their bunks contentedly.\n\nThis frequently happened. Dant\u00e8s, cast from solitude into the world,\nfrequently experienced an imperious desire for solitude; and what\nsolitude is more complete, or more poetical, than that of a ship\nfloating in isolation on the sea during the obscurity of the night, in\nthe silence of immensity, and under the eye of Heaven?\n\nNow this solitude was peopled with his thoughts, the night lighted up\nby his illusions, and the ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "120",
+      "claim_id": "120_C0",
+      "claim_text": "He invented a \u201csalt-blood\u201d ink that revealed under heat, used it to help a Corsican patriot escape, and was transferred to the more secure Ch\u00e2teau d\u2019If for the trouble.",
+      "excerpt_text": "t\nexcitement frightened her so much that she opened her mouth to scream,\nbut the sound died in her throat.\n\n\u201cHow has this terrible past been recalled?\u201d cried Villefort; \u201chow is it\nthat it has escaped from the depths of the tomb and the recesses of our\nhearts, where it was buried, to visit us now, like a phantom, whitening\nour cheeks and flushing our brows with shame?\u201d\n\n\u201cAlas,\u201d said Hermine, \u201cdoubtless it is chance.\u201d\n\n\u201cChance?\u201d replied Villefort; \u201cNo, no, madame, there is no such thing as\nchance.\u201d\n\n\u201cOh, yes; has not a fatal chance revealed all this? Was it not by\nchance the Count of Monte Cristo bought that house? Was it not by\nchance he caused the earth to be dug up? Is it not by chance that the\nunfortunate child was disinterred under the trees?\u2014that poor innocent\noffspring of mine, which I never even kissed, but for whom I wept many,\nmany tears. Ah, my heart clung to the count when he mentioned the dear\nspoil found beneath the flowers.\u201d\n\n\u201cWell, no, madame,\u2014this is the terrible news I ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "120",
+      "claim_id": "120_C0",
+      "claim_text": "He invented a \u201csalt-blood\u201d ink that revealed under heat, used it to help a Corsican patriot escape, and was transferred to the more secure Ch\u00e2teau d\u2019If for the trouble.",
+      "excerpt_text": "determined to make for them. But how could he find his\nway in the darkness of the night?\n\nAt this moment he saw the light of Planier, gleaming in front of him\nlike a star. By leaving this light on the right, he kept the Island of\nTiboulen a little on the left; by turning to the left, therefore, he\nwould find it. But, as we have said, it was at least a league from the\nCh\u00e2teau d\u2019If to this island. Often in prison Faria had said to him,\nwhen he saw him idle and inactive:\n\n\u201cDant\u00e8s, you must not give way to this listlessness; you will be\ndrowned if you seek to escape, and your strength has not been properly\nexercised and prepared for exertion.\u201d\n\nThese words rang in Dant\u00e8s\u2019 ears, even beneath the waves; he hastened\nto cleave his way through them to see if he had not lost his strength.\nHe found with pleasure that his captivity had taken away nothing of his\npower, and that he was still master of that element on whose bosom he\nhad so often sported as a boy.\n\nFear, that relentless pursuer, clogg",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "120",
+      "claim_id": "120_C0",
+      "claim_text": "He invented a \u201csalt-blood\u201d ink that revealed under heat, used it to help a Corsican patriot escape, and was transferred to the more secure Ch\u00e2teau d\u2019If for the trouble.",
+      "excerpt_text": " to carry it off.\n\nThe day came at length, and was almost as feverish as the night had\nbeen, but it brought reason to the aid of imagination, and Dant\u00e8s was\nthen enabled to arrange a plan which had hitherto been vague and\nunsettled in his brain. Night came, and with it the preparation for\ndeparture, and these preparations served to conceal Dant\u00e8s\u2019 agitation.\nHe had by degrees assumed such authority over his companions that he\nwas almost like a commander on board; and as his orders were always\nclear, distinct, and easy of execution, his comrades obeyed him with\ncelerity and pleasure.\n\nThe old patron did not interfere, for he too had recognized the\nsuperiority of Dant\u00e8s over the crew and himself. He saw in the young\nman his natural successor, and regretted that he had not a daughter,\nthat he might have bound Edmond to him by a more secure alliance. At\nseven o\u2019clock in the evening all was ready, and at ten minutes past\nseven they doubled the lighthouse just as the beacon was kindled. The\n",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "120",
+      "claim_id": "120_C0",
+      "claim_text": "He invented a \u201csalt-blood\u201d ink that revealed under heat, used it to help a Corsican patriot escape, and was transferred to the more secure Ch\u00e2teau d\u2019If for the trouble.",
+      "excerpt_text": "r,\u201d said he, \u201cyou are aware that Valentine is about to enter her\nnineteenth year, which renders it important that she should lose no\ntime in forming a suitable alliance. Nevertheless, you have not been\nforgotten in our plans, and we have fully ascertained beforehand that\nValentine\u2019s future husband will consent, not to live in this house, for\nthat might not be pleasant for the young people, but that you should\nlive with them; so that you and Valentine, who are so attached to each\nother, would not be separated, and you would be able to pursue exactly\nthe same course of life which you have hitherto done, and thus, instead\nof losing, you will be a gainer by the change, as it will secure to you\ntwo children instead of one, to watch over and comfort you.\u201d\n\n30165m\n\n\n\nNoirtier\u2019s look was furious; it was very evident that something\ndesperate was passing in the old man\u2019s mind, for a cry of anger and\ngrief rose in his throat, and not being able to find vent in utterance,\nappeared almost to choke ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "120",
+      "claim_id": "120_C0",
+      "claim_text": "He invented a \u201csalt-blood\u201d ink that revealed under heat, used it to help a Corsican patriot escape, and was transferred to the more secure Ch\u00e2teau d\u2019If for the trouble.",
+      "excerpt_text": "e left to contradict me.\u201d\n\nAs he spoke, Dant\u00e8s looked toward the spot where the fishing-vessel had\nbeen wrecked, and started. The red cap of one of the sailors hung to a\npoint of the rock and some timbers that had formed part of the vessel\u2019s\nkeel, floated at the foot of the crag. In an instant Dant\u00e8s\u2019 plan was\nformed. He swam to the cap, placed it on his head, seized one of the\ntimbers, and struck out so as to cut across the course the vessel was\ntaking.\n\n\u201cI am saved!\u201d murmured he. And this conviction restored his strength.\n\nHe soon saw that the vessel, with the wind dead ahead, was tacking\nbetween the Ch\u00e2teau d\u2019If and the tower of Planier. For an instant he\nfeared lest, instead of keeping in shore, she should stand out to sea;\nbut he soon saw that she would pass, like most vessels bound for Italy,\nbetween the islands of Jaros and Calaseraigne.\n\nHowever, the vessel and the swimmer insensibly neared one another, and\nin one of its tacks the tartan bore down within a quarter of a mile of\n",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "120",
+      "claim_id": "120_C0",
+      "claim_text": "He invented a \u201csalt-blood\u201d ink that revealed under heat, used it to help a Corsican patriot escape, and was transferred to the more secure Ch\u00e2teau d\u2019If for the trouble.",
+      "excerpt_text": " clouds rolled towards the west, and the blue\nfirmament appeared studded with bright stars. Soon a red streak became\nvisible in the horizon, the waves whitened, a light played over them,\nand gilded their foaming crests with gold. It was day.\n\nDant\u00e8s stood mute and motionless before this majestic spectacle, as if\nhe now beheld it for the first time; and indeed since his captivity in\nthe Ch\u00e2teau d\u2019If he had forgotten that such scenes were ever to be\nwitnessed. He turned towards the fortress, and looked at both sea and\nland. The gloomy building rose from the bosom of the ocean with\nimposing majesty and seemed to dominate the scene. It was about five\no\u2019clock. The sea continued to get calmer.\n\n\u201cIn two or three hours,\u201d thought Dant\u00e8s, \u201cthe turnkey will enter my\nchamber, find the body of my poor friend, recognize it, seek for me in\nvain, and give the alarm. Then the tunnel will be discovered; the men\nwho cast me into the sea and who must have heard the cry I uttered,\nwill be questioned. Then ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

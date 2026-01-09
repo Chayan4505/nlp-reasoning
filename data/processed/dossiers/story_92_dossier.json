@@ -1,4 +1,54 @@
 {
-  "story_id": 92,
-  "dossier": []
+  "story_id": "92",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "92",
+      "claim_id": "92_C0",
+      "claim_text": "**Father-son Rift**: Discovering that his elder son G\u00e9rard (Villefort) sought to wed into the old aristocracy, Noirtier publicly burned the Saint-M\u00e9ran betrothal contract (1804), forcing Villefort to flee to Paris overnight.",
+      "excerpt_text": "ed\nto you, that heart is also yours. This evening, then, at a quarter to\nnine at the gate.\n\n\u201cYour betrothed,\n\n\u201cValentine de Villefort.\u201d\n\n\u201cP.S.\u2014My poor grandmother gets worse and worse; yesterday her fever\namounted to delirium; today her delirium is almost madness. You will be\nvery kind to me, will you not, Morrel, to make me forget my sorrow in\nleaving her thus? I think it is kept a secret from grandpapa Noirtier,\nthat the contract is to be signed this evening.\u201d\n\nMorrel went also to the notary, who confirmed the news that the\ncontract was to be signed that evening. Then he went to call on Monte\nCristo and heard still more. Franz had been to announce the ceremony,\nand Madame de Villefort had also written to beg the count to excuse her\nnot inviting him; the death of M. de Saint-M\u00e9ran and the dangerous\nillness of his widow would cast a gloom over the meeting which she\nwould regret should be shared by the count whom she wished every\nhappiness.\n\nThe day before Franz had been presented to Ma",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "92",
+      "claim_id": "92_C0",
+      "claim_text": "**Father-son Rift**: Discovering that his elder son G\u00e9rard (Villefort) sought to wed into the old aristocracy, Noirtier publicly burned the Saint-M\u00e9ran betrothal contract (1804), forcing Villefort to flee to Paris overnight.",
+      "excerpt_text": "to render Valentine supremely\nhappy,\u2014his name, moreover, cannot be wholly unknown to you. It is M.\nFranz de Quesnel, Baron d\u2019\u00c9pinay.\u201d\n\nWhile his wife was speaking, Villefort had narrowly watched the old\nman\u2019s countenance. When Madame de Villefort pronounced the name of\nFranz, the pupil of M. Noirtier\u2019s eye began to dilate, and his eyelids\ntrembled with the same movement that may be perceived on the lips of an\nindividual about to speak, and he darted a lightning glance at Madame\nde Villefort and his son. The procureur, who knew the political hatred\nwhich had formerly existed between M. Noirtier and the elder d\u2019\u00c9pinay,\nwell understood the agitation and anger which the announcement had\nproduced; but, feigning not to perceive either, he immediately resumed\nthe narrative begun by his wife.\n\n\u201cSir,\u201d said he, \u201cyou are aware that Valentine is about to enter her\nnineteenth year, which renders it important that she should lose no\ntime in forming a suitable alliance. Nevertheless, you have not bee",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "92",
+      "claim_id": "92_C0",
+      "claim_text": "**Father-son Rift**: Discovering that his elder son G\u00e9rard (Villefort) sought to wed into the old aristocracy, Noirtier publicly burned the Saint-M\u00e9ran betrothal contract (1804), forcing Villefort to flee to Paris overnight.",
+      "excerpt_text": " must take to obtain it;\nhowever at length he decided, leaped out of the window into a cluster\nof heliotropes and daisies, and ran to his mother, his forehead\nstreaming with perspiration. Madame de Villefort wiped his forehead,\npressed her lips upon it, and sent him back with the ball in one hand\nand some bonbons in the other.\n\nVillefort, drawn by an irresistible attraction, like that of the bird\nto the serpent, walked towards the house. As he approached it,\nNoirtier\u2019s gaze followed him, and his eyes appeared of such a fiery\nbrightness that Villefort felt them pierce to the depths of his heart.\nIn that earnest look might be read a deep reproach, as well as a\nterrible menace. Then Noirtier raised his eyes to heaven, as though to\nremind his son of a forgotten oath.\n\n\u201cIt is well, sir,\u201d replied Villefort from below,\u2014\u201cit is well; have\npatience but one day longer; what I have said I will do.\u201d\n\nNoirtier seemed to be calmed by these words, and turned his eyes with\nindifference to the other sid",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "92",
+      "claim_id": "92_C0",
+      "claim_text": "**Father-son Rift**: Discovering that his elder son G\u00e9rard (Villefort) sought to wed into the old aristocracy, Noirtier publicly burned the Saint-M\u00e9ran betrothal contract (1804), forcing Villefort to flee to Paris overnight.",
+      "excerpt_text": " divide the money into five equal\nparts, and give an equal portion to these good friends, the only\npersons who have loved me upon earth.\u2019\u201d\n\n\u201cBut why into five parts?\u201d asked Caderousse; \u201cyou only mentioned four\npersons.\u201d\n\n\u201cBecause the fifth is dead, as I hear. The fifth sharer in Edmond\u2019s\nbequest, was his own father.\u201d\n\n\u201cToo true, too true!\u201d ejaculated Caderousse, almost suffocated by the\ncontending passions which assailed him, \u201cthe poor old man did die.\u201d\n\n\u201cI learned so much at Marseilles,\u201d replied the abb\u00e9, making a strong\neffort to appear indifferent; \u201cbut from the length of time that has\nelapsed since the death of the elder Dant\u00e8s, I was unable to obtain any\nparticulars of his end. Can you enlighten me on that point?\u201d\n\n\u201cI do not know who could if I could not,\u201d said Caderousse. \u201cWhy, I\nlived almost on the same floor with the poor old man. Ah, yes, about a\nyear after the disappearance of his son the poor old man died.\u201d\n\n\u201cOf what did he die?\u201d\n\n\u201cWhy, the doctors called his complaint gastr",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "92",
+      "claim_id": "92_C0",
+      "claim_text": "**Father-son Rift**: Discovering that his elder son G\u00e9rard (Villefort) sought to wed into the old aristocracy, Noirtier publicly burned the Saint-M\u00e9ran betrothal contract (1804), forcing Villefort to flee to Paris overnight.",
+      "excerpt_text": "pped into the same carriage,\nand Morrel, seeing them pass, became uneasy. Villefort and Franz\nreturned to the Faubourg Saint-Honor\u00e9. The procureur, without going to\nsee either his wife or his daughter, went at once to his study, and,\noffering the young man a chair:\n\n\u201cM. d\u2019\u00c9pinay,\u201d said he, \u201callow me to remind you at this moment,\u2014which\nis perhaps not so ill-chosen as at first sight may appear, for\nobedience to the wishes of the departed is the first offering which\nshould be made at their tomb,\u2014allow me then to remind you of the wish\nexpressed by Madame de Saint-M\u00e9ran on her death-bed, that Valentine\u2019s\nwedding might not be deferred. You know the affairs of the deceased are\nin perfect order, and her will bequeaths to Valentine the entire\nproperty of the Saint-M\u00e9ran family; the notary showed me the documents\nyesterday, which will enable us to draw up the contract immediately.\nYou may call on the notary, M. Deschamps, Place Beauveau, Faubourg\nSaint-Honor\u00e9, and you have my authority to inspe",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "92",
+      "claim_id": "92_C0",
+      "claim_text": "**Father-son Rift**: Discovering that his elder son G\u00e9rard (Villefort) sought to wed into the old aristocracy, Noirtier publicly burned the Saint-M\u00e9ran betrothal contract (1804), forcing Villefort to flee to Paris overnight.",
+      "excerpt_text": "g heard the noise in the house, had, as\nwe have said, sent his old servant to inquire the cause; on his return,\nhis quick intelligent eye interrogated the messenger.\n\n\u201cAlas, sir,\u201d exclaimed Barrois, \u201ca great misfortune has happened.\nMadame de Saint-M\u00e9ran has arrived, and her husband is dead!\u201d\n\nM. de Saint-M\u00e9ran and Noirtier had never been on strict terms of\nfriendship; still, the death of one old man always considerably affects\nanother. Noirtier let his head fall upon his chest, apparently\noverwhelmed and thoughtful; then he closed one eye, in token of\ninquiry.\n\nBarrois asked, \u201cMademoiselle Valentine?\u201d\n\nNoirtier nodded his head.\n\n\u201cShe is at the ball, as you know, since she came to say good-bye to you\nin full dress.\u201d Noirtier again closed his left eye.\n\n\u201cDo you wish to see her?\u201d Noirtier again made an affirmative sign.\n\n\u201cWell, they have gone to fetch her, no doubt, from Madame de Morcerf\u2019s;\nI will await her return, and beg her to come up here. Is that what you\nwish for?\u201d\n\n\u201cYes,\u201d replied",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

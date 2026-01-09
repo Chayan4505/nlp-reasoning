@@ -1,5 +1,62 @@
 {
-  "story_id": 119,
+  "story_id": "119",
   "prediction": 0,
-  "dossier": []
+  "dossier": [
+    {
+      "story_id": "119",
+      "claim_id": "119_C0",
+      "claim_text": "First confined in Fenestrella Fortress, he scratched \u201cOn Ancient Mediterranean Routes\u201d into limestone with a nail; the warden later plagiarised the essay.",
+      "excerpt_text": " care if I am?\u2019\u201d\n\n\u201cAndrea, he has some secretaire with a spring.\u201d\n\n\u201cHow do you know?\u201d\n\n\u201cYes, which catches the thief in a trap and plays a tune. I was told\nthere were such at the last exhibition.\u201d\n\n\u201cHe has simply a mahogany secretaire, in which the key is always kept.\u201d\n\n\u201cAnd he is not robbed?\u201d\n\n\u201cNo; his servants are all devoted to him.\u201d\n\n\u201cThere ought to be some money in that secretaire?\u201d\n\n\u201cThere may be. No one knows what there is.\u201d\n\n\u201cAnd where is it?\u201d\n\n\u201cOn the first floor.\u201d\n\n\u201cSketch me the plan of that floor, as you have done of the ground\nfloor, my boy.\u201d\n\n\u201cThat is very simple.\u201d Andrea took the pen. \u201cOn the first story, do you\nsee, there is the anteroom and the drawing-room; to the right of the\ndrawing-room, a library and a study; to the left, a bedroom and a\ndressing-room. The famous secretaire is in the dressing-room.\u201d\n\n\u201cIs there a window in the dressing-room?\u201d\n\n\u201cTwo,\u2014one here and one there.\u201d Andrea sketched two windows in the room,\nwhich formed an angle on the plan, and appeared as ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "119",
+      "claim_id": "119_C0",
+      "claim_text": "First confined in Fenestrella Fortress, he scratched \u201cOn Ancient Mediterranean Routes\u201d into limestone with a nail; the warden later plagiarised the essay.",
+      "excerpt_text": "he hewn stone and rough stones of the wall, and\nemployed it as a lever. A slight oscillation showed Dant\u00e8s that all\nwent well. At the end of an hour the stone was extricated from the\nwall, leaving a cavity a foot and a half in diameter.\n\nDant\u00e8s carefully collected the plaster, carried it into the corner of\nhis cell, and covered it with earth. Then, wishing to make the best use\nof his time while he had the means of labor, he continued to work\nwithout ceasing. At the dawn of day he replaced the stone, pushed his\nbed against the wall, and lay down. The breakfast consisted of a piece\nof bread; the jailer entered and placed the bread on the table.\n\n\u201cWell, don\u2019t you intend to bring me another plate?\u201d said Dant\u00e8s.\n\n\u201cNo,\u201d replied the turnkey; \u201cyou destroy everything. First you break\nyour jug, then you make me break your plate; if all the prisoners\nfollowed your example, the government would be ruined. I shall leave\nyou the saucepan, and pour your soup into that. So for the future I\nhope you wi",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "119",
+      "claim_id": "119_C0",
+      "claim_text": "First confined in Fenestrella Fortress, he scratched \u201cOn Ancient Mediterranean Routes\u201d into limestone with a nail; the warden later plagiarised the essay.",
+      "excerpt_text": "my hand across my brow, I felt that it\nwas wet and clammy.\n\n\u201cTo the fearful noises that had awakened me had succeeded the most\nperfect silence\u2014unbroken, save by the footsteps of a man walking about\nin the chamber above. The staircase creaked, he descended into the room\nbelow, approached the fire and lit a candle.\n\n\u201cThe man was Caderousse\u2014he was pale and his shirt was all bloody.\nHaving obtained the light, he hurried upstairs again, and once more I\nheard his rapid and uneasy footsteps.\n\n\u201cA moment later he came down again, holding in his hand the small\nshagreen case, which he opened, to assure himself it contained the\ndiamond,\u2014seemed to hesitate as to which pocket he should put it in,\nthen, as if dissatisfied with the security of either pocket, he\ndeposited it in his red handkerchief, which he carefully rolled round\nhis head.\n\n\u201cAfter this he took from his cupboard the bank-notes and gold he had\nput there, thrust the one into the pocket of his trousers, and the\nother into that of his wais",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "119",
+      "claim_id": "119_C0",
+      "claim_text": "First confined in Fenestrella Fortress, he scratched \u201cOn Ancient Mediterranean Routes\u201d into limestone with a nail; the warden later plagiarised the essay.",
+      "excerpt_text": "tirrups. They would rather have seen their mules\nrichly caparisoned, with the Arab bit in their mouths, a long bridle\nof braided leather for a whip, and their heads adorned with metal\nornaments and the \"alforjas\" (double saddle-bags containing the\nprovisions).\n\n[Sidenote: LAND AND WATER.]\n\nPaganel, always absent-minded, received three or four kicks from his\nexcellent animal just as he was mounting. Once in the saddle, however,\nwith his inseparable telescope in a sling and his feet confined in the\nstirrups, he confided himself to the sagacity of his beast, and had\nno reason to repent. As for young Robert, he showed from the first a\nremarkable capacity for becoming an excellent horseman.\n\n[Illustration]\n\nThey started. The day was magnificent, the sky was perfectly clear,\nand the atmosphere sufficiently refreshed by the sea-breezes in spite\nof the heat of the sun. The little party followed at a rapid pace the\nwinding shores of the bay, and made good progress the first day across\nthe reeds",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "119",
+      "claim_id": "119_C0",
+      "claim_text": "First confined in Fenestrella Fortress, he scratched \u201cOn Ancient Mediterranean Routes\u201d into limestone with a nail; the warden later plagiarised the essay.",
+      "excerpt_text": "turned towards Glenarvan. This\ndeclaration of Paganel was a direct answer to the question the former\nhad asked. But Glenarvan confined himself to a negative gesture,\nindicating disbelief in the geographer, who, as soon as he was master\nof his emotion, resumed.\n\n\"Yes,\" said he, in a tone of conviction, \"yes, we have gone astray in\nour search, and have read in the document what is not written there.\"\n\n\"Explain yourself, Paganel,\" said the major; \"and more calmly.\"\n\n[Sidenote: A NEW IDEA.]\n\n\"That is very simple, major. Like you, I was in error; like you, I\nstruck upon a false interpretation. When, but a moment ago, at the top\nof this tree, in answer to the question, at the word 'Australia' an\nidea flashed through my mind, and all was clear.\"\n\n\"What!\" cried Glenarvan, \"do you pretend that Captain Grant----\"\n\n\"I pretend,\" replied Paganel, \"that the word _Austral_ in the document\nis not complete, as we have hitherto supposed, but the root of the word\n_Australia_.\"\n\n\"This is something singula",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "119",
+      "claim_id": "119_C0",
+      "claim_text": "First confined in Fenestrella Fortress, he scratched \u201cOn Ancient Mediterranean Routes\u201d into limestone with a nail; the warden later plagiarised the essay.",
+      "excerpt_text": "unsophisticated natures,\ndelighted in whatever addressed itself to the eye or ear.\n\n30099m\n\n\n\nThe third act passed off as usual. Mesdemoiselles Noblet, Julia, and\nLeroux executed the customary pirouettes; Robert duly challenged the\nPrince of Granada; and the royal father of the princess Isabella,\ntaking his daughter by the hand, swept round the stage with majestic\nstrides, the better to display the rich folds of his velvet robe and\nmantle. After which the curtain again fell, and the spectators poured\nforth from the theatre into the lobbies and salon.\n\nThe count left his box, and a moment later was saluting the Baronne\nDanglars, who could not restrain a cry of mingled pleasure and\nsurprise.\n\n\u201cYou are welcome, count!\u201d she exclaimed, as he entered. \u201cI have been\nmost anxious to see you, that I might repeat orally the thanks writing\ncan so ill express.\u201d\n\n\u201cSurely so trifling a circumstance cannot deserve a place in your\nremembrance. Believe me, madame, I had entirely forgotten it.\u201d\n\n\u201cBut it ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "119",
+      "claim_id": "119_C0",
+      "claim_text": "First confined in Fenestrella Fortress, he scratched \u201cOn Ancient Mediterranean Routes\u201d into limestone with a nail; the warden later plagiarised the essay.",
+      "excerpt_text": "a peculiar manner. The man in the mantle\nquitted the wall, and advanced into the middle of the street.\n\u201c_Salite!_\u201d said the count, in the same tone in which he would have\ngiven an order to his servant. The messenger obeyed without the least\nhesitation, but rather with alacrity, and, mounting the steps at a\nbound, entered the hotel; five seconds afterwards he was at the door of\nthe room.\n\n\u201cAh, it is you, Peppino,\u201d said the count. But Peppino, instead of\nanswering, threw himself on his knees, seized the count\u2019s hand, and\ncovered it with kisses. \u201cAh,\u201d said the count, \u201cyou have, then, not\nforgotten that I saved your life; that is strange, for it is a week\nago.\u201d\n\n20203m\n\n\n\n\u201cNo, excellency; and never shall I forget it,\u201d returned Peppino, with\nan accent of profound gratitude.\n\n\u201cNever? That is a long time; but it is something that you believe so.\nRise and answer.\u201d\n\nPeppino glanced anxiously at Franz.\n\n\u201cOh, you may speak before his excellency,\u201d said he; \u201che is one of my\nfriends. You allow me to",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

@@ -1,5 +1,86 @@
 {
-  "story_id": 94,
+  "story_id": "94",
   "prediction": 1,
-  "dossier": []
+  "dossier": [
+    {
+      "story_id": "94",
+      "claim_id": "94_C0",
+      "claim_text": "To treat worsening hand tremors he allowed his private doctor to test a new sedative on political prisoners; the secret gave him leverage over enemies even after paralysis set in.",
+      "excerpt_text": "y known to himself, the names of all those who, either\nin his political career, in money matters, at the bar, or in his\nmysterious love affairs, had become his enemies.\n\nTheir number was formidable, now that he had begun to fear, and yet\nthese names, powerful though they were, had often caused him to smile\nwith the same kind of satisfaction experienced by a traveller who from\nthe summit of a mountain beholds at his feet the craggy eminences, the\nalmost impassable paths, and the fearful chasms, through which he has\nso perilously climbed. When he had run over all these names in his\nmemory, again read and studied them, commenting meanwhile upon his\nlists, he shook his head.\n\n\u201cNo,\u201d he murmured, \u201cnone of my enemies would have waited so patiently\nand laboriously for so long a space of time, that they might now come\nand crush me with this secret. Sometimes, as Hamlet says:\n\n\u2018Foul deeds will rise,\n\nThough all the earth o\u2019erwhelm them, to men\u2019s eyes;\u2019\n\n\nbut, like a phosphoric light, they rise b",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "94",
+      "claim_id": "94_C0",
+      "claim_text": "To treat worsening hand tremors he allowed his private doctor to test a new sedative on political prisoners; the secret gave him leverage over enemies even after paralysis set in.",
+      "excerpt_text": "t was, as sportsmen would say,\nkeeping his hand in.\n\nHe was just taking one up and looking for the point to aim at on a\nlittle iron plate which served him as a target, when his study door\nopened, and Baptistin entered. Before he had spoken a word, the count\nsaw in the next room a veiled woman, who had followed closely after\nBaptistin, and now, seeing the count with a pistol in his hand and\nswords on the table, rushed in. Baptistin looked at his master, who\nmade a sign to him, and he went out, closing the door after him.\n\n\u201cWho are you, madame?\u201d said the count to the veiled woman.\n\n40227m\n\n\n\nThe stranger cast one look around her, to be certain that they were\nquite alone; then bending as if she would have knelt, and joining her\nhands, she said with an accent of despair:\n\n\u201cEdmond, you will not kill my son!\u201d\n\nThe count retreated a step, uttered a slight exclamation, and let fall\nthe pistol he held.\n\n\u201cWhat name did you pronounce then, Madame de Morcerf?\u201d said he.\n\n\u201cYours!\u201d cried she, throwin",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "94",
+      "claim_id": "94_C0",
+      "claim_text": "To treat worsening hand tremors he allowed his private doctor to test a new sedative on political prisoners; the secret gave him leverage over enemies even after paralysis set in.",
+      "excerpt_text": "is teeth chattered.\nWho could be dead in that house, which Villefort himself had called\naccursed?\n\n\u201cMy dear M. de Villefort,\u201d replied the doctor, with a tone which\nredoubled the terror of the young man, \u201cI have not led you here to\nconsole you; on the contrary\u2014\u2014\u201d\n\n\u201cWhat can you mean?\u201d asked the procureur, alarmed.\n\n\u201cI mean that behind the misfortune which has just happened to you,\nthere is another, perhaps, still greater.\u201d\n\n\u201cCan it be possible?\u201d murmured Villefort, clasping his hands. \u201cWhat are\nyou going to tell me?\u201d\n\n\u201cAre we quite alone, my friend?\u201d\n\n\u201cYes, quite; but why all these precautions?\u201d\n\n\u201cBecause I have a terrible secret to communicate to you,\u201d said the\ndoctor. \u201cLet us sit down.\u201d\n\nVillefort fell, rather than seated himself. The doctor stood before\nhim, with one hand placed on his shoulder. Morrel, horrified, supported\nhis head with one hand, and with the other pressed his heart, lest its\nbeatings should be heard. \u201cDead, dead!\u201d repeated he within himself; and\nhe felt as if he we",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "94",
+      "claim_id": "94_C0",
+      "claim_text": "To treat worsening hand tremors he allowed his private doctor to test a new sedative on political prisoners; the secret gave him leverage over enemies even after paralysis set in.",
+      "excerpt_text": "t by Merc\u00e9d\u00e8s, sent it to Danglars, with\nan intimation that he should probably do himself the honor of joining\nthe baroness and her daughter during the evening, in the event of their\naccepting the box in question. The ladies received the offer with too\nmuch pleasure to dream of a refusal. To no class of persons is the\npresentation of a gratuitous opera-box more acceptable than to the\nwealthy millionaire, who still hugs economy while boasting of carrying\na king\u2019s ransom in his waistcoat pocket.\n\nDanglars had, however, protested against showing himself in a\nministerial box, declaring that his political principles, and his\nparliamentary position as member of the opposition party would not\npermit him so to commit himself; the baroness had, therefore,\ndespatched a note to Lucien Debray, bidding him call for them, it being\nwholly impossible for her to go alone with Eug\u00e9nie to the opera.\n\nThere is no gainsaying the fact that a very unfavorable construction\nwould have been put upon the circums",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "94",
+      "claim_id": "94_C0",
+      "claim_text": "To treat worsening hand tremors he allowed his private doctor to test a new sedative on political prisoners; the secret gave him leverage over enemies even after paralysis set in.",
+      "excerpt_text": "essor of a\nconsiderable fortune.\n\nThen a great idea entered his mind which made his name popular\nthroughout Scotland. Like the Glenarvans and several other great\nfamilies of the Highlands, he was opposed in heart, if not in deed,\nto the advance and prevalence of English thought and feeling. The\ninterests of his country could not be in his eyes the same as those\nof the Anglo-Saxons, and, in order to give the former a peculiar and\nnational development, he resolved to found a Scottish colony in some\npart of the Southern World. Did he dream of that independence in the\nfuture of which the United States had set the example, and which the\nIndies and Australia cannot fail one day to acquire? Very likely;\nbut he allowed his secret hopes to be divined. It was, therefore,\nknown that the Government refused to lend their aid in his project\nof colonization; nay, they even raised obstacles which in any other\ncountry would have overcome the project.\n\nBut Harry Grant would not be discouraged. He appeal",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "94",
+      "claim_id": "94_C0",
+      "claim_text": "To treat worsening hand tremors he allowed his private doctor to test a new sedative on political prisoners; the secret gave him leverage over enemies even after paralysis set in.",
+      "excerpt_text": "he gravity of this event, for\nthe moment after Morrel had entered his private office with Cocles,\nJulie saw the latter leave it pale, trembling, and his features\nbetraying the utmost consternation. She would have questioned him as he\npassed by her, but the worthy creature hastened down the staircase with\nunusual precipitation, and only raised his hands to heaven and\nexclaimed:\n\n\u201cOh, mademoiselle, mademoiselle, what a dreadful misfortune! Who could\never have believed it!\u201d\n\nA moment afterwards Julie saw him go upstairs carrying two or three\nheavy ledgers, a portfolio, and a bag of money.\n\nMorrel examined the ledgers, opened the portfolio, and counted the\nmoney. All his funds amounted to 6,000 or 8,000 francs, his bills\nreceivable up to the 5th to 4,000 or 5,000, which, making the best of\neverything, gave him 14,000 francs to meet debts amounting to 287,500\nfrancs. He had not even the means for making a possible settlement on\naccount.\n\nHowever, when Morrel went down to his dinner, he appe",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "94",
+      "claim_id": "94_C0",
+      "claim_text": "To treat worsening hand tremors he allowed his private doctor to test a new sedative on political prisoners; the secret gave him leverage over enemies even after paralysis set in.",
+      "excerpt_text": "s of\nthe day; but they were greatly annoyed by a very persistent swarm of\nmosquitoes, which disappeared, however, after the wind changed.\n\nIf the major preserved his calmness in the midst of the petty\nannoyances of life, Paganel, on the contrary, could not treat the\nmatter so indifferently. He fought the mosquitoes, and sadly regretted\nthe absence of his acid-water, which would have soothed the pain of\ntheir bites. Although the major endeavored to console him, he awoke in\na very bad humor.\n\nHowever, he was very easily persuaded to set out at daybreak, for it\nwas important to arrive at Lake Salinas the same day. The horses were\nvery much exhausted: they were dying of thirst; and, although their\nriders had denied themselves on their account, still their share of\nwater had been very limited. The dryness was to-day even greater, and\nthe heat no less intolerable, with the dusty wind, the simoom of the\nPampas.\n\n[Sidenote: INDIANS AHEAD!]\n\nDuring the day the monotony of the journey was interr",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "94",
+      "claim_id": "94_C0",
+      "claim_text": "To treat worsening hand tremors he allowed his private doctor to test a new sedative on political prisoners; the secret gave him leverage over enemies even after paralysis set in.",
+      "excerpt_text": "lian\u2019s taste. He had at once declared for a\nmilitary life, and had in consequence studied hard, passed brilliantly\nthrough the Polytechnic School, and left it as sub-lieutenant of the\n53rd of the line. For a year he had held this rank, and expected\npromotion on the first vacancy. In his regiment Maximilian Morrel was\nnoted for his rigid observance, not only of the obligations imposed on\na soldier, but also of the duties of a man; and he thus gained the name\nof \u201cthe stoic.\u201d We need hardly say that many of those who gave him this\nepithet repeated it because they had heard it, and did not even know\nwhat it meant.\n\nThis was the young man whom his mother and sister called to their aid\nto sustain them under the serious trial which they felt they would soon\nhave to endure. They had not mistaken the gravity of this event, for\nthe moment after Morrel had entered his private office with Cocles,\nJulie saw the latter leave it pale, trembling, and his features\nbetraying the utmost consternation. Sh",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "94",
+      "claim_id": "94_C0",
+      "claim_text": "To treat worsening hand tremors he allowed his private doctor to test a new sedative on political prisoners; the secret gave him leverage over enemies even after paralysis set in.",
+      "excerpt_text": ".\u201d\n\n\u201cShall I accompany you, monsieur?\u201d\n\n\u201cNo, it is unnecessary; Bertuccio will show me a light.\u201d\n\nAnd Monte Cristo accompanied these words by the gift of two gold\npieces, which produced a torrent of thanks and blessings from the\nconcierge.\n\n\u201cAh, monsieur,\u201d said he, after having vainly searched on the\nmantle-piece and the shelves, \u201cI have not got any candles.\u201d\n\n\u201cTake one of the carriage-lamps, Bertuccio,\u201d said the count, \u201cand show\nme the apartments.\u201d\n\nThe steward obeyed in silence, but it was easy to see, from the manner\nin which the hand that held the light trembled, how much it cost him to\nobey. They went over a tolerably large ground floor; a first floor\nconsisted of a salon, a bathroom, and two bedrooms; near one of the\nbedrooms they came to a winding staircase that led down to the garden.\n\n\u201cAh, here is a private staircase,\u201d said the count; \u201cthat is convenient.\nLight me, M. Bertuccio, and go first; we will see where it leads to.\u201d\n\n\u201cMonsieur,\u201d replied Bertuccio, \u201cit leads to the gard",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "94",
+      "claim_id": "94_C0",
+      "claim_text": "To treat worsening hand tremors he allowed his private doctor to test a new sedative on political prisoners; the secret gave him leverage over enemies even after paralysis set in.",
+      "excerpt_text": "l water-cure at Auteuil.\u201d\n\n\u201cWell, I\u2019m sure,\u201d said Morcerf, \u201cthis is indeed news! Am I allowed to\nrepeat it?\u201d\n\n\u201cYes, but cautiously, tell one thing at a time, and do not say I told\nyou.\u201d\n\n\u201cWhy so?\u201d\n\n\u201cBecause it is a secret just discovered.\u201d\n\n\u201cBy whom?\u201d\n\n\u201cThe police.\u201d\n\n\u201cThen the news originated\u2014\u2014\u201d\n\n\u201cAt the prefect\u2019s last night. Paris, you can understand, is astonished\nat the sight of such unusual splendor, and the police have made\ninquiries.\u201d\n\n\u201cWell, well! Nothing more is wanting than to arrest the count as a\nvagabond, on the pretext of his being too rich.\u201d\n\n\u201cIndeed, that doubtless would have happened if his credentials had not\nbeen so favorable.\u201d\n\n\u201cPoor count! And is he aware of the danger he has been in?\u201d\n\n\u201cI think not.\u201d\n\n\u201cThen it will be but charitable to inform him. When he arrives, I will\nnot fail to do so.\u201d\n\nJust then, a handsome young man, with bright eyes, black hair, and\nglossy moustache, respectfully bowed to Madame de Villefort. Albert\nextended his hand.\n\n\u201cMadame,\u201d said Albert",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

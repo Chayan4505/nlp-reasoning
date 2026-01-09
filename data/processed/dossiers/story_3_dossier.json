@@ -1,5 +1,62 @@
 {
-  "story_id": 3,
+  "story_id": "3",
   "prediction": 0,
-  "dossier": []
+  "dossier": [
+    {
+      "story_id": "3",
+      "claim_id": "3_C0",
+      "claim_text": "After his mother died he quarrelled with his father and left home, carrying the Polynesian nautical charts she had bequeathed to him.",
+      "excerpt_text": "nce of the\nyoung man, she understood by his silence and trembling voice that\nsomething strange was passing within him. She herself was not exempt\nfrom internal emotion, and without having done anything wrong, yet\nfully comprehended that Luigi was right in reproaching her. Why, she\ndid not know, but yet she did not the less feel that these reproaches\nwere merited.\n\n\u201cHowever, to Teresa\u2019s great astonishment, Luigi remained mute, and not\na word escaped his lips the rest of the evening. When the chill of the\nnight had driven away the guests from the gardens, and the gates of the\nvilla were closed on them for the _festa_ in-doors, he took Teresa\nquite away, and as he left her at her home, he said:\n\n\u201c\u2018Teresa, what were you thinking of as you danced opposite the young\nCountess of San-Felice?\u2019\n\n\u201c\u2018I thought,\u2019 replied the young girl, with all the frankness of her\nnature, \u2018that I would give half my life for a costume such as she\nwore.\u2019\n\n\u201c\u2018And what said your cavalier to you?\u2019\n\n\u201c\u2018He said it only dep",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "3",
+      "claim_id": "3_C0",
+      "claim_text": "After his mother died he quarrelled with his father and left home, carrying the Polynesian nautical charts she had bequeathed to him.",
+      "excerpt_text": "it was very evident that something\ndesperate was passing in the old man\u2019s mind, for a cry of anger and\ngrief rose in his throat, and not being able to find vent in utterance,\nappeared almost to choke him, for his face and lips turned quite purple\nwith the struggle. Villefort quietly opened a window, saying, \u201cIt is\nvery warm, and the heat affects M. Noirtier.\u201d He then returned to his\nplace, but did not sit down.\n\n\u201cThis marriage,\u201d added Madame de Villefort, \u201cis quite agreeable to the\nwishes of M. d\u2019\u00c9pinay and his family; besides, he had no relations\nnearer than an uncle and aunt, his mother having died at his birth, and\nhis father having been assassinated in 1815, that is to say, when he\nwas but two years old; it naturally followed that the child was\npermitted to choose his own pursuits, and he has, therefore, seldom\nacknowledged any other authority but that of his own will.\u201d\n\n\u201cThat assassination was a mysterious affair,\u201d said Villefort, \u201cand the\nperpetrators have hitherto escaped detect",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "3",
+      "claim_id": "3_C0",
+      "claim_text": "After his mother died he quarrelled with his father and left home, carrying the Polynesian nautical charts she had bequeathed to him.",
+      "excerpt_text": "\nknew.\n\nDuring the night, between the 4th and 5th of September, Madame Morrel\nremained listening for every sound, and, until three o\u2019clock in the\nmorning, she heard her husband pacing the room in great agitation. It\nwas three o\u2019clock when he threw himself on the bed. The mother and\ndaughter passed the night together. They had expected Maximilian since\nthe previous evening. At eight o\u2019clock in the morning Morrel entered\ntheir chamber. He was calm; but the agitation of the night was legible\nin his pale and careworn visage. They did not dare to ask him how he\nhad slept. Morrel was kinder to his wife, more affectionate to his\ndaughter, than he had ever been. He could not cease gazing at and\nkissing the sweet girl. Julie, mindful of Emmanuel\u2019s request, was\nfollowing her father when he quitted the room, but he said to her\nquickly:\n\n\u201cRemain with your mother, dearest.\u201d Julie wished to accompany him. \u201cI\nwish you to do so,\u201d said he.\n\nThis was the first time Morrel had ever so spoken, but he said",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "3",
+      "claim_id": "3_C0",
+      "claim_text": "After his mother died he quarrelled with his father and left home, carrying the Polynesian nautical charts she had bequeathed to him.",
+      "excerpt_text": " I must be\nkilled in the assault, would you not say to me, as you said just now,\n\u2018Go, father; for you are dishonored by delay, and death is preferable\nto shame!\u2019\u201d\n\n\u201cYes, yes,\u201d said the young man, \u201cyes;\u201d and once again embracing his\nfather with convulsive pressure, he said, \u201cBe it so, my father.\u201d\n\nAnd he rushed out of the study. When his son had left him, Morrel\nremained an instant standing with his eyes fixed on the door; then\nputting forth his arm, he pulled the bell. After a moment\u2019s interval,\nCocles appeared.\n\nIt was no longer the same man\u2014the fearful revelations of the three last\ndays had crushed him. This thought\u2014the house of Morrel is about to stop\npayment\u2014bent him to the earth more than twenty years would otherwise\nhave done.\n\n\u201cMy worthy Cocles,\u201d said Morrel in a tone impossible to describe, \u201cdo\nyou remain in the antechamber. When the gentleman who came three months\nago\u2014the agent of Thomson & French\u2014arrives, announce his arrival to me.\u201d\n\nCocles made no reply; he made a sign with",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "3",
+      "claim_id": "3_C0",
+      "claim_text": "After his mother died he quarrelled with his father and left home, carrying the Polynesian nautical charts she had bequeathed to him.",
+      "excerpt_text": "e\ndetected, the ingenious artifice. He attacked this wall, cemented by\nthe hand of time, with his pickaxe. After ten minutes\u2019 labor the wall\ngave way, and a hole large enough to insert the arm was opened.\n\nDant\u00e8s went and cut the strongest olive-tree he could find, stripped\noff its branches, inserted it in the hole, and used it as a lever. But\nthe rock was too heavy, and too firmly wedged, to be moved by anyone\nman, were he Hercules himself. Dant\u00e8s saw that he must attack the\nwedge. But how?\n\nHe cast his eyes around, and saw the horn full of powder which his\nfriend Jacopo had left him. He smiled; the infernal invention would\nserve him for this purpose.\n\nWith the aid of his pickaxe, Dant\u00e8s, after the manner of a labor-saving\npioneer, dug a mine between the upper rock and the one that supported\nit, filled it with powder, then made a match by rolling his\nhandkerchief in saltpetre. He lighted it and retired.\n\nThe explosion soon followed; the upper rock was lifted from its base by\nthe terri",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "3",
+      "claim_id": "3_C0",
+      "claim_text": "After his mother died he quarrelled with his father and left home, carrying the Polynesian nautical charts she had bequeathed to him.",
+      "excerpt_text": " did not recognize the infinite mercy of\nthe Lord, but at last he took patience and waited. One day he\nmiraculously left the prison, transformed, rich, powerful. His first\ncry was for his father; but that father was dead.\u201d\n\n\u201cMy father, too, is dead,\u201d said Morrel.\n\n\u201cYes; but your father died in your arms, happy, respected, rich, and\nfull of years; his father died poor, despairing, almost doubtful of\nProvidence; and when his son sought his grave ten years afterwards, his\ntomb had disappeared, and no one could say, \u2018There sleeps the father\nyou so well loved.\u2019\u201d\n\n\u201cOh!\u201d exclaimed Morrel.\n\n\u201cHe was, then, a more unhappy son than you, Morrel, for he could not\neven find his father\u2019s grave.\u201d\n\n\u201cBut then he had the woman he loved still remaining?\u201d\n\n\u201cYou are deceived, Morrel, that woman\u2014\u2014\u201d\n\n\u201cShe was dead?\u201d\n\n\u201cWorse than that, she was faithless, and had married one of the\npersecutors of her betrothed. You see, then, Morrel, that he was a more\nunhappy lover than you.\u201d\n\n\u201cAnd has he found consolation?\u201d\n\n",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "3",
+      "claim_id": "3_C0",
+      "claim_text": "After his mother died he quarrelled with his father and left home, carrying the Polynesian nautical charts she had bequeathed to him.",
+      "excerpt_text": "ed of brain-fever in dreadful agony.\u201d Then turning to\nthe crew, he said, \u201cBear a hand there, to take in sail!\u201d\n\nAll hands obeyed, and at once the eight or ten seamen who composed the\ncrew, sprang to their respective stations at the spanker brails and\nouthaul, topsail sheets and halyards, the jib downhaul, and the topsail\nclewlines and buntlines. The young sailor gave a look to see that his\norders were promptly and accurately obeyed, and then turned again to\nthe owner.\n\n\u201cAnd how did this misfortune occur?\u201d inquired the latter, resuming the\ninterrupted conversation.\n\n0023m\n\n\n\n\u201cAlas, sir, in the most unexpected manner. After a long talk with the\nharbor-master, Captain Leclere left Naples greatly disturbed in mind.\nIn twenty-four hours he was attacked by a fever, and died three days\nafterwards. We performed the usual burial service, and he is at his\nrest, sewn up in his hammock with a thirty-six-pound shot at his head\nand his heels, off El Giglio island. We bring to his widow his sword\nand",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

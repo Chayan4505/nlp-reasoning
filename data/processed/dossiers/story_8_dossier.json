@@ -1,4 +1,62 @@
 {
-  "story_id": 8,
-  "dossier": []
+  "story_id": "8",
+  "prediction": 1,
+  "dossier": [
+    {
+      "story_id": "8",
+      "claim_id": "8_C0",
+      "claim_text": "While being helped by a native tribe he won their trust by sketching star-maps and in return learned tracking techniques and herbal lore.",
+      "excerpt_text": "rs eagerly listened to, and fully credited, all the additional\ncircumstances detailed by Debray. This posing at the piano and over the\nalbum was only a little ruse adopted by way of precaution. A most\ngracious welcome and unusual smile were bestowed on M. Danglars; the\ncount, in return for his gentlemanly bow, received a formal though\ngraceful courtesy, while Lucien exchanged with the count a sort of\ndistant recognition, and with Danglars a free and easy nod.\n\n\u201cBaroness,\u201d said Danglars, \u201cgive me leave to present to you the Count\nof Monte Cristo, who has been most warmly recommended to me by my\ncorrespondents at Rome. I need but mention one fact to make all the\nladies in Paris court his notice, and that is, that he has come to take\nup his abode in Paris for a year, during which brief period he proposes\nto spend six millions of money. That means balls, dinners, and lawn\nparties without end, in all of which I trust the count will remember\nus, as he may depend upon it we shall him, in our ",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "8",
+      "claim_id": "8_C0",
+      "claim_text": "While being helped by a native tribe he won their trust by sketching star-maps and in return learned tracking techniques and herbal lore.",
+      "excerpt_text": " From\nthe fate of the one they could fairly conjecture that of the other.\n\nAyrton was invited to tell of his own adventures, which was soon and\nsimply done. The shipwrecked sailor, prisoner of a native tribe, was\ncarried into the interior regions watered by the Darling. Here he led\na very wretched existence, because the tribe itself was miserable; but\nhe was not maltreated. For two long years he endured a painful slavery.\nHowever, the hope of regaining his liberty sustained his courage. He\nwatched for the least opportunity of escaping, although his flight\nwould plunge him into the midst of innumerable perils. One night\nin October he eluded the vigilance of the natives, and took refuge\nin the depths of extensive forests. For a month, living on roots,\nedible ferns, and the gum of the mimosa, often overcome by despair,\nhe wandered in those vast solitudes, with the sun as his guide by\nday and the stars by night. In this way he crossed marshes, rivers,\nmountains, in short, all that uninhabi",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "8",
+      "claim_id": "8_C0",
+      "claim_text": "While being helped by a native tribe he won their trust by sketching star-maps and in return learned tracking techniques and herbal lore.",
+      "excerpt_text": "ue and their hopes of\nultimate success. Nothing interrupted the progress of the work except\nthe necessity that each was under of returning to his cell in\nanticipation of the turnkey\u2019s visits. They had learned to distinguish\nthe almost imperceptible sound of his footsteps as he descended towards\ntheir dungeons, and happily, never failed of being prepared for his\ncoming. The fresh earth excavated during their present work, and which\nwould have entirely blocked up the old passage, was thrown, by degrees\nand with the utmost precaution, out of the window in either Faria\u2019s or\nDant\u00e8s\u2019 cell, the rubbish being first pulverized so finely that the\nnight wind carried it far away without permitting the smallest trace to\nremain.\n\nMore than a year had been consumed in this undertaking, the only tools\nfor which had been a chisel, a knife, and a wooden lever; Faria still\ncontinuing to instruct Dant\u00e8s by conversing with him, sometimes in one\nlanguage, sometimes in another; at others, relating to him the",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "8",
+      "claim_id": "8_C0",
+      "claim_text": "While being helped by a native tribe he won their trust by sketching star-maps and in return learned tracking techniques and herbal lore.",
+      "excerpt_text": "a solemn oath.\n\nDant\u00e8s was at length roused from his reverie by the voice of Faria,\nwho, having also been visited by his jailer, had come to invite his\nfellow-sufferer to share his supper. The reputation of being out of his\nmind, though harmlessly and even amusingly so, had procured for the\nabb\u00e9 unusual privileges. He was supplied with bread of a finer, whiter\nquality than the usual prison fare, and even regaled each Sunday with a\nsmall quantity of wine. Now this was a Sunday, and the abb\u00e9 had come to\nask his young companion to share the luxuries with him.\n\nDant\u00e8s followed him; his features were no longer contracted, and now\nwore their usual expression, but there was that in his whole appearance\nthat bespoke one who had come to a fixed and desperate resolve. Faria\nbent on him his penetrating eye.\n\n\u201cI regret now,\u201d said he, \u201chaving helped you in your late inquiries, or\nhaving given you the information I did.\u201d\n\n\u201cWhy so?\u201d inquired Dant\u00e8s.\n\n\u201cBecause it has instilled a new passion in your he",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "8",
+      "claim_id": "8_C0",
+      "claim_text": "While being helped by a native tribe he won their trust by sketching star-maps and in return learned tracking techniques and herbal lore.",
+      "excerpt_text": " Paganel.\n\n\"Yes, and I learned afterwards--Frenchman saved.\"\n\n\"Saved!\" exclaimed Robert, whose very life seemed to hang on the\nsergeant's lips.\n\n\"Yes, saved from the hands of the Indians,\" replied Manuel.\n\nEach looked to the geographer, who beat his brow in despair.\n\n\"Ah! I understand,\" said he, at last. \"All is clear, all is explained.\"\n\n\"But what is to be done?\" asked Glenarvan, with as much anxiety as\nimpatience.\n\n\"My friends,\" answered Paganel, taking Robert's hands, \"we must submit\nto a severe misfortune. We have followed a false trail! The captive\nin question is not the captain, but one of my countrymen (whose\ncompanion, Marco Vazello, was actually assassinated by the Indians),\na Frenchman who often accompanied these cruel savages to the banks of\nthe Colorado, and who, after fortunately escaping from their hands,\nreturned to France. While thinking that we were on the track of Captain\nGrant, we have fallen upon that of young Guinnard.\"\n\nA profound silence followed this declaration",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "8",
+      "claim_id": "8_C0",
+      "claim_text": "While being helped by a native tribe he won their trust by sketching star-maps and in return learned tracking techniques and herbal lore.",
+      "excerpt_text": " arms of\nhis sister into those of Lady Helena. Around his body was wound a rope\nof flax.\n\n\"My boy! my boy!\" murmured Lady Helena; \"these savages did not kill\nyou?\"\n\n\"No, madam,\" replied Robert. \"Somehow, during the uproar, I succeeded\nin escaping their vigilance. I crossed the yard. For two days I kept\nhidden behind the bushes. At night I wandered about, longing to see you\nagain. While the tribe were occupied with the funeral of the chief,\nI came and examined this side of the fortification, where the prison\nstands, and saw that I could reach you. I stole this knife and rope\nin a deserted hut. The tufts of grass and the bushes helped me to\nclimb. By chance I found a kind of grotto hollowed out in the very rock\nagainst which this hut rests. I had only a few feet to dig in the soft\nearth, and here I am.\"\n\nTwenty silent kisses were his only answer.\n\n\"Let us start,\" said he, in a decided tone.\n\n\"Is Paganel below?\" inquired Glenarvan.\n\n\"Mr. Paganel?\" repeated the boy, surprised apparently at",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "8",
+      "claim_id": "8_C0",
+      "claim_text": "While being helped by a native tribe he won their trust by sketching star-maps and in return learned tracking techniques and herbal lore.",
+      "excerpt_text": " is probable that if Gaetano had related this previous to proposing\nthe expedition, Franz would have hesitated, but now that they had\nstarted, he thought it would be cowardly to draw back. He was one of\nthose men who do not rashly court danger, but if danger presents\nitself, combat it with the most unalterable coolness. Calm and\nresolute, he treated any peril as he would an adversary in a\nduel,\u2014calculated its probable method of approach; retreated, if at all,\nas a point of strategy and not from cowardice; was quick to see an\nopening for attack, and won victory at a single thrust.\n\n\u201cBah!\u201d said he, \u201cI have travelled through Sicily and Calabria\u2014I have\nsailed two months in the Archipelago, and yet I never saw even the\nshadow of a bandit or a pirate.\u201d\n\n\u201cI did not tell your excellency this to deter you from your project,\u201d\nreplied Gaetano, \u201cbut you questioned me, and I have answered; that\u2019s\nall.\u201d\n\n\u201cYes, and your conversation is most interesting; and as I wish to enjoy\nit as long as possible, ",
+      "relation": "NONE",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

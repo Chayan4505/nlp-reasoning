@@ -1,5 +1,62 @@
 {
-  "story_id": 132,
-  "prediction": 1,
-  "dossier": []
+  "story_id": "132",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "132",
+      "claim_id": "132_C0",
+      "claim_text": "By eighteen he was a star student at Rome University, fluent in several languages and already publishing notes on history and natural philosophy.",
+      "excerpt_text": "ou.\u201d\n\n\u201cSilence, then!\u201d said Gaetano.\n\nEveryone obeyed. For a man who, like Franz, viewed his position in its\ntrue light, it was a grave one. He was alone in the darkness with\nsailors whom he did not know, and who had no reason to be devoted to\nhim; who knew that he had several thousand francs in his belt, and who\nhad often examined his weapons,\u2014which were very beautiful,\u2014if not with\nenvy, at least with curiosity. On the other hand, he was about to land,\nwithout any other escort than these men, on an island which had,\nindeed, a very religious name, but which did not seem to Franz likely\nto afford him much hospitality, thanks to the smugglers and bandits.\nThe history of the scuttled vessels, which had appeared improbable\nduring the day, seemed very probable at night; placed as he was between\ntwo possible sources of danger, he kept his eye on the crew, and his\ngun in his hand.\n\nThe sailors had again hoisted sail, and the vessel was once more\ncleaving the waves. Through the darkness Franz,",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "132",
+      "claim_id": "132_C0",
+      "claim_text": "By eighteen he was a star student at Rome University, fluent in several languages and already publishing notes on history and natural philosophy.",
+      "excerpt_text": "Legion of Honor around his neck, which showed he was a\ncommander, and on the right breast, the star of a grand officer of the\norder of the Saviour, and on the left that of the grand cross of\nCharles III., which proved that the person represented by the picture\nhad served in the wars of Greece and Spain, or, what was just the same\nthing as regarded decorations, had fulfilled some diplomatic mission in\nthe two countries.\n\nMonte Cristo was engaged in examining this portrait with no less care\nthan he had bestowed upon the other, when another door opened, and he\nfound himself opposite to the Count of Morcerf in person.\n\nHe was a man of forty to forty-five years, but he seemed at least\nfifty, and his black moustache and eyebrows contrasted strangely with\nhis almost white hair, which was cut short, in the military fashion. He\nwas dressed in plain clothes, and wore at his button-hole the ribbons\nof the different orders to which he belonged.\n\nHe entered with a tolerably dignified step, and some",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "132",
+      "claim_id": "132_C0",
+      "claim_text": "By eighteen he was a star student at Rome University, fluent in several languages and already publishing notes on history and natural philosophy.",
+      "excerpt_text": "ged with\npeople, and Rome was already a prey to that low and feverish murmur\nwhich precedes all great events; and at Rome there are four great\nevents in every year,\u2014the Carnival, Holy Week, Corpus Christi, and the\nFeast of St. Peter.\n\nAll the rest of the year the city is in that state of dull apathy,\nbetween life and death, which renders it similar to a kind of station\nbetween this world and the next\u2014a sublime spot, a resting-place full of\npoetry and character, and at which Franz had already halted five or six\ntimes, and at each time found it more marvellous and striking.\n\nAt last he made his way through the mob, which was continually\nincreasing and getting more and more turbulent, and reached the hotel.\nOn his first inquiry he was told, with the impertinence peculiar to\nhired hackney-coachmen and innkeepers with their houses full, that\nthere was no room for him at the H\u00f4tel de Londres. Then he sent his\ncard to Signor Pastrini, and asked for Albert de Morcerf. This plan\nsucceeded; and ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "132",
+      "claim_id": "132_C0",
+      "claim_text": "By eighteen he was a star student at Rome University, fluent in several languages and already publishing notes on history and natural philosophy.",
+      "excerpt_text": "Porto-Vecchio. With it was effaced the last\ntrace of the preceding night; and then supper, Sinbad, hashish,\nstatues,\u2014all became a dream for Franz.\n\nThe boat sailed on all day and all night, and next morning, when the\nsun rose, they had lost sight of Monte Cristo.\n\nWhen Franz had once again set foot on shore, he forgot, for the moment\nat least, the events which had just passed, while he finished his\naffairs of pleasure at Florence, and then thought of nothing but how he\nshould rejoin his companion, who was awaiting him at Rome.\n\nHe set out, and on the Saturday evening reached the Place de la Douane\nby the mail-coach. An apartment, as we have said, had been retained\nbeforehand, and thus he had but to go to Signor Pastrini\u2019s hotel. But\nthis was not so easy a matter, for the streets were thronged with\npeople, and Rome was already a prey to that low and feverish murmur\nwhich precedes all great events; and at Rome there are four great\nevents in every year,\u2014the Carnival, Holy Week, Corpus Chr",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "132",
+      "claim_id": "132_C0",
+      "claim_text": "By eighteen he was a star student at Rome University, fluent in several languages and already publishing notes on history and natural philosophy.",
+      "excerpt_text": " might the\nbetter examine the contents of the glass, and dipping the tip of his\nfinger in, tasted it.\n\n\u201cAh,\u201d he exclaimed, \u201cit is no longer brucine that is used; let me see\nwhat it is!\u201d\n\nThen he ran to one of the cupboards in Valentine\u2019s room, which had been\ntransformed into a medicine closet, and taking from its silver case a\nsmall bottle of nitric acid, dropped a little of it into the liquor,\nwhich immediately changed to a blood-red color.\n\n\u201cAh,\u201d exclaimed d\u2019Avrigny, in a voice in which the horror of a judge\nunveiling the truth was mingled with the delight of a student making a\ndiscovery.\n\nMadame de Villefort was overpowered; her eyes first flashed and then\nswam, she staggered towards the door and disappeared. Directly\nafterwards the distant sound of a heavy weight falling on the ground\nwas heard, but no one paid any attention to it; the nurse was engaged\nin watching the chemical analysis, and Villefort was still absorbed in\ngrief. M. d\u2019Avrigny alone had followed Madame de Villefort ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "132",
+      "claim_id": "132_C0",
+      "claim_text": "By eighteen he was a star student at Rome University, fluent in several languages and already publishing notes on history and natural philosophy.",
+      "excerpt_text": "\u201d\n\n\u201cName it, sir, I beg.\u201d\n\n\u201cYou are the inspector of prisons?\u201d\n\n\u201cI have been so these fourteen years.\u201d\n\n\u201cYou keep the registers of entries and departures?\u201d\n\n\u201cI do.\u201d\n\n\u201cTo these registers there are added notes relative to the prisoners?\u201d\n\n\u201cThere are special reports on every prisoner.\u201d\n\n\u201cWell, sir, I was educated at Rome by a poor devil of an abb\u00e9, who\ndisappeared suddenly. I have since learned that he was confined in the\nCh\u00e2teau d\u2019If, and I should like to learn some particulars of his\ndeath.\u201d\n\n\u201cWhat was his name?\u201d\n\n\u201cThe Abb\u00e9 Faria.\u201d\n\n\u201cOh, I recollect him perfectly,\u201d cried M. de Boville; \u201che was crazy.\u201d\n\n\u201cSo they said.\u201d\n\n\u201cOh, he was, decidedly.\u201d\n\n\u201cVery possibly; but what sort of madness was it?\u201d\n\n\u201cHe pretended to know of an immense treasure, and offered vast sums to\nthe government if they would liberate him.\u201d\n\n\u201cPoor devil!\u2014and he is dead?\u201d\n\n\u201cYes, sir, five or six months ago, last February.\u201d\n\n\u201cYou have a good memory, sir, to recollect dates so well.\u201d\n\n\u201cI recollect this, because the poor de",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "132",
+      "claim_id": "132_C0",
+      "claim_text": "By eighteen he was a star student at Rome University, fluent in several languages and already publishing notes on history and natural philosophy.",
+      "excerpt_text": "ce made that answer,\nthe safety of Rome was concerned; but, as for us, it is only to gratify\na whim, and it would be ridiculous to risk our lives for so foolish a\nmotive.\u201d\n\nAlbert poured himself out a glass of _lacryma Christi_, which he sipped\nat intervals, muttering some unintelligible words.\n\n\u201cWell, Signor Pastrini,\u201d said Franz, \u201cnow that my companion is quieted,\nand you have seen how peaceful my intentions are, tell me who is this\nLuigi Vampa. Is he a shepherd or a nobleman?\u2014young or old?\u2014tall or\nshort? Describe him, in order that, if we meet him by chance, like Jean\nSbogar or Lara, we may recognize him.\u201d\n\n\u201cYou could not apply to anyone better able to inform you on all these\npoints, for I knew him when he was a child, and one day that I fell\ninto his hands, going from Ferentino to Alatri, he, fortunately for me,\nrecollected me, and set me free, not only without ransom, but made me a\npresent of a very splendid watch, and related his history to me.\u201d\n\n\u201cLet us see the watch,\u201d said Albe",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

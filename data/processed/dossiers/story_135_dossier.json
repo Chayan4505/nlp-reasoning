@@ -1,5 +1,70 @@
 {
-  "story_id": 135,
-  "prediction": 1,
-  "dossier": []
+  "story_id": "135",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "135",
+      "claim_id": "135_C0",
+      "claim_text": "A failed 1796 coup landed him in a Roman prison; he spent four years writing treatises on philosophy, science and religion until comrades helped him escape in 1800.",
+      "excerpt_text": "back by Villefort, had become, under the second restoration, a terrible\nweapon against him in the hands of the king\u2019s attorney. He was no\nlonger astonished when he searched on to find in the register this\nnote, placed in a bracket against his name:\n\nEdmond Dant\u00e8s.\n\nAn inveterate Bonapartist; took an active part in the return from the\nIsland of Elba.\n\nTo be kept in strict solitary confinement, and to be closely watched\nand guarded.\n\nBeneath these lines was written in another hand: \u201cSee note\nabove\u2014nothing can be done.\u201d\n\nHe compared the writing in the bracket with the writing of the\ncertificate placed beneath Morrel\u2019s petition, and discovered that the\nnote in the bracket was the same writing as the certificate\u2014that is to\nsay, was in Villefort\u2019s handwriting.\n\n20029m\n\n\n\nAs to the note which accompanied this, the Englishman understood that\nit might have been added by some inspector who had taken a momentary\ninterest in Dant\u00e8s\u2019 situation, but who had, from the remarks we have\nquoted, found it",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "135",
+      "claim_id": "135_C0",
+      "claim_text": "A failed 1796 coup landed him in a Roman prison; he spent four years writing treatises on philosophy, science and religion until comrades helped him escape in 1800.",
+      "excerpt_text": ", which\ncontained ten bank-notes, each of 1,000 francs.\n\n\u201cHere,\u201d he said, \u201ctake this pocket-book.\u201d\n\n\u201cDo you give it to me?\u201d\n\n\u201cYes; but only on condition that you will not open it till I am gone;\u201d\nand placing in his breast the treasure he had just found, which was\nmore valuable to him than the richest jewel, he rushed out of the\ncorridor, and reaching his boat, cried, \u201cTo Marseilles!\u201d\n\nThen, as he departed, he fixed his eyes upon the gloomy prison.\n\n\u201cWoe,\u201d he cried, \u201cto those who confined me in that wretched prison; and\nwoe to those who forgot that I was there!\u201d\n\n50229m\n\n\n\nAs he repassed the Catalans, the count turned around and burying his\nhead in his cloak murmured the name of a woman. The victory was\ncomplete; twice he had overcome his doubts. The name he pronounced, in\na voice of tenderness, amounting almost to love, was that of Hayd\u00e9e.\n\nOn landing, the count turned towards the cemetery, where he felt sure\nof finding Morrel. He, too, ten years ago, had piously sought out a\ntomb, and",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "135",
+      "claim_id": "135_C0",
+      "claim_text": "A failed 1796 coup landed him in a Roman prison; he spent four years writing treatises on philosophy, science and religion until comrades helped him escape in 1800.",
+      "excerpt_text": "erence, his _incognito_ was strictly respected.\n\nHis visits were tolerably regular, though occasionally he appeared a\nlittle before or after his time, but generally, both in summer and\nwinter, he took possession of his apartment about four o\u2019clock, though\nhe never spent the night there. At half-past three in the winter the\nfire was lighted by the discreet servant, who had the superintendence\nof the little apartment, and in the summer ices were placed on the\ntable at the same hour. At four o\u2019clock, as we have already stated, the\nmysterious personage arrived.\n\nTwenty minutes afterwards a carriage stopped at the house, a lady\nalighted in a black or dark blue dress, and always thickly veiled; she\npassed like a shadow through the lodge, and ran upstairs without a\nsound escaping under the touch of her light foot. No one ever asked her\nwhere she was going. Her face, therefore, like that of the gentleman,\nwas perfectly unknown to the two concierges, who were perhaps\nunequalled throughout the c",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "135",
+      "claim_id": "135_C0",
+      "claim_text": "A failed 1796 coup landed him in a Roman prison; he spent four years writing treatises on philosophy, science and religion until comrades helped him escape in 1800.",
+      "excerpt_text": "\nhim than that he should humiliate the prefect.\n\n\u201cSire,\u2014\u2014\u201d stammered the baron.\n\n\u201cWell, what is it?\u201d asked Louis XVIII. The minister of police, giving\nway to an impulse of despair, was about to throw himself at the feet of\nLouis XVIII., who retreated a step and frowned.\n\n\u201cWill you speak?\u201d he said.\n\n\u201cOh, sire, what a dreadful misfortune! I am, indeed, to be pitied. I\ncan never forgive myself!\u201d\n\n\u201cMonsieur,\u201d said Louis XVIII., \u201cI command you to speak.\u201d\n\n\u201cWell, sire, the usurper left Elba on the 26th February, and landed on\nthe 1st of March.\u201d\n\n\u201cAnd where? In Italy?\u201d asked the king eagerly.\n\n\u201cIn France, sire,\u2014at a small port, near Antibes, in the Gulf of Juan.\u201d\n\n\u201cThe usurper landed in France, near Antibes, in the Gulf of Juan, two\nhundred and fifty leagues from Paris, on the 1st of March, and you only\nacquired this information today, the 3rd of March! Well, sir, what you\ntell me is impossible. You must have received a false report, or you\nhave gone mad.\u201d\n\n\u201cAlas, sire, it is but too true!\u201d L",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "135",
+      "claim_id": "135_C0",
+      "claim_text": "A failed 1796 coup landed him in a Roman prison; he spent four years writing treatises on philosophy, science and religion until comrades helped him escape in 1800.",
+      "excerpt_text": "as sitting at a\ntable, prepared for writing, and his colleague was standing before the\ntestator in the act of interrogating him on the subject to which we\nhave alluded.\n\n\u201cYour fortune exceeds 300,000 francs, does it not?\u201d asked he. Noirtier\nmade a sign that it did.\n\n\u201cDo you possess 400,000 francs?\u201d inquired the notary. Noirtier\u2019s eye\nremained immovable.\n\n\u201c500,000?\u201d The same expression continued.\n\n\u201c600,000\u2014700,000\u2014800,000\u2014900,000?\u201d\n\nNoirtier stopped him at the last-named sum.\n\n\u201cYou are then in possession of 900,000 francs?\u201d asked the notary.\n\n\u201cYes.\u201d\n\n\u201cIn landed property?\u201d\n\n\u201cNo.\u201d\n\n\u201cIn stock?\u201d\n\n\u201cYes.\u201d\n\n\u201cThe stock is in your own hands?\u201d\n\nThe look which M. Noirtier cast on Barrois showed that there was\nsomething wanting which he knew where to find. The old servant left the\nroom, and presently returned, bringing with him a small casket.\n\n\u201cDo you permit us to open this casket?\u201d asked the notary. Noirtier gave\nhis assent.\n\nThey opened it, and found 900,000 francs in bank scrip. The first\nnotar",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "135",
+      "claim_id": "135_C0",
+      "claim_text": "A failed 1796 coup landed him in a Roman prison; he spent four years writing treatises on philosophy, science and religion until comrades helped him escape in 1800.",
+      "excerpt_text": " to carry it off.\n\nThe day came at length, and was almost as feverish as the night had\nbeen, but it brought reason to the aid of imagination, and Dant\u00e8s was\nthen enabled to arrange a plan which had hitherto been vague and\nunsettled in his brain. Night came, and with it the preparation for\ndeparture, and these preparations served to conceal Dant\u00e8s\u2019 agitation.\nHe had by degrees assumed such authority over his companions that he\nwas almost like a commander on board; and as his orders were always\nclear, distinct, and easy of execution, his comrades obeyed him with\ncelerity and pleasure.\n\nThe old patron did not interfere, for he too had recognized the\nsuperiority of Dant\u00e8s over the crew and himself. He saw in the young\nman his natural successor, and regretted that he had not a daughter,\nthat he might have bound Edmond to him by a more secure alliance. At\nseven o\u2019clock in the evening all was ready, and at ten minutes past\nseven they doubled the lighthouse just as the beacon was kindled. The\n",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "135",
+      "claim_id": "135_C0",
+      "claim_text": "A failed 1796 coup landed him in a Roman prison; he spent four years writing treatises on philosophy, science and religion until comrades helped him escape in 1800.",
+      "excerpt_text": "l, and reaching the forest, he would, under\npretence of making studies in painting, test the hospitality of some\npeasants, procure himself the dress of a woodcutter and a hatchet,\ncasting off the lion\u2019s skin to assume that of the woodman; then, with\nhis hands covered with dirt, his hair darkened by means of a leaden\ncomb, his complexion embrowned with a preparation for which one of his\nold comrades had given him the recipe, he intended, by following the\nwooded districts, to reach the nearest frontier, walking by night and\nsleeping in the day in the forests and quarries, and only entering\ninhabited regions to buy a loaf from time to time.\n\nOnce past the frontier, Andrea proposed making money of his diamonds;\nand by uniting the proceeds to ten bank-notes he always carried about\nwith him in case of accident, he would then find himself possessor of\nabout 50,000 livres, which he philosophically considered as no very\ndeplorable condition after all. Moreover, he reckoned much on the\ninterest ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "135",
+      "claim_id": "135_C0",
+      "claim_text": "A failed 1796 coup landed him in a Roman prison; he spent four years writing treatises on philosophy, science and religion until comrades helped him escape in 1800.",
+      "excerpt_text": "diamond. He will inform against\nyou. You will have to find the Abb\u00e9 Busoni; and abb\u00e9s who give diamonds\nworth two thousand louis are rare. The law would seize it, and put you\nin prison; if at the end of three or four months you are set at\nliberty, the ring will be lost, or a false stone, worth three francs,\nwill be given you, instead of a diamond worth 50,000 or perhaps 55,000\nfrancs; from which you must allow that one runs considerable risk in\npurchasing.\u2019\n\n\u201cCaderousse and his wife looked eagerly at each other.\n\n\u201c\u2018No,\u2019 said Caderousse, \u2018we are not rich enough to lose 5,000 francs.\u2019\n\n\u201c\u2018As you please, my dear sir,\u2019 said the jeweller; \u2018I had, however, as\nyou see, brought you the money in bright coin.\u2019 And he drew from his\npocket a handful of gold, and held it sparkling before the dazzled eyes\nof the innkeeper, and in the other hand he held a packet of bank-notes.\n\n\u201cThere was evidently a severe struggle in the mind of Caderousse; it\nwas plain that the small shagreen case, which he turned ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

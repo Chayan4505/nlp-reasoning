@@ -1,5 +1,62 @@
 {
-  "story_id": 28,
-  "prediction": 1,
-  "dossier": []
+  "story_id": "28",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "28",
+      "claim_id": "28_C0",
+      "claim_text": "The mate of the merchant Emerald Bird took him on and taught him navigation; off the Cape the captain pocketed the cargo-insurance money and framed the mate, forcing Ayrton to give false testimony and first taste \u201clegalised plunder.\u201d",
+      "excerpt_text": "itude of the perils\nthey had just escaped.\n\nOne important point remained to be settled. On what part of the\ncoast had the Duncan been cast by the storm? How could she regain\nher prescribed course? How far were they from Cape Bernouilli? Such\nwere the first questions addressed to the captain, who at once took\nhis bearings and noted his observations on the map. The Duncan had\nnot deviated very far from her route. She was at Cape Catastrophe, on\nthe southern coast of Australia, not three hundred miles from Cape\nBernouilli.\n\nBut could the Duncan's injuries be repaired? This was the question to\ndecide. The captain wished to know the extent of the damage. It was\ndiscovered, by diving, that a flange of the screw was bent and came\nin contact with the stern-post. Hence it was impossible for the screw\nto rotate. This injury was considered serious enough to necessitate\ngoing into dry-dock, which of course could not be done in their present\nlocality.\n\nGlenarvan and the captain, after mature reflec",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "28",
+      "claim_id": "28_C0",
+      "claim_text": "The mate of the merchant Emerald Bird took him on and taught him navigation; off the Cape the captain pocketed the cargo-insurance money and framed the mate, forcing Ayrton to give false testimony and first taste \u201clegalised plunder.\u201d",
+      "excerpt_text": "daughter, Mademoiselle de\nVillefort; it is she who has nursed and tended him for six years, and\nhas, by her devoted attention, fully secured the affection, I had\nalmost said the gratitude, of her grandfather, and it is but just that\nshe should reap the fruit of her devotion.\u201d\n\nThe eye of Noirtier clearly showed by its expression that he was not\ndeceived by the false assent given by Madame de Villefort\u2019s words and\nmanner to the motives which she supposed him to entertain.\n\n\u201cIs it, then, to Mademoiselle Valentine de Villefort that you leave\nthese 900,000 francs?\u201d demanded the notary, thinking he had only to\ninsert this clause, but waiting first for the assent of Noirtier, which\nit was necessary should be given before all the witnesses of this\nsingular scene.\n\nValentine, when her name was made the subject of discussion, had\nstepped back, to escape unpleasant observation; her eyes were cast\ndown, and she was crying. The old man looked at her for an instant with\nan expression of the deepest",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "28",
+      "claim_id": "28_C0",
+      "claim_text": "The mate of the merchant Emerald Bird took him on and taught him navigation; off the Cape the captain pocketed the cargo-insurance money and framed the mate, forcing Ayrton to give false testimony and first taste \u201clegalised plunder.\u201d",
+      "excerpt_text": " of two bed-chambers, a parlor, and two\ndressing-rooms, adjoining which was an open square inclosed by six\ncabins, five of which were occupied by Mary and Robert Grant, Mr. and\nMrs. Olbinett, and Major MacNabb. As for the cabins of the captain and\nthe mate, they were situated in the forecastle, and opened on the deck.\nThe crew were lodged between-decks very comfortably, for the yacht of\ncourse carried nothing but her coal, provisions, and armament.\n\nThe Duncan was to start on the night of the 24th, as the tide fell at\nthree o'clock in the morning. But first those who were present were\nwitness to a touching scene. At eight in the evening Lord Glenarvan and\nhis companions, the entire crew, from the firemen to the captain, all\nwho were to take part in this voyage of sacrifice, left the yacht, and\nbetook themselves to Saint Mungo, the ancient cathedral of Glasgow.\nThis antique church, an uninjured relic in the midst of the ruins\ncaused by the Reformation, and so marvelously described by Wa",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "28",
+      "claim_id": "28_C0",
+      "claim_text": "The mate of the merchant Emerald Bird took him on and taught him navigation; off the Cape the captain pocketed the cargo-insurance money and framed the mate, forcing Ayrton to give false testimony and first taste \u201clegalised plunder.\u201d",
+      "excerpt_text": "ture\nin the world, and I will venture to say, there is not a better seaman\nin all the merchant service. Oh, M. de Villefort, I beseech your\nindulgence for him.\u201d\n\nVillefort, as we have seen, belonged to the aristocratic party at\nMarseilles, Morrel to the plebeian; the first was a royalist, the other\nsuspected of Bonapartism. Villefort looked disdainfully at Morrel, and\nreplied coldly:\n\n\u201cYou are aware, monsieur, that a man may be estimable and trustworthy\nin private life, and the best seaman in the merchant service, and yet\nbe, politically speaking, a great criminal. Is it not true?\u201d\n\nThe magistrate laid emphasis on these words, as if he wished to apply\nthem to the owner himself, while his eyes seemed to plunge into the\nheart of one who, interceding for another, had himself need of\nindulgence. Morrel reddened, for his own conscience was not quite clear\non politics; besides, what Dant\u00e8s had told him of his interview with\nthe grand-marshal, and what the emperor had said to him, embarrassed",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "28",
+      "claim_id": "28_C0",
+      "claim_text": "The mate of the merchant Emerald Bird took him on and taught him navigation; off the Cape the captain pocketed the cargo-insurance money and framed the mate, forcing Ayrton to give false testimony and first taste \u201clegalised plunder.\u201d",
+      "excerpt_text": "t of seeing her fortune increased to half a million at her\nfather\u2019s death. These considerations naturally gave Villefort a feeling\nof such complete felicity that his mind was fairly dazzled in its\ncontemplation.\n\nAt the door he met the commissary of police, who was waiting for him.\nThe sight of this officer recalled Villefort from the third heaven to\nearth; he composed his face, as we have before described, and said, \u201cI\nhave read the letter, sir, and you have acted rightly in arresting this\nman; now inform me what you have discovered concerning him and the\nconspiracy.\u201d\n\n\u201cWe know nothing as yet of the conspiracy, monsieur; all the papers\nfound have been sealed up and placed on your desk. The prisoner himself\nis named Edmond Dant\u00e8s, mate on board the three-master the _Pharaon_,\ntrading in cotton with Alexandria and Smyrna, and belonging to Morrel &\nSon, of Marseilles.\u201d\n\n\u201cBefore he entered the merchant service, had he ever served in the\nmarines?\u201d\n\n\u201cOh, no, monsieur, he is very young.\u201d\n\n\u201cH",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "28",
+      "claim_id": "28_C0",
+      "claim_text": "The mate of the merchant Emerald Bird took him on and taught him navigation; off the Cape the captain pocketed the cargo-insurance money and framed the mate, forcing Ayrton to give false testimony and first taste \u201clegalised plunder.\u201d",
+      "excerpt_text": "ument to the authorities.\"\n\nThe captain gave his orders in pursuance of this, and the mate executed\nthem.\n\n\"Now, my friends,\" said Glenarvan, \"we will continue our\ninvestigations. We are on the track of a great catastrophe. The lives\nof several men depend upon our sagacity. Let us use therefore all our\ningenuity to divine the secret of this enigma.\"\n\n\"We are ready, my dear Edward,\" replied Lady Helena.\n\n\"First of all,\" continued Glenarvan, \"we must consider three distinct\npoints in this document. First, what is known; second, what can be\nconjectured; and third, what is unknown. What do we know? That on the\n7th of June, 1862, a brig, the Britannia, of Glasgow, was wrecked;\nthat two sailors and the captain threw this document into the sea in\nlatitude 37\u00b0 11', and in it ask for assistance.\"\n\n\"Exactly,\" replied the major.\n\n[Sidenote: \"LINE UPON LINE.\"]\n\n\"What can we conjecture?\" resumed Glenarvan. \"First, that the\nshipwreck took place in the South Seas; and now I call your attention\nto the",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "28",
+      "claim_id": "28_C0",
+      "claim_text": "The mate of the merchant Emerald Bird took him on and taught him navigation; off the Cape the captain pocketed the cargo-insurance money and framed the mate, forcing Ayrton to give false testimony and first taste \u201clegalised plunder.\u201d",
+      "excerpt_text": " is right,\" said Captain Mangles, \"besides, it was also\ntheirs.\"\n\n\"It is agreed, then. I will write this document, uniting these parts of\nwords and fragments of phrases, leaving the gaps that separate them,\nand filling up those the meaning of which is not ambiguous. Then we\nwill compare them and form an opinion.\"\n\nGlenarvan at once took a pen, and, in a few moments, presented to his\nfriends a paper on which were written the following lines:\n\n[Illustration]\n\nAt this moment a sailor informed the captain that the Duncan was\nentering the Frith of Clyde, and asked his orders.\n\n\"What are your lordship's wishes?\" said the captain, addressing Lord\nGlenarvan.\n\n\"Reach Dumbarton as quickly as possible, captain. Then, while Lady\nHelena returns to Malcolm Castle, I will go to London and submit this\ndocument to the authorities.\"\n\nThe captain gave his orders in pursuance of this, and the mate executed\nthem.\n\n\"Now, my friends,\" said Glenarvan, \"we will continue our\ninvestigations. We are on the track ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

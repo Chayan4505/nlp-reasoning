@@ -3,89 +3,84 @@ import json
 import google.generativeai as genai
 from .config import GEMINI_API_KEY, LLM_MODEL
 from .data_types import Claim, Evidence, ClaimDecision
+from .utils import retry_with_backoff
 
-# Configure Gemini (safe to call multiple times)
+# Configure Gemini
 if GEMINI_API_KEY:
     genai.configure(api_key=GEMINI_API_KEY)
 
-def reason_about_claim(claim: Claim, evidence_list: list[Evidence]) -> ClaimDecision:
-    """
-    Determines if the evidence supports or contradicts the claim using Gemini.
-    """
-    evidence_text = "\n\n".join([f"Excerpt {i+1}: {e['text']}" for i, e in enumerate(evidence_list)])
-    
-    from .config import USE_DUMMY_LLM
-    if USE_DUMMY_LLM:
-        import random
-        return {
-            "claim_id": claim["id"],
-            "story_id": claim["story_id"],
-            "label": random.choice(["SUPPORT", "CONTRADICT", "NONE"]),
-            "confidence": 0.9,
-            "analysis": "Dummy analysis from mock LLM.",
-            "evidence_used": [e["text"][:50]+"..." for e in evidence_list]
-        }
+@retry_with_backoff(retries=20, initial_delay=10.0)
+def generate_safe(model, prompt):
+    return model.generate_content(prompt)
 
-    prompt = f"""
-    You are a judge of consistency in a story.
-    
-    CLAIM: "{claim['text']}"
-    
-    EVIDENCE FROM NOVEL:
-    {evidence_text}
-    
-    Task: Determine if the evidence explicitly SUPPORTS, CONTRADICTS, or is UNRELATED (NONE) to the claim.
-    Focus on causal logic and narrative facts.
-    
-    Output JSON:
-    {{
-        "label": "SUPPORT" | "CONTRADICT" | "NONE",
-        "confidence": <float 0.0 to 1.0>,
-        "analysis": "<short explanation>"
-    }}
-    IMPORTANT: Return ONLY the JSON. No markdown code blocks.
+
+from .nli_engine import check_local_consistency
+
+
+from .nli_engine import check_local_consistency
+
+def reason_about_all_claims(claims: list[dict], evidence_map: dict) -> list[ClaimDecision]:
     """
+    Fully Local Neuro-Symbolic Reasoning:
+    1. Check Local NLI (DeBERTa) for contradictions/entailments.
+    2. If NLI is uncertain, fall back to 'Consistent' (Presumption of Innocence).
     
-    try:
-        model = genai.GenerativeModel('gemini-pro')
-        response = model.generate_content(prompt)
-        content = response.text.strip()
+    Status: FAST. No API calls. No Rate Limits.
+    """
+    final_decisions = []
+    
+    for c in claims:
+        ev_list = evidence_map.get(c["id"], [])
         
-        # Clean potential markdown
-        if content.startswith("```json"):
-            content = content[7:-3]
-        elif content.startswith("```"):
-            content = content[3:-3]
+        # Default decision: Consistent (1) with Low Confidence
+        label = "SUPPORT"
+        confidence = 0.5
+        analysis = "Default consistency assumption (no strong contradiction found)."
+        source = "Heuristic-Default"
+        
+        if ev_list:
+            # Run Local NLI
+            nli_result = check_local_consistency(c["text"], ev_list)
             
-        result_json = json.loads(content)
+            if nli_result:
+                label = nli_result['label']
+                confidence = nli_result['confidence']
+                source = "Local-DeBERTa"
+                analysis = f"Local NLI Model detected {label} with {confidence:.2f} confidence."
+            
+            # Simple keyword heuristic as backup/booster
+            # If evidence mentions "not" + claim verb? (Too complex for simple regex)
+            # Stick to NLI.
         
-        # Construct Dossier Entries
-        dossier_entries = []
-        for e in evidence_list:
-            dossier_entries.append({
-                "story_id": claim["story_id"],
-                "claim_id": claim["id"],
-                "claim_text": claim["text"],
-                "excerpt_text": e["text"], # Verbatim excerpt
-                "relation": result_json.get("label", "NONE"),
-                "analysis": result_json.get("analysis", "") # Analysis of constraint/refutation
-            })
+        else:
+             analysis = "No evidence found. Assuming consistency."
 
-        return {
-            "claim_id": claim["id"],
-            "story_id": claim["story_id"],
-            "label": result_json.get("label", "NONE"),
-            "confidence": result_json.get("confidence", 0.0),
-            "analysis": result_json.get("analysis", ""),
-            "evidence_entries": dossier_entries
-        }
-    except Exception as e:
-        print(f"Error in reasoning with Gemini: {e}")
-        return {
-            "claim_id": claim["id"],
-            "story_id": claim["story_id"],
-            "label": "NONE",
-            "confidence": 0.0,
-            "analysis": f"Error: {str(e)}",
-            "evidence_entries": []
-        }
+        # Construct Evidence Entries
+        ev_entries = []
+        for e in ev_list:
+             ev_entries.append({
+                "story_id": c["story_id"],
+                "claim_id": c["id"],
+                "claim_text": c["text"],
+                "excerpt_text": e["text"],
+                "relation": label if source == "Local-DeBERTa" else "NONE",
+                "analysis": "Evidence used for NLI check."
+            })
+            
+        print(f"  [Local] Claim {c['id']} -> {label} ({confidence:.2f}) via {source}")
+
+        final_decisions.append({
+            "claim_id": c["id"],
+            "story_id": c["story_id"],
+            "label": label,
+            "confidence": confidence,
+            "analysis": analysis,
+            "evidence_entries": ev_entries
+        })
+
+    return final_decisions
+
+# Legacy single function (kept just in case, or removed if unused)
+def reason_about_claim(claim, evidence):
+    # Redirect to batch for simplicity? Or just keep as compat wrapper
+    return reason_about_all_claims([claim], {claim["id"]: evidence})[0]

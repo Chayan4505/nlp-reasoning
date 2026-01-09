@@ -30,8 +30,8 @@ PATHWAY_LICENSE_KEY = os.getenv("PATHWAY_LICENSE_KEY", "")
 # LLM Configuration
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "dummy_key")
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
-LLM_MODEL = "gemini-pro" # Switch to Gemini
-USE_DUMMY_LLM = True # Enabled for demo since key is missing
+LLM_MODEL = "gemini-2.0-flash" # Worked in previous run
+USE_DUMMY_LLM = os.getenv("USE_DUMMY_LLM", "False").lower() in ("true", "1", "yes")
 
 # Parameters
 CHUNK_SIZE = 1000 # tokens roughly

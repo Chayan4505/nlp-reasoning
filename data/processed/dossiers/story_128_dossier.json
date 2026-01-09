@@ -1,4 +1,70 @@
 {
-  "story_id": 128,
-  "dossier": []
+  "story_id": "128",
+  "prediction": 0,
+  "dossier": [
+    {
+      "story_id": "128",
+      "claim_id": "128_C0",
+      "claim_text": "His invisible-ink formula came from temple-mural restoration in India, first used to rescue local epics the colonists had defaced.",
+      "excerpt_text": " above others, but above you there is God.\u2019\u201d\n\n30029m\n\n\n\n\u201cAbove us all, sir,\u201d was Monte Cristo\u2019s response, in a tone and with an\nemphasis so deep that Villefort involuntarily shuddered. \u201cI have my\npride for men\u2014serpents always ready to threaten everyone who would pass\nwithout crushing them under foot. But I lay aside that pride before\nGod, who has taken me from nothing to make me what I am.\u201d\n\n\u201cThen, count, I admire you,\u201d said Villefort, who, for the first time in\nthis strange conversation, used the aristocratic form to the unknown\npersonage, whom, until now, he had only called monsieur. \u201cYes, and I\nsay to you, if you are really strong, really superior, really pious, or\nimpenetrable, which you were right in saying amounts to the same\nthing\u2014then be proud, sir, for that is the characteristic of\npredominance. Yet you have unquestionably some ambition.\u201d\n\n\u201cI have, sir.\u201d\n\n\u201cAnd what may it be?\u201d\n\n\u201cI too, as happens to every man once in his life, have been taken by\nSatan into the highest mountain",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "128",
+      "claim_id": "128_C0",
+      "claim_text": "His invisible-ink formula came from temple-mural restoration in India, first used to rescue local epics the colonists had defaced.",
+      "excerpt_text": "everything to apprehend. I hastened to the innkeeper. My misgivings had\nbeen but too true. My brother had arrived the previous evening at\nN\u00eemes, and, at the very door of the house where he was about to demand\nhospitality, he had been assassinated. I did all in my power to\ndiscover the murderers, but no one durst tell me their names, so much\nwere they dreaded. I then thought of that French justice of which I had\nheard so much, and which feared nothing, and I went to the king\u2019s\nattorney.\u201d\n\n\u201cAnd this king\u2019s attorney was named Villefort?\u201d asked Monte Cristo\ncarelessly.\n\n\u201cYes, your excellency; he came from Marseilles, where he had been\ndeputy procureur. His zeal had procured him advancement, and he was\nsaid to be one of the first who had informed the government of the\ndeparture from the Island of Elba.\u201d\n\n\u201cThen,\u201d said Monte Cristo \u201cyou went to him?\u201d\n\n\u201c\u2018Monsieur,\u2019 I said, \u2018my brother was assassinated yesterday in the\nstreets of N\u00eemes, I know not by whom, but it is your duty to find out.\nYou a",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "128",
+      "claim_id": "128_C0",
+      "claim_text": "His invisible-ink formula came from temple-mural restoration in India, first used to rescue local epics the colonists had defaced.",
+      "excerpt_text": " eyes upon utter darkness. His name, or\nrather a plaintive voice which essayed to pronounce his name, reached\nhim. He sat up in bed and a cold sweat broke out upon his brow.\nUndoubtedly the call came from Faria\u2019s dungeon.\n\n\u201cAlas,\u201d murmured Edmond; \u201ccan it be?\u201d\n\nHe moved his bed, drew up the stone, rushed into the passage, and\nreached the opposite extremity; the secret entrance was open. By the\nlight of the wretched and wavering lamp, of which we have spoken,\nDant\u00e8s saw the old man, pale, but yet erect, clinging to the bedstead.\nHis features were writhing with those horrible symptoms which he\nalready knew, and which had so seriously alarmed him when he saw them\nfor the first time.\n\n\u201cAlas, my dear friend,\u201d said Faria in a resigned tone, \u201cyou understand,\ndo you not, and I need not attempt to explain to you?\u201d\n\nEdmond uttered a cry of agony, and, quite out of his senses, rushed\ntowards the door, exclaiming, \u201cHelp, help!\u201d\n\nFaria had just sufficient strength to restrain him.\n\n\u201cSilence,\u201d he sa",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "128",
+      "claim_id": "128_C0",
+      "claim_text": "His invisible-ink formula came from temple-mural restoration in India, first used to rescue local epics the colonists had defaced.",
+      "excerpt_text": "one of them.]\n\n[Sidenote: SEALS AND SIRENS.]\n\nPaganel, as usual, upon being appealed to, could tell them of the\nrise, extension, and consolidation of the British power upon the\nisland; he informed them of the beginnings--and, to his belief, of\nthe causes--of the strife which for years decimated the aborigines,\nand was very injurious to the colonists who had emigrated; then, in\nreply to Robert's questions, he went on to speak of those who on a\nnarrower theatre had emulated by their heroism and patience the deeds\nof the world's great travelers and scientific explorers. He told them\nof Witcombe and Charlton Howitt, men known in their own circles and\nin connection with their own branch of the New Zealand government.\nAt still greater length he detailed the adventures of Jacob Louper,\nwho was the companion of Witcombe, and had gone as his assistant\nto discover a practicable route over the mountains in the north of\nthe province of Canterbury. In those mountain wilds, which even the\nislanders ",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "128",
+      "claim_id": "128_C0",
+      "claim_text": "His invisible-ink formula came from temple-mural restoration in India, first used to rescue local epics the colonists had defaced.",
+      "excerpt_text": " and a detachment\nof policemen, commanded by an officer. The squatters had come to their\naid, and exerted themselves to extinguish the fire, which consumed the\nheap of ruins with unconquerable fierceness. Several unrecognizable\nbodies lay on the edge of the embankment, but it was impossible\nto rescue a living being from this furnace. The fire had rapidly\naccomplished the work of destruction. Of the travelers in the train,\nwhose number was not known, only ten survived, those in the last car.\nThe railroad company had just sent an extra locomotive to convey them\nto Castlemaine.\n\nMeantime, Lord Glenarvan, having made the acquaintance of the\nsurveyor-general, was conversing with him and the police-officer. The\nlatter was a tall, thin man, of imperturbable coolness, who, if he\nhad any feeling, betrayed no sign of it on his impassible features.\nHe was like a mathematician engaged upon a problem; he was seeking to\nelucidate the mystery of the disaster. To Glenarvan's first words,\n\"This is a gr",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "128",
+      "claim_id": "128_C0",
+      "claim_text": "His invisible-ink formula came from temple-mural restoration in India, first used to rescue local epics the colonists had defaced.",
+      "excerpt_text": "etch him at two o\u2019clock; fortunately\nthe Palazzo Bracciano, which is on one side in the Corso, and on the\nother in the Square of the Holy Apostles, is hardly ten minutes\u2019 walk\nfrom the H\u00f4tel de Londres.\n\nAs he came near the hotel, Franz saw a man in the middle of the street.\nHe had no doubt that it was the messenger from Albert. The man was\nwrapped up in a large cloak. He went up to him, but, to his extreme\nastonishment, the stranger first addressed him.\n\n\u201cWhat wants your excellency of me?\u201d inquired the man, retreating a step\nor two, as if to keep on his guard.\n\n\u201cAre not you the person who brought me a letter,\u201d inquired Franz, \u201cfrom\nthe Viscount of Morcerf?\u201d\n\n\u201cYour excellency lodges at Pastrini\u2019s hotel?\u201d\n\n\u201cI do.\u201d\n\n\u201cYour excellency is the travelling companion of the viscount?\u201d\n\n\u201cI am.\u201d\n\n\u201cYour excellency\u2019s name\u2014\u2014\u201d\n\n\u201cIs the Baron Franz d\u2019\u00c9pinay.\u201d\n\n20199m\n\n\n\n\u201cThen it is to your excellency that this letter is addressed.\u201d\n\n\u201cIs there any answer?\u201d inquired Franz, taking the letter from him.\n\n\u201c",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "128",
+      "claim_id": "128_C0",
+      "claim_text": "His invisible-ink formula came from temple-mural restoration in India, first used to rescue local epics the colonists had defaced.",
+      "excerpt_text": "tion.\n\nBut Paganel had not finished his inquiries. Where was this prisoner?\nWhat was he doing? When had Thalcave heard of him? All these questions\nthronged his mind at once. He did not have to wait long for answers,\nbut learnt that the European was a slave of one of the Indian tribes\nthat scour the plains.\n\n\"But where was he last?\" asked Paganel.\n\n\"With the cazique Calfoucoura,\" answered Thalcave.\n\n\"On the line we have been following?\"\n\n\"Yes.\"\n\n\"And who is this cazique?\"\n\n\"The chief of the Poyuches Indians; a man with two tongues and two\nhearts.\"\n\n[Sidenote: A SCIENTIFIC BATH.]\n\n\"That is to say, false in word and in deed,\" said Paganel, after\ntranslating to his companions this beautiful metaphor of the Indian\nlanguage. \"And can we rescue our friend?\" he added.\n\n\"Perhaps so, if your friend is still in the hands of the Indians.\"\n\n\"And when did you hear of him?\"\n\n\"A long time ago, and, since then, the sun has brought back two summers\nto the sky.\"\n\nGlenarvan's joy could not be described. T",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    },
+    {
+      "story_id": "128",
+      "claim_id": "128_C0",
+      "claim_text": "His invisible-ink formula came from temple-mural restoration in India, first used to rescue local epics the colonists had defaced.",
+      "excerpt_text": "which the minister of police had uttered with so much\nconfidence an hour before.\n\nVillefort understood the king\u2019s intent. Any other person would,\nperhaps, have been overcome by such an intoxicating draught of praise;\nbut he feared to make for himself a mortal enemy of the police\nminister, although he saw that Dandr\u00e9 was irrevocably lost. In fact,\nthe minister, who, in the plenitude of his power, had been unable to\nunearth Napoleon\u2019s secret, might in despair at his own downfall\ninterrogate Dant\u00e8s and so lay bare the motives of Villefort\u2019s plot.\nRealizing this, Villefort came to the rescue of the crest-fallen\nminister, instead of aiding to crush him.\n\n\u201cSire,\u201d said Villefort, \u201cthe suddenness of this event must prove to\nyour majesty that the issue is in the hands of Providence; what your\nmajesty is pleased to attribute to me as profound perspicacity is\nsimply owing to chance, and I have profited by that chance, like a good\nand devoted servant\u2014that\u2019s all. Do not attribute to me more than I\n",
+      "relation": "CONTRADICT",
+      "analysis": "Evidence used for NLI check."
+    }
+  ]
 }

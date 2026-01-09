@@ -37,9 +37,25 @@ if os.path.exists(results_path):
                 if not entries:
                     st.info("No detailed evidence entries found.")
                 
+                # Color mapping for relation labels
+                color_map = {
+                    "SUPPORT": "green",
+                    "CONTRADICT": "red",
+                    "NONE": "gray"
+                }
+
                 for i, entry in enumerate(entries):
+                    relation = entry.get('relation', 'NONE')
+                    color = color_map.get(relation, "gray")
+                    
                     with st.expander(f"Claim: {entry.get('claim_text', 'Unknown')[:60]}..."):
-                        st.markdown(f"**Relation:** `{entry.get('relation')}`")
+                        # Use columns for a header-like effect
+                        c1, c2 = st.columns([1, 4])
+                        with c1:
+                            st.markdown(f":{color}[**{relation}**]")
+                        with c2:
+                            st.caption(f"Confidence: {entry.get('confidence', 'N/A')}")
+
                         st.markdown(f"**Analysis:** {entry.get('analysis')}")
                         st.markdown("**Evidence Excerpt:**")
                         st.info(entry.get('excerpt_text'))
