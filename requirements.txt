@@ -1,14 +1,16 @@
 pathway
-openai
 pandas
 python-dotenv
 pydantic
 pytest
 tiktoken
 requests
-google-generativeai
 rank_bm25
-langgraph
-langchain
 streamlit
+torch
+transformers
+sentence-transformers
+nltk
+scikit-learn
+numpy
 
