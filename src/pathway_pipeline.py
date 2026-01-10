@@ -1,12 +1,22 @@
 
 import os
-try:
-    import pathway as pw
-    from pathway.xpacks.llm import vector_store
-except ImportError:
-    # On Windows/Stub, these might fail. We define dummy/mock for inspection.
+import sys
+
+# Platform Check: Pathway Engine requires Linux/macOS or WSL.
+# On native Windows, we switch to High-Fidelity Local Mode (BM25) to prevent crashes.
+IS_WINDOWS = (os.name == 'nt')
+
+if not IS_WINDOWS:
+    try:
+        import pathway as pw
+        from pathway.xpacks.llm import vector_store
+    except ImportError:
+        pw = None
+        vector_store = None
+else:
     pw = None
     vector_store = None
+
 from .config import NOVELS_DIR, PATHWAY_LICENSE_KEY, OPENAI_API_KEY, LLM_MODEL, USE_DUMMY_LLM
 
 # Ensure environment variables are set

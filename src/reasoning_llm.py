@@ -1,17 +1,8 @@
 
 import json
-import google.generativeai as genai
-from .config import GEMINI_API_KEY, LLM_MODEL
+import json
 from .data_types import Claim, Evidence, ClaimDecision
-from .utils import retry_with_backoff
 
-# Configure Gemini
-if GEMINI_API_KEY:
-    genai.configure(api_key=GEMINI_API_KEY)
-
-@retry_with_backoff(retries=20, initial_delay=10.0)
-def generate_safe(model, prompt):
-    return model.generate_content(prompt)
 
 
 from .nli_engine import check_local_consistency

@@ -28,9 +28,10 @@ RESULTS_CSV = RESULTS_DIR / "results.csv"
 PATHWAY_LICENSE_KEY = os.getenv("PATHWAY_LICENSE_KEY", "")
 
 # LLM Configuration
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "dummy_key")
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
-LLM_MODEL = "gemini-2.0-flash" # Worked in previous run
+# LLM Configuration
+# We use Local DeBERTa, so API keys are technically optional/backup
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
+LLM_MODEL = "cross-encoder/nli-deberta-v3-small"
 USE_DUMMY_LLM = os.getenv("USE_DUMMY_LLM", "False").lower() in ("true", "1", "yes")
 
 # Parameters
