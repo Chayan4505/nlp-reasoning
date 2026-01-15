@@ -34,7 +34,7 @@
 OPENAI_API_KEY = "not-needed-for-gemini"
 GEMINI_API_KEY = "AIzaSyCFvHAaX9TFj2QPrZjWwuD0ZJwMNXyceTM"
 PATHWAY_LICENSE_KEY = "pathway-license-key-optional"
-USE_DUMMY_LLM = false
+USE_DUMMY_LLM = "False"
 ```
 
 ### 4. Deploy!

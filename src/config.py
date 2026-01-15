@@ -19,7 +19,9 @@ def get_secret(key, default=""):
     """Get secret from Streamlit secrets (cloud) or environment variable (local)"""
     if HAS_STREAMLIT:
         try:
-            return st.secrets.get(key, os.getenv(key, default))
+            value = st.secrets.get(key, os.getenv(key, default))
+            # Convert to string to handle boolean values from TOML
+            return str(value) if value is not None else default
         except (FileNotFoundError, KeyError):
             return os.getenv(key, default)
     return os.getenv(key, default)
