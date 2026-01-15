@@ -5,7 +5,24 @@ import os
 from pathlib import Path
 from dotenv import load_dotenv
 
+# Load environment variables from .env file (for local development)
 load_dotenv()
+
+# Try to import streamlit for cloud deployment
+try:
+    import streamlit as st
+    HAS_STREAMLIT = True
+except ImportError:
+    HAS_STREAMLIT = False
+
+def get_secret(key, default=""):
+    """Get secret from Streamlit secrets (cloud) or environment variable (local)"""
+    if HAS_STREAMLIT:
+        try:
+            return st.secrets.get(key, os.getenv(key, default))
+        except (FileNotFoundError, KeyError):
+            return os.getenv(key, default)
+    return os.getenv(key, default)
 
 BASE_DIR = Path(__file__).parent.parent
 DATA_DIR = BASE_DIR / "data"
@@ -25,14 +42,14 @@ RESULTS_DIR = BASE_DIR / "results"
 RESULTS_CSV = RESULTS_DIR / "results.csv"
 
 # Pathway Configuration
-PATHWAY_LICENSE_KEY = os.getenv("PATHWAY_LICENSE_KEY", "")
+PATHWAY_LICENSE_KEY = get_secret("PATHWAY_LICENSE_KEY", "")
 
 # LLM Configuration
-# LLM Configuration
 # We use Local DeBERTa, so API keys are technically optional/backup
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
+OPENAI_API_KEY = get_secret("OPENAI_API_KEY", "")
+GEMINI_API_KEY = get_secret("GEMINI_API_KEY", "")
 LLM_MODEL = "cross-encoder/nli-deberta-v3-small"
-USE_DUMMY_LLM = os.getenv("USE_DUMMY_LLM", "False").lower() in ("true", "1", "yes")
+USE_DUMMY_LLM = get_secret("USE_DUMMY_LLM", "False").lower() in ("true", "1", "yes")
 
 # Parameters
 CHUNK_SIZE = 1000 # tokens roughly
